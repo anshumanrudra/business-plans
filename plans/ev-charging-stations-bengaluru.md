@@ -368,7 +368,7 @@ Your brother (40, pharmacy/drug discovery background) brings strong analytical a
     - **Cost Breakdown (2026 Estimates)**:
 
       | Component | Small Pilot (AC-heavy) | Medium (1 DC added) | Notes |
-           |-----------|------------------------|---------------------|-------|
+      |-----------|------------------------|---------------------|-------|
       | Chargers | ₹1-3 lakh | ₹8-15 lakh | AC: ₹15k-1L each; DC: ₹7-8.5L for 30kW |
       | Civil Works + Cabling + Canopy | ₹1-2 lakh | ₹2-4 lakh | Foundations, signage |
       | Transformer/Panels + Electrical | ₹1-3 lakh | ₹3-6 lakh | Depends on existing load |
