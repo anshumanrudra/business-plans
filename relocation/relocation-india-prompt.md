@@ -42,5 +42,5 @@
 - Goal driven execution
 - Strictly practical, clear, actionable plan
 - Strictly minimalistic, no unnecessary complexity
+- Relocation within 2-3 months
 - create output to `./`
-
