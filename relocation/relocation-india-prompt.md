@@ -1,9 +1,10 @@
 # Goal
-- Create clear, consise, actionable plan for relocating to india from US
-- I want to taking care of my aging parents
-- I want to come back for school & college for my kids
-- My wife wants to work in India
-- I don't want any lapse in my kids education
+- Create clear, consise, actionable plan for relocating to india from US.
+- I want to taking care of my aging parents.
+- I want to come back for school & college for my kids.
+- My wife wants to work in India.
+  - I don't want any lapse in my kids education.
+- I want to build my case for EB1A while I'm in India and likely apply for Green Card.
 
 # Context
 ## About Me
