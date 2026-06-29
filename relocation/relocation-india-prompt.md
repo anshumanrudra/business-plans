@@ -3,12 +3,17 @@
 - I want to taking care of my aging parents.
 - I want to come back to the US for school & college for my kids.
 - My wife wants to work in India.
-  - I don't want any lapse in my kids education.
+- I don't want any lapse in my kids education.
+- I want value for money in kids education.
 - I want to build my case for EB1A while I'm in India and likely apply for Green Card.
+- I also want to be open on EB1C for any future opportunities.
 - For relocation, I want to choose between Kolkata and Bengaluru.
 - I don't want to sell my house in US.
 - I don't want to sell my model y.
-- Relocation within 2-3 months
+- I have around 20 medium boxes to move to India.
+- Relocation within 2-3 months.
+- I want to save as much as possible during relocation in India.
+- 
 
 # Context
 ## About Me
@@ -18,7 +23,7 @@
 - I work for Disney streaming as lead software engineer on h1b visa.
 - I've I140 approved with PD May'2021 on EB2 from my last employer InfoServices LLC.
 - I'm BE computer science 2006.
-- we have mortage of $200k on our house for 11 more years.
+- we have mortage of $200k on our house for 11 more years with $3.2k monthly payments.
 - we have auto loan on tesla model y; remaining $25k for 3 more years.
 - I've 401K retirement savings.
 - My current H1B visa is valid until Oct'2028.
@@ -31,15 +36,17 @@
 
 ## About My kids
 - Our sons are 13 & 7 years old.
-- 13 year old is India born.
-- 7 year old is US born.
+- 13 year old is India born with Indian passport.
+- 7 year old is US born; his US passport expires in Jun'2029. He has OCI card.
 - They are not exposed to learning in India.
 - We wanted to maintain US citizenship for our younger son.
+- Both my kids have tyekwondo, swimming classes in the US.
 
 ## About My Parents
 - My father is 76 years old type2 diabetic with ckd and now going through 3x week hemo-dialysis.
 - My mother is 10 years younger to my father, with no ailement.
 - My mother takes care of my father while commute to & from Narayana Health, hospital, bommasndara, bengaluru for dialysis.
+- My parents have own house in Bankimnagar, Nadia, WB.
 
 ## About My Sibling
 - My sibling is 41 years old married 2 sons 12 & 10, type-2 diabetic.
@@ -48,7 +55,7 @@
 
 # Constraints
 - Goal driven execution.
-- Fan out subagents.
-- Strictly practical, clear, actionable plan.
-- Strictly minimalistic, no unnecessary complexity.
-- Create output to `/Users/Anshuman.X.Rudra.-ND/projects/github/anshumanrudra/business-plans/relocation/pass2/`
+- Fan out subagents for faster execution.
+- Provide practical, clear, minimilistic & actionable plan with no unnecessary complexity.
+- Provide complete results with no interruptions or questions asked.
+- Create output to `/Users/Anshuman.X.Rudra.-ND/projects/github/anshumanrudra/business-plans/relocation/pass3/`
