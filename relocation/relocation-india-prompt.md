@@ -1,8 +1,9 @@
 # Goal
-- Create clear, consise, actionable plan for relocating to india from US.
+- Help me with clear, consise, actionable plan for relocating to india from the US for 2-3 years with eventual return to the US with faster GC route for my Kids education.
 - I want to taking care of my aging parents.
 - I want to come back to the US for school & college for my kids.
 - My wife wants to work in India.
+- I want to save as much as possible during relocation & stay in India.
 - I don't want any lapse in my kids education.
 - I want value for money in kids education.
 - I want to build my case for EB1A while I'm in India and likely apply for Green Card.
@@ -13,19 +14,19 @@
 - I have around 20 medium boxes to move to India.
 - Relocation within 2-3 months.
 - I want to save as much as possible during relocation in India.
-- 
+- My parents wants to go back to WB and continue Dialysis there once my father's AV Fistuala starts working here at bengaluru.
 
 # Context
 ## About Me
 - I'm 43 years old married male, wife is 40 years old, 2 boys aged 13 & 7.
 - I came to the US on NOV'2015.
-- I live in 498 Plainville Ave, Farmington, CT, USA, 06085.
 - I work for Disney streaming as lead software engineer on h1b visa.
 - I've I140 approved with PD May'2021 on EB2 from my last employer InfoServices LLC.
 - I'm BE computer science 2006.
-- we have mortage of $200k on our house for 11 more years with $3.2k monthly payments.
-- we have auto loan on tesla model y; remaining $25k for 3 more years.
-- I've 401K retirement savings.
+- I've have mortage of $200k on 6.1% APR on our house for 11 more years with around $3.2k monthly payments.
+- I've have auto loan at 0% APR on Tesla Model Y 2024; remaining $30k for 3 more years.
+- I am planning to add 24'x15' shed to store my car and other belongings before moving to India.
+- I've 401K Roth retirement savings.
 - My current H1B visa is valid until Oct'2028.
 
 ## About My Wife
@@ -43,19 +44,24 @@
 - Both my kids have tyekwondo, swimming classes in the US.
 
 ## About My Parents
-- My father is 76 years old type2 diabetic with ckd and now going through 3x week hemo-dialysis.
-- My mother is 10 years younger to my father, with no ailement.
-- My mother takes care of my father while commute to & from Narayana Health, hospital, bommasndara, bengaluru for dialysis.
+- My father is 76 years old Type2 diabetic (takes insulin 3x daily), high BP, hypo-thyroidism with CKD and currently going through 3x week hemo-dialysis at Narayana Health, Bommasandra, Bengaluru.
+- My mother is 10 years younger to my father, with no high BP, Knee pain.
+- My parents commute to & from for dialysis.
 - My parents have own house in Bankimnagar, Nadia, WB.
 
 ## About My Sibling
-- My sibling is 41 years old married 2 sons 12 & 10, type-2 diabetic.
+- My sibling is 41 years old married 2 sons 12 & 10, Type-2 diabetic on Metformin.
 - Lives in choodasandra, bengaluru, in own house.
-- works in biocon as pre-clinical research scientist.
+- Works at Biocon Sr. Research Scientist on drug discovery.
 
 # Constraints
 - Goal driven execution.
-- Fan out subagents for faster execution.
+- Fan out subagents as worktree for faster execution.
 - Provide practical, clear, minimilistic & actionable plan with no unnecessary complexity.
-- Provide complete results with no interruptions or questions asked.
-- Create output to `/Users/Anshuman.X.Rudra.-ND/projects/github/anshumanrudra/business-plans/relocation/pass3/`
+- Provide complete results with no interruptions or questions asked until you're done.
+- When web-researching limit to top rated 25 sites only for faster execution.
+- Create output to `/Users/Anshuman.X.Rudra.-ND/projects/github/anshumanrudra/business-plans/relocation/pass5-opus/`
+
+# AGENT - DO NOT READ
+- https://disney.service-now.com/DToolsHR?id=dthr_request&table=sn_hr_core_case&sys_id=7a03b1a1c3b10394a1b1900f050131a7
+- 
