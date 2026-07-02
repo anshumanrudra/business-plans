@@ -48,7 +48,9 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
   > —
 - [ ] Start EB-1A parallel file: register as IEEE/ACM reviewer; begin IEEE Senior Member app. *(hedge)* — ref `01`
   > —
-- [ ] Renew **7-yo's US passport** now (avoids both-parent consular trip later); confirm his OCI valid.
+- [ ] Renew **7-yo's US passport** NOW in the US (DS-11, both parents + child appear; current passport + US birth cert + 1 photo + $135). A late-2026 issuance is valid ~5 yrs (~2031) — covers the whole stay, avoids India consular trip. — ref `01c`
+  > —
+- [ ] After new passport issues: **re-link his OCI** to the new passport number; carry copies of birth cert + passport to India. — ref `01c`
   > —
 
 ### C. Finance + house (sequence matters: refi → trust → rent → W-8ECI → reserve)
@@ -170,7 +172,7 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
   > —
 - [ ] Wife Phase-2: shift to remote/freelance + baking (portable; thinner Kolkata market). — ref `06`
   > —
-- [ ] Renew 7-yo's US passport before **Jun 2029** (DS-11, both parents, US consulate) if it comes due. — ref `01`
+- [ ] **(Fallback only)** If 7-yo's passport lapses/lost abroad before **Jun 2029**: book ACS appointment at nearest US post (Chennai/Hyderabad from BLR; Kolkata from WB); DS-11 + both parents + child + DS-3053 (consular-notarized) if one can't attend; budget 8–12 wks; then re-link OCI. — ref `01c`
   > —
 
 ---

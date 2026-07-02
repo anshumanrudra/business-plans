@@ -134,6 +134,7 @@ This single fact drives:
 - `01-immigration-greencard.md` — H-1B, EB-1A, EB-1C, O-1, PD portability, CSPA/kids, fees
 - `01a-eb1c-plan.md` — **EB-1C primary-track plan** (sponsor choice Disney vs InfoServices, managerial evidence, L-1A bridge, dual-track hedge)
 - `01b-eb1c-employer-pitch.md` — **ready-to-send employer pitch** (Disney India & InfoServices email templates, managerial role-description + org-chart template, evidence-building folder)
+- `01c-child-passport-from-india.md` — **7-yo's US passport path** (renew-in-US-first vs apply-from-India, DS-11/DS-3053, both-parents rule, OCI re-linking)
 - `02-kids-education.md` — curriculum, schools (BLR/Kolkata), records, seamless US re-entry
 - `02a-online-school-path.md` — **step-by-step US online-school enrollment path from India** (UNHS/JMHS shortlist, full-time vs bridge model, time-zone/fiber logistics, cost)
 - `03-relocation-logistics.md` — shipping, customs/TR, house, Tesla, shed, flights, US affairs

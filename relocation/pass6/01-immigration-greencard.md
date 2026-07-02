@@ -165,6 +165,8 @@ Your single most powerful move is to **port your May 2021 EB-2 priority date ont
 - **Both parents must appear/consent.** If one parent can't attend, that parent provides a notarized **DS-3053** (Statement of Consent).
 - Apply at **US Embassy New Delhi or Consulate Mumbai/Chennai/Hyderabad/Kolkata.** Under-16 passports are valid **5 years.**
 
+> **See `01c-child-passport-from-india.md`** for the full step-by-step path. **Bottom line: renew his passport in the US NOW, before you leave** — a late-2026 issuance is valid ~5 years (~2031), covering the entire relocation, and sidesteps all India consular hassle. Only apply from India (Chennai/Hyderabad from BLR; Kolkata from WB; DS-11 + both parents + DS-3053 if one can't attend; ~8–12 wks) if it lapses/is lost abroad. **After any new passport, re-link his OCI to the new passport number.**
+
 ---
 
 ## 8. Prioritized Action Checklist
