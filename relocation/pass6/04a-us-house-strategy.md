@@ -77,17 +77,329 @@ If your real aim is **rent covering the payment**, the 30-yr refi is the tool �
 
 ---
 
-## 2. Mitigate a Delay in Renting Out
+## 2. Self-Managing the Rental (Execution Plan)
+
+**Your decision: self-manage to save ~8-10% PM fees (~$200-300/mo on $2,500-3,000 rent).** On a 3-year horizon, that's **~$7,200-10,800 saved** — significant. But self-managing from India (12.5-hour time difference) requires infrastructure, automation, and a local support network. Here's how to set it up.
+
+---
+
+### Phase 1: Pre-Departure Setup (July–September 2026)
+
+#### A. Legal/Financial Infrastructure
+
+1. **Revocable Living Trust + Local Trustee** (see §4 for full trust details)
+   - Designate a **US-based co-trustee** (spouse, sibling, trusted friend) who can:
+     - Sign documents if you're unreachable
+     - Handle time-sensitive issues (insurance claim, contractor, emergency)
+     - Access the property if needed
+   - **Why critical for self-management:** No PM = no local proxy. The trustee is your boots-on-the-ground failsafe.
+
+2. **US Business Bank Account** (separate from Schwab)
+   - Open a **dedicated rental property account** at a bank with:
+     - Good online/mobile banking (you'll manage from India)
+     - Free bill pay for mortgage/utilities/insurance
+     - No foreign transaction fees (in case you need to move rupees → USD)
+   - **Routing:** Tenant rent → rental account; mortgage/insurance/utilities autopay from rental account
+   - **Schwab account = reserve buffer** (3-6 mo PITI); rental account = active operations
+
+3. **Property Insurance + Umbrella**
+   - **Landlord (DP-3) policy** naming the trust, covering:
+     - Dwelling, loss of rent (if tenant breaks lease), liability
+     - **Owned solar equipment** (if you buy out the lease)
+   - **$1-2M umbrella policy** (~$150-400/yr) — essential liability coverage since you have no PM's errors-and-omissions insurance
+   - **Get quotes now** (landlord insurance costs 15-25% more than homeowners)
+
+4. **Lease Template + State-Compliant Addenda**
+   - Download a **state-specific residential lease** (from your state's realtor association or legal forms provider)
+   - **Must include:**
+     - Lead paint disclosure (pre-1978 homes)
+     - Solar lease disclosure (if keeping lease) — "Property equipped with leased solar; tenant receives electricity savings; landlord pays lease"
+     - Smoking/pets policy
+     - Maintenance responsibilities (who handles what)
+     - Late fees, NSF fees, eviction process
+   - **Have a local real-estate attorney review** (~$300-500) — catches state-specific gotchas
+   - **Store in Google Drive/Dropbox** with e-signature capability (DocuSign, HelloSign)
+
+5. **Tenant Screening Service**
+   - Sign up with **TurboTenant** (free for landlords; tenants pay application fee) or **Avail/Apartments.com**
+   - **Includes:** credit check, criminal background, eviction history, income verification
+   - **Critical:** You can't eyeball applicants in person; screening data is your only filter
+
+6. **Legal Representation (Eviction Attorney)**
+   - **Find and vet NOW** (before you leave) — ask for referrals from local landlord groups
+   - Get their retainer terms in writing
+   - **Why:** If you need to evict, you can't represent yourself from India; must be done by local counsel
+   - **Cost:** ~$1,500-3,000 for uncontested eviction; ~$5,000+ if contested
+
+#### B. Maintenance/Repair Network (Your Virtual PM Team)
+
+7. **Contractor Rolodex** (vet and price before you leave)
+   - **General handyman** (minor repairs, lockouts, inspections)
+   - **Plumber** (leaks, water heater, drains)
+   - **Electrician** (breakers, outlets, appliances)
+   - **HVAC** (furnace/AC service — annual maintenance contract recommended)
+   - **Locksmith** (rekey between tenants, lockouts)
+   - **Lawn care / snow removal** (if applicable) — sign contract now
+   - **Get quotes in writing** for common repairs (faucet replacement, toilet repair, breaker reset, etc.) so you know what's reasonable when a tenant reports an issue
+
+8. **24/7 Emergency Hotline for Tenants**
+   - You can't be on-call at 3am your time (3:30pm India time is doable; 3am isn't)
+   - **Options:**
+     - **Maintenance request platform:** TurboTenant, Avail, Landlord Studio (tenants submit tickets; you triage)
+     - **Local co-trustee as emergency contact** (for true emergencies: flood, fire, gas leak)
+     - **On-demand handyman service:** Handy, TaskRabbit (tenant calls them, they bill you)
+   - **Define "emergency" in lease:** burst pipe, gas leak, no heat in winter, no AC when >90°F, lockout, fire/flood — tenant must call 911 first if life-safety, then call emergency contact
+
+9. **Annual/Preventive Maintenance Schedule**
+   - **HVAC service:** 2x/year (spring/fall) — ~$150-200 each; prevents breakdowns
+   - **Water heater flush:** annually
+   - **Gutters cleaned:** 2x/year (spring/fall)
+   - **Smoke/CO detector batteries:** annually (or hardwired with 10-yr batteries)
+   - **Furnace filter:** tenant responsibility (provide 4/year in lease addendum)
+   - **Solar system inspection:** if you buy out, annual inspection (~$150-250); if leasing, servicer handles
+   - **Put these on calendar with auto-reminders** — schedule contractors before you leave
+
+#### C. Marketing/Tenant Placement (Do This FROM US, Before You Leave)
+
+10. **Get House Rent-Ready** (August–early September)
+    - **Repairs:** fix everything now (leaky faucets, broken outlets, chipped paint, squeaky doors)
+    - **Deep clean:** hire professionals (~$200-400)
+    - **Paint:** if needed (neutral colors; freshen high-traffic areas)
+    - **Curb appeal:** mow, edge, power-wash driveway/siding, trim bushes
+    - **Professional photos:** hire a real-estate photographer (~$150-300) — 80% of rental leads come from online listings; photos are everything
+
+11. **Market 45-60 Days Before Departure** (mid-August for Oct 1 lease start)
+    - **Listing platforms:**
+      - Zillow Rental Manager (free; syndicates to Trulia, HotPads)
+      - Apartments.com
+      - Facebook Marketplace
+      - Craigslist (watch for scams; never give out address before screening)
+      - Local landlord groups / neighborhood Facebook groups
+    - **Listing must include:**
+      - Rent, deposit, lease term
+      - Pet policy, smoking policy
+      - Solar disclosure ("Solar-equipped home; tenant enjoys lower electric bills; landlord pays solar lease")
+      - Application process (link to TurboTenant screening)
+      - Move-in date (Oct 1, 2026)
+      - **High-quality photos** (10-15 images: exterior, each room, yard, kitchen appliances)
+    - **Price to fill** (see §2 below) — a vacant month costs $3,200+; better to rent at $2,700 than hold out for $2,900 and sit empty 2 months
+
+12. **Show the House** (late August–September)
+    - **Self-showing lockbox** (SentriLock, Rently with Schlage smart lock) — tenants can tour on their own after screening
+    - **OR:** co-trustee shows it (if local and willing)
+    - **OR:** you show it (while still there)
+    - **Screen BEFORE showing** (credit/background via TurboTenant) — don't waste time on unqualified applicants
+
+13. **Tenant Selection Criteria** (Write This Down; Apply Consistently)
+    - **Credit score:** ≥650 (or 3x rent in monthly income if lower)
+    - **Income:** ≥3x monthly rent (verify with paystubs + employment letter)
+    - **Rental history:** contact prior landlord (not current — they may lie to get rid of a bad tenant)
+    - **Criminal background:** no violent felonies; drug charges case-by-case
+    - **Evictions:** automatic disqualification (or require double deposit + guarantor)
+    - **Apply criteria uniformly** (Fair Housing Act — no discrimination on protected classes)
+
+14. **Sign Lease Before You Leave** (goal: late September)
+    - **Lease starts Oct 1** (or later) — after your Sept 30 tax-departure date
+    - **Security deposit = 1 month rent** (state law may cap this; check)
+    - **First month rent + deposit due before move-in** (certified check or wire)
+    - **Move-in inspection checklist** (photo/video walkthrough; both parties sign) — protects your deposit return
+    - **Keys:** rekey locks before tenant moves in (~$100-150); give tenant 2 sets; keep 1 set with co-trustee
+
+---
+
+### Phase 2: Ongoing Management from India (Oct 2026 onward)
+
+#### D. Rent Collection + Financial Management
+
+15. **Rent Collection Automation**
+    - **Online payment platform:** TurboTenant, Avail, Zelle, Venmo (some have fees; factor in)
+    - **Set rent due date:** 1st of month (standard)
+    - **Grace period:** 5 days (lease specifies this)
+    - **Late fee:** $50-75 or 5% of rent (check state law caps)
+    - **Auto-reminder:** email/SMS on day 6 if rent not received
+    - **Ledger:** track rent, late fees, repairs in TurboTenant or Google Sheets
+
+16. **Expense Management**
+    - **Autopay from rental account:**
+      - Mortgage (existing)
+      - Landlord insurance (annual or monthly)
+      - Solar lease (if you're paying)
+      - Utilities YOU pay (if any — typically tenant pays all)
+      - HOA fees (if applicable)
+    - **Contractor invoices:** pay via bill pay or Zelle (get W-9 for year-end 1099s)
+
+17. **Bookkeeping for Taxes**
+    - **Track in spreadsheet or software** (Stessa, Landlord Studio, Quicken)
+      - **Income:** rent received (monthly)
+      - **Expenses:** mortgage interest (not principal), insurance, solar lease, repairs, utilities (if you pay), HOA, lawn care, travel (if you visit), depreciation (home value ÷ 27.5 yrs)
+    - **Save receipts** (photos in Google Drive by year)
+    - **Send to CPA quarterly** (for W-8ECI compliance; see Finance §4)
+
+#### E. Maintenance/Repair Workflow (The Hard Part from India)
+
+18. **When Tenant Reports an Issue** (via TurboTenant, email, or text)
+    - **Step 1: Triage** — emergency (call contractor now) vs routine (schedule within 48 hrs) vs tenant responsibility (per lease)
+    - **Step 2: Get photos/video from tenant** — assess severity
+    - **Step 3: Call contractor from your rolodex** (via WhatsApp, Skype, or Google Voice US number)
+      - Authorize work up to $X without approval (set threshold, e.g., $200)
+      - For >$X, get quote first
+    - **Step 4: Contractor invoices you** (pay via bill pay or Zelle)
+    - **Step 5: Update tenant** ("Fixed; let me know if any issues")
+
+19. **Annual Inspections** (Drive-By + Interior)
+    - **Exterior drive-by:** co-trustee or contractor checks curb appeal, gutters, roof, siding (2x/year)
+    - **Interior inspection:** once/year (give tenant 24-hr notice per state law)
+      - Hire handyman to walk through, take photos, report issues
+      - Check: HVAC filters, smoke detectors, leaks, appliance condition, tenant damage
+      - **Cost:** ~$100-150
+    - **Why:** catch deferred maintenance before it becomes expensive; document condition for deposit return
+
+20. **Seasonal Tasks** (Automate with Calendar Reminders)
+    - **Spring:** HVAC service, gutter cleaning, lawn fertilization
+    - **Fall:** HVAC service, gutter cleaning, furnace filter
+    - **Winter:** ensure heat is working (frozen pipes = disaster)
+    - **Summer:** ensure AC is working (tenant comfort; legal in some states if >90°F)
+
+#### F. Lease Renewal / Turnover
+
+21. **Lease Renewal (Month 10 of 12-Month Lease)**
+    - **Send renewal offer:** 60 days before lease ends
+    - **Market-rate adjustment:** check Zillow/Apartments.com for comps; raise rent 2-5% (or hold flat for great tenants)
+    - **If tenant declines:** start marketing immediately (repeat Phase 1C steps)
+
+22. **Tenant Move-Out / Turnover**
+    - **Move-out inspection:** co-trustee or contractor does walkthrough; compare to move-in checklist
+    - **Deductions from deposit:**
+      - **Allowed:** damage beyond normal wear-and-tear (holes in walls, broken fixtures, pet stains, filth)
+      - **NOT allowed:** normal wear (carpet wear, paint fading, minor scuffs)
+      - **Send itemized list within 30 days** (state law varies; check)
+    - **Return deposit:** via check or Zelle (keep proof of delivery)
+    - **Turn the unit:**
+      - Clean (hire professionals; ~$200-400)
+      - Repaint if needed (~$500-1,500 depending on size)
+      - Repair damage (patch holes, fix broken items)
+      - Rekey locks (~$100-150)
+      - Professional photos (if listing has changed)
+    - **Relist immediately** (goal: ≤14 days vacancy between tenants)
+
+---
+
+### Phase 3: Risk Mitigation (What Can Go Wrong + Your Plan)
+
+23. **Nightmare Scenarios + Responses**
+
+| Scenario | Impact | Prevention | Response if it happens |
+|---|---|---|---|
+| **Tenant stops paying rent** | Lose $2,500-3,000/mo; eviction takes 60-90 days | Screen rigorously; require 3x income + good credit | File eviction with local attorney; draw from reserve; find new tenant |
+| **Major repair (roof, HVAC, water heater)** | $3,000-15,000 | Inspect before renting; maintain preventively | Draw from reserve; get 3 quotes; authorize work; consider insurance claim if applicable |
+| **Tenant causes major damage** | $5,000-20,000 | Screen for eviction history; require deposit; photo move-in inspection | File insurance claim (if >deductible); sue in small claims (up to $5-10k depending on state); write off loss |
+| **Vacancy (can't find tenant)** | $3,200/mo | Pre-lease before departing; price to fill; market in peak season (May-Aug) | Drop rent 5-10%; offer move-in incentive (1 month free); expand to mid-term/furnished rentals |
+| **You can't reach contractor / time-zone chaos** | Tenant unhappy; repair delayed; potential habitability claim | Build contractor rolodex with email + WhatsApp; use co-trustee as emergency proxy | Co-trustee handles; or use on-demand service (Handy, TaskRabbit); or authorize tenant to hire (reimburse with receipt) |
+| **Eviction needed** | 60-90 days + $1,500-5,000 legal fees | Screen hard; enforce lease terms consistently | Hire local eviction attorney immediately; don't DIY from India; accept sunk cost; get possession fast |
+| **Insurance claim (fire, flood, tenant injury)** | $10,000-$100,000+ | Landlord + umbrella insurance; maintain property; document everything | File claim immediately; co-trustee coordinates adjuster; consult attorney if liability claim |
+| **IRS/state audit of rental income** | Back taxes + penalties if W-8ECI not filed | File W-8ECI + §871(d) election; track expenses; use CPA | CPA handles audit; provide receipts; pay any deficiency |
+
+24. **Reserve Buffer (Funded Before You Leave)**
+    - **Minimum:** 3 months PITI + solar = ~$10,000
+    - **Recommended:** 6 months PITI + solar + $5,000 repair buffer = ~$20,000
+    - **Keep in Schwab account** (liquid; accessible from India)
+    - **Replenish if drawn** (from rental income surplus or your salary)
+
+25. **When to Hire a PM (Escape Hatch)**
+    - If self-managing becomes overwhelming (time, stress, tenant conflicts)
+    - **Transition plan:**
+      - Interview 3 PMs (check reviews, fees, services)
+      - Transfer lease, keys, contractor list, financials
+      - **Cost:** 8-10% of rent (~$200-300/mo) — you've saved $7k-10k by self-managing the first 1-2 years; now you can afford it
+
+---
+
+### Cost Breakdown: Self-Managed vs PM-Managed
+
+| Item | Self-Managed (You) | PM-Managed | Savings |
+|---|---|---|---|
+| **Setup (one-time)** | | | |
+| Lease template + attorney review | $300-500 | Included in PM fee | — |
+| Landlord insurance + umbrella | $1,200-2,000/yr | Same | — |
+| Tenant screening service | $0 (tenant pays) | Included | — |
+| Professional photos | $150-300 | Included | — |
+| **Monthly/Ongoing** | | | |
+| PM fee | $0 | $200-300/mo (8-10%) | **$200-300/mo** |
+| Tenant placement (first tenant) | $0 (you do it) | 1 month rent (~$2,500-3,000) | **$2,500-3,000** |
+| Lease renewal admin | $0 (you do it) | Included in PM fee | — |
+| Maintenance coordination | Your time (5-10 hrs/mo) | Included | — |
+| Contractor markup | Pay contractor direct | PM marks up 10-20% | **$200-500/yr** |
+| **3-Year Total** | ~$1,500 setup + your time | ~$7,200-10,800 PM fees + $2,500 placement | **~$8,200-11,800** |
+
+**Bottom line:** Self-managing saves ~$8k-12k over 3 years, but costs 5-10 hours/month of your time and carries more risk (no PM's E&O insurance, no local expertise). You're trading money for time and risk — worth it if you're organized and have a good co-trustee + contractor network.
+
+---
+
+### Self-Management Checklist (Phase Summary)
+
+**Before you leave (July–Sept 2026):**
+- [ ] Set up revocable living trust + name US co-trustee
+- [ ] Open dedicated rental bank account with online bill pay
+- [ ] Get landlord insurance + umbrella quotes
+- [ ] Download + attorney-review state-specific lease template
+- [ ] Sign up for TurboTenant (tenant screening + rent collection)
+- [ ] Build contractor rolodex (handyman, plumber, electrician, HVAC, locksmith)
+- [ ] Schedule annual maintenance contracts (HVAC, lawn care, snow removal)
+- [ ] Get house rent-ready (repairs, deep clean, paint, curb appeal)
+- [ ] Hire professional photographer
+- [ ] List property 45-60 days before departure (mid-Aug for Oct 1 lease)
+- [ ] Screen applicants, show house, sign lease by late Sept
+- [ ] Rekey locks, do move-in inspection, collect first month + deposit
+- [ ] Fund 6-month reserve (~$20k) in Schwab account
+- [ ] Find + retain eviction attorney (get contact info)
+
+**Ongoing from India (Oct 2026 onward):**
+- [ ] Collect rent via TurboTenant/Zelle (1st of month; late fee after day 5)
+- [ ] Pay mortgage, insurance, solar lease via autopay
+- [ ] Respond to maintenance requests within 24 hrs (call contractors via WhatsApp)
+- [ ] Track income/expenses in Stessa or Google Sheets
+- [ ] Annual interior inspection (hire handyman; 24-hr notice to tenant)
+- [ ] Biannual exterior drive-by (co-trustee or contractor)
+- [ ] Seasonal HVAC service (spring/fall)
+- [ ] Lease renewal offer 60 days before expiration
+- [ ] Send quarterly financials to CPA (for W-8ECI compliance)
+- [ ] Replenish reserve if drawn
+
+**Turnover (when tenant moves out):**
+- [ ] Move-out inspection (co-trustee or contractor; compare to move-in photos)
+- [ ] Itemize deposit deductions (within 30 days per state law)
+- [ ] Return deposit (check or Zelle; keep proof)
+- [ ] Clean, repaint, repair damage, rekey locks
+- [ ] Relist immediately (goal: ≤14 days vacancy)
+
+---
+
+### Tools/Software Stack for Self-Management
+
+| Function | Tool | Cost | Why |
+|---|---|---|---|
+| **Tenant screening** | TurboTenant, Avail | Free (tenant pays $50 app fee) | Credit, criminal, eviction, income verification |
+| **Rent collection** | TurboTenant, Zelle | Free (TurboTenant) or $0 (Zelle) | Auto-reminders, late fees, ledger |
+| **Lease signing** | DocuSign, HelloSign | $10-25/mo or pay-per-use | E-signature (you're in India; can't sign in person) |
+| **Bookkeeping** | Stessa, Landlord Studio, Quicken | Free (Stessa) or $10-30/mo | Track income, expenses, receipts; export for CPA |
+| **Maintenance requests** | TurboTenant, Avail | Free | Tenant submits tickets; you triage; tracks history |
+| **Communication** | Google Voice US number, WhatsApp | Free | US number for tenants/contractors; WhatsApp for international calls |
+| **Photo storage** | Google Drive, Dropbox | Free (15GB) or $2-10/mo | Move-in/move-out photos; receipts; contractor quotes |
+| **Calendar/reminders** | Google Calendar | Free | Annual maintenance, lease renewal, inspection dates |
+| **Contractor payments** | Zelle, bill pay | Free | Instant payment; no checks to mail from India |
+
+---
+
+## 2a. Mitigate a Delay in Renting Out (Supplement to Self-Management)
 
 The risk: a **gap between move-out and first tenant** = you carry ~$3,200/mo with zero rent, no eyes on the house, and vacant-home insurance gaps. Mitigations, in order of impact:
 
-1. **Pre-lease before you leave.** Get the house **rent-ready** (repairs, paint, professional photos) *while you're still there*, and have the property manager **list it 45–60 days before your departure** so a lease can **start at or near your handover date**. Aim to leave with a signed lease in hand.
-2. **Price to fill, not to peak.** A **vacant month costs ~$3,200**; shaving rent 3–5% to fill fast almost always beats holding out for top dollar. Instruct the PM accordingly.
+1. **Pre-lease before you leave.** Get the house **rent-ready** (repairs, paint, professional photos) *while you're still there*, and **list it 45–60 days before your departure** so a lease can **start at or near your handover date**. Aim to leave with a signed lease in hand. *(Covered in §2 Phase 1C above.)*
+2. **Price to fill, not to peak.** A **vacant month costs ~$3,200**; shaving rent 3–5% to fill fast almost always beats holding out for top dollar.
 3. **Mind the leasing season.** US leasing peaks **late spring–summer (May–Aug)**; fall/winter is slower. ⚠️ This **collides with the tax rule to depart after Sept 30** (Finance §1). Reconcile by **marketing in Aug/Sept and signing a lease that *starts* in Oct** — you leave after Sept 30 for tax, but the tenant is already lined up.
 4. **Hold a reserve buffer.** Keep **3–6 months of PITI (~$10k–20k)** in the maintained US account (the Schwab account) so a vacancy or repair never forces a scramble from abroad.
-5. **Property-manager placement terms.** Choose a PM that offers a **tenant-placement guarantee** (re-lease free if the tenant breaks early within X months) and handles maintenance/evictions end-to-end — essential when you're not reachable in US hours.
-6. **Bridge the insurance gap.** If there *is* a vacancy, you need a **vacant-home policy** (standard homeowners lapses after 30–60 days); switch to a **landlord (DP-3) policy** the day a tenant moves in. Don't leave it uninsured for even a few weeks.
-7. **Fallback tenant pools if the standard market is slow:** furnished **mid-term rentals** (traveling nurses, corporate relo, insurance-displacement tenants via Furnished Finder/CHBO) often fill faster and pay more, or rent to a **known/vetted party**.
+5. **Bridge the insurance gap.** If there *is* a vacancy, you need a **vacant-home policy** (standard homeowners lapses after 30–60 days); switch to a **landlord (DP-3) policy** the day a tenant moves in. Don't leave it uninsured for even a few weeks.
+6. **Fallback tenant pools if the standard market is slow:** furnished **mid-term rentals** (traveling nurses, corporate relo, insurance-displacement tenants via Furnished Finder/CHBO) often fill faster and pay more, or rent to a **known/vetted party**.
 
 ---
 
@@ -307,13 +619,23 @@ The moves have a required sequence, because a refi is hard once title is in a tr
 
 **Your actual loan (Jul 2026):** $196,116.71 balance, 136 months remaining (ends Nov 2037), 6.1% rate, P&I ~$2,039/mo, total PITI ~$3,159/mo (before solar).
 
-- **Solar lease:** **Identify servicer** (post-SunPower bankruptcy), read the lease (transferability, buyout, cost), **disclose to tenants**, decide if you pay or tenant assumes (servicer approval needed for assumption), **factor ~$80-150/mo into rental-income math** if you're paying, inspect the system before leaving, notify servicer of any title changes (trust transfer).
-- **Mortgage — two levers, opposite trade-offs:**
-  - **30-yr refi** stretches the term → biggest payment cut (~$854/mo, new PITI ~$2,305) but *costs* ~$149k lifetime interest; needs W-2 income + closing costs + honest occupancy; **can't do from India.** Use only for max cash-flow relief.
+**Your decision: SELF-MANAGE the rental** to save ~$8k-12k over 3 years. This requires infrastructure:
+
+- **Self-management execution (§2):** Build contractor network, set up online rent collection, establish co-trustee as local proxy, fund 6-month reserve (~$20k), pre-lease before departure (Aug/Sept marketing for Oct 1 lease start), retain eviction attorney, use landlord + umbrella insurance for liability. **Trade-off:** save $200-300/mo PM fees + $2,500 placement fee, but invest 5-10 hrs/mo of your time and carry more risk (no PM's E&O insurance). **Escape hatch:** hire PM if it becomes overwhelming.
+- **Solar lease (§3):** **Identify servicer** (post-SunPower bankruptcy), **get buyout quote this week** (call servicer), **run ITC math** (30% federal tax credit makes buyout potentially cheaper than 3-year lease cost of ~$4,266), **decide by mid-August** (buyout paperwork easier to handle while in US), **disclose to tenants** if keeping lease, inspect system before leaving, notify servicer of any title changes (trust transfer).
+- **Mortgage — two levers, opposite trade-offs (§1):**
+  - **30-yr refi** stretches the term → biggest payment cut (~$854/mo, new PITI ~$2,305) but *costs* ~$149k lifetime interest; needs W-2 income + closing costs + honest occupancy; **can't do from India.** Use only for max cash-flow relief if rent won't cover PITI.
   - **$50k paydown + recast** keeps the 11.3-yr term → smaller cut (~$519/mo, new PITI ~$2,640) but *saves* ~$18.7k interest = a **guaranteed 6.1% return**; cheap, no re-qualifying, **doable from India** — but **locks up $50k of liquidity you may need for the move.** A **partial ~$25k recast** is the balanced play (~$259/mo cut, ~$9.4k saved). Do this only *after* funding reserves and *only if not refinancing*.
   - If rent already covers PITI + solar (~$3,159 + ~$120 = ~$3,279/mo) and you value liquidity, **doing nothing** (keep 6.1%) is fine.
-- **Rental gap:** **pre-lease before departure**, price to fill, hold a **3–6 mo reserve (PITI + solar = ~$10k-20k)**, use a PM with a placement guarantee, and never let insurance lapse — while reconciling the summer leasing peak with the post-Sept-30 tax departure (market in Aug/Sept, lease starts Oct).
-- **Trust:** **revocable living trust — yes** (probate avoidance + a US trustee who can act while you're abroad; Garn-St. Germain protects it). **LLC — no** (due-on-sale risk; use landlord + umbrella insurance for liability instead). **Irrevocable — no** (overkill). **Notify solar servicer** of trust transfer (form; doesn't require approval).
-- **Sequence:** solar (identify servicer + lease terms) → refi → trust (+ notify solar servicer) → rent + landlord insurance + disclose solar → W-8ECI → reserve (PITI + solar). Do the refi and the trust **before you leave**; both are far harder from India.
+- **Rental gap mitigation (§2a):** **pre-lease before departure** (Aug/Sept marketing, Oct 1 lease start), price to fill, hold a **3–6 mo reserve (PITI + solar = ~$10k-20k)**, never let insurance lapse (vacant-home → landlord DP-3 when tenant moves in), fallback to mid-term/furnished rentals if slow.
+- **Trust (§4):** **revocable living trust — yes** (probate avoidance + a US co-trustee who can act while you're abroad; Garn-St. Germain protects it; **essential for self-management**). **LLC — no** (due-on-sale risk; use landlord + umbrella insurance for liability instead). **Irrevocable — no** (overkill). **Notify solar servicer** of trust transfer (form; doesn't require approval).
+- **Sequence (§5):** solar (identify servicer + get buyout quote) → refi (if doing it) → trust (+ notify solar servicer) → rent-ready + market 45-60 days out → sign lease → landlord insurance + disclose solar → W-8ECI → fund reserve (PITI + solar). Do the refi, trust, and tenant placement **before you leave**; all are far harder from India.
 
-*Confirm the refi occupancy representation and due-on-sale specifics with a mortgage broker + real-estate attorney, the trust with an estate attorney, the solar lease terms with the servicer, and the withholding/deduction flow with your cross-border CPA. Verify live mortgage rates before assuming a 30-yr refi lowers your rate.*
+**Critical path for self-management (do these before you leave):**
+1. **This week:** Call solar servicer, get buyout quote, run ITC math (§3)
+2. **July:** Set up trust + name co-trustee, open rental bank account, get landlord insurance quotes, build contractor rolodex, find eviction attorney (§2 Phase 1)
+3. **August:** Repairs/paint/photos, list property (45-60 days before Oct 1), refi (if doing it), transfer to trust (§2 Phase 1 + §5)
+4. **September:** Screen tenants, show house, sign lease, rekey locks, move-in inspection, fund reserve, set up autopay (§2 Phase 1)
+5. **October onward:** Collect rent, coordinate maintenance from India, annual inspections, lease renewals (§2 Phase 2)
+
+*Confirm the refi occupancy representation and due-on-sale specifics with a mortgage broker + real-estate attorney, the trust with an estate attorney, the solar buyout + ITC + rental depreciation with your cross-border CPA, and tenant screening/lease with a local real-estate attorney. Verify live mortgage rates before assuming a 30-yr refi lowers your rate.*

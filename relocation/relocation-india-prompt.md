@@ -62,9 +62,8 @@
 - When web-researching limit to top rated 25 sites only for faster execution.
 - Create output to `/Users/Anshuman.X.Rudra.-ND/projects/github/anshumanrudra/business-plans/relocation/pass6/`
 
-# AGENT - DO NOT READ
-- https://disney.service-now.com/DToolsHR?id=dthr_request&table=sn_hr_core_case&sys_id=7a03b1a1c3b10394a1b1900f050131a7
-  - Please contact the Leaves Administration team for assistance regarding this inquiry. They can be reached at 321-939-7800.
-  - FMLA - dr. needs to dtools HR hub > search > FMLA > knowledge article > care for dependant > 12 weeks off / 
-  - rare - 30 days personal leave 
+# AGENT STOP HERE - DO NOT READ
+- Please contact the Leaves Administration team for assistance regarding this inquiry. They can be reached at 321-939-7800.
+- FMLA - dr. needs to dtools HR hub > search > FMLA > knowledge article > care for dependant > 12 weeks off / 
+- rare - 30 days personal leave 
   
