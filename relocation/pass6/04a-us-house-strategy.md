@@ -8,13 +8,14 @@
 
 | | Amount |
 |---|---|
-| Balance | ~$200,000 |
-| Rate | 6.1% (originally a 15-yr note; ~11 yrs left) |
-| **Monthly P&I** | **~$2,080** ← the only part a refi can change |
+| Balance (actual, Jul 2026) | **$196,116.71** |
+| Loan ends | **Nov 2037** (136 months remaining) |
+| Rate | 6.1% (originally a 15-yr note) |
+| **Monthly P&I** | **~$2,039** ← the only part a refi can change |
 | Taxes + insurance (est.) | ~$1,120 (fixed; **insurance rises** as a rental) |
-| **Total PITI** | **~$3,200** |
+| **Total PITI** | **~$3,159** |
 
-**Takeaway:** "reduce the monthly payment" realistically means "re-amortize the ~$2,080 P&I." The ~$1,120 T&I doesn't move (and landlord insurance adds ~25%). So the biggest lever isn't the rate — it's the **term** (stretching 11 yrs → 30 yrs) and whether **rent covers the nut**.
+**Takeaway:** "reduce the monthly payment" realistically means "re-amortize the ~$2,039 P&I." The ~$1,120 T&I doesn't move (and landlord insurance adds ~25%). So the biggest lever isn't the rate — it's the **term** (stretching 11.3 yrs → 30 yrs) and whether **rent covers the nut**.
 
 ---
 
@@ -30,8 +31,8 @@
 | **Keep maximum liquidity for the move** | Don't refi, don't recast | Highest monthly, most cash on hand |
 
 ### Option A — Rate-and-term refinance to a 30-year (the main lever)
-- Re-amortizing $200k over 30 yrs at ~6.1% drops P&I from **~$2,080 → ~$1,210/mo (~$870/mo lower)**. New PITI ≈ **~$2,330** — much easier for rent to cover.
-- **Trade-off:** you'd pay ~$1,210×360 vs ~$2,080×132 — potentially **~$150k+ more interest** *if held to term*. For a 2–3-yr hold you don't eat all of that, but you reset the amortization clock (mostly-interest early payments). If the plan is to return and stay, this is a real cost.
+- Re-amortizing **$196,116.71** over 30 yrs at ~6.1% drops P&I from **~$2,039 → ~$1,185/mo (~$854/mo lower)**. New PITI ≈ **~$2,305** — much easier for rent to cover.
+- **Trade-off:** you'd pay ~$1,185×360 vs ~$2,039×136 — potentially **~$149k+ more interest** *if held to term*. For a 2–3-yr hold you don't eat all of that, but you reset the amortization clock (mostly-interest early payments). If the plan is to return and stay, this is a real cost.
 - **Rate reality (verify live):** if prevailing 30-yr rates are **at/below ~6.1%**, this is a clean win (lower rate *and* lower payment). If they're **higher** than 6.1%, you're deliberately trading a higher rate for a lower payment — only worth it for cash-flow, not savings.
 
 ### ⚠️ Two landmines that decide *when* and *how* you can refi
@@ -41,17 +42,17 @@
    - Do an **investment-property refinance** (truthful, but rate is **~0.5–0.875% higher** and needs ~25% equity). Then rent covers a higher rate but you're clean.
 
 ### Option B — $50k principal paydown + RECAST (re-amortization)
-A recast keeps your **existing 11-yr term and 6.1% rate**, but re-amortizes the loan over the remaining months on the **lower balance**. Unlike a refi, there's no re-qualifying, no appraisal, no closing costs (~$150–500 fee), no occupancy clause — **and you can do it from India.** The trade-off is opposite to the refi: it *saves* interest instead of costing it, but it **locks up cash**.
+A recast keeps your **existing 11.3-yr term and 6.1% rate**, but re-amortizes the loan over the remaining months on the **lower balance**. Unlike a refi, there's no re-qualifying, no appraisal, no closing costs (~$150–500 fee), no occupancy clause — **and you can do it from India.** The trade-off is opposite to the refi: it *saves* interest instead of costing it, but it **locks up cash**.
 
-**The math on your actual loan (6.1%, ~132 mo left):**
+**The math on your actual loan (6.1%, 136 mo remaining, $196,116.71 balance):**
 
-| Balance after paydown | New P&I/mo | Monthly drop | Interest saved (over remaining term) |
+| Balance after paydown | New P&I/mo | Monthly drop | Interest saved (over remaining 136 mo) |
 |---|---|---|---|
-| $200,000 (do nothing) | ~$2,084 | — | — |
-| $175,000 (−$25k) | ~$1,823 | **−$260/mo** | ~$9,400 |
-| **$150,000 (−$50k)** | **~$1,563** | **−$521/mo** | **~$18,760** |
+| $196,116.71 (do nothing) | ~$2,039 | — | — |
+| $171,117 (−$25k) | ~$1,780 | **−$259/mo** | ~$9,360 |
+| **$146,117 (−$50k)** | **~$1,520** | **−$519/mo** | **~$18,720** |
 
-- A **$50k paydown + recast → P&I falls ~$521/mo** (new PITI ≈ ~$2,680) and **saves ~$18,760 in interest** over the remaining term. That is effectively a **guaranteed, risk-free, tax-deferred ~6.1% return** on the $50k — better than most safe fixed-income.
+- A **$50k paydown + recast → P&I falls ~$519/mo** (new PITI ≈ ~$2,640) and **saves ~$18,720 in interest** over the remaining 136 months. That is effectively a **guaranteed, risk-free, tax-deferred ~6.1% return** on the $50k — better than most safe fixed-income.
 - Rule of thumb on this loan: **each $1,000 of principal paid down cuts P&I ~$10.4/mo.**
 
 **Why this is DIFFERENT from the "never prepay the Tesla" advice:** the Tesla is **0% APR** — prepaying saves nothing, so you keep the cash. The mortgage is **6.1%** — prepaying earns a real 6.1%. Same "don't prepay" instinct gives *opposite* answers because the rates differ.
@@ -63,16 +64,16 @@ A recast keeps your **existing 11-yr term and 6.1% rate**, but re-amortizes the 
 - If you **rent the house out**, the rent may already cover PITI, reducing the need to buy down the payment at all.
 
 **Recommendation on the recast:**
-- **Full $50k recast** makes sense *only if* you'll otherwise leave that $50k in low-yield cash, you've **already funded the reserve + USD buffer**, and you're **not refinancing**. Then it's a clean 6.1% guaranteed return + $521/mo relief.
-- **A partial ~$25k recast is often the sweet spot** — ~$260/mo relief and ~$9.4k interest saved while keeping half the cash liquid for the move.
-- **Skip it entirely** if liquidity is tight, if rent already covers PITI, or if you're refinancing. Sequence-wise, a recast happens **after** any refi decision and **after** funding reserves — it's the *last* cash-deployment move, not the first.
+- **Full $50k recast** makes sense *only if* you'll otherwise leave that $50k in low-yield cash, you've **already funded the reserve + USD buffer**, and you're **not refinancing**. Then it's a clean 6.1% guaranteed return + $519/mo relief.
+- **A partial ~$25k recast is often the sweet spot** — ~$259/mo relief and ~$9.4k interest saved while keeping half the cash liquid for the move.
+- **Skip it entirely** if liquidity is tight, if rent already covers PITI + solar, or if you're refinancing. Sequence-wise, a recast happens **after** any refi decision and **after** funding reserves — it's the *last* cash-deployment move, not the first.
 
 ### Options to skip
 - **ARM / interest-only:** lower teaser payment but rate risk while you're 8,000 miles away — not worth it.
 - **Biweekly payments:** these *raise* your effective annual outlay (26 half-payments) — the opposite of your goal.
 
 ### Recommendation
-If your real aim is **rent covering the payment**, the 30-yr refi is the tool — but only if you can (a) do it **before you leave / while on W-2**, and (b) do it **honestly** (owner-occupied only if true; otherwise investment-property). If 6.1% is fine and rent already covers PITI, **keeping the loan and doing nothing** is the lower-total-cost answer. Given a ~$400k-ish likely value and 50% LTV, you have room either way — get a broker quote now and compare the new PITI against realistic rent.
+If your real aim is **rent covering the payment**, the 30-yr refi is the tool — but only if you can (a) do it **before you leave / while on W-2**, and (b) do it **honestly** (owner-occupied only if true; otherwise investment-property). If 6.1% is fine and rent already covers PITI + solar, **keeping the loan and doing nothing** is the lower-total-cost answer. Given **$196k balance and 136 months remaining** (loan ends Nov 2037), you have room either way — get a broker quote now and compare the new PITI against realistic rent.
 
 ---
 
@@ -177,12 +178,14 @@ The moves have a required sequence, because a refi is hard once title is in a tr
 
 ## 6. Bottom Line
 
+**Your actual loan (Jul 2026):** $196,116.71 balance, 136 months remaining (ends Nov 2037), 6.1% rate, P&I ~$2,039/mo, total PITI ~$3,159/mo (before solar).
+
 - **Solar lease:** **Identify servicer** (post-SunPower bankruptcy), read the lease (transferability, buyout, cost), **disclose to tenants**, decide if you pay or tenant assumes (servicer approval needed for assumption), **factor ~$80-150/mo into rental-income math** if you're paying, inspect the system before leaving, notify servicer of any title changes (trust transfer).
 - **Mortgage — two levers, opposite trade-offs:**
-  - **30-yr refi** stretches the term → biggest payment cut (~$870/mo) but *costs* ~$150k lifetime interest; needs W-2 income + closing costs + honest occupancy; **can't do from India.** Use only for max cash-flow relief.
-  - **$50k paydown + recast** keeps the 11-yr term → smaller cut (~$521/mo) but *saves* ~$18.8k interest = a **guaranteed 6.1% return**; cheap, no re-qualifying, **doable from India** — but **locks up $50k of liquidity you may need for the move.** A **partial ~$25k recast** is the balanced play. Do this only *after* funding reserves and *only if not refinancing*.
-  - If rent already covers PITI + solar and you value liquidity, **doing nothing** (keep 6.1%) is fine.
-- **Rental gap:** **pre-lease before departure**, price to fill, hold a **3–6 mo reserve (PITI + solar)**, use a PM with a placement guarantee, and never let insurance lapse — while reconciling the summer leasing peak with the post-Sept-30 tax departure (market in Aug/Sept, lease starts Oct).
+  - **30-yr refi** stretches the term → biggest payment cut (~$854/mo, new PITI ~$2,305) but *costs* ~$149k lifetime interest; needs W-2 income + closing costs + honest occupancy; **can't do from India.** Use only for max cash-flow relief.
+  - **$50k paydown + recast** keeps the 11.3-yr term → smaller cut (~$519/mo, new PITI ~$2,640) but *saves* ~$18.7k interest = a **guaranteed 6.1% return**; cheap, no re-qualifying, **doable from India** — but **locks up $50k of liquidity you may need for the move.** A **partial ~$25k recast** is the balanced play (~$259/mo cut, ~$9.4k saved). Do this only *after* funding reserves and *only if not refinancing*.
+  - If rent already covers PITI + solar (~$3,159 + ~$120 = ~$3,279/mo) and you value liquidity, **doing nothing** (keep 6.1%) is fine.
+- **Rental gap:** **pre-lease before departure**, price to fill, hold a **3–6 mo reserve (PITI + solar = ~$10k-20k)**, use a PM with a placement guarantee, and never let insurance lapse — while reconciling the summer leasing peak with the post-Sept-30 tax departure (market in Aug/Sept, lease starts Oct).
 - **Trust:** **revocable living trust — yes** (probate avoidance + a US trustee who can act while you're abroad; Garn-St. Germain protects it). **LLC — no** (due-on-sale risk; use landlord + umbrella insurance for liability instead). **Irrevocable — no** (overkill). **Notify solar servicer** of trust transfer (form; doesn't require approval).
 - **Sequence:** solar (identify servicer + lease terms) → refi → trust (+ notify solar servicer) → rent + landlord insurance + disclose solar → W-8ECI → reserve (PITI + solar). Do the refi and the trust **before you leave**; both are far harder from India.
 
