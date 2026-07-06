@@ -12,16 +12,16 @@
 
 | Decision | Recommendation |
 |---|---|
-| **Where to live** | **PHASED: Bengaluru first (~3–4 months), then Kolkata (New Town).** The move tracks the father's AV-fistula maturation. If forced to pick one city → **Kolkata**. |
+| **Where to live** | **Bengaluru for the full 2-3 years.** Keeps kids in one school (no disruption), best market for wife's career, medical continuity for father at Narayana, near sibling. Trade-off: ~₹18-25L higher cost vs Kolkata, but worth it for stability. **Parents stay with you in Bengaluru** (not WB). |
 | **Green Card route** | **DUAL-TRACK, porting your May 2021 EB-2 priority date onto EB-1. Primary = EB-1C (multinational manager)** via a genuine people-manager role at **Disney India (first choice) or InfoServices India**, with **L-1A** as the bridge back. **EB-1A kept building in parallel** as a hedge; **O-1A** in reserve. Given elevated denial rates on *both* EB-1 categories, dual-tracking (both carry the 2021 PD) is the real risk mitigation. See §1a. |
 | **H-1B / employment abroad** | Do **NOT** work remotely for Disney on the H-1B from India. **EB-1C requires you to be *employed* abroad as a manager — unpaid leave does NOT build EB-1C time.** So the manager posting (Disney India or InfoServices India) *is* your employment abroad. Keep the I-797 un-revoked. H-1B return is **cap-exempt with recapture — no lottery** (or return on **L-1A**). |
-| **Kids' school** | **Cambridge IGCSE** (or accredited US-online as a hedge) for the 13-yo; same school for the 7-yo. Pick a **board present in both cities** (Cambridge/DPS-CBSE). Run **UNHS online (~$2–3k/yr)** as the elder son's US-transcript insurance. |
+| **Kids' school** | **Best Bengaluru school** (staying the full 2-3 years, so no "transferable board" constraint). **Inventure Academy (IGCSE)** or **Greenwood High (IGCSE)** recommended for quality + US alignment. Run **UNHS online (~$2–3k/yr)** as the elder son's US-transcript insurance. |
 | **US house** | **Rent it out.** Solar lease (SunPower bankrupt → servicing transferred; identify servicer, disclose to tenants, factor ~$80–150/mo if you pay it). Property manager + landlord insurance + W-8ECI/§871(d) election. Expect ~$700–1,200/mo net surplus after all costs. |
 | **Tesla** | **Store, don't sell.** Plugged-in @ ~50–60%, Sentry OFF, jack stands (max PSI), dehumidifier. Keep full coverage (lien). Autopay the 0% loan. **Rent indoor storage (~$150–200/mo) — do NOT build the shed.** |
 | **Shipping** | **Sea consolidator** for ~20 boxes (~$1,800–2,100, self-pack) + free/extra airline bags. Ship **used goods only**; use **Transfer of Residence** (you qualify: ₹7.5 lakh duty-free). |
 | **Taxes** | Use **FTC (Form 1116), not FEIE**. **Move after Sept 30** to lock a Non-Resident → **RNOR** window that shields US income from India tax for ~2–3 years — your core savings engine (~$155k–215k+ 3-yr wealth build). |
-| **Wife's career** | **Bengaluru is far better** for edtech/school-admin jobs and a baking business. As Indian citizen/OCI she works freely. Hybrid: baking + freelance + job, ₹6–11L Yr1 → ₹10–16L Yr2. |
-| **Parents** | **Gate the whole move on the fistula being proven on real dialysis sessions** (~3–4 months). Anchor WB dialysis at **Krishnanagar (free PMNDP/Eskag)** or consider **home PD**. Swasthya Sathi (no waiting period) covers dialysis; private floaters won't. |
+| **Wife's career** | **Bengaluru focus for full 2-3 years** — best market for edtech/school-admin jobs and a baking business. As Indian citizen/OCI she works freely. Hybrid: baking + freelance + job, ₹6–11L Yr1 → ₹10–16L Yr2 → ₹12-18L Yr3. |
+| **Parents** | **Gate departure on fistula proven** (~3–4 months post-surgery). **Parents stay in Bengaluru** with you. Father continues HD at **Narayana Bommasandra** (medical continuity). Check **Ayushman Bharat PMJAY** coverage; if not covered, out-of-pocket HD ~₹2.3-4.7L/yr (factor into budget). |
 
 ---
 
@@ -30,27 +30,31 @@
 | Your goal | Where it's handled | Bottom line |
 |---|---|---|
 | Faster GC for kids' education | §1 Immigration | EB-1A + 2021 PD = near-current; **saves the 13-yo from aging out** under EB-2 India. |
-| Care for aging parents | §5 Parents, §7 City | Phased base; Bengaluru for fistula window, Kolkata when they return to Nadia. |
-| Kids back to US school/college, no lapse | §2 Education | IGCSE + US-online hedge; transferable board; time the calendar. |
-| Wife works in India | §6 Wife | Bengaluru edtech/admin or home-baking; no visa barrier. |
-| Save as much as possible | §4 Finance, §7 City | RNOR shield + US salary + India cost of living = save 50–70%+. Kolkata phase saves ~₹18–25L. |
-| Value-for-money education | §2 Education | Inventure (BLR) or CIS (Kolkata); UNHS online (~$2–3k) as elder-son insurance. |
+| Care for aging parents | §5 Parents, §7 City | **Parents stay in Bengaluru** with you; father continues HD at Narayana (medical continuity). |
+| Kids back to US school/college, no lapse | §2 Education | **Best BLR school for full stay** (no mid-stay moves); IGCSE + US-online hedge; time the calendar. |
+| Wife works in India | §6 Wife | **Bengaluru focus full 2-3 years** — best market for edtech/admin/baking; no visa barrier. |
+| Save as much as possible | §4 Finance, §7 City | RNOR shield + US salary + India cost of living = save 50–70%+. **BLR-only costs ~₹18–25L more than Kolkata option, but stability worth it.** |
+| Value-for-money education | §2 Education | Inventure/Greenwood High (BLR); UNHS online (~$2–3k) as elder-son insurance. |
 | Faster GC despite high EB-1A denials | §1a EB-1C | **EB-1C primary** via Disney/InfoServices India manager role + L-1A bridge; EB-1A built in parallel; both port the 2021 PD. |
 | Keep house + keep Tesla | §3 Logistics | Rent house; store Tesla; rent storage not shed. |
 | Move ~20 boxes, within 2–3 months | §3 Logistics | Sea consolidator; 8–12 week timeline. |
 
 ---
 
-## The Central Insight: Everything Keys Off the Fistula Clock
+## The Central Insight: Stability Over Savings
 
-Three independent research tracks (Healthcare, City, Immigration) converge on the **same phased structure**, because one event gates the timeline:
+> **Once kids are enrolled in school, don't move them.** The ~₹18-25L saved by relocating to Kolkata isn't worth disrupting their education, your wife's career trajectory, or medical continuity for your father.
 
-> **The father's AV fistula must be confirmed mature AND used successfully for several dialysis sessions before the parents move to West Bengal.** For a 76-yo diabetic this is realistically **~3–4 months** after surgery, not the textbook 6 weeks. **The move date is a dependent variable of this event, not a fixed calendar date.**
+**Decision (2026-07-06):** **Bengaluru for the full 2-3 years.** Parents stay with you in Bengaluru (not West Bengal).
 
-This single fact drives:
-- **City:** Stay Bengaluru-based during the fistula window (near parents + sibling + best schools + your job), then move to **Kolkata/New Town** when parents return to Nadia (~80–100 km away — close enough for caregiving + metro specialists).
-- **Schools:** Choose a **curriculum present in both cities** so the kids' Phase-1→Phase-2 move costs nothing academically.
-- **Housing:** Take a **short/flexible Bengaluru lease (6–11 months, break clause)**; don't over-furnish or sign 3-year terms there.
+This drives:
+- **City:** **One location, one school, one lease** for the full stay. Off-Sarjapur Rd / Choodasandra area (near sibling, schools, Narayana dialysis).
+- **Schools:** Pick the **best Bengaluru school** — no "transferable board" constraint. Inventure/Greenwood High (IGCSE) recommended.
+- **Housing:** One **~2.5-3 year lease** (or 11-mo renewable) — plan to stay the whole time.
+- **Parents:** Father continues HD at **Narayana Bommasandra** where fistula was created (medical continuity beats transferring care). Check **Ayushman Bharat PMJAY** coverage for dialysis cost.
+- **Wife:** Full focus on Bengaluru edtech/admin/baking market for 2-3 years (best in India for her profile).
+
+**The fistula still gates your departure** (wait for it to be proven on real sessions, ~3-4 months post-surgery = late Sept/early Oct 2026), but it no longer triggers a mid-stay Kolkata move.
 
 ---
 
@@ -77,38 +81,34 @@ This single fact drives:
 - US affairs: virtual mailbox, keep a US phone (Tello/US Mobile), credit-card autopay, AAA IDP.
 
 **Parents / Healthcare**
-- **Confirm fistula maturation date** with Narayana Bommasandra nephrologist — sets Phase-1 length. Have transplant explicitly ruled in/out.
-- Pre-book & confirm (in writing) the WB dialysis slot (Krishnanagar Eskag/PMNDP or JNM Kalyani); register **Swasthya Sathi**; buy a private floater for the rest of the family (know it won't cover the father's dialysis).
-- Assemble dialysis transfer packet (prescription, dry weight, flow sheets, labs, **HBsAg/anti-HCV/HIV**, access details). Set up Medical PoA + ~₹5L medical emergency fund.
+- **Confirm fistula maturation date** with Narayana Bommasandra nephrologist — gates your departure. Have transplant explicitly ruled in/out.
+- Call Narayana: **check Ayushman Bharat PMJAY coverage** for father's HD (if covered, mostly free; if not, budget ~₹2.3-4.7L/yr out-of-pocket). **Parents stay in Bengaluru** with you.
+- Assemble initial dialysis records (prescription, dry weight, flow sheets, labs, **HBsAg/anti-HCV/HIV**, access details). Set up Medical PoA + ~₹5L medical emergency fund.
 
 **Education**
-- Decide city (Phase 1 = Bengaluru); email 4–5 BLR admissions offices for mid-year/waitlist seats + exact fees.
+- Email 4–5 **best BLR schools** for mid-year/waitlist seats + exact fees (Inventure, Greenwood High, TISB, DPS). **No "transferable board" constraint** — you're staying.
 - Register elder son in **accredited US online HS (UNHS ~$2–3k)** as hedge/bridge + US History/Civics remediation.
 - Pull & digitize ALL US school records (transcripts, **course descriptions/syllabi**, immunizations); request the **Transfer Certificate** + **written credit-acceptance guidance from the CT district**; apostille if needed.
 
 **Wife**
-- Ensure OCI/passport + PAN + Aadhaar current. Rebuild LinkedIn/Naukri for India (edtech/academic-ops keywords). If baking: plan FSSAI Basic + Udyam.
+- Ensure OCI/passport + PAN + Aadhaar current. Rebuild LinkedIn/Naukri for India (edtech/academic-ops keywords). **Full Bengaluru focus for 2-3 years.** If baking: plan FSSAI Basic + Udyam.
 
-### Phase 1 — Bengaluru (Arrival → parents move to WB, ~3–4 months)
-- Bridge on arrival with the **sibling in Choodasandra** or a serviced apartment while apartment-hunting. Then live **Off-Sarjapur Rd / Choodasandra** (near sibling + schools) or **Electronic City** (cheapest + closest to dialysis). Short flexible lease.
-- Kids in a **transferable-curriculum** school (Inventure IGCSE recommended). Run UNHS online for elder son.
-- Father completes fistula maturation + several proven dialysis sessions at Narayana.
+### Phase 1 — Bengaluru (Arrival → full 2-3 year stay)
+- Bridge on arrival with the **sibling in Choodasandra** or a serviced apartment while apartment-hunting. Then **Off-Sarjapur Rd / Choodasandra** (near sibling + schools + Narayana dialysis). **One long-term lease (~2.5-3 years or 11-mo renewable).**
+- Kids in **best BLR school** (Inventure/Greenwood IGCSE recommended). Run UNHS online for elder son. **Stay in this school the full 2-3 years** — no mid-stay moves.
+- Father continues HD at **Narayana Bommasandra** (medical continuity). Parents live with you.
 - **Start the managerial role from day one** (≥4–6 reports, hire/fire, budget, <50% IC) and document it (org chart, appointment letter, appraisals) — this year is the load-bearing EB-1C evidence. Keep the EB-1A file building in parallel.
-- Wife starts job hunt / baking setup (Bengaluru = best market). Set up domestic help.
+- Wife: job hunt / baking setup in **Bengaluru** (best market in India for her profile). Set up domestic help.
 - Clear customs (Red Channel, TR, CHA). Open Indian bank, SIM, local accounts. Start day-count log.
-
-### Phase 2 — Kolkata / New Town (parents return to Nadia → ~Year 2–3)
-- Relocate to **New Town** (closest to Kalyani/Nadia; ~₹18–25L cheaper over 3 yrs; cultural fit) — **main savings lever**. Budget air purifiers + inverter/generator for medical equipment.
-- Parents resume dialysis in WB (Krishnanagar free center or home PD); joint nephro+endo insulin management; telemedicine for metro specialists.
-- Kids transfer to same-board school (DPS/Cambridge). Continue UNHS hedge for elder son.
 - At/after the 1-year managerial mark, the US petitioner **files the EB-1C I-140** (porting 2021 PD; $715 + PP ~$2,805) — EB-1A filed in parallel if its record is strong (both carry the 2021 PD).
 - Confirm RNOR status each FY; do any Roth/401k moves **inside** the RNOR window; do not distribute once Ordinarily Resident.
 
-### Phase 3 — Return to US (~Year 2.5–3)
-- On EB-1A approval + current PD → **Consular Processing via NVC** → immigrant-visa interviews at **Mumbai** for the whole family (locks the 13-yo's CSPA age).
+### Phase 2 — Return to US (~Year 2.5–3)
+- On EB-1C or EB-1A approval + current PD → **Consular Processing via NVC** → immigrant-visa interviews at **Mumbai** for the whole family (locks the 13-yo's CSPA age).
 - Return on **L-1A** (manager, dual-intent — cleanest with the EB-1C narrative) **or** file **cap-exempt** H-1B return + **recapture** with Disney; book in-person stamping months ahead (dropbox ended Oct 2025; 3–6 month waits). Keep O-1A in reserve.
 - Time return to the **US fall** so kids enter on the Aug–Jun calendar with no gap. Carry transcripts + WES evaluation for elder son.
 - Reactivate the US house (or transition tenant), recommission the Tesla.
+- **Parents' return:** they can stay in US with you (B-2 tourist visa, 6 mo max, or file I-130 family-based GC if desired), or return to West Bengal (dialysis transfer at that point).
 
 ---
 
@@ -121,10 +121,11 @@ This single fact drives:
 | **EB-1C managerial-capacity RFE** (esp. smaller petitioner) | Prefer **Disney India** (big, obviously-qualifying); be a genuine people-manager (≥4–6 reports, budget, <50% IC) documented from day one. |
 | **Remote work on H-1B from India** → visa cancellation/inadmissibility | Use **unpaid leave** or **India payroll**; never work the US H-1B from abroad. |
 | **Education gap** on return | UNHS accredited online + IGCSE board exam in India + US-History remediation + time the fall return. |
-| **Moving parents before fistula is proven** | Hard gate: surgeon sign-off **+ several successful sessions** before any move. |
+| **Moving before fistula is proven** | Hard gate: surgeon sign-off **+ several successful sessions** before departure. |
 | **Tax: losing the RNOR shield** | Move after Sept 30; clean day-count log; act on big US income events inside the window. |
-| **Father's dialysis uncovered by insurance** | Swasthya Sathi / PMNDP (no waiting period); private floaters have 2–4 yr pre-existing waits. |
-| **Two moves churn the kids** | Transferable curriculum + flexible Phase-1 lease; if you must pick one city, pick **Kolkata**. |
+| **Father's dialysis uncovered in Karnataka** | Check **Ayushman Bharat PMJAY** coverage at Narayana; if not covered, budget ~₹2.3-4.7L/yr out-of-pocket. |
+| **Mid-stay school disruption** | **Staying in Bengaluru the full 2-3 years** — no moves, no curriculum-change risk. |
+| **Higher cost (₹18-25L) vs Kolkata option** | Accepted trade-off for stability; still saving 50-70% of US income under RNOR. |
 | **Tesla loan 0% promo voided** | Lender ACH autopay + buffer; never a 30-day late; don't prepay. |
 
 ---
@@ -151,35 +152,35 @@ This single fact drives:
 ## Master Checklist (Top 25, Prioritized)
 
 **Do first (these gate everything):**
-1. [ ] Confirm father's **fistula maturation date** with Narayana Bommasandra → sets the timeline.
-2. [ ] Engage **business-immigration attorney**; verify InfoServices I-140 approved & not revoked (anchors the portable 2021 PD).
-3. [ ] **Pick the EB-1C sponsor:** secure a **written manager job description + org placement** at **Disney India (first choice)** or **InfoServices India**; confirm the qualifying relationship + US "doing business ≥1 yr" with counsel. (Unpaid leave does NOT build EB-1C time.)
-4. [ ] Engage **cross-border CPA + India CA**; choose **FTC**; plan move **after Sept 30**.
-5. [ ] Decide **Phase-1 city = Bengaluru**; flexible lease Off-Sarjapur/Choodasandra or E-City.
+1. [ ] Confirm father's **fistula maturation date** with Narayana Bommasandra → gates departure.
+2. [ ] **Call Narayana:** Check **Ayushman Bharat PMJAY** coverage for father's HD (if not covered, budget ~₹2.3-4.7L/yr).
+3. [ ] Engage **business-immigration attorney**; verify InfoServices I-140 approved & not revoked (anchors the portable 2021 PD).
+4. [ ] **Pick the EB-1C sponsor:** secure a **written manager job description + org placement** at **Disney India (first choice)** or **InfoServices India**; confirm the qualifying relationship + US "doing business ≥1 yr" with counsel. (Unpaid leave does NOT build EB-1C time.)
+5. [ ] Engage **cross-border CPA + India CA**; choose **FTC**; plan move **after Sept 30**.
+6. [ ] **Bengaluru for full 2-3 years** — one long-term lease (~2.5-3 yr or 11-mo renewable) Off-Sarjapur/Choodasandra.
 
 **Pre-move setup:**
-6. [ ] **Solar lease:** identify current servicer (post-SunPower bankruptcy; check billing), read lease (cost/transferability/buyout), decide rental structure (you pay vs tenant assumes), inspect system, brief property manager.
-7. [ ] Renew **7-yo's US passport** now; confirm OCI valid.
-8. [ ] Email 5 BLR schools for mid-year seats + fees; register **UNHS online** for elder son.
-9. [ ] Pull/digitize all US school records (incl. **course descriptions**); request **Transfer Certificate** + district credit guidance.
-10. [ ] Engage US property manager (brief on solar lease); switch to **landlord insurance**; file **W-8ECI/§871(d)**.
-11. [ ] Book flights (Gulf carrier, free 2×23 kg bags); buy extra bags online.
-12. [ ] Quote sea consolidators; itemized packing list; self-pack; ship **used goods only** (TR).
-13. [ ] Tesla: ~50–60% charge + plugged in, Sentry OFF, jack stands (max PSI), dehumidifier; **rent storage (not shed)**.
-14. [ ] Tesla loan + mortgage + **solar lease autopay** from funded US account; keep full coverage; file PNO.
-15. [ ] Open **NRE/NRO/FCNR** (ICICI/HDFC/Axis); set up **Wise** + Schwab; confirm 401k foreign-address; keep US phone/mailbox.
-16. [ ] Pre-book + **confirm in writing** the WB dialysis slot; register **Swasthya Sathi**; assemble transfer packet; set Medical PoA + ₹5L med fund.
+7. [ ] **Solar lease:** identify current servicer (post-SunPower bankruptcy; check billing), read lease (cost/transferability/buyout), decide rental structure (you pay vs tenant assumes), inspect system, brief property manager.
+8. [ ] Renew **7-yo's US passport** now; confirm OCI valid.
+9. [ ] Email 5 **best BLR schools** for mid-year seats + fees (Inventure, Greenwood, TISB, DPS); register **UNHS online** for elder son.
+10. [ ] Pull/digitize all US school records (incl. **course descriptions**); request **Transfer Certificate** + district credit guidance.
+11. [ ] Engage US property manager (brief on solar lease); switch to **landlord insurance**; file **W-8ECI/§871(d)**.
+12. [ ] Book flights (Gulf carrier, free 2×23 kg bags); buy extra bags online.
+13. [ ] Quote sea consolidators; itemized packing list; self-pack; ship **used goods only** (TR).
+14. [ ] Tesla: ~50–60% charge + plugged in, Sentry OFF, jack stands (max PSI), dehumidifier; **rent storage (not shed)**.
+15. [ ] Tesla loan + mortgage + **solar lease autopay** from funded US account; keep full coverage; file PNO.
+16. [ ] Open **NRE/NRO/FCNR** (ICICI/HDFC/Axis); set up **Wise** + Schwab; confirm 401k foreign-address; keep US phone/mailbox.
+17. [ ] Set Medical PoA + ~₹5L med emergency fund.
 
-**Phase 1 (Bengaluru):**
-16. [ ] Clear customs (Red Channel, TR, CHA); open Indian bank, SIM; start **day-count log**.
-17. [ ] Kids enrolled (transferable board); father completes **proven** dialysis on new fistula.
-18. [ ] **EB-1C evidence from day one:** manager role (≥4–6 reports, hire/fire, budget, <50% IC), org chart, appointment letter, appraisals; petitioner assembles qualifying-relationship + "doing business" docs. Keep **EB-1A evidence** building in parallel (judging, IEEE Senior Member, articles, rec letters).
-19. [ ] Wife: LinkedIn/Naukri live; FSSAI Basic (₹100) + Udyam if baking; line up domestic help.
-20. [ ] Confirm Disney India payroll/leave active; do any Roth/401k moves inside RNOR window.
+**In Bengaluru (full 2-3 years):**
+18. [ ] Clear customs (Red Channel, TR, CHA); open Indian bank, SIM; start **day-count log**.
+19. [ ] Kids enrolled in **best BLR school** (Inventure/Greenwood IGCSE recommended); stay there the full 2-3 years. Run UNHS online for elder son.
+20. [ ] Father continues HD at **Narayana Bommasandra** (medical continuity). Parents live with you.
+21. [ ] **EB-1C evidence from day one:** manager role (≥4–6 reports, hire/fire, budget, <50% IC), org chart, appointment letter, appraisals; petitioner assembles qualifying-relationship + "doing business" docs. Keep **EB-1A evidence** building in parallel (judging, IEEE Senior Member, articles, rec letters).
+22. [ ] Wife: LinkedIn/Naukri live; **full Bengaluru focus for 2-3 years**; FSSAI Basic (₹100) + Udyam if baking; line up domestic help.
+23. [ ] Confirm Disney India payroll/leave active; do any Roth/401k moves inside RNOR window.
+24. [ ] At 1-yr managerial mark, petitioner **files EB-1C I-140** (port 2021 PD, $715 + PP ~$2,805); file EB-1A in parallel if strong.
 
-**Phase 2 (Kolkata) → Return:**
-21. [ ] Relocate to **New Town** when parents return to Nadia; kids transfer same-board school; add air purifiers + power backup.
-22. [ ] Parents on WB dialysis (Krishnanagar free / home PD); telemedicine + joint insulin mgmt.
-23. [ ] At 1-yr managerial mark, petitioner **files EB-1C I-140** (port 2021 PD, $715 + PP ~$2,805); file EB-1A in parallel if strong.
-24. [ ] Return on **L-1A** (manager, dual-intent) or **cap-exempt** H-1B + **recapture**; book stamping months ahead; keep O-1A in reserve.
-25. [ ] On approval → **Consular Processing (Mumbai)**; time **fall** US return; carry transcripts + WES.
+**Return to US (~Year 2.5-3):**
+25. [ ] Return on **L-1A** (manager, dual-intent) or **cap-exempt** H-1B + **recapture**; book stamping months ahead; keep O-1A in reserve.
+26. [ ] On approval → **Consular Processing (Mumbai)**; time **fall** US return; carry transcripts + WES.

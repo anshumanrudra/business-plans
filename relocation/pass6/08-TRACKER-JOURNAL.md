@@ -28,16 +28,16 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 ## PHASE 0 — Pre-Move Foundation (Now → ~8–12 weeks out)
 
 ### A. Gating decisions (do first — 🔑)
-- [~] 🔑 **GATE-1 (Fistula):** Confirm father's AV-fistula maturation date with Narayana Bommasandra nephrologist; get "proven on real sessions" criteria in writing. *(sets the entire timeline)* — ref `05`
-  > — 2026-07-06: 2 months post-surgery, not yet mature. Tracking within expected 3–4 mo timeline for 76-yo diabetic (pass6 baseline assumption). Expect first cannulation attempt late Aug/early Sept, then 3–5 proven HD sessions before parents move to WB. **Revised Phase-1 timeline: our India arrival post-Sept-30 (unchanged for tax), Phase 1 BLR = Oct 2026 → Jan/Feb 2027 (~4 months), parents WB move = Jan/Feb 2027 (not Oct 2026).** Next: schedule Month-3 nephro assessment at Narayana (late July/early Aug) — request ultrasound doppler (flow rate ≥500 mL/min, vessel ≥5-6mm, depth <6mm) + anticipated first-cannulation date. Ask: "How many successful HD sessions before we can transfer care to WB?" (want 3–5 min).
+- [~] 🔑 **GATE-1 (Fistula):** Confirm father's AV-fistula maturation date with Narayana Bommasandra nephrologist; get "proven on real sessions" criteria in writing. *(gates departure)* — ref `05`
+  > — 2026-07-06: 2 months post-surgery, not yet mature. Tracking within expected 3–4 mo timeline for 76-yo diabetic (pass6 baseline assumption). Expect first cannulation late Aug/early Sept, then 3–5 proven HD sessions before departure. **Staying in Bengaluru the full 2-3 years** — no mid-stay moves. **Parents stay with us in BLR** (not WB). India arrival post-Sept-30 (unchanged for tax). Next: schedule Month-3 nephro assessment at Narayana (late July/early Aug) — request ultrasound doppler (flow rate ≥500 mL/min, vessel ≥5-6mm, depth <6mm) + anticipated first-cannulation date. Ask about **Ayushman Bharat PMJAY coverage** for HD (if not covered, budget ~₹2.3-4.7L/yr out-of-pocket).
 - [ ] 🔑 **GATE-2 (Attorney + I-140):** Engage business-immigration attorney; confirm InfoServices I-140 approved & **not revoked**; pull approval notice. — ref `01/01a`
   > —
 - [ ] 🔑 **GATE-3 (EB-1C sponsor):** Get written manager JD + org placement from **Disney India (1st)** or **InfoServices India**; counsel confirms qualifying relationship + US "doing business ≥1yr". *(unpaid leave ≠ EB-1C time)* — ref `01a/01b`
   > —
 - [ ] 🔑 **GATE-4 (Tax posture):** Engage cross-border CPA + India CA; lock **FTC (not FEIE)**; set move date **after Sept 30**. — ref `04`
   > —
-- [ ] 🔑 **GATE-5 (Phase-1 city):** Commit **Bengaluru** for Phase 1; decide neighborhood (Off-Sarjapur/Choodasandra vs E-City). — ref `07`
-  > —
+- [ ] 🔑 **GATE-5 (City decision):** **Bengaluru for full 2-3 years** (no mid-stay moves). Decide neighborhood: Off-Sarjapur/Choodasandra (near sibling + schools + Narayana). — ref `07`
+  > — 2026-07-06: Changed from phased BLR→Kolkata to BLR-only. Reason: once kids in school, don't move them. Parents stay with us. Trade ~₹18-25L savings for stability + wife's career + medical continuity. Worth it.
 
 ### B. Immigration setup (after GATE-2/3)
 - [ ] Send EB-1C pitch email to chosen sponsor (template in `01b`).
@@ -100,9 +100,9 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
   > —
 
 ### E. Education (both kids)
-- [ ] Email 4–5 BLR schools (Inventure, TISB, Greenwood, Treamis, DPS E-City): mid-year/waitlist seats, exact fees, entry testing. — ref `02`
+- [ ] Email 4–5 **best BLR schools** (Inventure, Greenwood High, TISB, DPS E-City): mid-year/waitlist seats, exact fees, entry testing. **Staying the full 2-3 years** — no "transferable board" constraint, pick the best school. — ref `02`
   > —
-- [ ] Get on waitlists for top 2–3 (Cambridge IGCSE or DPS-CBSE — board present in **both** cities). — ref `02`
+- [ ] Get on waitlists for top 2–3 (Inventure/Greenwood IGCSE recommended for quality + US alignment). — ref `02`
   > —
 - [ ] **Elder son online-school:** call UNHS + JMHS — confirm (a) India eligibility + fee, (b) exact annual cost, (c) asynchronous vs live. Enroll (UNHS top pick). — ref `02a`
   > —
@@ -114,26 +114,22 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
   > —
 
 ### F. Parents / healthcare (after GATE-1)
-- [ ] **Month-3 fistula assessment** (late July/early Aug): schedule Narayana Bommasandra nephro + **ultrasound doppler**. Get: (a) flow rate (need ≥500 mL/min), (b) vessel diameter (≥5-6mm), (c) depth (<6mm), (d) **anticipated first-cannulation date**, (e) how many successful HD sessions before WB transfer (want 3–5 min). — ref `05`
+- [ ] **Month-3 fistula assessment** (late July/early Aug): schedule Narayana Bommasandra nephro + **ultrasound doppler**. Get: (a) flow rate (need ≥500 mL/min), (b) vessel diameter (≥5-6mm), (c) depth (<6mm), (d) **anticipated first-cannulation date**, (e) **Ayushman Bharat PMJAY coverage** for HD (if not covered, out-of-pocket cost ~₹2.3-4.7L/yr). — ref `05`
   > —
 - [ ] Have nephrologist **document transplant decision** (rule in/out). — ref `05`
   > —
-- [ ] Decide WB modality: in-center HD @ Krishnanagar (free) vs **home PD** (discuss candidacy). — ref `05`
+- [ ] Assemble initial dialysis records (prescription, dry weight, flow sheets, labs, **HBsAg/anti-HCV/HIV**, access details). **Father stays at Narayana** for full 2-3 years (medical continuity). — ref `05`
   > —
-- [ ] Assemble dialysis transfer packet (prescription, dry weight, 3–5 flow sheets, labs, **HBsAg/anti-HCV/HIV**, access details, ECG/CXR). — ref `05`
+- [ ] Set up **Medical PoA** + ~₹5L med emergency fund; identify local Bengaluru home-nursing agency; set up eSanjeevani/Apollo 24/7. — ref `05`
   > —
-- [ ] **Pre-book + confirm in writing** WB dialysis slot (Krishnanagar Eskag / JNM Kalyani), 6–8 wks ahead. *(do this AFTER fistula proven, not before)* — ref `05`
-  > —
-- [ ] Register **Swasthya Sathi**; confirm PMNDP eligibility; buy private floater for rest of family (know it won't cover father's dialysis). — ref `05`
-  > —
-- [ ] Set up **Medical PoA** + ~₹5L med emergency fund; identify local home-nursing agency; set up eSanjeevani/Apollo 24/7. — ref `05`
+- [ ] Buy private floater for rest of family (know it won't cover father's dialysis pre-existing condition). — ref `05`
   > —
 
 ### G. Wife / career prep
 - [ ] Ensure OCI/passport + PAN + Aadhaar current. — ref `06`
   > —
-- [ ] Rebuild LinkedIn + Naukri (India keywords: academic ops / student success / instructional design / HR generalist); start applying to BLR edtech + intl schools. — ref `06`
-  > —
+- [ ] Rebuild LinkedIn + Naukri (India keywords: academic ops / student success / instructional design / HR generalist); **full Bengaluru focus for 2-3 years** — start applying to BLR edtech + intl schools. — ref `06`
+  > — 2026-07-06: BLR-only plan means she can build full career trajectory there (best market in India for her profile), not plan a Kolkata fallback.
 - [ ] Decide track (job / baking / both-remote); if baking: plan FSSAI Basic (₹100) + Udyam. — ref `06`
   > —
 
@@ -148,24 +144,22 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
   > —
 
 ### I. India housing (after GATE-5)
-- [ ] Lock short/flexible Bengaluru lease (**now targeting ~4-5 mo = Oct 2026 → Jan/Feb 2027**, with break clause); **verify ACT/JioFiber at the address before signing** (needed for kids' online school + your work). — ref `07/02a`
-  > — 2026-07-06: Phase 1 BLR extended 3→4 mo due to fistula timeline. Lease needs to cover Oct-Jan/Feb (~4 mo minimum), ideally 6-mo with break clause or month-to-month after initial term.
-- [ ] Scout Kolkata New Town remotely (DPS Newtown/Megacity; 3BHK ₹25–45k; confirm fiber). — ref `07`
-  > —
+- [ ] Lock **long-term Bengaluru lease (~2.5-3 years or 11-mo renewable)** Off-Sarjapur/Choodasandra; **verify ACT/JioFiber at the address before signing** (needed for kids' online school + your work). — ref `07/02a`
+  > — 2026-07-06: Changed to BLR-only (no Kolkata move). Staying the full 2-3 years. Need one stable home near sibling + schools + Narayana dialysis. 3BHK ~₹40-80k/mo. Budget ~₹1.4-2.9L/yr vs ₹90k-1.6L in Kolkata (trade ~₹50k-1.3L/yr for stability).
 
 ---
 
-## PHASE 1 — Bengaluru (Arrival Oct 2026 → parents move to WB Jan/Feb 2027, ~4 months)
+## BENGALURU — Full 2-3 Year Stay (Arrival Oct 2026 → Return ~Year 2.5-3)
 
-*Revised timeline per GATE-1 update: fistula is 2 mo post-op as of Jul 2026, expect first cannulation late Aug/early Sept, proven stable by early Oct. Father continues HD at Narayana through Dec 2026/Jan 2027. Phase 1 BLR extended from 3→4 months to absorb fistula proving window.*
+*Revised 2026-07-06: Staying in Bengaluru the full time — no Kolkata move. Reason: once kids in school, don't move them. Parents stay with us. Father continues HD at Narayana (medical continuity). Wife full Bengaluru career focus. Trade ~₹18-25L cost savings for stability.*
 
 - [ ] Bridge housing: stay with sibling in Choodasandra / serviced apt while apartment-hunting. — ref `03/07`
   > —
 - [ ] Clear customs (Red Channel, TR, CHA); open Indian bank, SIM; start **day-count log** (both countries). — ref `03/04`
   > —
-- [ ] Enroll both kids in transferable-board school; **start UNHS online in parallel** for elder son (put US History/Civics/Am-Lit online). — ref `02/02a`
+- [ ] Enroll both kids in **best BLR school** (Inventure/Greenwood IGCSE recommended); **stay there the full 2-3 years**. Start UNHS online for elder son. — ref `02/02a`
   > —
-- [ ] **🔑 Father completes fistula maturation + several PROVEN dialysis sessions** at Narayana (expect Sept-Jan, 3–5 sessions minimum before WB transfer). *(gates the WB move)* — ref `05`
+- [ ] **Father continues HD at Narayana** (medical continuity). **Parents live with us in Bengaluru.** Monitor Ayushman coverage; if out-of-pocket, budget ~₹2.3-4.7L/yr. — ref `05`
   > —
 - [ ] **Start managerial role from day one** (≥4–6 reports, hire/fire, budget, <50% IC); begin monthly EB-1C evidence folder (org chart, appointment letter, appraisals). — ref `01a/01b`
   > —
@@ -173,33 +167,20 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
   > —
 - [ ] Convert resident accounts to NRO; fund NRE from US savings; set up advance-tax if owing India tax. — ref `04`
   > —
-- [ ] Wife: LinkedIn/Naukri live; FSSAI Basic + Udyam if baking; line up domestic help/childcare. — ref `06`
-  > —
-- [ ] Confirm from abroad: rent flowing, Tesla autopay + insurance active, caretaker doing 4–6 wk checks, US mail/banking accessible.
-  > —
-
----
-
-## PHASE 2 — Kolkata / New Town (parents return to Nadia → Year 2–3)
-
-- [ ] Relocate to New Town when parents return to Nadia; kids transfer to same-board school; continue UNHS. — ref `07/02`
-  > —
-- [ ] Add air purifiers (₹15–30k) + inverter/generator (₹80k–1.5L) if father on home PD/medical equipment. — ref `07`
-  > —
-- [ ] Parents resume WB dialysis (Krishnanagar free / home PD); joint nephro+endo insulin mgmt + shared glucose log. — ref `05`
+- [ ] Wife: LinkedIn/Naukri live; **full BLR focus for 2-3 years**; FSSAI Basic + Udyam if baking; line up domestic help/childcare. — ref `06`
   > —
 - [ ] At **1-yr managerial mark:** US petitioner **files EB-1C I-140** (port 2021 PD; $715 + PP ~$2,805); file EB-1A in parallel if strong. — ref `01a`
   > —
 - [ ] Confirm RNOR status each FY; do any Roth/401k moves **inside** RNOR window; stop foreign-income shielding once Ordinarily Resident. — ref `04`
   > —
-- [ ] Wife Phase-2: shift to remote/freelance + baking (portable; thinner Kolkata market). — ref `06`
+- [ ] Confirm from abroad: rent flowing, Tesla autopay + insurance active, caretaker doing 4–6 wk checks, US mail/banking accessible.
   > —
-- [ ] **(Fallback only)** If 7-yo's passport lapses/lost abroad before **Jun 2029**: book ACS appointment at nearest US post (Chennai/Hyderabad from BLR; Kolkata from WB); DS-11 + both parents + child + DS-3053 (consular-notarized) if one can't attend; budget 8–12 wks; then re-link OCI. — ref `01c`
+- [ ] **(Fallback only)** If 7-yo's passport lapses/lost abroad before **Jun 2029**: book ACS appointment at Chennai/Hyderabad US post; DS-11 + both parents + child + DS-3053 (consular-notarized) if one can't attend; budget 8–12 wks; then re-link OCI. — ref `01c`
   > —
 
 ---
 
-## PHASE 3 — Return to US (~Year 2.5–3)
+## RETURN TO US (~Year 2.5–3)
 
 - [ ] On EB-1C (or EB-1A) approval + current PD → **Consular Processing via NVC** → immigrant-visa interviews at **Mumbai** (locks 13-yo CSPA age). — ref `01/01a`
   > —
@@ -219,12 +200,12 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 ## Open Questions for Professionals
 *(park questions for attorney / CPA / CA / nephrologist / mortgage broker here so consults are efficient)*
 - Attorney: —
-- CPA/CA: —
-- Nephrologist: —
+- CPA/CA: Solar lease payments (if I pay them) — confirm deductible as rental expense on Schedule E? Any W-8ECI implications?
+- Nephrologist (Narayana): (a) Month-3 doppler + first-cannulation date, (b) **Does Ayushman Bharat PMJAY cover HD for a 76-yo on my father's Aadhaar?** If not, per-session cost? Any Karnataka state schemes? (c) Transplant ruled in/out?
 - Mortgage broker: —
 
 ---
 
 ## Weekly Log
 *(one line per week — biggest move + biggest blocker)*
-- Week of 2026-07-__ : —
+- Week of 2026-07-06: **Decision: Bengaluru-only (no Kolkata move).** Fistula 2 mo post-op, tracking on timeline. Once kids in school, don't move them — stability worth ~₹18-25L trade-off. Parents stay with us, father continues at Narayana. Wife full BLR focus. Solar lease addressed (SunPower bankrupt→servicing transferred). Next: Month-3 fistula assessment (late July) + Ayushman coverage check.
