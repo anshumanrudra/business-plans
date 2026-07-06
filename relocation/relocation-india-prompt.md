@@ -60,7 +60,7 @@
 - Provide practical, clear, minimilistic & actionable plan with no unnecessary complexity.
 - Provide complete results with no interruptions or questions asked until you're done.
 - When web-researching limit to top rated 25 sites only for faster execution.
-- Create output to `/Users/Anshuman.X.Rudra.-ND/projects/github/anshumanrudra/business-plans/relocation/pass5-opus/`
+- Create output to `/Users/Anshuman.X.Rudra.-ND/projects/github/anshumanrudra/business-plans/relocation/pass6/`
 
 # AGENT - DO NOT READ
 - https://disney.service-now.com/DToolsHR?id=dthr_request&table=sn_hr_core_case&sys_id=7a03b1a1c3b10394a1b1900f050131a7
