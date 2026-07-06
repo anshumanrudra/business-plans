@@ -54,9 +54,17 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
   > —
 
 ### C. Finance + house (sequence matters: solar → refi → trust → rent → W-8ECI → reserve)
-- [ ] **Solar lease (SunPower bankruptcy):** identify current servicer (check billing portal/statements), read lease (monthly cost/transferability/buyout), decide rental structure (you pay vs tenant assumes). — ref `04a`
+- [ ] **Solar lease (SunPower bankruptcy):** identify current servicer (check billing portal/statements), read lease (monthly cost/escalator %/buyout clause). — ref `04a`
+  > — 2026-07-06: Deep research complete. Key finding: **30% federal solar ITC if you buy out** (vs $0 tax benefit if leased). Buyout decision depends on actual cost (need servicer quote). Decision framework: net buyout ≤$10k → strong buy; $10-15k → evaluate; ≥$15k → keep lease.
+- [ ] **Call servicer for buyout quote:** "I want to buy out my SunPower lease. What's the current buyout price and calculation method (early termination vs FMV vs prepaid)?" Get quote in writing. — ref `04a`
   > —
-- [ ] Solar lease: schedule system inspection (document it works); servicer should honor SunPower maintenance obligation.
+- [ ] **Buyout decision math:** Gross buyout cost − 30% ITC = net cost. Compare to 3-yr lease payments (~$4,266 with 3% escalator). Payback analysis. — ref `04a`
+  > —
+- [ ] **Ask cross-border CPA:** "If I buy out solar lease (claim 30% ITC) then convert house to rental, can I ALSO depreciate the system as rental property equipment over 27.5 yrs?" — ref `04a`
+  > —
+- [ ] **Solar decision by mid-August:** (a) Buy out if net cost ≤$10-15k, OR (b) Keep lease and disclose to tenants. If buyout: initiate with servicer (30-60 day process), arrange payment, get ownership transfer docs. — ref `04a`
+  > —
+- [ ] Solar: schedule system inspection (document it works); if buyout, establishes baseline; if lease, protects from tenant claims. — ref `04a`
   > —
 - [ ] Pull exact **P&I vs T&I split** from mortgage servicer *(confirms recast/refi math)* — ref `04a`
   > —
@@ -200,8 +208,9 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 ## Open Questions for Professionals
 *(park questions for attorney / CPA / CA / nephrologist / mortgage broker here so consults are efficient)*
 - Attorney: —
-- CPA/CA: Solar lease payments (if I pay them) — confirm deductible as rental expense on Schedule E? Any W-8ECI implications?
+- CPA/CA: (1) If I buy out solar lease (claim 30% ITC) then convert house to rental property, can I ALSO depreciate the solar system as rental property equipment over 27.5 years? (2) Solar lease payments (if I keep lease and pay them) — confirm deductible as rental expense on Schedule E? Any W-8ECI implications?
 - Nephrologist (Narayana): (a) Month-3 doppler + first-cannulation date, (b) **Does Ayushman Bharat PMJAY cover HD for a 76-yo on my father's Aadhaar?** If not, per-session cost? Any Karnataka state schemes? (c) Transplant ruled in/out?
+- Solar servicer: (1) Who is servicing my SunPower lease now? (2) Current buyout price? (3) Calculation method (early termination / FMV / prepaid)? (4) Annual escalator % in my lease? (5) Remaining term? (6) Warranty transfer if I buy out?
 - Mortgage broker: —
 
 ---

@@ -16,7 +16,7 @@
 | **Green Card route** | **DUAL-TRACK, porting your May 2021 EB-2 priority date onto EB-1. Primary = EB-1C (multinational manager)** via a genuine people-manager role at **Disney India (first choice) or InfoServices India**, with **L-1A** as the bridge back. **EB-1A kept building in parallel** as a hedge; **O-1A** in reserve. Given elevated denial rates on *both* EB-1 categories, dual-tracking (both carry the 2021 PD) is the real risk mitigation. See §1a. |
 | **H-1B / employment abroad** | Do **NOT** work remotely for Disney on the H-1B from India. **EB-1C requires you to be *employed* abroad as a manager — unpaid leave does NOT build EB-1C time.** So the manager posting (Disney India or InfoServices India) *is* your employment abroad. Keep the I-797 un-revoked. H-1B return is **cap-exempt with recapture — no lottery** (or return on **L-1A**). |
 | **Kids' school** | **Best Bengaluru school** (staying the full 2-3 years, so no "transferable board" constraint). **Inventure Academy (IGCSE)** or **Greenwood High (IGCSE)** recommended for quality + US alignment. Run **UNHS online (~$2–3k/yr)** as the elder son's US-transcript insurance. |
-| **US house** | **Rent it out.** Solar lease (SunPower bankrupt → servicing transferred; identify servicer, disclose to tenants, factor ~$80–150/mo if you pay it). Property manager + landlord insurance + W-8ECI/§871(d) election. Expect ~$700–1,200/mo net surplus after all costs. |
+| **US house** | **Rent it out.** Solar lease: **consider buying out** (30% federal ITC makes net cost ~$7k if buyout is ~$10k; simplifies rental). If buyout ≥$15k, keep lease and disclose to tenants (~$80–150/mo). Property manager + landlord insurance + W-8ECI/§871(d) election. Expect ~$700–1,200/mo net surplus after all costs. |
 | **Tesla** | **Store, don't sell.** Plugged-in @ ~50–60%, Sentry OFF, jack stands (max PSI), dehumidifier. Keep full coverage (lien). Autopay the 0% loan. **Rent indoor storage (~$150–200/mo) — do NOT build the shed.** |
 | **Shipping** | **Sea consolidator** for ~20 boxes (~$1,800–2,100, self-pack) + free/extra airline bags. Ship **used goods only**; use **Transfer of Residence** (you qualify: ₹7.5 lakh duty-free). |
 | **Taxes** | Use **FTC (Form 1116), not FEIE**. **Move after Sept 30** to lock a Non-Resident → **RNOR** window that shields US income from India tax for ~2–3 years — your core savings engine (~$155k–215k+ 3-yr wealth build). |
@@ -160,7 +160,7 @@ This drives:
 6. [ ] **Bengaluru for full 2-3 years** — one long-term lease (~2.5-3 yr or 11-mo renewable) Off-Sarjapur/Choodasandra.
 
 **Pre-move setup:**
-7. [ ] **Solar lease:** identify current servicer (post-SunPower bankruptcy; check billing), read lease (cost/transferability/buyout), decide rental structure (you pay vs tenant assumes), inspect system, brief property manager.
+7. [ ] **Solar lease:** identify servicer, get **buyout quote** (call: "What's the buyout price and calculation method?"). Run math: net cost after 30% ITC vs 3-yr lease payments. **Decide by mid-Aug:** buy out if net ≤$10-15k (simplifies rental + you own asset), else keep lease. Ask CPA: can you claim ITC + depreciate as rental equipment?
 8. [ ] Renew **7-yo's US passport** now; confirm OCI valid.
 9. [ ] Email 5 **best BLR schools** for mid-year seats + fees (Inventure, Greenwood, TISB, DPS); register **UNHS online** for elder son.
 10. [ ] Pull/digitize all US school records (incl. **course descriptions**); request **Transfer Certificate** + district credit guidance.

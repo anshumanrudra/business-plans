@@ -91,52 +91,179 @@ The risk: a **gap between move-out and first tenant** = you carry ~$3,200/mo wit
 
 ---
 
-## 3. Solar Lease — SunPower Bankruptcy and Servicing Transfer
+## 3. Solar Lease — SunPower Bankruptcy, Servicing Transfer, and Buyout Analysis
 
-**Background:** SunPower filed for bankruptcy and solar leases have been transferred to a different servicing entity. This affects both the rental calculation and tenant disclosure requirements.
+**Background:** SunPower filed for bankruptcy and solar leases have been transferred to a different servicing entity. You have three options: (1) keep the lease and pay it yourself, (2) have tenant assume the lease, or (3) **buy out the lease to own the system.**
 
-### What you need to do BEFORE renting
+**Deep research completed (2026-07-06):** Buying out the lease makes you eligible for the **30% federal solar Investment Tax Credit (through 2032)**, which can significantly offset the buyout cost. However, actual buyout costs and bankruptcy-specific processes were not found in public sources — you need to contact your servicer directly.
 
-1. **Identify the current servicer.** SunPower's solar leases were sold/transferred during the bankruptcy proceedings. Check:
-   - Your latest billing statement or payment portal to identify who is now servicing the lease
-   - Any notices sent about the bankruptcy and servicing transfer
-   - The recorded lease/easement documents (likely filed with the county recorder)
-   - Common servicers that acquired SunPower portfolios: SunPower SPE (the reorganized entity), other solar lease buyers
+---
 
-2. **Understand the lease terms and transferability:**
-   - **Can the lease transfer to a tenant?** Most residential solar leases allow the homeowner to remain responsible while the tenant benefits from the power (tenant pays you, you pay the lease), OR allow a full lease assumption by a creditworthy tenant (requires servicer approval). Read your specific lease.
-   - **Buyout option:** some SunPower leases had an early-buyout price. If the buyout is cheap and makes the house simpler to rent, consider it — but do the math (buyout cost vs. remaining lease payments vs. tenant appeal).
-   - **Production guarantee and maintenance:** SunPower leases typically included system maintenance and a production guarantee. Confirm the new servicer honors these — this protects you while abroad.
+### Option A: Buy Out the Lease (Own the System)
 
-3. **Disclosure to tenants (required in most states):**
-   - You **must disclose** the solar lease in the listing and lease agreement — a tenant who discovers an undisclosed $80-150/mo solar lease after move-in can break the lease or sue.
-   - Two common rental structures:
-     - **Tenant pays you full rent; you continue paying the solar lease** (simplest; tenant benefits from lower electric bills; you eat the lease cost but can adjust rent accordingly).
-     - **Tenant assumes the solar lease payment** (requires servicer approval, credit check on the tenant; cleaner separation but harder to find tenants willing to assume it).
+**Why consider this:**
+- **30% federal solar ITC eligibility:** If buyout costs $10,000, you get a **$3,000 tax credit** (claim on your tax return via IRS Form 5695)
+- **Eliminates monthly payment:** No more $80-150/mo (~$2,880-5,400 over 3 years)
+- **Eliminates annual escalators:** Most solar leases have 1-5% annual payment increases; ownership freezes your cost
+- **Simplifies rental:** House markets as "solar-equipped, no extra fees" — cleaner for tenants, no disclosure complexity
+- **You own the asset:** System has 25-35 year operational life; continues providing value after you return
+- **May increase property value:** Owned solar generally seen as more valuable than leased
 
-4. **Impact on rental income:**
-   - If you're paying the lease (~$80-150/mo typical residential lease), **subtract it from your net rental income** when calculating PITI coverage. Example: if solar lease is $120/mo, your effective costs are PITI $3,200 + solar $120 = $3,320/mo before rent.
-   - **Tenant appeal:** a solar lease can be a **selling point** (lower electric bills, green energy) IF properly disclosed and the cost/benefit is clear. Don't hide it.
+**The buyout decision math:**
 
-5. **Notify your property manager:**
-   - Give the PM the servicer contact info, your lease account number, and the lease terms summary (monthly cost, buyout option, transferability). They need this for tenant screening and lease drafting.
-   - If the lease is NOT transferable to the tenant, confirm the PM knows **you** remain responsible and they should collect enough rent to cover it.
+| Buyout Cost (after 30% ITC) | 3-Year Lease Cost (with 3% escalator) | Recommendation |
+|---|---|---|
+| **≤ $5,000** (buyout ~$7,143 gross) | ~$4,266 | **BUY IT** — slightly more but you own the asset |
+| **≤ $7,000** (buyout ~$10,000 gross) | ~$4,266 | **Strong buy** — ~$3k more for ownership + simplicity |
+| **≤ $10,000** (buyout ~$14,286 gross) | ~$4,266 | **Evaluate** — ~$6k more, but eliminates long-term escalators + rental complexity |
+| **≥ $15,000** (buyout ~$21,429 gross) | ~$4,266 | **Keep lease** — too expensive vs 3-year horizon |
 
-6. **Bankruptcy-specific: check for missed maintenance or system failures:**
-   - SunPower's bankruptcy and servicing transition may have created gaps in system monitoring or maintenance. **Before you leave**, have the system inspected (the servicer should do this for free under the lease) and document that it's working. If the system fails while you're abroad and the tenant loses power/has high bills, it's your problem as the landlord.
+**Key unknowns (you must get these from your servicer):**
+- **Actual buyout cost:** Lease contracts typically offer (a) early termination buyout, (b) fair market value, or (c) prepaid remaining payments
+- **Buyout calculation method:** Which option applies? Is there a formula in your lease?
+- **Warranty transfer:** If you buy out, does the system warranty transfer to you? (SunPower bankruptcy complicates this)
+- **Maintenance responsibility:** After buyout, you're responsible for repairs/maintenance (no longer covered by lease)
 
-### Tax treatment
-- **Solar lease payments you make remain deductible as a rental expense on Schedule E** (just like utilities or HOA fees you pay). The ITC (Investment Tax Credit) belongs to the lease owner (SunPower/servicer), not you.
-- If you **buy out** the lease, the buyout cost is **added to your cost basis** (depreciable over 27.5 yrs), and the system may qualify for the ITC (consult your CPA — ITC phase-down and passive-activity limits apply).
+**Tax implications of buyout:**
+- **30% ITC:** Claim on the year you buy out (via Form 5695)
+- **Rental property twist (UNKNOWN):** If you buy out then convert house to rental, can you ALSO depreciate the system as rental property equipment over 27.5 years? Research couldn't answer this — **ask your cross-border CPA.** If yes, this is a tax arbitrage (ITC + depreciation).
+- **Cost basis:** Buyout cost gets added to your home's cost basis (relevant when you sell)
 
-### Bottom line
-- **Identify the servicer NOW** (check your billing portal/statements).
-- **Read your lease** (transferability, buyout, monthly cost) and decide: keep paying it yourself (adjust rent up), or have tenant assume it (requires servicer approval).
-- **Disclose it** to every prospective tenant (required; also a selling point for green-conscious renters).
-- **Factor the cost** into your rental-income math (if you're paying, it's ~$80-150/mo off your net).
-- **Inspect the system** before you leave (document it's working; the servicer should honor SunPower's maintenance obligation).
+**Technical considerations:**
+- **System continues working:** Solar panels operate 25-35 years; buying out doesn't disrupt operation
+- **Electricity credits:** Whoever pays the utility bill (tenant) gets the solar savings; you just eliminate the lease payment
+- **Insurance:** Update homeowners/landlord insurance to reflect owned equipment (may add ~$50-100/yr)
 
-*Confirm with your property manager and real-estate attorney whether your state requires specific solar-lease disclosures in rental agreements.*
+**How to proceed:**
+1. **Identify current servicer** (check billing statement/payment portal)
+2. **Call servicer:** "I want to buy out my SunPower residential solar lease. What's the current buyout price and calculation method?"
+3. **Request your lease agreement** (if you don't have it) — look for buyout clause (usually Section 10-15)
+4. **Get quote in writing** (buyout cost + any transfer fees)
+5. **Run the math:** Net cost after ITC vs 3-year lease payments (with escalators)
+6. **Consult CPA:** ITC + rental property depreciation question
+7. **Decide by mid-August** (before you leave, so you can handle paperwork/payment while in US)
+
+---
+
+### Option B: Keep the Lease, You Pay It (Status Quo)
+
+**How it works:**
+- You continue paying the servicer ~$80-150/mo
+- Tenant pays you full rent; gets solar electricity savings
+- You adjust rent up to cover the lease cost
+
+**Pros:**
+- **No upfront cost** (keep liquidity for the move)
+- **Maintenance covered** (servicer handles repairs/monitoring)
+- **Flexibility** (you can buy out later if you return to US permanently)
+
+**Cons:**
+- **No tax benefit** (servicer owns system, claims ITC; you get nothing)
+- **Annual escalators** (payment increases 1-5% per year — check your lease)
+- **Rental complexity** (must disclose to tenants, factor into rent, property manager needs to know)
+- **No equity** (paying $4,266 over 3 years with nothing to show for it)
+
+**Tax treatment:**
+- Lease payments are **deductible as rental expense on Schedule E** (like utilities you pay)
+
+**Financial impact:**
+- PITI: $3,159 + Solar: $120 = **$3,279/mo total cost**
+- 3-year total: ~$4,266 (assuming $115/mo midpoint + 3% escalator)
+
+---
+
+### Option C: Tenant Assumes the Lease (Rare)
+
+**How it works:**
+- Servicer approves tenant to take over lease payments
+- Tenant pays servicer directly; you're off the hook
+
+**Pros:**
+- **You pay nothing**
+- **Clean separation**
+
+**Cons:**
+- **Servicer must approve** (tenant credit check)
+- **Hard to find tenants willing** (most prefer simple rent, not separate solar contract)
+- **You may remain liable** if tenant defaults (read lease carefully)
+
+**Not recommended** unless servicer proactively offers this and tenant is enthusiastic.
+
+---
+
+### What You Need to Do NOW (Priority Order)
+
+**This week (highest priority):**
+
+1. **Identify current servicer:**
+   - Check latest billing statement or payment portal for "Remit payment to:" or "Servicer:"
+   - Common post-bankruptcy names: **SunPower SPE** (reorganized entity), or asset sale to Sunrun/Sunnova/etc.
+   - If unclear, call the number on your last bill
+
+2. **Call servicer for buyout quote:**
+   > "I have a residential solar lease originally with SunPower, account #[your account]. I'm relocating abroad and want to explore buying out the lease to own the system. Can you provide: (a) the current buyout price, (b) the calculation method (early termination vs FMV vs prepaid), and (c) any documentation on the buyout process?"
+
+3. **Request your lease agreement** (if you don't have it):
+   - Look for: buyout clause, annual escalator percentage, remaining term, early termination formula
+
+4. **Check for annual escalator in lease:**
+   - Usually in payment schedule section
+   - Typical range: 1-5% per year
+   - This determines your 3-year cost comparison baseline
+
+**Next 1-2 weeks (once you have buyout quote):**
+
+5. **Run the buyout math:**
+   - Gross buyout cost: $______
+   - 30% ITC (claim on tax return): −$______
+   - **Net buyout cost:** $______
+   - **vs. 3-year lease:** ~$4,266 (or recalculate with your actual monthly + escalator)
+   - **Payback period:** Net buyout ÷ annual lease savings
+
+6. **Consult your cross-border CPA:**
+   - "If I buy out a residential solar lease (claim 30% ITC) then convert the house to a rental property, can I ALSO depreciate the solar system as rental property equipment over 27.5 years?"
+   - If yes, this is significant additional tax benefit
+
+7. **Inspect the system** (whether you buy out or keep lease):
+   - Have servicer inspect (should be free under lease) or hire local solar tech
+   - Document it's working properly (take photos, get inspection report)
+   - If you buy out, this establishes baseline condition; if you keep lease, protects you from tenant complaints
+
+8. **Make decision:**
+   - If net buyout ≤ $10k → **strongly consider buying**
+   - If net buyout $10-15k → **evaluate** (depends on rental simplification value to you)
+   - If net buyout ≥ $15k → **keep lease** (disclose to tenants, adjust rent)
+
+**If you decide to buy out (by mid-August):**
+
+9. **Initiate buyout with servicer** (get timeline — typically 30-60 days)
+10. **Arrange payment** (wire/check from US account)
+11. **Get ownership transfer docs** (system becomes your property)
+12. **Notify homeowners insurance** → switch to landlord insurance covering owned solar equipment
+13. **File IRS Form 5695** with your 2026 tax return (claim 30% ITC)
+
+**If you decide to keep lease:**
+
+9. **Notify property manager** (servicer contact, account #, monthly cost, transferability)
+10. **Disclose in rental listing** ("Solar-equipped home, lease payment included in rent; tenant enjoys lower electric bills")
+11. **Add lease cost to PITI** in your rental-income calculations ($3,159 + $120 = $3,279/mo)
+12. **Set up autopay** from funded US account (add to mortgage + Tesla autopay list)
+
+---
+
+### Bottom Line: Buyout vs Lease Decision
+
+**The 30% federal solar ITC is the game-changer.** A $10,000 buyout becomes a $7,000 net cost after tax credit — potentially cheaper than 3 years of lease payments ($4,266+) when you factor in:
+- No annual escalators (lease grows 1-5%/year)
+- Owned asset (25-35 year operational life)
+- Rental simplification (no disclosure complexity)
+- Possible rental property depreciation (ask CPA)
+
+**But you need the actual buyout quote to decide.** Call your servicer this week.
+
+**Decision deadline:** Mid-August (before you leave US) — buyout paperwork/payment is far easier to handle while you're stateside.
+
+*Confirm buyout cost with servicer, ITC + depreciation eligibility with your cross-border CPA, and disclosure requirements with your property manager/real-estate attorney.*
 
 ---
 
