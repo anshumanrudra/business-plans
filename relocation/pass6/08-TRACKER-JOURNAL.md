@@ -28,8 +28,8 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 ## PHASE 0 — Pre-Move Foundation (Now → ~8–12 weeks out)
 
 ### A. Gating decisions (do first — 🔑)
-- [ ] 🔑 **GATE-1 (Fistula):** Confirm father's AV-fistula maturation date with Narayana Bommasandra nephrologist; get "proven on real sessions" criteria in writing. *(sets the entire timeline)* — ref `05`
-  > — (journal here)
+- [~] 🔑 **GATE-1 (Fistula):** Confirm father's AV-fistula maturation date with Narayana Bommasandra nephrologist; get "proven on real sessions" criteria in writing. *(sets the entire timeline)* — ref `05`
+  > — 2026-07-06: 2 months post-surgery, not yet mature. Tracking within expected 3–4 mo timeline for 76-yo diabetic (pass6 baseline assumption). Expect first cannulation attempt late Aug/early Sept, then 3–5 proven HD sessions before parents move to WB. **Revised Phase-1 timeline: our India arrival post-Sept-30 (unchanged for tax), Phase 1 BLR = Oct 2026 → Jan/Feb 2027 (~4 months), parents WB move = Jan/Feb 2027 (not Oct 2026).** Next: schedule Month-3 nephro assessment at Narayana (late July/early Aug) — request ultrasound doppler (flow rate ≥500 mL/min, vessel ≥5-6mm, depth <6mm) + anticipated first-cannulation date. Ask: "How many successful HD sessions before we can transfer care to WB?" (want 3–5 min).
 - [ ] 🔑 **GATE-2 (Attorney + I-140):** Engage business-immigration attorney; confirm InfoServices I-140 approved & **not revoked**; pull approval notice. — ref `01/01a`
   > —
 - [ ] 🔑 **GATE-3 (EB-1C sponsor):** Get written manager JD + org placement from **Disney India (1st)** or **InfoServices India**; counsel confirms qualifying relationship + US "doing business ≥1yr". *(unpaid leave ≠ EB-1C time)* — ref `01a/01b`
@@ -114,13 +114,15 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
   > —
 
 ### F. Parents / healthcare (after GATE-1)
+- [ ] **Month-3 fistula assessment** (late July/early Aug): schedule Narayana Bommasandra nephro + **ultrasound doppler**. Get: (a) flow rate (need ≥500 mL/min), (b) vessel diameter (≥5-6mm), (c) depth (<6mm), (d) **anticipated first-cannulation date**, (e) how many successful HD sessions before WB transfer (want 3–5 min). — ref `05`
+  > —
 - [ ] Have nephrologist **document transplant decision** (rule in/out). — ref `05`
   > —
 - [ ] Decide WB modality: in-center HD @ Krishnanagar (free) vs **home PD** (discuss candidacy). — ref `05`
   > —
 - [ ] Assemble dialysis transfer packet (prescription, dry weight, 3–5 flow sheets, labs, **HBsAg/anti-HCV/HIV**, access details, ECG/CXR). — ref `05`
   > —
-- [ ] **Pre-book + confirm in writing** WB dialysis slot (Krishnanagar Eskag / JNM Kalyani), 6–8 wks ahead. — ref `05`
+- [ ] **Pre-book + confirm in writing** WB dialysis slot (Krishnanagar Eskag / JNM Kalyani), 6–8 wks ahead. *(do this AFTER fistula proven, not before)* — ref `05`
   > —
 - [ ] Register **Swasthya Sathi**; confirm PMNDP eligibility; buy private floater for rest of family (know it won't cover father's dialysis). — ref `05`
   > —
@@ -146,14 +148,16 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
   > —
 
 ### I. India housing (after GATE-5)
-- [ ] Lock short/flexible Bengaluru lease (6–11 mo, break clause); **verify ACT/JioFiber at the address before signing** (needed for kids' online school + your work). — ref `07/02a`
-  > —
+- [ ] Lock short/flexible Bengaluru lease (**now targeting ~4-5 mo = Oct 2026 → Jan/Feb 2027**, with break clause); **verify ACT/JioFiber at the address before signing** (needed for kids' online school + your work). — ref `07/02a`
+  > — 2026-07-06: Phase 1 BLR extended 3→4 mo due to fistula timeline. Lease needs to cover Oct-Jan/Feb (~4 mo minimum), ideally 6-mo with break clause or month-to-month after initial term.
 - [ ] Scout Kolkata New Town remotely (DPS Newtown/Megacity; 3BHK ₹25–45k; confirm fiber). — ref `07`
   > —
 
 ---
 
-## PHASE 1 — Bengaluru (Arrival → parents move to WB, ~3–4 months)
+## PHASE 1 — Bengaluru (Arrival Oct 2026 → parents move to WB Jan/Feb 2027, ~4 months)
+
+*Revised timeline per GATE-1 update: fistula is 2 mo post-op as of Jul 2026, expect first cannulation late Aug/early Sept, proven stable by early Oct. Father continues HD at Narayana through Dec 2026/Jan 2027. Phase 1 BLR extended from 3→4 months to absorb fistula proving window.*
 
 - [ ] Bridge housing: stay with sibling in Choodasandra / serviced apt while apartment-hunting. — ref `03/07`
   > —
@@ -161,7 +165,7 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
   > —
 - [ ] Enroll both kids in transferable-board school; **start UNHS online in parallel** for elder son (put US History/Civics/Am-Lit online). — ref `02/02a`
   > —
-- [ ] **🔑 Father completes fistula maturation + several PROVEN dialysis sessions** at Narayana. *(gates the WB move)* — ref `05`
+- [ ] **🔑 Father completes fistula maturation + several PROVEN dialysis sessions** at Narayana (expect Sept-Jan, 3–5 sessions minimum before WB transfer). *(gates the WB move)* — ref `05`
   > —
 - [ ] **Start managerial role from day one** (≥4–6 reports, hire/fire, budget, <50% IC); begin monthly EB-1C evidence folder (org chart, appointment letter, appraisals). — ref `01a/01b`
   > —
