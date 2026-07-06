@@ -90,7 +90,56 @@ The risk: a **gap between move-out and first tenant** = you carry ~$3,200/mo wit
 
 ---
 
-## 3. Move the House into a Trust Before Relocating
+## 3. Solar Lease — SunPower Bankruptcy and Servicing Transfer
+
+**Background:** SunPower filed for bankruptcy and solar leases have been transferred to a different servicing entity. This affects both the rental calculation and tenant disclosure requirements.
+
+### What you need to do BEFORE renting
+
+1. **Identify the current servicer.** SunPower's solar leases were sold/transferred during the bankruptcy proceedings. Check:
+   - Your latest billing statement or payment portal to identify who is now servicing the lease
+   - Any notices sent about the bankruptcy and servicing transfer
+   - The recorded lease/easement documents (likely filed with the county recorder)
+   - Common servicers that acquired SunPower portfolios: SunPower SPE (the reorganized entity), other solar lease buyers
+
+2. **Understand the lease terms and transferability:**
+   - **Can the lease transfer to a tenant?** Most residential solar leases allow the homeowner to remain responsible while the tenant benefits from the power (tenant pays you, you pay the lease), OR allow a full lease assumption by a creditworthy tenant (requires servicer approval). Read your specific lease.
+   - **Buyout option:** some SunPower leases had an early-buyout price. If the buyout is cheap and makes the house simpler to rent, consider it — but do the math (buyout cost vs. remaining lease payments vs. tenant appeal).
+   - **Production guarantee and maintenance:** SunPower leases typically included system maintenance and a production guarantee. Confirm the new servicer honors these — this protects you while abroad.
+
+3. **Disclosure to tenants (required in most states):**
+   - You **must disclose** the solar lease in the listing and lease agreement — a tenant who discovers an undisclosed $80-150/mo solar lease after move-in can break the lease or sue.
+   - Two common rental structures:
+     - **Tenant pays you full rent; you continue paying the solar lease** (simplest; tenant benefits from lower electric bills; you eat the lease cost but can adjust rent accordingly).
+     - **Tenant assumes the solar lease payment** (requires servicer approval, credit check on the tenant; cleaner separation but harder to find tenants willing to assume it).
+
+4. **Impact on rental income:**
+   - If you're paying the lease (~$80-150/mo typical residential lease), **subtract it from your net rental income** when calculating PITI coverage. Example: if solar lease is $120/mo, your effective costs are PITI $3,200 + solar $120 = $3,320/mo before rent.
+   - **Tenant appeal:** a solar lease can be a **selling point** (lower electric bills, green energy) IF properly disclosed and the cost/benefit is clear. Don't hide it.
+
+5. **Notify your property manager:**
+   - Give the PM the servicer contact info, your lease account number, and the lease terms summary (monthly cost, buyout option, transferability). They need this for tenant screening and lease drafting.
+   - If the lease is NOT transferable to the tenant, confirm the PM knows **you** remain responsible and they should collect enough rent to cover it.
+
+6. **Bankruptcy-specific: check for missed maintenance or system failures:**
+   - SunPower's bankruptcy and servicing transition may have created gaps in system monitoring or maintenance. **Before you leave**, have the system inspected (the servicer should do this for free under the lease) and document that it's working. If the system fails while you're abroad and the tenant loses power/has high bills, it's your problem as the landlord.
+
+### Tax treatment
+- **Solar lease payments you make remain deductible as a rental expense on Schedule E** (just like utilities or HOA fees you pay). The ITC (Investment Tax Credit) belongs to the lease owner (SunPower/servicer), not you.
+- If you **buy out** the lease, the buyout cost is **added to your cost basis** (depreciable over 27.5 yrs), and the system may qualify for the ITC (consult your CPA — ITC phase-down and passive-activity limits apply).
+
+### Bottom line
+- **Identify the servicer NOW** (check your billing portal/statements).
+- **Read your lease** (transferability, buyout, monthly cost) and decide: keep paying it yourself (adjust rent up), or have tenant assume it (requires servicer approval).
+- **Disclose it** to every prospective tenant (required; also a selling point for green-conscious renters).
+- **Factor the cost** into your rental-income math (if you're paying, it's ~$80-150/mo off your net).
+- **Inspect the system** before you leave (document it's working; the servicer should honor SunPower's maintenance obligation).
+
+*Confirm with your property manager and real-estate attorney whether your state requires specific solar-lease disclosures in rental agreements.*
+
+---
+
+## 4. Move the House into a Trust Before Relocating
 
 **Short answer: yes to a *revocable living trust*; no to an LLC or an irrevocable trust.** Here's why.
 
@@ -111,28 +160,30 @@ The risk: a **gap between move-out and first tenant** = you carry ~$3,200/mo wit
 
 ---
 
-## 4. The Order of Operations (this matters — the steps conflict)
+## 5. The Order of Operations (this matters — the steps conflict)
 
-The three moves have a required sequence, because a refi is hard once title is in a trust or the house is a rental, and the trust transfer wants to happen while it's still your residence:
+The moves have a required sequence, because a refi is hard once title is in a trust or the house is a rental, and the trust transfer wants to happen while it's still your residence:
 
-1. **Refinance FIRST (if doing it)** — while (a) you're on **US W-2 income**, (b) title is in **your name** (many lenders make you deed a trust-held property back to yourself to refi, then re-transfer — avoid that dance by refinancing before the trust transfer), and (c) it's honestly your residence (or do an investment-property refi). **Most time-critical step.**
-2. **Transfer into the revocable living trust** — after the refi funds, while it's still your residence (Garn-St. Germain safe harbor). Update the deed + insurance.
-3. **Make it rent-ready + market 45–60 days out; sign a lease** starting near/after your Oct departure; **switch to landlord (DP-3) insurance naming the trust + add umbrella.**
-4. **File W-8ECI + §871(d) net election** with the property manager (Finance §4) so rent isn't hit with 30% gross withholding.
-5. **Fund the reserve** (3–6 mo PITI) in the US account; set **mortgage autopay**.
+1. **Identify the solar lease servicer and decide the rental structure** (you pay vs tenant assumes) — needed for accurate rental-income math and tenant marketing. Read the lease (transferability, buyout, monthly cost); inspect the system.
+2. **Refinance FIRST (if doing it)** — while (a) you're on **US W-2 income**, (b) title is in **your name** (many lenders make you deed a trust-held property back to yourself to refi, then re-transfer — avoid that dance by refinancing before the trust transfer), and (c) it's honestly your residence (or do an investment-property refi). **Most time-critical step.**
+3. **Transfer into the revocable living trust** — after the refi funds, while it's still your residence (Garn-St. Germain safe harbor). Update the deed + insurance. **Note: solar lease likely has a notice requirement** if title changes — notify the servicer (usually just a form; doesn't require servicer approval for a trust transfer where you remain the beneficial owner).
+4. **Make it rent-ready + market 45–60 days out; sign a lease** starting near/after your Oct departure; **disclose the solar lease** in the listing and lease agreement; **switch to landlord (DP-3) insurance naming the trust + add umbrella.**
+5. **File W-8ECI + §871(d) net election** with the property manager (Finance §4) so rent isn't hit with 30% gross withholding.
+6. **Fund the reserve** (3–6 mo PITI + solar lease) in the US account; set **mortgage autopay + solar lease autopay**.
 
-> If you are **not** refinancing, skip step 1 and start at step 2 — the trust transfer and rental prep are independent of the loan.
+> If you are **not** refinancing, skip step 2 and start at step 1 (solar) then step 3 (trust) — the trust transfer and rental prep are independent of the loan.
 
 ---
 
-## 5. Bottom Line
+## 6. Bottom Line
 
+- **Solar lease:** **Identify servicer** (post-SunPower bankruptcy), read the lease (transferability, buyout, cost), **disclose to tenants**, decide if you pay or tenant assumes (servicer approval needed for assumption), **factor ~$80-150/mo into rental-income math** if you're paying, inspect the system before leaving, notify servicer of any title changes (trust transfer).
 - **Mortgage — two levers, opposite trade-offs:**
   - **30-yr refi** stretches the term → biggest payment cut (~$870/mo) but *costs* ~$150k lifetime interest; needs W-2 income + closing costs + honest occupancy; **can't do from India.** Use only for max cash-flow relief.
   - **$50k paydown + recast** keeps the 11-yr term → smaller cut (~$521/mo) but *saves* ~$18.8k interest = a **guaranteed 6.1% return**; cheap, no re-qualifying, **doable from India** — but **locks up $50k of liquidity you may need for the move.** A **partial ~$25k recast** is the balanced play. Do this only *after* funding reserves and *only if not refinancing*.
-  - If rent already covers PITI and you value liquidity, **doing nothing** (keep 6.1%) is fine.
-- **Rental gap:** **pre-lease before departure**, price to fill, hold a **3–6 mo reserve**, use a PM with a placement guarantee, and never let insurance lapse — while reconciling the summer leasing peak with the post-Sept-30 tax departure (market in Aug/Sept, lease starts Oct).
-- **Trust:** **revocable living trust — yes** (probate avoidance + a US trustee who can act while you're abroad; Garn-St. Germain protects it). **LLC — no** (due-on-sale risk; use landlord + umbrella insurance for liability instead). **Irrevocable — no** (overkill).
-- **Sequence:** refi → trust → rent + landlord insurance → W-8ECI → reserve. Do the refi and the trust **before you leave**; both are far harder from India.
+  - If rent already covers PITI + solar and you value liquidity, **doing nothing** (keep 6.1%) is fine.
+- **Rental gap:** **pre-lease before departure**, price to fill, hold a **3–6 mo reserve (PITI + solar)**, use a PM with a placement guarantee, and never let insurance lapse — while reconciling the summer leasing peak with the post-Sept-30 tax departure (market in Aug/Sept, lease starts Oct).
+- **Trust:** **revocable living trust — yes** (probate avoidance + a US trustee who can act while you're abroad; Garn-St. Germain protects it). **LLC — no** (due-on-sale risk; use landlord + umbrella insurance for liability instead). **Irrevocable — no** (overkill). **Notify solar servicer** of trust transfer (form; doesn't require approval).
+- **Sequence:** solar (identify servicer + lease terms) → refi → trust (+ notify solar servicer) → rent + landlord insurance + disclose solar → W-8ECI → reserve (PITI + solar). Do the refi and the trust **before you leave**; both are far harder from India.
 
-*Confirm the refi occupancy representation and due-on-sale specifics with a mortgage broker + real-estate attorney, the trust with an estate attorney, and the withholding/deduction flow with your cross-border CPA. Verify live mortgage rates before assuming a 30-yr refi lowers your rate.*
+*Confirm the refi occupancy representation and due-on-sale specifics with a mortgage broker + real-estate attorney, the trust with an estate attorney, the solar lease terms with the servicer, and the withholding/deduction flow with your cross-border CPA. Verify live mortgage rates before assuming a 30-yr refi lowers your rate.*

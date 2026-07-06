@@ -21,7 +21,7 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 ---
 
 ## Legend of source files
-`01/01a/01b` immigration+EB-1C · `02/02a` education+online · `03` logistics · `04/04a` finance+house · `05` parents · `06` wife · `07` city
+`01/01a/01b` immigration+EB-1C · `02/02a` education+online · `03` logistics · `04/04a` finance+house+solar · `05` parents · `06` wife · `07` city
 
 ---
 
@@ -53,7 +53,11 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 - [ ] After new passport issues: **re-link his OCI** to the new passport number; carry copies of birth cert + passport to India. — ref `01c`
   > —
 
-### C. Finance + house (sequence matters: refi → trust → rent → W-8ECI → reserve)
+### C. Finance + house (sequence matters: solar → refi → trust → rent → W-8ECI → reserve)
+- [ ] **Solar lease (SunPower bankruptcy):** identify current servicer (check billing portal/statements), read lease (monthly cost/transferability/buyout), decide rental structure (you pay vs tenant assumes). — ref `04a`
+  > —
+- [ ] Solar lease: schedule system inspection (document it works); servicer should honor SunPower maintenance obligation.
+  > —
 - [ ] Pull exact **P&I vs T&I split** from mortgage servicer *(confirms recast/refi math)* — ref `04a`
   > —
 - [ ] Decide mortgage move: **do-nothing / 30-yr refi / $25–50k recast** — ref `04a`
@@ -62,17 +66,21 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
   > —
 - [ ] Set up **revocable living trust** + pour-over will; deed house into trust (Garn-St.Germain safe). *(do before it's a rental)* — ref `04a`
   > —
+- [ ] **Notify solar servicer** of trust transfer (form; no approval needed). — ref `04a`
+  > —
 - [ ] **IF recasting:** fund reserves FIRST, then recast (only if not refinancing). — ref `04a`
   > —
-- [ ] Engage US property manager (~8–10%); switch to **landlord (DP-3) insurance** naming the trust; add umbrella.
+- [ ] Engage US property manager (~8–10%); **brief them on solar lease** (servicer contact, account #, lease terms, rental structure). — ref `04a`
+  > —
+- [ ] Switch to **landlord (DP-3) insurance** naming the trust; add umbrella.
   > —
 - [ ] File **W-8ECI + §871(d)** with property manager (avoid 30% gross withholding). — ref `04`
   > —
-- [ ] Fund **3–6 mo PITI reserve (~$10–20k)** in a maintained US account (Schwab). — ref `04a`
+- [ ] Fund **3–6 mo (PITI + solar) reserve (~$10–21k)** in a maintained US account (Schwab). — ref `04a`
   > —
 - [ ] Open **NRE/NRO/FCNR** (ICICI/HDFC/Axis); set up **Wise**; confirm 401k custodian accepts foreign address. — ref `04`
   > —
-- [ ] Set Tesla loan + mortgage **autopay** from funded US account. **Do NOT cash out 401k.**
+- [ ] Set Tesla loan + mortgage + **solar lease autopay** from funded US account. **Do NOT cash out 401k.**
   > —
 - [ ] Break high-tax-state domicile if applicable (license, voter reg, mailing address).
   > —
@@ -127,7 +135,17 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 - [ ] Decide track (job / baking / both-remote); if baking: plan FSSAI Basic (₹100) + Udyam. — ref `06`
   > —
 
-### H. Housing (after GATE-5)
+### H. US house rental prep (45–60 days before departure)
+- [ ] Make house **rent-ready**: repairs, paint, deep-clean, professional photos. — ref `03/04a`
+  > —
+- [ ] Property manager **lists the house** 45–60 days out; **disclose solar lease** in listing (tenant benefit: lower electric bills). — ref `04a`
+  > —
+- [ ] Target: **signed lease starting at/near Oct departure date** (reconciles Sept 30 tax rule with leasing season). — ref `03/04a`
+  > —
+- [ ] Price to fill (3–5% under peak asking saves ~$3,200/vacant-month); **market in Aug/Sept, lease starts Oct**. — ref `04a`
+  > —
+
+### I. India housing (after GATE-5)
 - [ ] Lock short/flexible Bengaluru lease (6–11 mo, break clause); **verify ACT/JioFiber at the address before signing** (needed for kids' online school + your work). — ref `07/02a`
   > —
 - [ ] Scout Kolkata New Town remotely (DPS Newtown/Megacity; 3BHK ₹25–45k; confirm fiber). — ref `07`

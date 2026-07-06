@@ -69,8 +69,9 @@
 - **Empty-home risk:** standard homeowners insurance generally **stops covering a vacant home after 30-60 days**; a **vacant-home policy costs ~50-60% more and often excludes theft/vandalism**. Empty homes deteriorate undetected and attract vandals/squatters.
 - **Property management (essential while abroad):** **~8-12% of monthly rent (avg ~10%)** plus a leasing/tenant-placement fee of **half to one month's rent**.
 - **Landlord insurance:** you **must switch** from homeowners (lenders require it). Costs **~25% more** but covers structure, liability, and loss of rental income.
-- **Rental income** in many markets covers most of the ~$3.2k PITI — plausibly a **net surplus of ~$700-1,200/mo** after management/insurance/maintenance in typical markets.
-- **Tax (see Finance §4):** rental income is taxable (Schedule E); depreciation over 27.5 yrs; **as a nonresident landlord, US-source rent faces a default 30% gross withholding** unless you file **Form W-8ECI** + make the **§871(d) net election**. **Engage a tax advisor before you leave.**
+- **Solar lease (SunPower bankruptcy → servicing transfer):** **Identify the current servicer** (check billing statements/notices), read your lease (monthly cost, transferability, buyout), and **disclose to all tenants**. Two structures: (a) you continue paying the lease (~$80-150/mo) and adjust rent accordingly, or (b) tenant assumes the lease (requires servicer approval + tenant credit check). **Factor the cost** into your rental-income math if you're paying. **Inspect the system** before leaving (document it works; servicer should honor SunPower's maintenance obligation). See detailed guidance in `04a-us-house-strategy.md` §3.
+- **Rental income** in many markets covers most of the ~$3.2k PITI (+ solar lease if you're paying it) — plausibly a **net surplus of ~$700-1,200/mo** after management/insurance/maintenance in typical markets. **Example math:** PITI $3,200 + solar $120 = $3,320; rent $4,500 − mgmt 10% ($450) − maint reserve ~$100-200 = ~$730-830/mo net.
+- **Tax (see Finance §4):** rental income is taxable (Schedule E); depreciation over 27.5 yrs; **solar lease payments are deductible as a rental expense** (like utilities); **as a nonresident landlord, US-source rent faces a default 30% gross withholding** unless you file **Form W-8ECI** + make the **§871(d) net election**. **Engage a tax advisor before you leave.**
 
 ---
 
@@ -137,7 +138,8 @@
 **Weeks 1-2 — Decisions & big-ticket bookings**
 - Lock the move date (target after Sept 30, 2026 for tax + cheaper fares). Phase-1 city = Bengaluru; line up India housing/schools.
 - **Book flights** (Gulf carrier with 2×23 kg free bags; price one-way vs round-trip).
-- Engage a **property manager** for the US house; start landlord-insurance switch and a cross-border tax advisor for nonresident withholding.
+- **Solar lease:** identify the current servicer (check billing portal/statements post-SunPower bankruptcy), read the lease (cost, transferability, buyout), decide rental structure (you pay vs tenant assumes), schedule a system inspection.
+- Engage a **property manager** for the US house (brief them on the solar lease + servicer contact); start landlord-insurance switch and a cross-border tax advisor for nonresident withholding.
 - Decide shed vs. rented storage (recommend **rented storage**).
 
 **Weeks 3-4 — Customs & shipping setup**
