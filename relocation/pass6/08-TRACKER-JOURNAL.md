@@ -16,7 +16,7 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 
 **Weekly ritual (10 min):** scan for `[!]` blocked items, move `[~]` forward, and add a one-line **Weekly log** entry at the very bottom.
 
-**The 5 gating tasks** (nothing downstream moves until these are answered) are marked **🔑 GATE**. Do them first.
+**The 5 gating tasks** (nothing downstream moves until these are answered) are marked **🔑 GATE**. Do them first. *(Taekwondo 3rd dan was initially considered GATE-6 but decision made 2026-07-09: pause at current rank, not a departure blocker.)*
 
 ---
 
@@ -31,13 +31,19 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 - [~] 🔑 **GATE-1 (Fistula):** Confirm father's AV-fistula maturation date with Narayana Bommasandra nephrologist; get "proven on real sessions" criteria in writing. *(gates departure)* — ref `05`
   > — 2026-07-06: 2 months post-surgery, not yet mature. Tracking within expected 3–4 mo timeline for 76-yo diabetic (pass6 baseline assumption). Expect first cannulation late Aug/early Sept, then 3–5 proven HD sessions before departure. **Staying in Bengaluru the full 2-3 years** — no mid-stay moves. **Parents stay with us in BLR** (not WB). India arrival post-Sept-30 (unchanged for tax). Next: schedule Month-3 nephro assessment at Narayana (late July/early Aug) — request ultrasound doppler (flow rate ≥500 mL/min, vessel ≥5-6mm, depth <6mm) + anticipated first-cannulation date. Ask about **Ayushman Bharat PMJAY coverage** for HD (if not covered, budget ~₹2.3-4.7L/yr out-of-pocket).
 - [ ] 🔑 **GATE-2 (Attorney + I-140):** Engage business-immigration attorney; confirm InfoServices I-140 approved & **not revoked**; pull approval notice. — ref `01/01a`
-  > —
+  > — 
 - [ ] 🔑 **GATE-3 (EB-1C sponsor):** Get written manager JD + org placement from **Disney India (1st)** or **InfoServices India**; counsel confirms qualifying relationship + US "doing business ≥1yr". *(unpaid leave ≠ EB-1C time)* — ref `01a/01b`
-  > —
+  > — 2026-07-08: Talked to my leader, need to wait a week when our director is back from vacation for guidance.
 - [ ] 🔑 **GATE-4 (Tax posture):** Engage cross-border CPA + India CA; lock **FTC (not FEIE)**; set move date **after Sept 30**. — ref `04`
   > —
 - [ ] 🔑 **GATE-5 (City decision):** **Bengaluru for full 2-3 years** (no mid-stay moves). Decide neighborhood: Off-Sarjapur/Choodasandra (near sibling + schools + Narayana). — ref `07`
   > — 2026-07-06: Changed from phased BLR→Kolkata to BLR-only. Reason: once kids in school, don't move them. Parents stay with us. Trade ~₹18-25L savings for stability + wife's career + medical continuity. Worth it.
+- [ ] **Elder son's Taekwondo (pause plan):** 6/10 tapes complete (4 remaining = 8 months, won't finish before Oct '26 departure). **Decision: pause at current rank, resume when return ~2029.** — ref `02`
+  > — 2026-07-09: Math: 4 tapes × 2 mo = 8 months (March 2027 earliest completion) + 3rd dan test → spring 2027. Can't finish before Oct '26 departure. No India continuation option (dojo not affiliated). Pausing at current rank — he'll be 16 when we return (~2029), plenty of time to finish. Next: get dojo master confirmation + progress letter.
+- [ ] Meet with Taekwondo dojo master: request (a) **written confirmation** that his 6 completed tapes will be honored when he returns in 2029, (b) any re-certification requirements after 2.5-3 year gap, (c) **formal progress letter** (dates, tape completions, current rank, dojo letterhead). — ref `02`
+  > —
+- [ ] Get dojo master's recommendation letter (optional but helpful): character reference for future 3rd dan test, documents his dedication/progress. — ref `02`
+  > —
 
 ### B. Immigration setup (after GATE-2/3)
 - [ ] Send EB-1C pitch email to chosen sponsor (template in `01b`).
@@ -56,9 +62,12 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 ### C. Finance + house (sequence matters: solar → refi → trust → rent → W-8ECI → reserve)
 - [ ] **Solar lease (SunPower bankruptcy):** identify current servicer (check billing portal/statements), read lease (monthly cost/escalator %/buyout clause). — ref `04a`
   > — 2026-07-06: Deep research complete. Key finding: **30% federal solar ITC if you buy out** (vs $0 tax benefit if leased). Buyout decision depends on actual cost (need servicer quote). Decision framework: net buyout ≤$10k → strong buy; $10-15k → evaluate; ≥$15k → keep lease.
-- [ ] **Call servicer for buyout quote:** "I want to buy out my SunPower lease. What's the current buyout price and calculation method (early termination vs FMV vs prepaid)?" Get quote in writing. — ref `04a`
+  > — 2026-07-09: **Dual-track approach:** (1) Legal path - arbitration for sales misrepresentation ($6k one-time fee, 8-12 mo timeline, 99% success via arbitration per legal counsel); (2) Direct buyout - negotiate lump-sum with servicer. Run both in parallel, take whichever resolves better. Next: (a) identify current servicer, (b) engage legal counsel if pursuing arbitration, (c) get direct buyout quote.
+- [~] **Track 1 (Legal):** Engage solar arbitration attorney ($6k one-time, money-back guarantee, $5,500 if settle); 4 DocuSigns (DOPS request, limited power, affidavit of misrepresentation). Timeline: 8-12 months. — ref `04a`
+  > — 2026-07-08: Consulted with attorney. Confirmed: 99% success via arbitration (sales misrepresentation), $6k fee ($5,500 if settle, money-back guarantee), 8-12 mo timeline, can pursue while abroad. Next: decide whether to start arbitration process (4 DocuSigns) or wait for Track 2 buyout quote first.
+- [ ] **Track 2 (Direct buyout):** Call servicer for buyout quote: "I want to buy out my SunPower lease. What's the current buyout price and calculation method (early termination vs FMV vs prepaid)?" Get quote in writing. — ref `04a`
   > —
-- [ ] **Buyout decision math:** Gross buyout cost − 30% ITC = net cost. Compare to 3-yr lease payments (~$4,266 with 3% escalator). Payback analysis. — ref `04a`
+- [ ] **Solar exit decision math:** Compare (a) Legal settlement outcome, (b) Direct buyout (gross − 30% ITC = net cost), (c) Keep lease (~$4,266 over 3 yrs with 3% escalator). Pick lowest net cost. — ref `04a`
   > —
 - [ ] **Ask cross-border CPA:** "If I buy out solar lease (claim 30% ITC) then convert house to rental, can I ALSO depreciate the system as rental property equipment over 27.5 yrs?" — ref `04a`
   > —
@@ -109,13 +118,14 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 
 ### E. Education (both kids)
 - [ ] Email 4–5 **best BLR schools** (Inventure, Greenwood High, TISB, DPS E-City): mid-year/waitlist seats, exact fees, entry testing. **Staying the full 2-3 years** — no "transferable board" constraint, pick the best school. — ref `02`
-  > —
+  > — 2026-07-09: Working with TISB admission counceller
+  > — 
 - [ ] Get on waitlists for top 2–3 (Inventure/Greenwood IGCSE recommended for quality + US alignment). — ref `02`
   > —
 - [ ] **Elder son online-school:** call UNHS + JMHS — confirm (a) India eligibility + fee, (b) exact annual cost, (c) asynchronous vs live. Enroll (UNHS top pick). — ref `02a`
-  > —
+  > — 2026-07-09: Planning to enroll to **Griggs.edu** (Griggs International Academy, Grades 6-8). Reasons: (1) **Int'l student acceptance**, (2) **Low cost:** $110/course/semester + $95 enrollment = ~$975-1,100/yr (8 courses), vs UNHS $2,450/yr. Fully accredited, asynchronous, US high school diploma accepted by all US colleges. Next: complete Griggs enrollment, pay tuition, request transcript from CT school by end Sept '26.
 - [ ] Request **Transfer Certificate + official transcript** from CT school; get **written credit-acceptance guidance** from district; apostille if needed. — ref `02/02a`
-  > —
+  > — 2026-07-09: This will happen by end of Sept'26
 - [ ] Pull/digitize ALL records: transcripts, **course descriptions/syllabi**, immunizations, test scores. — ref `02`
   > —
 - [ ] Plan calendar: US fall return + India April/mid-year arrival; bridge gap with UNHS online. — ref `02`
@@ -210,7 +220,8 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 - Attorney: —
 - CPA/CA: (1) If I buy out solar lease (claim 30% ITC) then convert house to rental property, can I ALSO depreciate the solar system as rental property equipment over 27.5 years? (2) Solar lease payments (if I keep lease and pay them) — confirm deductible as rental expense on Schedule E? Any W-8ECI implications?
 - Nephrologist (Narayana): (a) Month-3 doppler + first-cannulation date, (b) **Does Ayushman Bharat PMJAY cover HD for a 76-yo on my father's Aadhaar?** If not, per-session cost? Any Karnataka state schemes? (c) Transplant ruled in/out?
-- Solar servicer: (1) Who is servicing my SunPower lease now? (2) Current buyout price? (3) Calculation method (early termination / FMV / prepaid)? (4) Annual escalator % in my lease? (5) Remaining term? (6) Warranty transfer if I buy out?
+- Solar servicer (Track 2): (1) Who is servicing my SunPower lease now? (2) Current buyout price? (3) Calculation method (early termination / FMV / prepaid)? (4) Annual escalator % in my lease? (5) Remaining term? (6) Warranty transfer if I buy out?
+- Legal counsel (Track 1): ~~(1) Confirm arbitration timeline & success rate for sales misrepresentation; (2) Confirm $6k fee structure (upfront? money-back if lost?); (3) Best-case/worst-case outcomes; (4) Can I pursue this while abroad?~~ — **Answered 2026-07-08:** 99% success, $6k/$5.5k fee, 8-12 mo, can pursue from India.
 - Mortgage broker: —
 
 ---

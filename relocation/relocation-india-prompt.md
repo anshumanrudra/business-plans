@@ -14,7 +14,7 @@
 - I have around 20 medium boxes to move to India.
 - Relocation within 2-3 months.
 - I want to save as much as possible during relocation in India.
-- My parents wants to go back to WB and continue Dialysis there once my father's AV Fistuala starts working here at bengaluru.
+- My parents will stay with us in Bengaluru for the full 2-3 years. Father will continue dialysis at Narayana Health (medical continuity). (Changed from original WB plan — once kids in school, don't move them.)
 
 # Context
 ## About Me
@@ -66,4 +66,15 @@
 - Please contact the Leaves Administration team for assistance regarding this inquiry. They can be reached at 321-939-7800.
 - FMLA - dr. needs to dtools HR hub > search > FMLA > knowledge article > care for dependant > 12 weeks off / 
 - rare - 30 days personal leave 
+- SunPower Lien on home - doesn't transfer to new owner
+  - 1. 99% through arbritration, sales misrepresentation
+  - 2. litigation
+  - legal fees 1 time(money back gurantee) - 6000, paid at begining, 5500
+  - 8-12 months
+  - steps
+    - 4 docusign
+    - dops request
+    - limited power 
+    - affidavit of missrepresentation
+  - notification at each step/comm.
   
