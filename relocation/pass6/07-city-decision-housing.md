@@ -1,15 +1,18 @@
-# City Decision: Kolkata vs Bengaluru + Housing
+# City Decision: Bengaluru (near Electronic City) + Housing
 
 *pass6 best-of synthesis. All figures approximate, INR/month unless noted. Data current to 2026. Sources: Numbeo, CommonFloor, NoBroker, Indeed India, school/hospital sites. Verify live rents on MagicBricks/99acres/NoBroker.*
 
-## 1. The Decision Framing (this is the crux)
+> **⚠️ DECISION SUPERSEDED — read this first (2026-07-11).** The city question is **CLOSED: Bengaluru for the full 2-3 years, no Kolkata move** (see `BENGALURU-ONLY-DECISION.md` and the tracker). Parents stay with you in Bengaluru; father continues HD at Narayana Bommasandra (medical continuity). **The reloaded prompt further pins the neighborhood: "near Electronic City."** The Kolkata/Nadia phased material in §1–§6 below is **kept only for reasoning history** — it is no longer the plan. The live guidance is: **§3 Bengaluru neighborhoods (Electronic City = top pick)** + the housing checklist. Skip the Kolkata sections.
 
-**This is NOT a permanent one-city choice.** The father's **AV fistula maturation clock** gates everything. The Bengaluru need is **acute but short** (the fistula window); the Kolkata need is **sustained** (most of the 2-3 years, once parents return to their own home in Nadia). A single permanent choice sacrifices one entirely.
+## 1. The Decision Framing (SUPERSEDED — history only)
 
-> **Earlier drafts that scored Bengaluru as the permanent winner made an analytical error** — they assumed the father dialyzes in Bengaluru indefinitely and never modeled the parents returning to Nadia (which is the stated plan once the fistula matures). Once you model that return, "Bengaluru forever" means being ~1,800 km from your parents for most of the stay. **The phased approach captures both needs and lines up cleanly with the school calendar and the fistula clock.**
+*The phased Bengaluru→Kolkata framing below was the pass6 mid-point analysis. It was overridden 2026-07-06 by the Bengaluru-only decision (once kids are in school, don't move them; parents stay with you; father keeps medical continuity at Narayana). Retained for transparency; do not act on it.*
 
-**➡️ RECOMMENDATION: PHASED — Bengaluru first (~3–4 months, gated on proven fistula), then Kolkata/New Town.**
-**If forced to pick ONE city:** choose **Kolkata/New Town** (where parents live for most of the stay + savings + cultural fit), accepting Bengaluru visits during the fistula window.
+**~~This is NOT a permanent one-city choice.~~** ~~The father's **AV fistula maturation clock** gates everything. The Bengaluru need is **acute but short** (the fistula window); the Kolkata need is **sustained** (most of the 2-3 years, once parents return to their own home in Nadia). A single permanent choice sacrifices one entirely.~~
+
+> ~~**Earlier drafts that scored Bengaluru as the permanent winner made an analytical error** — they assumed the father dialyzes in Bengaluru indefinitely and never modeled the parents returning to Nadia. The phased approach captures both needs.~~ **(This reasoning was itself superseded — the parents are NOT returning to Nadia during the stay; they live with you in Bengaluru.)**
+
+**➡️ ACTUAL DECISION: Bengaluru for the full 2-3 years, housing near Electronic City (dialysis corridor).** No Kolkata phase.
 
 ---
 
@@ -43,13 +46,15 @@ An earlier static (Bengaluru-permanent) analysis scored it **BLR 8.65 / KOL 5.1*
 
 ## 3. Recommended Neighborhoods
 
-**Bengaluru:**
+**Bengaluru (near Electronic City — per the reloaded prompt):**
 | Area | 3BHK rent | Why |
 |---|---|---|
-| **Off-Sarjapur Rd / Choodasandra–Carmelaram (top pick)** | ₹45k–80k | Between school cluster + Bommasandra/E-City; **next to sibling**; near dialysis |
-| **Electronic City (Ph 1/2)** | ₹30k–45k | **Closest to Narayana Bommasandra (~15–20 min); cheapest**; Treamis school nearby |
-| HSR Layout | ₹65k–95k | Premium; heavier traffic to Bommasandra |
+| **Electronic City (Ph 1/2) — TOP PICK** | ₹30k–45k | **Closest to Narayana Bommasandra (~15–20 min) — the father's dialysis anchor; cheapest of the shortlist**; Treamis + DPS E-City in-area; matches the stated "near Electronic City" preference |
+| **Off-Sarjapur Rd / Choodasandra–Carmelaram** | ₹45k–80k | **Next to sibling** (Choodasandra); best access to the Sarjapur intl-school cluster (Inventure/Greenwood/TISB); ~30–40 min to Narayana — the trade-off vs E-City is school-cluster proximity for a longer dialysis commute |
+| HSR Layout | ₹65k–95k | Premium; midway between the two; heavier traffic to Bommasandra |
 | Bellandur (off-ORR) | ₹65k–95k | Good housing/schools; ORR traffic weak point |
+
+> **The E-City vs Choodasandra trade-off (the live housing decision):** The prompt now favors **Electronic City** — it puts the father's 3x/week dialysis run at ~15–20 min (the highest-frequency, least-flexible commute in the household) and is the cheapest. The cost is being ~30–40 min from the Sarjapur intl-school cluster and the sibling. **Recommendation: prioritize E-City** — the dialysis commute recurs 3x/week for 2-3 years and involves a frail 76-yo, whereas the school run is daily but tolerant of distance (school buses serve E-City), and the sibling is a weekend/support relationship, not a daily one. If you choose a Sarjapur-cluster school anyway, confirm it runs a **school bus to E-City** before signing the lease. Treamis (E-City, Cambridge+CBSE) and DPS E-City are the in-corridor school picks that avoid the trade-off entirely — see `02`.
 
 **Kolkata:**
 | Area | 3BHK rent | Why |
@@ -78,22 +83,24 @@ An earlier static (Bengaluru-permanent) analysis scored it **BLR 8.65 / KOL 5.1*
 
 ---
 
+## 5b. Lease-Term Advice (one stable home for the full stay)
+
+- **Bengaluru: one long-term lease — ~2.5-3 years, or 11-month renewable with clear intent to stay.** The Kolkata phase is cancelled, so optimize for stability, not a break clause. Verify **ACT/JioFiber** at the exact address before signing (critical for your work + the kids' online school). Consider a **4BHK** — the household is **6 people** (you + wife + 2 kids + 2 parents).
+- **Bridge on arrival:** stay with the **sibling in Choodasandra** for 2–4 weeks (or a serviced apartment ~₹50–80k the first month) while apartment-hunting.
+- Pick the **best school for the full stay** (no "transferable board" constraint) — see `02`. If it's a Sarjapur-cluster school, confirm a **school bus serves your E-City address** before signing.
+
 ## 6. Final Recommendation + Housing Checklist
 
-**Phase 1 (now → parents' WB move, ~3–4 months):** Base in **Bengaluru, Off-Sarjapur/Choodasandra** (or Electronic City for max cost-saving + dialysis proximity). Cover the father's critical fistula-maturation period beside him and your sibling; kids at a Sarjapur-belt IGCSE school; strongest job/remote setup.
-
-**Phase 2 (after parents resume dialysis in WB):** Relocate to **Kolkata, New Town** — closest to Kalyani/Nadia, ~₹18–25L cheaper over 3 years, cultural fit, good schools (DPS Newtown). This is where you spend the majority of the stay.
+**Full 2-3 year base: Bengaluru, near Electronic City.** E-City puts the father's 3x/week dialysis at Narayana Bommasandra at ~15-20 min (top priority, per the reloaded prompt), is the cheapest of the shortlist, and keeps Treamis/DPS E-City in-corridor for the kids. Off-Sarjapur/Choodasandra is the alternative if you prioritize the Sarjapur intl-school cluster + sibling proximity over the dialysis commute — but the recurring frail-patient run argues for E-City. **No mid-stay move.**
 
 ### Housing Action Checklist (next 2-3 months)
-1. **Confirm the father's fistula maturation date** with the Narayana Bommasandra nephrologist — sets Phase-1 length and the whole timeline.
-2. **Confirm the Nadia/Kalyani dialysis slot in advance** (AIIMS Kalyani / JNM / Krishnanagar Eskag); register for **Swasthya Sathi**.
-3. **Bengaluru: lock a short/flexible lease** (6–11 mo, break clause) in Off-Sarjapur/Choodasandra or E-City; verify fiber before signing.
-4. **School: apply now to a transferable-curriculum school** (Cambridge IGCSE or DPS-CBSE, present in both cities); get withdrawal/transfer terms in writing.
-5. **Scout Kolkata New Town remotely** — shortlist DPS Newtown / DPS Megacity / Newtown School; pre-identify 3BHK gated complexes (₹25k–45k); confirm fiber.
-6. **Budget:** Bengaluru Phase 1 ~₹70–90k/mo (Sarjapur) or ~₹50–60k (E-City); Kolkata Phase 2 ~₹45–60k/mo all-in.
-7. **Mitigate Kolkata's environmental downsides:** budget **air purifiers (₹15–30k/unit)** for the kids/parents and **inverter + generator (₹80k–1.5L)** if the father uses home PD or other medical equipment; RO water filter (Kolkata monsoon contamination).
-8. **Avoid premium/long Bengaluru commitments** (HSR/Bellandur villas, 3-year leases, heavy furnishing).
+1. **Confirm the father's fistula maturation date** with the Narayana Bommasandra nephrologist — the departure gate.
+2. **Confirm father's Bengaluru dialysis coverage:** check **Ayushman Bharat PMJAY** (+ Karnataka's Suvarna Arogya Suraksha / Vajpayee Arogyasri) for HD at Narayana; if uncovered, budget ~₹2.3-4.7L/yr. Father stays at Narayana — no WB transfer.
+3. **Bengaluru: lock ONE long-term lease** (~2.5-3 yr or 11-mo renewable) near **Electronic City** (top pick) or Off-Sarjapur/Choodasandra; 3-4 BHK for 6 people; verify fiber before signing.
+4. **School: apply now to the best-fit school** (Treamis/DPS E-City in-corridor, or a Sarjapur IGCSE school with a confirmed E-City bus); no transfer-board constraint — get entry testing + fees in writing. See `02`.
+5. **Budget:** ~₹40-60k/mo (E-City 3BHK) to ~₹60-100k/mo (Sarjapur or 4BHK); ~₹14-36L over 3 years.
+6. **Bengaluru environment is mild** (temperate, AQI ~80-150, load-shedding ~2-4 hrs/week) — skip the heavy air-purifier/generator spend the old Kolkata plan needed; a basic inverter + RO filter suffice.
 
 ---
 
-**Caveats:** Property-portal pages were blocked during research — rent bands rely on Numbeo + CommonFloor + market knowledge; confirm exact addresses on portals. Verify the father's fistula date and the Nadia dialysis slot by phone before committing to Phase-2 timing — these are the linchpins of the whole plan.
+**Caveats:** Property-portal pages were blocked during research — rent bands rely on Numbeo + CommonFloor + market knowledge; confirm exact addresses on portals. Verify the father's fistula date and Narayana dialysis coverage by phone before committing — these gate the timeline. *(§1-2, §4, and the Kolkata rows of §3 are retained as superseded reasoning history — the live plan is Bengaluru near Electronic City for the full stay.)*

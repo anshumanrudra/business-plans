@@ -1,8 +1,35 @@
 # Parents' Healthcare & Dialysis Plan
 
-*pass6 best-of synthesis.*
+*pass6 best-of synthesis. **Reconciled to the Bengaluru-only decision + dialysis-frequency question added 2026-07-11.***
+
+> **⚠️ DECISION UPDATE — read first.** This file was originally written for the **phased plan where parents return to Nadia/WB and dialysis transfers there.** That is **cancelled.** The live plan (see `BENGALURU-ONLY-DECISION.md`): **parents live with you in Bengaluru for the full 2-3 years; the father continues HD at Narayana Bommasandra the whole time (medical continuity — no transfer).** So §3 (transfer to Nadia), §4 (Nadia/Kolkata centers), and the WB dialysis-slot / Swasthya Sathi steps are **superseded reasoning history** — do NOT act on them. The live coverage question is **Ayushman Bharat PMJAY / Karnataka state schemes at Narayana** (see §0). §1 (fistula gate), §6 (managing his conditions), and the new **§0 (frequency-reduction question)** are the live content.
 
 > **Scope note:** Built around the father's CKD/hemodialysis (HD), with diabetes (insulin 3x/day), hypertension, and hypothyroidism layered on. Costs are approximate INR — anything marked **[verify]** should be confirmed by phone before you commit. Baseline: father dialyzes 3x/week at Narayana Health, Bommasandra, Bengaluru (**+91-80-7122-2222** [verify]), and is getting an AV fistula created there.
+
+---
+
+## 0. Can dialysis go from 3x/week → 1x/week? (Honest answer: no, not safely for this patient)
+
+*You asked about striving toward 1x/week HD to reduce burden. This was researched against peer-reviewed nephrology sources (AJKD/NKF, JASN, Kidney International/ISN, KDOQI). The honest, health-critical answer:*
+
+**For a patient already established on 3x/week maintenance HD — a 76-yo long-standing Type-2 diabetic with HTN — dropping to 1x/week is NOT a recognized or safe goal, and even 2x/week is unlikely to be appropriate.** Here is why, so you can raise it correctly with the nephrologist rather than abandon it blindly:
+
+- **"Incremental" (reduced-frequency) dialysis is a *start-low-go-up* strategy for NEW patients who still have residual kidney function — not a *step-down* for an established patient.** Total clearance = dialysis + the patient's own residual kidney function (RKF). Less machine time is only safe while the kidneys still do part of the work.
+- **The candidacy gate is residual kidney function**, measured objectively: residual renal urea clearance (**KRU ≥ ~3 mL/min**, KDOQI floor ~2) and **urine output > 500 mL/day**. Diabetes is one of the strongest predictors of *rapid* RKF loss, and time already on HD accelerates it — so this patient most likely has little left, which is exactly the wrong profile.
+- **The pivotal number:** in a 23,645-patient cohort (Obi 2015, AJKD/NKF), reduced-frequency dialysis in patients with **low residual clearance (≤3 mL/min) carried a 61% higher mortality (HR 1.61).** A second cohort found ~4x higher mortality on twice-weekly even among RKF-preserved patients (Hwang 2016). **1x/week HD alone** for an established diabetic has essentially no supporting evidence and is considered unsafe (the rare once-weekly cases are highly-selected patients on strict protein-restricted diets, or PD + 1x HD hybrids — not this situation).
+- **Risks of under-dialysis:** fluid overload / pulmonary edema, dangerous hyperkalemia (fatal arrhythmia — sudden cardiac deaths cluster in the long gap between sessions), uremia, cardiovascular death. All elevated in an elderly hypertensive diabetic.
+
+**➡️ The productive reframe:** if the real driver is the *burden of three trips a week*, solve the **logistics**, not the dose. Ask the nephrologist about (a) objectively measuring his current RKF first, (b) **home options — peritoneal dialysis (PD) done at home, or a PD + once-weekly-HD hybrid**, which independently *preserve* residual function better than in-center HD, and (c) transport/closer-center help. Living **near Electronic City (~15-20 min to Narayana)** already cuts the trip burden materially — that's the safe lever, not fewer sessions.
+
+**Exact questions for the Narayana nephrologist:**
+1. What is his current **residual renal urea clearance (KRU)** and **24-hr urine volume** — high enough that any frequency reduction could ever be safe?
+2. What would his **total Kt/V** be on 2x/week vs 1x/week — does it stay above the adequacy target?
+3. Given he's diabetic and already on HD, how much residual function does he realistically have, and how fast will it fall?
+4. Are his **interdialytic weight gain, predialysis potassium and phosphate** controlled enough to tolerate longer gaps?
+5. Honestly — for a patient in his situation, would you *ever* recommend 1x/week, or is that dangerous?
+6. If the issue is the three trips, what are the **home/PD alternatives** and would he be a PD candidate (weighing peritonitis risk in a diabetic)?
+
+*(Sources: Obi 2015 AJKD; Hwang 2016; Vilar 2021 Kidney Int; Bolasco 2025 systematic review; Meyer 2020 JASN citing KDOQI; Moist 2000 JASN. This is guidance for what to ask — not medical advice; every number must be checked against his own labs by the treating nephrologist.)*
 
 ---
 

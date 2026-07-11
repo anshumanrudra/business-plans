@@ -99,14 +99,17 @@ A **US-regionally-accredited transcript needs no credential evaluation** — it 
 | American International School Chennai | Chennai | "American" — **verify exact accreditation directly** |
 | Canadian International / Stonehill | Bangalore (north) | NEASC, IB — IB-led, not American diploma; far north of your corridor |
 
-**Accredited ONLINE US high school** (lets the elder son keep/earn a US diploma from India — the strongest single hedge):
+**Accredited ONLINE US high school** (lets the elder son keep/earn a US diploma from India — the strongest single hedge). *Shortlist re-researched 2026-07-11 for the grade-10/11 re-entry case — full detail + decision rule in `02a`:*
 | School | Accreditation | Approx. annual cost | Notes |
 |---|---|---|---|
-| **University of Nebraska High School (UNHS)** | Cognia + Nebraska DOE; NCAA-approved | **~$2,000-3,000/yr** | **Most economical**; full US diploma; welcomes international |
-| Laurel Springs | WASC + Cognia | ~$11,700/yr (Academy ~$17,250) | International supported |
-| Stanford Online HS | WASC | high-$20Ks-$30K+ | Highly selective, full-time |
-| James Madison HS (Ashworth) | Cognia + DEAC | ~$1,000-1,600 total (self-paced) | Confirm international eligibility |
-| ~~Stride/K12~~ | Cognia | — | **India is on K12's ineligible list — NOT available** (Keystone is also India-restricted) |
+| **University of Nebraska High School (UNHS)** | **Cognia + Nebraska DOE** (regional); NCAA; async | **~$3,000/yr** ($300/sem-credit) | **🥇 Top pick — safest transcript.** University-run; full US diploma. Confirm India enrollment in writing. |
+| **Forest Trail Academy** | **Cognia + MSA-CESS** (regional); NCAA; async | **$2,950/yr** (or $250/mo) | **🥈 Best value that still transfers cleanly. Explicitly serves India.** |
+| **Excel High School** | **Cognia + MSA** (regional); async | ~$99-249/mo tiered | 🥉 Explicit India + "any time zone"; verify NCAA + annual cost |
+| **Whitmore School** | Cognia (regional); NCAA; async | $2,299/yr | Regional "safe" alt, just over $2k |
+| Laurel Springs | WASC + Cognia | ~$9,900-15,700/yr | Premium college-prep; only if budget expands |
+| ~~James Madison HS (Ashworth)~~ | Cognia **+ DEAC** | ~$1,000-1,600 total | **⚠️ Reversed: DEAC-national + "acceptance at school's discretion" = grade-10/11 transfer risk. Prefer a regional-first school.** |
+| ~~Stanford OHS~~ | WASC | ~$30K/yr | **Live synchronous = IST-incompatible; rule out** |
+| ~~Stride/K12, Keystone~~ | Cognia | — | **India-ineligible — NOT available** |
 
 **Practical model for the elder son:** Enroll in a strong **IGCSE school in India for the social/in-person experience**, AND/OR keep an **accredited US online enrollment (UNHS is the value pick, ~$2-3K/yr)** running in parallel or as a fallback so he can graduate with a US high school diploma if return timing slips. The younger son needs none of this.
 

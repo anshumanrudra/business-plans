@@ -1,8 +1,10 @@
 # Clear Path: US Online School from India (Kids)
 
-*pass6 addendum, 2026-07-02. A step-by-step enrollment path for keeping the kids on an accredited **US** school record while living in India — the single strongest hedge against a US-return education gap. Focus is the **elder son (13, ~grade 8→10)**, for whom a US-accredited transcript matters most; the younger son (7) needs at most a light supplement. Tuition figures are **planning estimates — confirm live** on each school's tuition calculator or by phone; accreditation/international-eligibility facts below were verified on the schools' own sites (Jun 2026).*
+*pass6 addendum, 2026-07-02; **online-school shortlist re-researched & expanded 2026-07-11** for the grade-10/11 US re-entry case. A step-by-step enrollment path for keeping the kids on an accredited **US** school record while living in India — the single strongest hedge against a US-return education gap. Focus is the **elder son (13, ~grade 8→9→10 in India, then RETURNS to a US brick-and-mortar high school for grade 10/11)**, for whom a US-accredited transcript matters most; the younger son (7) needs at most a light supplement. Tuition figures are **planning estimates — confirm live** on each school's tuition calculator or by phone; accreditation/international-eligibility facts below were verified on the schools' own sites (Jul 2026).*
 
 > **Note on the Niche list you shared** (`niche.com/.../best-online-high-schools/?tuition=0,4000`): Niche blocks automated access, so I couldn't scrape the live ranking. But the ≤$4,000 tuition filter is exactly the right lens — the schools below are the accredited, India-eligible options that fall in that band. Use the Niche list to sanity-check rankings/reviews, but **verify accreditation + international eligibility on each school's own site** (Niche's tuition field is often stale or shows "per course," not annual).
+
+> **⚠️ The decision that matters most for YOUR case (grade-10/11 re-entry):** Your son doesn't graduate on the online diploma — he **transfers back INTO a US high school mid-stream** for grade 10 or 11. That raises the accreditation bar. In US K-12 there is **no federal accreditation system**; each receiving district decides credit acceptance, and the near-universal rule (verified against state board rules + CT statute) is: **credit from a *regionally* accredited school MUST be accepted; credit from a non-regionally-accredited source can be refused, exam-validated on ONE attempt, or forced to repeat.** So the single deciding factor is: **is the online school regionally accredited (Cognia / WASC / MSA / NEASC) — NOT DEAC-only.** See §2a for the full decision rule and the grade-10/11 re-entry brief.
 
 ---
 
@@ -21,19 +23,53 @@ Two distinct ways to use online school — decide which per child:
 
 ---
 
-## 2. The Shortlist (accredited, India-eligible, in/near your ≤$4k band)
+## 2. The Shortlist (accredited, India-eligible — re-researched 2026-07-11)
 
-| School | Accreditation | International (India) OK? | Est. cost | Best for |
+*Expanded from 5 to 11 candidates and re-verified against each school's own site + accreditor directories, specifically for the **transfer-back-into-US-high-school** case. Ranked async first (async = fits IST; live synchronous = US-daytime = India-midnight, ruled out).*
+
+### Recommended tier — regionally accredited, async, serves international
+
+| School | Accreditation | India/Intl OK? | Grades / diploma | Cost (2025–26) | Format | NCAA | Verdict |
+|---|---|---|---|---|---|---|---|
+| **University of Nebraska High School (UNHS)** | **Cognia + Nebraska Dept. of Ed** (regional-grade); university-run | Serves students "everywhere"; **not** India-listed — confirm in writing | Full 9–12 diploma (200 cr, min 25 via UNHS) | **~$3,000/yr** (10 courses); **$300/semester-credit**, $550/full credit — pay-as-you-go | **Async self-paced** ✅ | **Yes** | **🥇 TOP PICK.** University-operated + Cognia = the gold standard for transferring credits back into a US public HS. Only open item: written India confirmation. |
+| **Forest Trail Academy** | **Cognia + MSA-CESS + NCPSA** (regional-grade) | **Yes — explicitly lists India** | 9–12 (K–12); 24-cr college-prep diploma (diploma = full-time) | **$2,950/yr** in full, or $250/mo | **Async, no live classes** ✅ | **Yes** (code 102800) | **🥈 BEST BUDGET pick that still transfers cleanly.** Cheapest full regionally-accredited diploma that explicitly serves India. Trade-off: smaller/less-known brand than UNHS. |
+| **Excel High School** | **Cognia + MSA-CESS** (regional-grade) | **Yes — worldwide, "any time zone"** | 9–12 accredited diploma | **~$99–249/mo** tiered (~8 cr/yr); exact annual not published | **Async self-paced** ✅ | Not confirmed | **🥉 Solid async alt.** Regional accreditation + explicit India/timezone fit. Verify NCAA + exact annual tuition + transfer-in policy directly. |
+| **Whitmore School** | **Cognia** (regional-grade) | 49 states + 75 countries; India not named | 9–12, 4 diploma options | **$2,299/yr** diploma (2026–27 rate); $495/course | Async, competency-based ✅ | **Yes** | Clean regional + NCAA, just over the $2k line. Good "safe" alternative to Forest Trail. Intl doc fee $75–325. |
+| **Griggs International Academy** (Andrews Univ.) | **MSA-CESS** (regional) + Adventist AAA | 20+ countries via affiliates; India not confirmed | **K–12 incl. full HS diploma — does NOT stop at grade 8** | Not published (request quote) | Async + optional live | Not stated | ⚠️ **CORRECTION to the 2026-07-09 journal note:** Griggs is **not** "grades 6–8" — it's full K–12 with an HS diploma, MSA-regionally accredited. Faith-based (Seventh-day Adventist). Viable, but confirm India + cost, and it's no cheaper than Forest Trail once priced. |
+
+### Premium (only if budget expands)
+
+| School | Accreditation | India/Intl OK? | Cost | Note |
 |---|---|---|---|---|
-| **University of Nebraska High School (UNHS)** | Cognia + Nebraska Dept. of Ed; **NCAA-approved**; university-run | **Yes — explicitly welcomes international** | **~$2,000–3,000/yr** full-time; ~$100–200/course part-time *(verify on their calculator)* | **Top pick — value + credibility.** Public-university-run diploma; strong registrar recognition. |
-| **James Madison High School (Ashworth)** | **Cognia + DEAC** (nationally accredited) | Yes (verify India specifically) | **~$1,000–1,600 total, self-paced**; "$20 to start," monthly pay-as-you-go | Cheapest full diploma; fully self-paced. Good if flexibility/cost is paramount. |
-| **Laurel Springs** | **WASC + Cognia** | Yes, international supported | ~$11,700/yr (above your band) | Premium/college-prep; only if budget expands. |
-| **Stanford Online HS** | WASC | Yes | high-$20Ks–$30K+ | Highly selective, full-time; out of band. |
-| ~~Stride/K12~~, ~~Keystone~~ | Cognia | **NO — India on ineligible list** | — | **Do not pursue — unavailable from India.** |
+| **Laurel Springs** | **WASC + Cognia**; UC A-G approved | **Yes** — 100+ countries, active India presence | ~$9,900/yr standard; ~$15,700 college-prep | Strongest college-prep brand of the async group. Only if you want the premium transcript. |
 
-**Verified facts (from the schools' own sites, Jun 2026):** UNHS = regional + state accreditation, NCAA-approved courses, accepts international students. JMHS = nationally accredited (Cognia + DEAC), pay-as-you-go from $20 to start. **The two in-band diploma options are UNHS and JMHS; UNHS is the stronger transcript, JMHS is the cheaper/most flexible.**
+### Ruled out for your case
 
-> **The accreditation that matters for a clean US return:** regional/recognized accreditation — **Cognia, WASC, Middle States, NEASC**. A diploma from a Cognia/WASC-accredited online school needs **no WES/credential evaluation** — it's already a US record. Confirm the specific accreditor before enrolling.
+| School | Why ruled out |
+|---|---|
+| **James Madison HS (Ashworth)** | *(Reversed from the earlier "cheapest good option" call.)* Holds **Cognia AND DEAC**, but markets nationally and **its own site says credit acceptance is "at the discretion of the individual school."** For grade-10/11 re-entry into a US **public** HS this is the **riskiest async option** — pick a clearly regional-first school (UNHS/Forest Trail/Excel) instead. Only consider if cost dominates AND your target district pre-confirms acceptance. |
+| **Penn Foster HS** | DEAC-national + Cognia, but a **proprietary/test-out program** → highest mid-stream transfer risk. Avoid. |
+| **Stanford Online HS** | **Live synchronous** classes on a US schedule = India-midnight; ~$30k/yr; selective 4-yr immersive, not a transfer waypoint. Rule out. |
+| **Wilostar3D** | No regional accreditation + synchronous 3D classes. Avoid. |
+| **BYU Independent Study** | Regionally accredited & widely accepted, but **credit-only, NO diploma** — use as a *supplement* (fill a specific US-History/NCAA/AP course), not the school of record. |
+| ~~Stride/K12~~, ~~Keystone~~ | **India on ineligible list** — unavailable from India. |
+
+**The accreditation rule for a clean US return:** enroll only where the school is **regionally accredited (Cognia, WASC, MSA, or NEASC)** — verified in the *accreditor's own directory*, not the school's marketing page. A regionally-accredited transcript is a school-issued US record that maps straight to Carnegie units + GPA (no WES needed). A **DEAC-only** school, a **proprietary test-out** program, or a **parent-issued homeschool** transcript all trigger exam-validation (typically one attempt) or repeated courses on return.
+
+## 2a. The grade-10/11 re-entry decision rule (why regional accreditation is non-negotiable)
+
+Because your son transfers back mid-high-school (grade 9–10 credits count toward US graduation + GPA), enroll only in an online school that meets **ALL** of these — and if it fails #1, stop:
+
+1. **Regionally accredited** — Cognia / ACS WASC / MSA-CESS / NEASC (verified in the accreditor's own directory), **not DEAC-only**.
+2. Issues an **official diploma-track transcript** with course names, letter grades, Carnegie-unit credits, and a grading-scale key.
+3. **Teacher-led with real student-teacher interaction + defined course windows** (not open-entry self-paced test-out — that model fails NCAA vetting and reads as a diploma mill to registrars).
+4. Has an **active NCAA course list** (look it up at `web3.ncaa.org/hsportal`) — a free credibility X-ray even if he never plays sports.
+5. Offers **US-standard course titles** — Algebra I/II, Geometry, Biology, Chemistry, and especially **US History, US Government/Civics, Health, PE** (the US graduation requirements Indian/IGCSE curricula skip; take these online *while abroad* so he returns with no gap).
+6. Its catalog **maps onto Connecticut's 25-credit requirement** — **confirmed with your target CT district in writing before re-entry** (CT delegates credit-granting to the local board via C.G.S. § 10-221a; the district's written credit map matters more than any brochure).
+
+> **CT caution (verified):** Connecticut's SDE states it "does not accredit online or homeschooling institutions and therefore neither recognizes credits nor credentials earned through these educational processes." That language targets *unaccredited/self-styled* providers in the **homeschool** context — C.G.S. § 10-221a still permits credit from a properly **regionally accredited, teacher-led** online school. But CT is a strict-acceptance state, so **pre-confirming the credit map with the destination district is essential**, not optional.
+
+> **IGCSE ≠ US high-school credit.** Cambridge's own US recognition guidance is about *university* admission, not HS placement. A US high school evaluates IGCSE course-by-course like any foreign transcript (Maths/Sciences/Languages map well; US History/Civics/Health/PE won't). Treat the in-person IGCSE school as enrichment + likely elective credit, and keep the **accredited US online school as the credit-of-record spine.**
 
 ---
 
@@ -82,21 +118,29 @@ Two distinct ways to use online school — decide which per child:
 
 | Scenario | Annual cost | Notes |
 |---|---|---|
-| **UNHS full-time diploma** | ~$2,000–3,000/yr | Recommended; strongest transcript |
-| **JMHS full diploma (self-paced)** | ~$1,000–1,600 total | Cheapest; flexible |
-| **UNHS part-time (US-subjects only) + IGCSE in person** | ~$400–1,000/yr (a few courses) | Efficient hedge — covers the gap subjects without full double-enrollment |
+| **UNHS full-time diploma** | ~$3,000/yr ($300/semester-credit) | 🥇 Recommended; strongest transcript, university-run Cognia |
+| **Forest Trail Academy full diploma** | **$2,950/yr** (or $250/mo) | 🥈 Cheapest full *regionally-accredited* diploma that explicitly serves India + NCAA |
+| **Excel High School** | ~$99–249/mo tiered | 🥉 Regional (Cognia+MSA), async, explicit India/timezone fit |
+| **Whitmore School** | $2,299/yr | Regional + NCAA "safe" alt, just over $2k |
+| **UNHS/Forest Trail part-time (US-subjects only) + IGCSE in person** | ~$600–1,200/yr (a few courses) | Efficient hedge — covers US History/Civics/Health/PE gap subjects without full double-enrollment |
 | Younger son | ~$0–360/yr | Free (Khan) or IXL/Time4Learning (~$20–30/mo) only if drift appears |
 
-**Whole-family online insurance: well under ~$3–4k/yr** — the highest-leverage, lowest-cost item in the entire relocation plan relative to the downside it protects against (a lost year / credit gap on return).
+**Whole-family online insurance: ~$3k/yr** — the highest-leverage, lowest-cost item in the entire relocation plan relative to the downside it protects against (a lost year / credit gap on return).
+
+> **Note vs. the 2026-07-09 Griggs plan:** Griggs is legitimate (K–12, MSA-regional) — but it is **not** the ~$975–1,100/yr grades-6-8 option the journal recorded (that was a misread; Griggs is full K–12, price is quote-only). For a true sub-$3k *regionally-accredited* diploma that transfers cleanly at grade 10/11 **and explicitly enrolls India students**, **Forest Trail Academy ($2,950) is the better value pick, with UNHS the safest transcript.**
 
 ---
 
 ## 5. Bottom Line
 
-1. **Elder son = accredited US online diploma track (UNHS top pick, JMHS cheapest), run in parallel with an in-person IGCSE school.** This guarantees a US-accredited transcript that needs no credential evaluation on return.
+1. **Elder son = accredited US online diploma track, run in parallel with the in-person IGCSE school.** Because he re-enters a US high school at grade 10/11, the online school MUST be **regionally accredited** so credits transfer with zero loss.
+   - **🥇 UNHS** — safest transcript (university-run Cognia + state, NCAA, async), ~$3,000/yr. Confirm India enrollment in writing.
+   - **🥈 Forest Trail Academy** — best value that still transfers cleanly ($2,950/yr, Cognia+MSA, NCAA, **explicitly serves India**, async).
+   - **🥉 Excel / Whitmore** — solid regional async alternatives.
 2. **Younger son = in-person only + optional free supplements.** Don't over-invest at grade 2.
-3. **Confirm three things by phone before paying:** (a) India eligibility + any international fee, (b) exact annual cost, (c) asynchronous vs live/proctored (prefer asynchronous for IST).
-4. **Avoid Stride/K12 and Keystone** — unavailable from India.
-5. Cross-references: `02-kids-education.md` (curriculum, IGCSE schools, records), housing checklist (verify fiber before signing the lease), and the calendar rule (US fall return).
+3. **Confirm four things before paying:** (a) India eligibility + any international fee, (b) exact annual cost, (c) asynchronous vs live/proctored (**prefer asynchronous for IST**), (d) **regional accreditation verified in the accreditor's own directory** — not the school's marketing page.
+4. **Get the target CT district's written credit map before re-entry** (grade 10/11) — see §2a decision rule #6. This is the single action that converts "hope" into "must-accept."
+5. **Avoid:** James Madison HS & Penn Foster (DEAC/proprietary → transfer risk), Stanford OHS (live/IST-incompatible, ~$30k), Stride/K12 & Keystone (India-ineligible). BYU Independent Study = supplement only (no diploma).
+6. Cross-references: `02-kids-education.md` (curriculum, IGCSE schools, records), housing checklist (verify fiber before signing the lease), and the calendar rule (US fall return).
 
 *Verify all tuition on each school's live calculator/phone; confirm current accreditation and India eligibility directly, as terms change. The Niche ≤$4k list is a good discovery tool but not a substitute for confirming accreditation + international eligibility on the school's own site.*

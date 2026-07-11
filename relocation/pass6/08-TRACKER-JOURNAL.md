@@ -32,13 +32,13 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
   > — 2026-07-06: 2 months post-surgery, not yet mature. Tracking within expected 3–4 mo timeline for 76-yo diabetic (pass6 baseline assumption). Expect first cannulation late Aug/early Sept, then 3–5 proven HD sessions before departure. **Staying in Bengaluru the full 2-3 years** — no mid-stay moves. **Parents stay with us in BLR** (not WB). India arrival post-Sept-30 (unchanged for tax). Next: schedule Month-3 nephro assessment at Narayana (late July/early Aug) — request ultrasound doppler (flow rate ≥500 mL/min, vessel ≥5-6mm, depth <6mm) + anticipated first-cannulation date. Ask about **Ayushman Bharat PMJAY coverage** for HD (if not covered, budget ~₹2.3-4.7L/yr out-of-pocket).
 - [ ] 🔑 **GATE-2 (Attorney + I-140):** Engage business-immigration attorney; confirm InfoServices I-140 approved & **not revoked**; pull approval notice. — ref `01/01a`
   > — 
-- [ ] 🔑 **GATE-3 (EB-1C sponsor):** Get written manager JD + org placement from **Disney India (1st)** or **InfoServices India**; counsel confirms qualifying relationship + US "doing business ≥1yr". *(unpaid leave ≠ EB-1C time)* — ref `01a/01b`
+- [~] 🔑 **GATE-3 (EB-1C sponsor):** Get written manager JD + org placement from **Disney India (1st)** or **InfoServices India**; counsel confirms qualifying relationship + US "doing business ≥1yr". *(unpaid leave ≠ EB-1C time)* — ref `01a/01b`
   > — 2026-07-08: Talked to my leader, need to wait a week when our director is back from vacation for guidance.
 - [ ] 🔑 **GATE-4 (Tax posture):** Engage cross-border CPA + India CA; lock **FTC (not FEIE)**; set move date **after Sept 30**. — ref `04`
   > —
-- [ ] 🔑 **GATE-5 (City decision):** **Bengaluru for full 2-3 years** (no mid-stay moves). Decide neighborhood: Off-Sarjapur/Choodasandra (near sibling + schools + Narayana). — ref `07`
+- [~] 🔑 **GATE-5 (City decision):** **Bengaluru for full 2-3 years** (no mid-stay moves). Decide neighborhood: Off-Sarjapur/Choodasandra (near sibling + schools + Narayana). — ref `07`
   > — 2026-07-06: Changed from phased BLR→Kolkata to BLR-only. Reason: once kids in school, don't move them. Parents stay with us. Trade ~₹18-25L savings for stability + wife's career + medical continuity. Worth it.
-- [ ] **Elder son's Taekwondo (pause plan):** 6/10 tapes complete (4 remaining = 8 months, won't finish before Oct '26 departure). **Decision: pause at current rank, resume when return ~2029.** — ref `02`
+- [~] **Elder son's Taekwondo (pause plan):** 6/10 tapes complete (4 remaining = 8 months, won't finish before Oct '26 departure). **Decision: pause at current rank, resume when return ~2029.** — ref `02`
   > — 2026-07-09: Math: 4 tapes × 2 mo = 8 months (March 2027 earliest completion) + 3rd dan test → spring 2027. Can't finish before Oct '26 departure. No India continuation option (dojo not affiliated). Pausing at current rank — he'll be 16 when we return (~2029), plenty of time to finish. Next: get dojo master confirmation + progress letter.
 - [ ] Meet with Taekwondo dojo master: request (a) **written confirmation** that his 6 completed tapes will be honored when he returns in 2029, (b) any re-certification requirements after 2.5-3 year gap, (c) **formal progress letter** (dates, tape completions, current rank, dojo letterhead). — ref `02`
   > —
@@ -117,13 +117,14 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
   > —
 
 ### E. Education (both kids)
-- [ ] Email 4–5 **best BLR schools** (Inventure, Greenwood High, TISB, DPS E-City): mid-year/waitlist seats, exact fees, entry testing. **Staying the full 2-3 years** — no "transferable board" constraint, pick the best school. — ref `02`
-  > — 2026-07-09: Working with TISB admission counceller
+- [~] Email 4–5 **best BLR schools** (Inventure, Greenwood High, TISB, DPS E-City): mid-year/waitlist seats, exact fees, entry testing. **Staying the full 2-3 years** — no "transferable board" constraint, pick the best school. — ref `02`
+  > — 2026-07-09: Working with **TREAMIS** (https://www.treamis.org) admission counselor. Mid-term admission allowed. Fees: Grade 8 (Cambridge) ₹3.8L, Grade 2 (IB) ₹2.8L. Total ₹6.6L/yr (~$7,920/yr). Next: due diligence (compare to Inventure/Greenwood/TISB waitlist status, visit campus if possible, check academic rigor/US college placement track record).
   > — 
 - [ ] Get on waitlists for top 2–3 (Inventure/Greenwood IGCSE recommended for quality + US alignment). — ref `02`
   > —
-- [ ] **Elder son online-school:** call UNHS + JMHS — confirm (a) India eligibility + fee, (b) exact annual cost, (c) asynchronous vs live. Enroll (UNHS top pick). — ref `02a`
+- [~] **Elder son online-school:** shortlist re-researched — confirm (a) India eligibility + fee, (b) exact annual cost, (c) async vs live, (d) **regional accreditation in accreditor's own directory**. Enroll. — ref `02a`
   > — 2026-07-09: Planning to enroll to **Griggs.edu** (Griggs International Academy, Grades 6-8). Reasons: (1) **Int'l student acceptance**, (2) **Low cost:** $110/course/semester + $95 enrollment = ~$975-1,100/yr (8 courses), vs UNHS $2,450/yr. Fully accredited, asynchronous, US high school diploma accepted by all US colleges. Next: complete Griggs enrollment, pay tuition, request transcript from CT school by end Sept '26.
+  > — 2026-07-11: **Re-researched (3 parallel agents) for the grade-10/11 RE-ENTRY case.** Two corrections: (1) **Griggs is NOT "grades 6-8"** — it's full K-12 w/ HS diploma, MSA-regionally accredited (legit, but price is quote-only, not the $975 recorded — that figure doesn't hold). (2) **The deciding factor is REGIONAL accreditation** (Cognia/WASC/MSA/NEASC), because he transfers back INTO a US high school mid-stream — regionally-accredited credit *must* be accepted; DEAC-only/proprietary/homeschool credit can be exam-validated (one attempt) or repeated. **New ranking:** 🥇 **UNHS** (~$3k, university-run Cognia, safest) · 🥈 **Forest Trail Academy** ($2,950, Cognia+MSA, NCAA, async, **explicitly serves India** — best value) · 🥉 **Excel/Whitmore**. **Dropped James Madison HS** (DEAC-national → transfer risk) and **Stanford OHS** (live/IST-incompatible). Next: shortlist UNHS + Forest Trail; email both for **written India-enrollment confirmation + exact price**; verify accreditation in Cognia/MSA directory; look both up on `web3.ncaa.org/hsportal`; **get target CT district's written credit map before re-entry**. See `02a §2/§2a`.
 - [ ] Request **Transfer Certificate + official transcript** from CT school; get **written credit-acceptance guidance** from district; apostille if needed. — ref `02/02a`
   > — 2026-07-09: This will happen by end of Sept'26
 - [ ] Pull/digitize ALL records: transcripts, **course descriptions/syllabi**, immunizations, test scores. — ref `02`
@@ -134,6 +135,8 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 ### F. Parents / healthcare (after GATE-1)
 - [ ] **Month-3 fistula assessment** (late July/early Aug): schedule Narayana Bommasandra nephro + **ultrasound doppler**. Get: (a) flow rate (need ≥500 mL/min), (b) vessel diameter (≥5-6mm), (c) depth (<6mm), (d) **anticipated first-cannulation date**, (e) **Ayushman Bharat PMJAY coverage** for HD (if not covered, out-of-pocket cost ~₹2.3-4.7L/yr). — ref `05`
   > —
+- [ ] **Dialysis frequency (3x→1x/week) — ask nephrologist, but set expectations:** Researched 2026-07-11 — **1x/week is NOT safe for an established elderly diabetic HD patient** (incremental dialysis is a start-low-go-up strategy needing residual kidney function he likely lacks; reduced frequency w/ low residual clearance = 61% higher mortality, Obi 2015). **The safe lever is logistics, not fewer sessions:** living near E-City (~15-20 min to Narayana) + ask about **home PD / PD+1x-HD hybrid**. Bring the 6 questions in `05 §0` to the nephrologist (measure his KRU + urine output first). — ref `05 §0`
+  > — 2026-07-11: Don't pursue 1x/week as a goal. Reframe as "reduce trip burden" → E-City location + evaluate PD candidacy. Objective RKF measurement gates any frequency discussion.
 - [ ] Have nephrologist **document transplant decision** (rule in/out). — ref `05`
   > —
 - [ ] Assemble initial dialysis records (prescription, dry weight, flow sheets, labs, **HBsAg/anti-HCV/HIV**, access details). **Father stays at Narayana** for full 2-3 years (medical continuity). — ref `05`
@@ -150,6 +153,8 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
   > — 2026-07-06: BLR-only plan means she can build full career trajectory there (best market in India for her profile), not plan a Kolkata fallback.
 - [ ] Decide track (job / baking / both-remote); if baking: plan FSSAI Basic (₹100) + Udyam. — ref `06`
   > —
+- [ ] **Wife green-card path (researched 2026-07-11):** **Default = derivative spouse on your EB-1A/EB-1C** (fastest/cheapest, inherits your May-2021 PD). Her own credentials only reach weak EB-2-NIW (stretch) or backlogged EB-3 (needs PERM, 12-yr India wait) — both worse than riding your petition. **Actions:** (a) **verify her + your country of birth** (cross-chargeability lever if born outside India — cheap to check, potentially huge); (b) hold EB-2-NIW as break-glass only if both your EB-1A + EB-1C fail; (c) if ever triggered, first step is WES course-by-course eval of her MBA. — ref `06 §9`
+  > — 2026-07-11: No independent filing now. Ride your EB-1 as derivative. Verify birthplaces. Build her résumé (SHRM-CP, edtech leadership) to strengthen a future NIW only if needed.
 
 ### H. US house rental prep (45–60 days before departure)
 - [ ] Make house **rent-ready**: repairs, paint, deep-clean, professional photos. — ref `03/04a`
@@ -162,8 +167,9 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
   > —
 
 ### I. India housing (after GATE-5)
-- [ ] Lock **long-term Bengaluru lease (~2.5-3 years or 11-mo renewable)** Off-Sarjapur/Choodasandra; **verify ACT/JioFiber at the address before signing** (needed for kids' online school + your work). — ref `07/02a`
+- [ ] Lock **long-term Bengaluru lease (~2.5-3 years or 11-mo renewable)** **near Electronic City (top pick)** or Off-Sarjapur/Choodasandra; **verify ACT/JioFiber at the address before signing** (needed for kids' online school + your work). — ref `07/02a`
   > — 2026-07-06: Changed to BLR-only (no Kolkata move). Staying the full 2-3 years. Need one stable home near sibling + schools + Narayana dialysis. 3BHK ~₹40-80k/mo. Budget ~₹1.4-2.9L/yr vs ₹90k-1.6L in Kolkata (trade ~₹50k-1.3L/yr for stability).
+  > — 2026-07-11: **Neighborhood decided: near Electronic City** (per updated prompt). E-City = ~15-20 min to Narayana Bommasandra (father's 3x/week dialysis — highest-priority commute) + cheapest + Treamis/DPS E-City in-corridor. Trade-off vs Choodasandra: ~30-40 min from Sarjapur intl-school cluster + sibling. **Recommend E-City** (dialysis commute recurs 3x/wk w/ frail patient; school run tolerates distance via bus). If picking a Sarjapur school, confirm it runs a bus to E-City first. 3-4 BHK for 6 people. See `07 §3/§6`.
 
 ---
 
@@ -229,3 +235,4 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 ## Weekly Log
 *(one line per week — biggest move + biggest blocker)*
 - Week of 2026-07-06: **Decision: Bengaluru-only (no Kolkata move).** Fistula 2 mo post-op, tracking on timeline. Once kids in school, don't move them — stability worth ~₹18-25L trade-off. Parents stay with us, father continues at Narayana. Wife full BLR focus. Solar lease addressed (SunPower bankrupt→servicing transferred). Next: Month-3 fistula assessment (late July) + Ayushman coverage check.
+- Week of 2026-07-11: **Prompt reloaded + 3 new items worked.** (1) **Online school re-researched** for grade-10/11 re-entry → regional accreditation is decisive; UNHS 🥇 / Forest Trail Academy 🥈; dropped James Madison (DEAC risk); corrected Griggs "grades 6-8" myth (`02a`). (2) **Neighborhood pinned to Electronic City** (dialysis proximity) — reconciled stale Kolkata content in `07`. (3) **Dialysis 3x→1x/week: researched, NOT safe** for this patient — reframed as logistics/PD, not dose reduction (`05 §0`). Also reconciled `05`/`06`/`07` to the Bengaluru-only decision. (4) **Wife green-card path** → **default = derivative spouse on your EB-1** (fastest); independent EB-2-NIW/EB-3 are weaker hedges only; **verify birthplaces for cross-chargeability** (`06 §9`). House-rent + Tesla-storage confirmed (earlier prompt lines were typos). Next: dialysis coverage call + school/lease actions.

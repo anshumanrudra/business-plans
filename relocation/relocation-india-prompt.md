@@ -1,20 +1,30 @@
 # Goal
-- Help me with clear, consise, actionable plan for relocating to india from the US for 2-3 years with eventual return to the US with faster GC route for my Kids education.
-- I want to taking care of my aging parents.
-- I want to come back to the US for school & college for my kids.
-- My wife wants to work in India.
-- I want to save as much as possible during relocation & stay in India.
-- I don't want any lapse in my kids education.
-- I want value for money in kids education.
+## Smooth Relocation for 2-3 years from US to India
+- Help me with clear, consise and proven actionable plan for relocating to india from the US for 2-3 years with eventual return to the US with faster GC route for my Kids education.
+- I want to relocate to Bengaluru, near Electronic City
+- I want to complete my reloation in 2-3 months.
+- I have around 20 medium boxes for used items and a few kitchen electrical appliances to move to India.
+
+## Faster GC
 - I want to build my case for EB1A while I'm in India and likely apply for Green Card.
 - I also want to be open on EB1C for any future opportunities.
-- For relocation, I want to choose between Kolkata and Bengaluru.
-- I don't want to sell my house in US.
-- I don't want to sell my model y.
-- I have around 20 medium boxes to move to India.
-- Relocation within 2-3 months.
-- I want to save as much as possible during relocation in India.
-- My parents will stay with us in Bengaluru for the full 2-3 years. Father will continue dialysis at Narayana Health (medical continuity). (Changed from original WB plan — once kids in school, don't move them.)
+- Actionable plan to pathways to GC from wife's credentials
+
+## Care giving to ageing parents
+- I want to enable sustainable care-giving of my aging parents while I'm in India.
+- I want to strive towards 1x/week dialysis of my father from current 3x/week.
+
+## Kids Education
+- I want to come back to the US for school & college for my kids.
+- I don't want any lapse in my kids education.
+- I want value for money in kids education.
+
+
+## Save Money
+- I want to save as much as possible during relocation & stay in India.
+- I want to rent my house in US.
+- I want to store my tesla model y.
+
 
 # Context
 ## About Me
@@ -60,9 +70,9 @@
 - Provide practical, clear, minimilistic & actionable plan with no unnecessary complexity.
 - Provide complete results with no interruptions or questions asked until you're done.
 - When web-researching limit to top rated 25 sites only for faster execution.
-- Create output to `/Users/Anshuman.X.Rudra.-ND/projects/github/anshumanrudra/business-plans/relocation/pass6/`
+- Create/Modify output to `/Users/Anshuman.X.Rudra.-ND/projects/github/anshumanrudra/business-plans/relocation/pass6/`
 
-# AGENT STOP HERE - DO NOT READ
+# AGENT SHOULD STOP READING BELOW THIS POINT
 - Please contact the Leaves Administration team for assistance regarding this inquiry. They can be reached at 321-939-7800.
 - FMLA - dr. needs to dtools HR hub > search > FMLA > knowledge article > care for dependant > 12 weeks off / 
 - rare - 30 days personal leave 
