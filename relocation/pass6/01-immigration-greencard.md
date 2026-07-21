@@ -16,6 +16,13 @@ Your single most powerful move is to **port your May 2021 EB-2 priority date ont
 
 ## 1. H-1B Maintenance While Living Abroad 2–3 Years
 
+> **⚠️ DECISION 2026-07-20 — Disney India transfer approved in principle; H-1B will be revoked ONCE YOU ACCEPT THE OFFER (most of this section then becomes moot; kept for the record).** Your leader approved a transfer to **Disney India as Engineering Manager, starting ~1st week Oct 2026**. **Sequencing (clarified 2026-07-20): you resign from the TWDC US entity — and the H-1B (I-797) is revoked — only when you accept a formal Disney India offer.** Until acceptance, **the H-1B stays fully intact and remains a safety net**; do not resign early. Once accepted, this aligns with the plan's already-decided pivot **away** from an H-1B return (the $100k proclamation fee, logged 2026-07-16). Concretely (post-acceptance):
+> - **Recapture of time abroad, AC21 §104(c) 3-year extensions, and cap-exempt H-1B return via this petition are all now moot** — you are not maintaining or returning on this H-1B.
+> - **Your InfoServices I-140 — the anchor of your portable May 2021 PD — is UNAFFECTED.** It is a *separate* petition, approved >180 days, immune to revocation from employer withdrawal (8 CFR 205.1(a)(3)(iii)(C)). Revoking the *Disney H-1B* does not touch it. **The 2021 PD is preserved.** *(Still: pull and file the InfoServices I-140 approval notice now — GATE-2 — before anything else moves.)*
+> - **Your return path is now, cleanly: L-1A (primary) → EB-1C immigrant visa (consular) → O-1A (reserve)** — none of which need the H-1B. The Disney India→Disney US corporate relationship is the textbook L-1A/EB-1C predicate.
+> - ⚠️ **New risk: you lose the H-1B as a safety net.** If L-1A *and* EB-1C *and* O-1A all failed, there is no un-revoked cap-exempt H-1B to fall back on. This **raises the stakes on executing the Disney India managerial role cleanly** (≥1 continuous year, genuine manager) — see §6, §9.
+> - The subsections below (recapture, revalidation, remote-work-on-H-1B) are **retained as historical context** but no longer drive the plan.
+
 **The 6-year clock and AC21 extensions**
 - H-1B is capped at **6 years** in up to 3-year increments (Cyrus Mehta). You entered Nov 2015; your I-797 runs to Oct 2028, so AC21 extensions are already in play.
 - **AC21 §104(c) → 3-year extensions** (8 CFR 214.2(h)(13)(iii)(E)): available because you have an **approved I-140** and **no visa number is available** (EB-2 India backlog). You can keep getting 3-year extensions "so long as an approved I-140 remains in place and no immigrant visa number is available" (Cyrus Mehta).
@@ -130,6 +137,12 @@ Your single most powerful move is to **port your May 2021 EB-2 priority date ont
 
 ## 6. EB-1C Option + L-1A Bridge + O-1 Fallback (Parallel Tracks)
 
+> **⚠️ UPDATE 2026-07-20 — EB-1C is now the primary track; GATE-3 resolved in principle (pending formal offer acceptance).** Your leader approved the **Disney India Engineering Manager** transfer, start **~1st week Oct 2026** — you accept (and resign the US entity) only once the formal offer is in hand. This is the qualifying managerial employment abroad EB-1C requires — at Disney India, the *first-choice, obviously-qualifying* petitioner (large, clear US↔India corporate relationship, US "doing business ≥1 yr" trivially met). Key implications:
+> - **This is a genuine intracompany transfer to the India entity — NOT resign-and-rejoin.** ✅ It satisfies the same-employer/qualifying-relationship requirement below. *(Confirm with counsel that resigning from the TWDC *US* entity to join the Disney *India* entity is structured as an intra-group transfer, not a break in the corporate relationship — this is the one thing to verify at GATE-2.)*
+> - **The 1-continuous-year-abroad clock starts ~Oct 2026.** Both L-1A (needs 1 yr in past 3) and EB-1C (needs 1 continuous yr in past 3) are satisfied from ~Oct 2027 onward.
+> - **"Engineering Manager" title is not enough by itself** — the *capacity* is what USCIS scrutinizes. Get the managerial threshold below into the written JD from day one (≥4–6 direct reports, hire/fire input, budget, <50% hands-on IC).
+> - **Still dual-track EB-1A in parallel** as the hedge (it carries the same 2021 PD and fails on different grounds), and keep **O-1A** in reserve. But EB-1C is now the load-bearing path.
+
 **EB-1C requirements (USCIS EB-1 page):**
 - Employed **abroad ≥1 continuous year in the 3 years** before the petition (or before your most recent US admission), in a **managerial or executive capacity**.
 - US petitioner must intend to employ you in a **managerial/executive** role.
@@ -154,7 +167,7 @@ Your single most powerful move is to **port your May 2021 EB-2 priority date ont
 
 **Returning to the US:**
 - **7-year-old (US citizen):** **No visa.** Enters on a valid **US passport**.
-- **13-year-old (Indian citizen):** Derivative **H-4** as the H-1B child. Needs an **H-4 visa stamp** from a US consulate in India (in-person interview — dropbox ended Oct 2025), then enters in H-4. H-4 EAD does not apply to children. **He ages out of H-4 at 21** (must be unmarried, <21) — a separate clock from CSPA, reinforcing the urgency of EB-1.
+- **13-year-old (Indian citizen):** ⚠️ **No longer H-4** (the H-1B it derived from is being revoked on the Disney India transfer — decision 2026-07-20). His return to the US is now tied to **your L-1A** (as an **L-2 dependent**) or to the **EB-1 immigrant visa** (derivative green card via consular processing). The old H-4-stamp path and the "ages out of H-4 at 21" clock are moot; the **EB-1 derivative GC is his only durable path** and **CSPA is the governing clock** — see §9.
 
 **OCI:**
 - **Elder son** is an Indian citizen — he doesn't need OCI.
@@ -173,7 +186,7 @@ Your single most powerful move is to **port your May 2021 EB-2 priority date ont
 
 **0–3 Months (before/around the move)**
 - [ ] Engage an experienced **EB-1A immigration attorney**; confirm your InfoServices I-140 is approved, **not revoked**, and pull the approval notice (foundation for PD retention).
-- [ ] Decide the **H-1B posture**: secure a **formal unpaid leave** from Disney OR plan an **India-entity transfer/secondment** — get written confirmation Disney **will not withdraw** the I-797. **Do not plan to work remotely for the US H-1B from India.**
+- [~] **H-1B posture DECIDED 2026-07-20: transfer to Disney India as Engineering Manager (~1st wk Oct 2026).** ⚠️ **Resign TWDC US + H-1B revocation happen only on accepting the formal offer** — H-1B stays intact until then (don't resign early). No unpaid leave, no US payroll (post-acceptance). Return via **L-1A / EB-1C**, not H-1B. Before accepting: confirm with counsel the resignation→India-entity move is an **intra-group transfer** (preserves EB-1C qualifying relationship). The InfoServices I-140 (2021 PD anchor) is unaffected by the H-1B revocation.
 - [ ] **Snapshot your evidence now:** pull I-94 travel history, copy all passport stamps, save pay stubs/W-2s (for both recapture and the EB-1A high-salary criterion).
 - [ ] Get a **high-salary documentation letter** from Disney (EB-1A criterion #9).
 - [ ] **Renew the 7-year-old's US passport** now if convenient; confirm his OCI is valid.
@@ -188,16 +201,54 @@ Your single most powerful move is to **port your May 2021 EB-2 priority date ont
 **12–36 Months (file & prepare return)**
 - [ ] **File the EB-1A I-140** (porting the May 2021 EB-2 PD) once evidence is strong — **Premium Processing ($2,805)**, I-140 fee **$715**. Pursue EB-1C in parallel if a qualifying employer route matured.
 - [ ] On EB-1A approval + current PD, **initiate Consular Processing via NVC** → immigrant visa interviews at **Mumbai** for the whole family (locks in the 13-year-old's CSPA age — the priority).
-- [ ] Start **H-1B return logistics early**: file the **cap-exempt** return/recapture I-129 with Disney; book consular **H-1B + H-4 stamping** months ahead (mandatory in-person interviews, 3-6 month waits, social-media vetting). Keep **O-1** in reserve as an interim option.
-- [ ] Re-enter the US on valid visa stamps + I-797; obtain fresh I-94s; if green cards aren't yet issued via CP and you're back in valid status, AOS becomes an option.
+- [ ] Start **return logistics early (L-1A primary, NOT H-1B)**: after ≥1 continuous yr as Disney India manager, have Disney US file the **L-1A** (+ **L-2** for spouse/elder son); book consular **L-1A/L-2 stamping** months ahead (mandatory in-person interviews, 3-6 month waits, social-media vetting). Keep **O-1A** in reserve. *(H-1B return abandoned — revoked + $100k proclamation fee, decision 2026-07-16/07-20.)*
+- [ ] Re-enter the US on valid **L-1A/L-2** visa stamps (or immigrant visas if the EB-1 GC issued first via CP); obtain fresh I-94s; if you're back in valid status when the PD is current, AOS becomes an option.
+
+---
+
+## 9. Kids' Durable-Status Pathway (the real objective) & Canada as Plan B
+
+*Added 2026-07-16. The stated goal is that **the children can study, work, and stay with no visa restrictions** — i.e. green card at minimum, citizenship ideally. Your GC is only the vehicle. Evaluate per child, because they have opposite problems.*
+
+**Younger son (US citizen + OCI): already solved.** No visa restrictions in the US for life, and OCI gives him the same in India. No immigration action — just keep his US passport and OCI current (§7). Remove him from the problem.
+
+**Elder son (13, Indian citizen): this is the entire problem.** ⚠️ **Update 2026-07-20:** with the H-1B being revoked on the Disney India transfer, his **H-4 derivative status ends too** — but this is immaterial *right now* because the whole family is relocating to India, where he lives as an Indian citizen. **The consequence that matters: the H-4 is no longer even a fallback US status. His ONLY path to durable US status is now the EB-1 derivative green card** (riding your EB-1C, with EB-1A as the parallel hedge). This *removes* the old "H-4 until 21" cushion and makes front-loading the EB-1 filing (below) even more critical. The clock that still runs against him:
+- **CSPA aging-out** as an EB derivative — worsened by the **Aug 2025 Final-Action-Dates change** (§5). *(The separate "H-4 aging out at 21" clock is now moot — he's no longer on H-4.)*
+
+### The binding constraint the base plan under-weights
+The 2–3 years in India **burn his window.** If EB-1 is filed late in the India stay (the base "12–36 month" timing) and then I-140 + NVC + consular time is added, the CSPA math gets uncomfortably close to 21. **Therefore the single highest-leverage change is to FRONT-LOAD the EB-1 filing** — file as soon as the EB-1C role or EB-1A evidence is ready, ideally **within the first ~12 months abroad**, precisely to **freeze his CSPA age while he is young.** His durable status, not your convenience, sets the filing date.
+
+### Primary pathway — US LPR via EB-1 derivative, filed EARLY
+1. **Front-load EB-1** (EB-1C primary / EB-1A parallel), porting the May 2021 PD. EB-1 India currentness + early filing → visa "available" soon → **CSPA age frozen low** → he seeks to acquire within 1 year, safely under 21.
+2. LPR → studies (in-state after residency), works unrestricted, stays permanently → naturalizes. **"No restrictions" achieved.**
+3. **Free accelerator — INA 320 / Child Citizenship Act:** if you naturalize *while he is still under 18, an LPR, and residing with you*, he becomes a **US citizen automatically**. On base timing (GC ~2028, naturalize ~2033) he'd be ~19 — just misses it. But if the India stay shortens or EB-1 lands fast, this converts him to citizen for free. Keep in view; don't count on it.
+4. **Don't let him abandon LPR in India:** once he has the immigrant visa, prolonged India residence risks abandonment. Align consular processing with the family's actual return, or obtain a **re-entry permit (I-131)** to bridge — otherwise the hard-won GC erodes.
+
+### Canada PR — funded Plan B (decision 2026-07-16: real relocation fallback)
+For **your** GC, Canada→TN is a dead end: **TN needs Canadian *citizenship*, not PR**; the GC backlog is charged to **country of birth (India)** regardless of citizenship, so you'd still need EB-1; and TN is **single-intent** (GC-hostile). See the rejection rationale below.
+
+But for the **elder son's "no restrictions anywhere" goal**, Canada PR is a genuinely strong fallback, because:
+- **No per-country birth backlog** — his India birth doesn't penalize him.
+- **~3-year path to Canadian citizenship** after PR → aging-out-proof.
+- Express Entry: the family likely scores well (age, education, English, US work experience).
+
+**The catch (unchanged):** Canadian PR carries a **residency obligation (730 days in 5 years)** and citizenship needs **1,095 days physically in Canada** — you must actually **live in Canada**, which is **mutually exclusive with the India plan.** So Canada is not a parallel accelerator; it is a **replacement plan** activated only if the US EB-1 clock is failing him.
+
+**Decision:** Pursue Canada PR (Express Entry) as a **funded, ready-to-activate Plan B**, not paper insurance. Trigger to activate: if by a set checkpoint the EB-1 → consular timeline is projected to slip past the elder son's CSPA/age-21 safety margin, the family (or he + one parent) relocates to Canada instead. Keep it decoupled from the US GC — it replaces the US path, it doesn't feed it.
+
+> **Why not Canada→TN as a US-GC route (rejected):** (1) TN requires Canadian **citizenship**, not PR — the first link is broken. (2) Citizenship needs ~4–5 years **living in Canada**, incompatible with the India plan and with keeping PR alive. (3) GC backlog follows **country of birth (India)** — Canadian citizenship doesn't exit the India queue; you'd **still need EB-1**. (4) TN is **single-intent** — pursuing a GC on it invites 214(b) denials. Net: adds 4–5 years and a live-in-Canada requirement to reach the same place EB-1 reaches faster. Canada's value is as an **independent destination for the kids**, not a US on-ramp.
 
 ---
 
 ### Key Risks Summary
-- **Remote-work-from-India on the H-1B** → visa cancellation / inadmissibility. Avoid; use leave or India payroll.
-- **13-year-old aging out** under EB-2 India (worsened by Aug 2025 CSPA change) → mitigate by switching to **EB-1**.
-- **I-140 revocation** for fraud/error would break PD retention → it's safe past 180 days, but keep Disney/InfoServices from doing anything that triggers a fraud-based revocation.
-- **AC21 trap** (1-year filing window once PD current) → keep EB-1A/current-employer GC moving.
-- **Consular delays** (no dropbox, 3-6 month waits) → plan stamping far ahead for the whole family.
+*(Updated 2026-07-20 for the confirmed Disney India transfer + H-1B revocation.)*
+- **No H-1B safety net (NEW).** With the H-1B revoked, if L-1A **and** EB-1C **and** O-1A all failed there's no cap-exempt H-1B to fall back on → mitigate by **executing the Disney India manager role cleanly** (≥1 continuous yr, genuine managerial capacity) so L-1A + EB-1C are both solid, and keeping **EB-1A + Canada PR** as live hedges.
+- **EB-1C corporate-relationship structuring (NEW/elevated).** Resigning the TWDC *US* entity to join the Disney *India* entity must be structured as an **intra-group transfer**, not a break in the qualifying relationship → confirm with counsel at GATE-2.
+- ~~**Remote-work-from-India on the H-1B** → visa cancellation / inadmissibility.~~ **Moot** — no longer on US payroll or H-1B; you're on Disney India payroll.
+- **13-year-old aging out** under EB-2 India (worsened by Aug 2025 CSPA change) → mitigate by switching to **EB-1**; now **his only durable US path** (H-4 cushion gone).
+- **InfoServices I-140 revocation** for fraud/error would break PD retention → safe past 180 days; **revoking the Disney H-1B does NOT touch it**; still pull the approval notice (GATE-2).
+- ~~**AC21 trap** (1-year filing window once PD current)~~ → **moot** (not maintaining the H-1B).
+- **Consular delays** (no dropbox, 3-6 month waits) → plan **L-1A + immigrant-visa** stamping far ahead for the whole family.
+- **Elder son's CSPA clock** → the real deadline (H-4-@21 clock now moot). Mitigate by **front-loading the EB-1 filing** (§9) and holding **Canada PR as a funded Plan B**.
 
 *Sources cited inline: USCIS.gov (EB-1, Consular Processing, AOS, Policy Manual Vol 7 Pt A Ch 7), travel.state.gov (Visa Bulletin July/Jan 2026, passports), 8 CFR 204.5/205.1/214.2 (Cornell Law), Cyrus Mehta, Murthy, Greenberg Traurig, VisaPro, Immigration-Analytics, VisaVerge. Verify all timing against the current month's Visa Bulletin and confirm strategy with licensed immigration counsel.*

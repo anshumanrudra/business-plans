@@ -10,16 +10,18 @@
 
 ## The One-Page Summary
 
+> **⚠️ MAJOR UPDATE 2026-07-20 — Disney India transfer APPROVED IN PRINCIPLE.** Leader approved a transfer to **Disney India as Engineering Manager, starting ~1st week Oct 2026.** ⚠️ **Sequencing (clarified 2026-07-20): you resign the TWDC US entity — and the H-1B is revoked — ONLY when you accept a formal Disney India offer.** Until you accept, **the H-1B stays fully intact** (a live safety net during negotiation). So the "H-1B revoked" state below is the *post-acceptance* end-state, not today's. **Do not resign until a formal offer is in hand and accepted** (confirm comp/level/role + counsel sign-off on structuring first). Cascading effects (on acceptance): **(1)** GATE-3 (EB-1C sponsor) essentially resolved — Disney India is the qualifying manager role; return path is now cleanly **L-1A → EB-1C → O-1A** (no H-1B). **(2)** You lose the H-1B safety net → execute the manager role cleanly (≥1 continuous yr, genuine managerial capacity). **(3)** Elder son's H-4 ends → **EB-1 derivative GC is his only durable US path**; front-loading it matters more than ever. **(4)** ⚠️ **Financially the biggest change: your salary is now India-source and fully India-taxed** — RNOR does NOT shield it. The old "US salary + RNOR + Indian costs → $155-215k/3yr" thesis is **VOID**; rebuild from the actual Disney India offer. The move is now justified by **green card + kids' status + family stability**, not max wealth. See `01 §1/§6`, `04` top box + §6.
+
 | Decision | Recommendation |
 |---|---|
 | **Where to live** | **Bengaluru for the full 2-3 years.** Keeps kids in one school (no disruption), best market for wife's career, medical continuity for father at Narayana, near sibling. Trade-off: ~₹18-25L higher cost vs Kolkata, but worth it for stability. **Parents stay with you in Bengaluru** (not WB). |
 | **Green Card route** | **DUAL-TRACK, porting your May 2021 EB-2 priority date onto EB-1. Primary = EB-1C (multinational manager)** via a genuine people-manager role at **Disney India (first choice) or InfoServices India**, with **L-1A** as the bridge back. **EB-1A kept building in parallel** as a hedge; **O-1A** in reserve. Given elevated denial rates on *both* EB-1 categories, dual-tracking (both carry the 2021 PD) is the real risk mitigation. See §1a. |
-| **H-1B / employment abroad** | Do **NOT** work remotely for Disney on the H-1B from India. **EB-1C requires you to be *employed* abroad as a manager — unpaid leave does NOT build EB-1C time.** So the manager posting (Disney India or InfoServices India) *is* your employment abroad. Keep the I-797 un-revoked. H-1B return is **cap-exempt with recapture — no lottery** (or return on **L-1A**). |
+| **H-1B / employment abroad** | ✅ **APPROVED IN PRINCIPLE 2026-07-20: Disney India Engineering Manager (~1st wk Oct 2026).** ⚠️ **Resign TWDC US + H-1B revocation happen ONLY on accepting the formal offer** — until then H-1B stays intact (negotiation safety net; don't resign early). This *is* your qualifying managerial employment abroad (EB-1C predicate). Return via **L-1A (primary) → EB-1C immigrant visa → O-1A (reserve)** — **H-1B return abandoned** (would be revoked + $100k proclamation fee). InfoServices I-140 (2021 PD anchor) unaffected by the revocation. Confirm with counsel the US-entity resignation→India-entity join is an **intra-group transfer** (preserves EB-1C qualifying relationship) **before accepting**. |
 | **Kids' school** | **Best Bengaluru school** (staying the full 2-3 years, so no "transferable board" constraint). **Inventure Academy (IGCSE)** or **Greenwood High (IGCSE)** recommended for quality + US alignment. Run **UNHS online (~$2–3k/yr)** as the elder son's US-transcript insurance. |
 | **US house** | **Rent it out.** Solar lease: **consider buying out** (30% federal ITC makes net cost ~$7k if buyout is ~$10k; simplifies rental). If buyout ≥$15k, keep lease and disclose to tenants (~$80–150/mo). Property manager + landlord insurance + W-8ECI/§871(d) election. Expect ~$700–1,200/mo net surplus after all costs. |
 | **Tesla** | **Store, don't sell.** Plugged-in @ ~50–60%, Sentry OFF, jack stands (max PSI), dehumidifier. Keep full coverage (lien). Autopay the 0% loan. **Rent indoor storage (~$150–200/mo) — do NOT build the shed.** |
 | **Shipping** | **Sea consolidator** for ~20 boxes (~$1,800–2,100, self-pack) + free/extra airline bags. Ship **used goods only**; use **Transfer of Residence** (you qualify: ₹7.5 lakh duty-free). |
-| **Taxes** | Use **FTC (Form 1116), not FEIE**. **Move after Sept 30** to lock a Non-Resident → **RNOR** window that shields US income from India tax for ~2–3 years — your core savings engine (~$155k–215k+ 3-yr wealth build). |
+| **Taxes** | ⚠️ **Revised 2026-07-20:** Your **Disney India salary is India-source, fully India-taxed** (~30%+cess, EPF ~12%+12%) — **RNOR does NOT shield it.** RNOR still shields **foreign** income (US rent, 401k, US gains) for ~2-3 yrs — protect that. Use **FTC (Form 1116), not FEIE** on the US side; **move after Sept 30** for the RNOR window. ⚠️ The **~$155-215k/3-yr wealth build is VOID** (assumed a US salary); rebuild from the actual India offer. |
 | **Wife's career** | **Bengaluru focus for full 2-3 years** — best market for edtech/school-admin jobs and a baking business. As Indian citizen/OCI she works freely. Hybrid: baking + freelance + job, ₹6–11L Yr1 → ₹10–16L Yr2 → ₹12-18L Yr3. |
 | **Parents** | **Gate departure on fistula proven** (~3–4 months post-surgery). **Parents stay in Bengaluru** with you. Father continues HD at **Narayana Bommasandra** (medical continuity). Check **Ayushman Bharat PMJAY** coverage; if not covered, out-of-pocket HD ~₹2.3-4.7L/yr (factor into budget). |
 
@@ -33,7 +35,7 @@
 | Care for aging parents | §5 Parents, §7 City | **Parents stay in Bengaluru** with you; father continues HD at Narayana (medical continuity). |
 | Kids back to US school/college, no lapse | §2 Education | **Best BLR school for full stay** (no mid-stay moves); IGCSE + US-online hedge; time the calendar. |
 | Wife works in India | §6 Wife | **Bengaluru focus full 2-3 years** — best market for edtech/admin/baking; no visa barrier. |
-| Save as much as possible | §4 Finance, §7 City | RNOR shield + US salary + India cost of living = save 50–70%+. **BLR-only costs ~₹18–25L more than Kolkata option, but stability worth it.** |
+| Save as much as possible | §4 Finance, §7 City | ⚠️ **Revised 2026-07-20:** now an **Indian manager salary, India-taxed** (not US salary + RNOR shield). Still a healthy savings rate at Indian costs, but **far less in dollars** than the void ~$155-215k model. Rebuild from the real Disney India offer. Move now justified by GC + stability, not max wealth. |
 | Value-for-money education | §2 Education | Inventure/Greenwood High (BLR); UNHS online (~$2–3k) as elder-son insurance. |
 | Faster GC despite high EB-1A denials | §1a EB-1C | **EB-1C primary** via Disney/InfoServices India manager role + L-1A bridge; EB-1A built in parallel; both port the 2021 PD. |
 | Keep house + keep Tesla | §3 Logistics | Rent house; store Tesla; rent storage not shed. |
@@ -63,8 +65,8 @@ This drives:
 ### Phase 0 — Pre-Move (Now → Departure, ~8–12 weeks; target departure after Sept 30, 2026)
 **Immigration (EB-1C primary — see §1a)**
 - Engage a **business-immigration attorney**; confirm InfoServices I-140 is **approved & not revoked** (this anchors your portable 2021 PD for *any* EB-1 sponsor).
-- **Pick the EB-1C sponsor:** get a **written managerial job description + org placement** from **Disney India (first choice)** or **InfoServices India** (viable backup — they have a qualifying entity). Confirm the US↔India qualifying relationship + US "doing business ≥1 yr" with counsel *before* committing.
-- Note the tension: **unpaid Disney leave does NOT build EB-1C time** — you must be *employed* abroad as a manager. Disney India aligns with staying at Disney; InfoServices India means leaving Disney.
+- ✅ **EB-1C sponsor CHOSEN (2026-07-20): Disney India Engineering Manager, ~1st wk Oct 2026** (approved in principle by leader). ⚠️ **Not yet accepted.** Before accepting the formal offer: get the **written managerial JD + org placement** (≥4-6 reports, budget, <50% IC), confirm comp/level, and confirm with counsel the US-entity resignation→India-entity join is an **intra-group transfer** preserving the qualifying relationship + US "doing business ≥1 yr".
+- **H-1B is revoked only on resignation, which happens only on accepting the offer** — until then it stays intact (safety net; don't resign early). Return path is **L-1A → EB-1C → O-1A**, no H-1B. InfoServices I-140 / 2021 PD unaffected.
 - Snapshot evidence: I-94 travel history, passport stamps, pay stubs/W-2s. Keep the **EB-1A file building in parallel** as a hedge.
 - **Renew 7-yo's US passport now** (avoids a both-parents consular trip later); confirm his OCI valid.
 
@@ -105,7 +107,7 @@ This drives:
 
 ### Phase 2 — Return to US (~Year 2.5–3)
 - On EB-1C or EB-1A approval + current PD → **Consular Processing via NVC** → immigrant-visa interviews at **Mumbai** for the whole family (locks the 13-yo's CSPA age).
-- Return on **L-1A** (manager, dual-intent — cleanest with the EB-1C narrative) **or** file **cap-exempt** H-1B return + **recapture** with Disney; book in-person stamping months ahead (dropbox ended Oct 2025; 3–6 month waits). Keep O-1A in reserve.
+- Return on **L-1A** (manager, dual-intent — **primary path** now; needs ≥1 continuous yr as Disney India manager) + **L-2** for spouse/elder son, **or** immigrant visa if the EB-1 GC issued first via CP; book in-person stamping months ahead (dropbox ended Oct 2025; 3–6 month waits). Keep O-1A in reserve. **H-1B return abandoned** (revoked + $100k proclamation fee).
 - Time return to the **US fall** so kids enter on the Aug–Jun calendar with no gap. Carry transcripts + WES evaluation for elder son.
 - Reactivate the US house (or transition tenant), recommission the Tesla.
 - **Parents' return:** they can stay in US with you (B-2 tourist visa, 6 mo max, or file I-130 family-based GC if desired), or return to West Bengal (dialysis transfer at that point).
@@ -119,7 +121,10 @@ This drives:
 | **13-yo ages out** under EB-2 India (worse after Aug-2025 CSPA change) | Switch to **EB-1 (EB-1C primary, EB-1A parallel)** → visa "available" far sooner → CSPA age frozen young. |
 | **High EB-1A denial rates** under current administration | **Dual-track EB-1C + EB-1A** (both port the 2021 PD); EB-1C shifts the fight from "acclaim" to a documentable manager role. |
 | **EB-1C managerial-capacity RFE** (esp. smaller petitioner) | Prefer **Disney India** (big, obviously-qualifying); be a genuine people-manager (≥4–6 reports, budget, <50% IC) documented from day one. |
-| **Remote work on H-1B from India** → visa cancellation/inadmissibility | Use **unpaid leave** or **India payroll**; never work the US H-1B from abroad. |
+| ~~**Remote work on H-1B from India**~~ **RESOLVED 2026-07-20** | On **Disney India payroll** — no US-payroll/remote-H-1B issue, no PE risk. |
+| **No H-1B safety net (NEW 2026-07-20)** — H-1B revoked; if L-1A + EB-1C + O-1A all fail, no cap-exempt H-1B fallback | Execute the Disney India manager role **cleanly** (≥1 continuous yr, genuine managerial capacity) so L-1A + EB-1C are solid; keep **EB-1A + Canada PR** as live hedges. |
+| **EB-1C corporate-relationship break (NEW 2026-07-20)** — resigning US entity could look like resign-and-rejoin | Confirm with counsel the US→India move is an **intra-group transfer**, not a break in the qualifying relationship. |
+| **Income drop (NEW 2026-07-20)** — India salary << US salary; savings model void | Rebuild savings projection from actual offer; lean on US-rental surplus + 401k growth + RNOR-shielded foreign income; accept lower absolute savings for the GC/stability payoff. |
 | **Education gap** on return | UNHS accredited online + IGCSE board exam in India + US-History remediation + time the fall return. |
 | **Moving before fistula is proven** | Hard gate: surgeon sign-off **+ several successful sessions** before departure. |
 | **Tax: losing the RNOR shield** | Move after Sept 30; clean day-count log; act on big US income events inside the window. |
@@ -155,7 +160,7 @@ This drives:
 1. [ ] Confirm father's **fistula maturation date** with Narayana Bommasandra → gates departure.
 2. [ ] **Call Narayana:** Check **Ayushman Bharat PMJAY** coverage for father's HD (if not covered, budget ~₹2.3-4.7L/yr).
 3. [ ] Engage **business-immigration attorney**; verify InfoServices I-140 approved & not revoked (anchors the portable 2021 PD).
-4. [ ] **Pick the EB-1C sponsor:** secure a **written manager job description + org placement** at **Disney India (first choice)** or **InfoServices India**; confirm the qualifying relationship + US "doing business ≥1 yr" with counsel. (Unpaid leave does NOT build EB-1C time.)
+4. [~] **EB-1C sponsor CHOSEN 2026-07-20: Disney India (Engineering Manager, ~1st wk Oct 2026), approved in principle by leader.** ⚠️ **Not yet accepted — resign TWDC US + H-1B revocation happen only on accepting the formal offer.** Before accepting: (a) secure the **written managerial JD + org placement** (≥4-6 reports, budget, <50% IC), (b) confirm comp/level, (c) counsel confirms the US-entity resignation→India-entity join is an **intra-group transfer** preserving the EB-1C qualifying relationship. (On acceptance: H-1B revoked; InfoServices I-140 / 2021 PD unaffected.)
 5. [ ] Engage **cross-border CPA + India CA**; choose **FTC**; plan move **after Sept 30**.
 6. [ ] **Bengaluru for full 2-3 years** — one long-term lease (~2.5-3 yr or 11-mo renewable) Off-Sarjapur/Choodasandra.
 
@@ -178,9 +183,9 @@ This drives:
 20. [ ] Father continues HD at **Narayana Bommasandra** (medical continuity). Parents live with you.
 21. [ ] **EB-1C evidence from day one:** manager role (≥4–6 reports, hire/fire, budget, <50% IC), org chart, appointment letter, appraisals; petitioner assembles qualifying-relationship + "doing business" docs. Keep **EB-1A evidence** building in parallel (judging, IEEE Senior Member, articles, rec letters).
 22. [ ] Wife: LinkedIn/Naukri live; **full Bengaluru focus for 2-3 years**; FSSAI Basic (₹100) + Udyam if baking; line up domestic help.
-23. [ ] Confirm Disney India payroll/leave active; do any Roth/401k moves inside RNOR window.
+23. [ ] Confirm **Disney India payroll active** (TDS + EPF running); note salary is India-taxed (RNOR shields only foreign income); do any Roth/401k moves inside RNOR window.
 24. [ ] At 1-yr managerial mark, petitioner **files EB-1C I-140** (port 2021 PD, $715 + PP ~$2,805); file EB-1A in parallel if strong.
 
 **Return to US (~Year 2.5-3):**
-25. [ ] Return on **L-1A** (manager, dual-intent) or **cap-exempt** H-1B + **recapture**; book stamping months ahead; keep O-1A in reserve.
+25. [ ] Return on **L-1A** (manager, dual-intent — **now the primary path**, needs ≥1 continuous yr as Disney India manager) + **L-2** for spouse/elder son; book stamping months ahead; keep O-1A in reserve. **H-1B return abandoned** (revoked + $100k fee).
 26. [ ] On approval → **Consular Processing (Mumbai)**; time **fall** US return; carry transcripts + WES.

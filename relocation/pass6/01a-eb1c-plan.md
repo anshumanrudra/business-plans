@@ -2,6 +2,8 @@
 
 *pass6 addendum, prepared 2026-07-02. Written in response to concern about elevated EB-1A denial rates under the current administration. Informational synthesis, NOT legal advice — an EB-1C petition lives or dies on how the corporate structure and managerial role are documented, so engage business-immigration counsel before acting.*
 
+> **✅ SPONSOR CHOSEN 2026-07-20 — Disney India, Engineering Manager, ~1st week Oct 2026 (approved in principle by leader).** The sponsor-selection analysis below (Disney vs InfoServices) is now **settled in favor of Disney India** — the recommended, lowest-risk choice (§3 anticipated this). ⚠️ **You resign the TWDC US entity — and the H-1B is revoked — only when you accept the formal offer; until then the H-1B stays intact.** (Fine — return is L-1A→EB-1C→O-1A.) What now matters from this file: **(1)** the "unpaid leave doesn't build EB-1C time" tension is **moot** — you're genuinely *employed* by Disney India as a manager. **(2)** ⚠️ Confirm with counsel that resigning the US entity to join the India entity is an **intra-group transfer**, not a relationship-breaking "resign-and-rejoin." **(3)** The **1-continuous-year clock starts ~Oct 2026** → EB-1C/L-1A eligible ~Oct 2027. **(4)** Execute §2(b) and §5 managerial-evidence items from day one — with no H-1B safety net, a clean managerial record is now load-bearing. InfoServices content below is retained only as the (unused) backup.
+
 ---
 
 ## 0. The One Correction That Reframes Everything
@@ -60,10 +62,9 @@ Run both through diligence in parallel, then commit to the stronger one. Default
 | Career/comp disruption to get there | **Higher** — requires leaving your current Disney US role/transfer | **Higher** — requires leaving Disney entirely to rejoin InfoServices |
 | Overall EB-1C adjudication risk | **Lower** | **Moderate** (smaller petitioner scrutiny) |
 
-**Critical tension to resolve first (affects the whole relocation plan):**
-Your base immigration plan was "take unpaid Disney leave OR transfer to Disney India." **EB-1C requires you to actually be *employed* abroad as a manager — unpaid leave does NOT build EB-1C time.** So:
-- If you go **Disney India** → the EB-1C track and your "keep-Disney" preference align perfectly. **This is the clean answer.**
-- If you go **InfoServices India** → you must **leave Disney and join InfoServices' India entity** as a manager for 1+ year. That's a real job change (and forfeits the "stay at Disney" benefit). Only do this if Disney India can't offer a genuine managerial seat.
+**Critical tension — ✅ RESOLVED 2026-07-20:** Chose **Disney India** (Engineering Manager, ~Oct 2026). This is the "clean answer" §3 flagged — you're genuinely *employed* abroad as a manager (the unpaid-leave problem never applies), and it aligns with staying within the Disney group. ⚠️ The one remaining structuring item: since you formally **resign the TWDC US entity** to join the Disney India entity, have counsel confirm this is an **intra-group transfer** that preserves the qualifying relationship (not a "resign-and-rejoin" break). *(Original framing retained below for reference.)*
+- ~~If you go **Disney India** → the EB-1C track and your "keep-Disney" preference align perfectly. **This is the clean answer.**~~ ← **This is the path taken.**
+- ~~If you go **InfoServices India** → you must leave Disney and join InfoServices' India entity...~~ — **not used.**
 
 ---
 
