@@ -135,6 +135,8 @@ A **US-regionally-accredited transcript needs no credential evaluation** — it 
 
 Both are **readily available for ages 7 and 13 in both cities**, and most top international schools include an **on-campus pool and taekwondo** program — so the school can often cover both.
 
+> **Update 2026-07-20 — elder son certifies 3rd dan (end-of-Aug 2026 test, before departure).** The earlier "pause at current rank, resume ~2029" plan is void. In Bengaluru, look for a **Taekwondo India (TFI)/Kukkiwon-affiliated** club (e.g. Korea Taekwondo Academy, HSR — TFI-affiliated) so his 3rd dan is recognized and he can **continue toward 4th dan** on the India side. Carry his official dan certificate/number.
+
 - **Bengaluru (SE corridor):** Taekwondo via TFI-affiliated clubs (HSR, Electronic City, Koramangala, Sarjapur) — e.g. **Korea Taekwondo Academy (HSR), ~₹4,000-5,000/mo**. Swimming — Shannen & Baasavva (E-City); MNC Swim/Sprint/Majesstine (HSR); Basavanagudi & Vijayanagar Aquatic Centres ~₹3,000-5,000/mo; private coaching ~₹2,000-4,000/mo. Many Sarjapur Rd schools have on-campus pools.
 - **Kolkata:** Taekwondo — Jeong's & Roy's (Salt Lake), THAPA's (New Town/Rajarhat), Little Leagues Live. Swimming — Soumen Aqua Fitness (New Town/Salt Lake, coaches young children), Little Leagues Live, plus club and school pools.
 
