@@ -1,6 +1,16 @@
-# EB-1C Employer Pitch & Managerial Role Package
+# EB-1C Employer Pitch & Managerial Role Package — ⚠️ PARTLY SUPERSEDED
 
 *pass6 addendum. Practical, copy-editable templates to secure the **written managerial job description + org placement** that anchors an EB-1C petition. Two variants: **Disney India (internal transfer — first choice)** and **InfoServices India (external move — backup)**. Have your immigration attorney review the final role description before it's issued on letterhead — the wording is what an adjudicator reads.*
+
+> # ⚠️ SUPERSEDED IN PURPOSE 2026-07-27 — but the §4 template is still useful
+>
+> **Disney will not sponsor L-1A or EB-1C for ≥2 years (~mid/late 2028 earliest), even if you pay all costs**, and **EB-1C cannot be self-petitioned** (8 CFR 204.5(j) requires a US employer petitioner). The active green card plan is **`01d-eb1a-execution-plan.md`** — EB-1A self-petition, filed by you from India ~Sep 2027. See `01a`'s banner for the full reasoning.
+>
+> **⛔ Do NOT send the pitch emails.** §2A (Disney) and §3A (InfoServices) are **void** — the Disney India transfer is already agreed as *employment* (approved in principle 2026-07-20), and pitching sponsorship now would re-litigate a settled "no." §1's EB-1C diligence questions and §6's sequence are likewise moot.
+>
+> **✅ What to still use — §4 (Managerial Role Description Template) and §5 (ongoing evidence), repurposed:** you still want a **written managerial JD + org chart** from Disney India, but now as evidence for **EB-1A criterion #8 — "leading or critical role for distinguished organizations"** (8 CFR 204.5(h)(3)(viii)), not for an EB-1C managerial-capacity showing. The wording guidance in §0 and §4 transfers directly: document real reports, real authority, and managerial altitude, on letterhead, with an org chart. For #8 you'll also want the org's *distinguished* reputation established (Disney's scale/revenue/subscriber numbers) — see `01d` Months 7-9.
+>
+> **➕ One new ask to fold into the same HR conversation:** request that the assignment be worded as a **time-boxed assignment** (defined 2-3 year term) rather than a permanent relocation. That supports the **8 CFR 204.5(h)(5) "coming to the United States to continue work"** showing your EB-1A petition requires — see **`01d §0.2`**. It costs nothing to ask and it strengthens your weakest prong.
 
 ---
 

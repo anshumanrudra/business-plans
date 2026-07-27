@@ -1,6 +1,117 @@
 # EB-1A Accelerated Execution Plan (10-12 Month Timeline)
 
-*Created 2026-07-27. Mission-critical: elder son's durable US status depends entirely on EB-1A approval; NO employer backup (Disney won't sponsor for ≥2 yrs), NO Canada fallback (dropped). If EB-1A fails, he ages out.*
+*Created 2026-07-27. Updated 2026-07-27 with **§0 Self-Filing From India** (the mechanics of self-petitioning while resident in Bengaluru). Mission-critical: elder son's durable US status depends entirely on EB-1A approval; NO employer backup (Disney won't sponsor for ≥2 yrs), NO Canada fallback (dropped). If EB-1A fails, he ages out.*
+
+---
+
+## §0. Self-Filing From India — The Mechanics
+
+> **Why this section exists:** the rest of this file covers *what evidence to build*. This section covers *how you actually file it as your own petitioner while living in Bengaluru* — which is the thing that makes EB-1A viable at all now that Disney won't sponsor. **EB-1A is the only EB-1 subcategory that permits self-petition**, and that is precisely why it survived the 2026-07-27 reversal while EB-1C/L-1A did not.
+
+### 0.1 The legal basis (verified against the regulation)
+
+**You are your own petitioner.** Per **8 CFR 204.5(h)(5)**, quoted verbatim:
+
+> "Neither an offer for employment in the United States nor a labor certification is required for this classification."
+
+And **8 CFR 204.5(h)(1)** allows the petition to be filed by "an alien, or any person on behalf of the alien." So:
+
+| Question | Answer |
+|---|---|
+| Do you need a US employer to file? | **No.** You sign the I-140 as both petitioner and beneficiary. |
+| Do you need a job offer? | **No** — but see §0.2, there IS a related requirement people miss. |
+| Do you need PERM/labor certification? | **No.** |
+| Does Disney need to know or consent? | **No.** This is entirely independent of Disney. *(Their "no sponsorship for ≥2 years" policy is irrelevant to an EB-1A self-petition — this is the whole point.)* |
+| Can you be physically in India when you file? | **Yes.** Nothing in the regulation requires US presence to file an I-140. *(US presence in valid status is only required for **I-485 adjustment** — which is why you use consular processing instead; see `01 §5`.)* |
+
+### 0.2 ⚠️ The requirement that is easy to miss — "coming to the United States to continue work"
+
+**This was not previously called out in the plan and it is a real filing requirement.** The same regulation that waives the job offer immediately adds a condition. 8 CFR 204.5(h)(5), continuing:
+
+> "...the petition must be accompanied by clear evidence that the alien is coming to the United States to continue work in the area of expertise. Such evidence may include letter(s) from prospective employer(s), evidence of prearranged commitments such as contracts, or a statement from the beneficiary detailing plans on how he or she intends to continue his or her work in the United States."
+
+**Why this matters specifically for you:** you will be filing from India, employed by **Disney India**, with **no US employer and no US job offer**, having *just left* a US role. On its face that is the weakest possible posture on this prong — an adjudicator could read it as "this person has relocated to India permanently." You need to affirmatively rebut that.
+
+**The regulation gives three alternative ways to satisfy it, and the third is fully within your control:**
+
+1. Letter from a prospective US employer — you won't have one (Disney US isn't offering a role; that's the premise).
+2. Evidence of prearranged commitments/contracts — unlikely to have.
+3. **A statement from you detailing your plans to continue your work in the US** — ✅ **this is your route.**
+
+**Action — draft a "prospective work in the US" statement** (attorney to finalize; this is a required exhibit, not optional):
+- [ ] Affirm your **intent to return to the US** and continue working in software engineering/architecture — the same field as your evidence.
+- [ ] Describe *concretely* what you will do: continue as a senior/lead engineer or engineering leader in streaming/distributed systems; name the market (your CT/US metro), the kind of employers, and your existing US professional network.
+- [ ] Anchor it in facts you already have, which is what makes it credible rather than aspirational:
+  - You **own a home in the US** (retained and rented out, not sold — see `04a`) and intend to reoccupy it.
+  - Your **younger son is a US citizen**; your family's long-term base is the US.
+  - Your **US employment history** (Disney US, ~15 yrs US-based career) and the fact the India move is an explicit, **time-boxed 2-3 year family-caregiving relocation**, not emigration.
+  - Your **Tesla is stored in the US**, US bank/brokerage accounts maintained, US phone/mailbox retained — the whole `03`/`04` "keep US ties" posture doubles as evidence here.
+  - You are **retaining the US house rather than selling** — a deliberate, documentable return signal.
+- [ ] If obtainable without triggering the sponsorship conversation: a **letter from Disney US** (a former manager/HRBP, in a personal or informational capacity) noting you are a strong candidate for US re-employment. ⚠️ Optional and lower priority — do **not** let this become a "Disney must sponsor something" conversation. The self-statement alone satisfies the regulation.
+
+> **Attorney question (add to GATE-2):** "I'm self-petitioning EB-1A from India while employed by my employer's India entity, with no US job offer. How should the 204.5(h)(5) 'coming to the US to continue work' statement be framed so it isn't read as intent to remain abroad? Does my retained US home / US-citizen child / time-boxed relocation carry weight here?"
+
+### 0.3 What you file, and who signs what
+
+| Item | Who signs | Notes |
+|---|---|---|
+| **Form I-140** | **You** — as petitioner AND beneficiary | Petitioner Part 1 = your own name/address, not an employer. Check **E11, "Alien of Extraordinary Ability."** |
+| **I-140 Part re: priority date** | You | Request retention of the **May 2021 PD** from the InfoServices I-140 under **8 CFR 204.5(e)** — cite that petition's receipt number + approval date. *(See §0.5 — this is the single highest-value line on the form.)* |
+| **Form I-907** (Premium Processing) | You | Separate form, separate fee. **Mandatory for your timeline** — 15 business days vs 6-12 months. |
+| **Form G-28** | Your attorney | Appearance of attorney. **Also solves the US-address problem** — see §0.4. |
+| **Petition letter + exhibits** | Attorney drafts, you supply evidence | See Months 10-11 below. |
+| **Prospective-work statement** | **You** | §0.2 above. Required exhibit. |
+
+### 0.4 The three practical from-India problems (and their solutions)
+
+**(a) Mailing address.** USCIS correspondence — receipt notices, RFEs, the approval notice — needs to reach you reliably, and an Indian address invites delay and lost mail on a timeline where an 84-day RFE clock matters.
+- ✅ **Solution: file with a G-28 so your US attorney's office is the address of record.** Notices go to counsel, who forwards them same-day. This is the standard practice and the single best reason not to DIY this filing.
+- Belt-and-braces: you're already setting up a **US virtual mailbox** (PostScan/Anytime — tracker §D) and keeping a **US phone**. Use the virtual mailbox as your Part-1 petitioner mailing address if counsel advises it, and check it weekly.
+- ⚠️ **Do not** use a relative's address you don't monitor. An RFE that sits unopened for 6 weeks burns most of the 84-day window.
+
+**(b) Paying the fees from abroad.** $715 (I-140) + $2,805 (I-907) = **$3,520** in government fees, plus attorney fees.
+- USCIS accepts **check or money order drawn on a US financial institution**, or **credit card via Form G-1450** (Authorization for Credit Card Transactions) for paper filings.
+- ✅ You are keeping a funded **Schwab** US account and US credit cards (tracker §C) — pay from those. This is another reason the "maintain a US banking footprint" tasks are load-bearing, not just convenience.
+- ⚠️ **Confirm at filing time**: separate payment instruments for I-140 and I-907 (USCIS historically requires separate checks per form), current fee amounts, and whether a foreign-issued card is accepted if you ever need one. Your attorney will typically just pay from their trust account and bill you — **simplest option; ask for it.**
+
+**(c) Signing and shipping.** You must sign the I-140 by hand (wet signature) as petitioner.
+- Sign in India, courier the signed originals to counsel, who assembles and files. Budget **5-10 days** for India→US courier (DHL/FedEx) — build this into the Sep 2027 filing date, don't discover it in week 51.
+- ✅ **Consequence for the timeline: your true internal deadline is ~late Aug 2027**, not Sep 15 2027, because signature transit + counsel assembly sits in between. *(§ "Month 12" below targets Sep 15; treat that as the USCIS-receipt date, and work backward.)*
+- Ship to counsel via **DHL/FedEx with tracking**; counsel files to USCIS via **FedEx/UPS with tracking** (not USPS).
+
+### 0.5 The priority-date port is the whole reason this works
+
+Do not let this get lost in the evidence-building: **8 CFR 204.5(e)** gives your **May 2021 EB-2 priority date** to "any subsequently filed petition" in the EB-1/2/3 categories, and you're entitled to "the earliest priority date."
+
+- **This is what makes a Sep 2027 filing produce a visa immediately** rather than joining a queue. EB-1 India sat at ~Oct 2022–Feb 2023 in mid-2026; a 2021 PD is comfortably current.
+- **It is also what freezes your elder son's CSPA age**, because "visa availability" arrives at approval rather than years later.
+- **Therefore:** pulling the **InfoServices I-140 approval notice** (GATE-2) is not a housekeeping task — it is the document the entire strategy rests on. If it can't be located, the port claim gets harder to substantiate.
+- ⚠️ Retention fails only if that petition was revoked for **fraud, willful misrepresentation of a material fact, DOL revocation/invalidation of the labor certification, or a USCIS determination that approval was based on material error** (204.5(e)(2)). Approved >180 days, an employer *withdrawal* can't revoke it (8 CFR 205.1). Confirm status with counsel at GATE-2.
+
+### 0.6 Should you self-file *without* an attorney?
+
+**No.** "Self-petition" is a legal status (you are the petitioner), not a DIY instruction. Keep the distinction clear:
+
+| You do | Your attorney does |
+|---|---|
+| Build the evidence (judging, articles, letters, salary, membership) | Drafts the 15-25 page petition letter — the core of the case |
+| Write the first draft of your prospective-work statement | Finalizes it against 204.5(h)(5) |
+| Sign the I-140/I-907 | Files under G-28, is the address of record, handles RFEs |
+| Supply the InfoServices I-140 notice | Frames the 204.5(e) PD-port argument |
+
+The petition letter and the final-merits narrative are where EB-1A cases are won and lost, and you are filing on a non-negotiable deadline with your son's status attached to the outcome. See "Hiring an EB-1A Attorney" below — **engage by end of Month 0.**
+
+### 0.7 Self-filing checklist (add to Phase 0)
+
+- [ ] Confirm with counsel: self-petition posture + the 204.5(h)(5) prospective-work strategy (GATE-2)
+- [ ] **Draft your prospective-work-in-the-US statement** (§0.2) — first draft before departure, while the US-ties facts are fresh
+- [ ] Establish the **address of record** decision: attorney G-28 (recommended) + US virtual mailbox as backup
+- [ ] Confirm a **funded US account / US card** usable for the $3,520 in USCIS fees — or arrange for counsel to pay from trust and bill you
+- [ ] Pull the **InfoServices I-140 approval notice** (receipt number, approval date, A-number) — the 204.5(e) anchor
+- [ ] Build the **US-ties evidence folder** (home ownership + rental agreement, US-citizen child's passport, US accounts, storage/Tesla, time-boxed assignment letter) — serves §0.2
+- [ ] Work the filing date backward: **signature courier + counsel assembly ⇒ internal deadline ~late Aug 2027** for a Sep 15 2027 receipt
+
+---
 
 ## Strategic Context
 
@@ -98,10 +209,16 @@ Target **4-6 criteria** with strong quality evidence to clear both bars.
 - **Why now:** Much harder to reconstruct this from India without access.
 
 #### **One-Time Setup (before departure):**
-- [ ] Pull and file your **InfoServices I-140 approval notice** (the May 2021 PD anchor) — scan/PDF + paper copy
+- [ ] Pull and file your **InfoServices I-140 approval notice** (the May 2021 PD anchor) — scan/PDF + paper copy. **§0.5: the whole strategy rests on this document.**
 - [ ] Create a **Google Scholar profile** — https://scholar.google.com/ (track citations for your articles)
 - [ ] Set up an **ORCID** — https://orcid.org/ (researcher identifier — free, shows professionalism)
 - [ ] Create a dedicated **EB-1A evidence folder** (cloud: Google Drive / Dropbox) with subfolders per criterion
+
+**Self-filing prerequisites (§0) — set these up while you're still in the US, they're far harder from India:**
+- [ ] **Draft the prospective-work-in-the-US statement** (§0.2) — required 204.5(h)(5) exhibit. Draft now while the US-ties facts and dates are at hand.
+- [ ] **Assemble the US-ties evidence folder** — deed/mortgage + rental agreement for the house, younger son's US passport/birth certificate, Schwab/bank statements, Tesla storage arrangement, and the **time-boxed India assignment letter** (ask Disney to word it as a defined-term assignment, not a permanent relocation — costs nothing to ask and directly helps §0.2).
+- [ ] **Confirm a funded US account + US credit card** that will still work from India for the **$3,520** in USCIS fees (§0.4b) — overlaps the tracker §C Schwab task; make sure it isn't closed in the pre-move cleanup.
+- [ ] **Set up the US virtual mailbox** (PostScan/Anytime — tracker §D) and decide the **address of record** with counsel (G-28 recommended, §0.4a).
 
 ---
 
@@ -331,30 +448,37 @@ This is the **most important work of Months 7-9**:
    - Education, work experience, publications, talks, patents, awards, professional service (judging/reviewing)
    - Length: 3-5 pages
 
-4. **Form I-140**:
-   - **Part 6, Question 1:** Check "EB-1A Alien of Extraordinary Ability"
-   - **Part 6, Question 4:** "Request to use a priority date from a previously approved petition" → cite your **InfoServices I-140** (approval date, receipt number, A-number) to port the **May 2021 PD**
+4. **Form I-140** *(you sign as **both petitioner and beneficiary** — see §0.3; confirm current form edition + exact part/question numbering with counsel, as USCIS renumbers forms between editions)*:
+   - Petitioner section = **your own name and address** (not an employer)
+   - Classification: **E11, "Alien of Extraordinary Ability"**
+   - **Request retention of the priority date** from the previously approved **InfoServices I-140** (approval date, receipt number, A-number) to port the **May 2021 PD** under 8 CFR 204.5(e) — see §0.5
+
+5. **Prospective-work-in-the-US statement** (§0.2) — the 8 CFR 204.5(h)(5) requirement. Signed by you, with the US-ties exhibits attached (home ownership/rental agreement, US-citizen son's passport, maintained US accounts, time-boxed India assignment letter).
 
 #### **Month 12 (Sep 2027): FILE**
 
 **Filing checklist:**
-- [ ] Form I-140 (completed, signed)
+- [ ] Form I-140 (completed, **wet-signed by you as petitioner + beneficiary** — §0.3)
+- [ ] **Form G-28** (attorney appearance — makes counsel the address of record; §0.4a)
 - [ ] Petition letter + exhibits (bound, tabbed)
+- [ ] **Prospective-work-in-the-US statement** + US-ties exhibits (§0.2 — the 204.5(h)(5) requirement)
+- [ ] Priority-date retention request citing the InfoServices I-140 (§0.5)
 - [ ] Your CV
-- [ ] Filing fee: **$715** (check or money order to "U.S. Department of Homeland Security")
-- [ ] Premium Processing fee: **$2,805** (Form I-907 + separate check)
+- [ ] Filing fee: **$715** (check/money order drawn on a **US** bank, or credit card via **Form G-1450**)
+- [ ] Premium Processing fee: **$2,805** (Form I-907 + **separate** payment instrument)
 - [ ] Cover letter listing all enclosed documents
 
 **Submit to:**
-- **USCIS Nebraska Service Center** or **Texas Service Center** (depends on your location; attorney will know)
-- Send via **FedEx / UPS with tracking** (not USPS — USCIS often has mail delays)
+- The correct USCIS service center / lockbox for an **E11 self-petition** — ⚠️ **confirm the current direct filing address with counsel at filing time.** USCIS changes I-140 filing addresses periodically and they vary by classification and by whether premium processing is requested; do not rely on an address recorded here months in advance.
+- **Counsel files** (you're in India). You courier wet-signed originals to counsel — **budget 5-10 days DHL/FedEx** — so your **internal deadline is ~late Aug 2027** (§0.4c).
+- Counsel sends via **FedEx / UPS with tracking** (not USPS).
 
 **Premium Processing = 15 business days** for initial decision:
 - **Approval** → proceed to NVC → consular processing (see below)
-- **RFE (Request for Evidence)** → you have 84 days to respond (see "Handling RFEs" below)
+- **RFE (Request for Evidence)** → you have 84 days to respond (see "Handling RFEs" below). ⚠️ **From India the clock effectively starts when counsel receives it** — this is why the G-28 address-of-record matters (§0.4a).
 - **Denial** → you can refile (no waiting period) or appeal; consult attorney
 
-**Target filing date: ~Sep 15, 2027** (gives you buffer before Oct 2027 to handle any last-minute issues)
+**Target filing date: ~Sep 15, 2027** = **USCIS receipt** date. Work backward: evidence frozen ~early Aug, signatures couriered ~mid-Aug, counsel assembles late Aug.
 
 ---
 
@@ -477,6 +601,12 @@ RFEs are **common** on EB-1A (USCIS is strict on the "extraordinary ability" bar
 9. **Premium Processing is mandatory** ($2,805) — 15 business days vs 6-12 months for regular processing. You can't afford the regular timeline.
 
 10. **Track everything religiously** — every invitation email, review confirmation, citation, press mention. Missing documentation = weaker petition.
+
+11. **Don't skip the "coming to the US to continue work" statement** (§0.2) — it's a *regulatory requirement* (8 CFR 204.5(h)(5)), not a formality, and your posture (filing from India, on India payroll, no US job offer) is the weakest possible on this prong unless you affirmatively build the record. Retaining the US house and keeping US accounts is the evidence; make sure the petition says so.
+
+12. **Make counsel the address of record via G-28** (§0.4a) — from India, a lost or slow-forwarded RFE is the most avoidable way to lose this case on a clock.
+
+13. **Your internal filing deadline is ~late Aug 2027, not Sep 15** (§0.4c) — wet signatures have to travel India→US before counsel can file.
 
 ---
 

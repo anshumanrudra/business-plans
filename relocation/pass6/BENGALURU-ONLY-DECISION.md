@@ -289,7 +289,7 @@ This **offsets a large chunk of the incremental BLR cost.**
 **Everything else stays the same:**
 - Fistula gates departure (2 mo post-op, tracking on timeline)
 - India arrival post-Sept-30 (unchanged)
-- EB-1C primary track, EB-1A hedge
+- ~~EB-1C primary track, EB-1A hedge~~ → ⚠️ **outdated 2026-07-27: EB-1A self-petition is the sole track** (Disney won't sponsor L-1A/EB-1C for ≥2 yrs; EB-1C can't be self-petitioned). See `01d`. *(Doesn't affect this file's Bengaluru-vs-Kolkata conclusion.)*
 - RNOR tax shield
 - US house rental, Tesla storage
 - UNHS online for elder son

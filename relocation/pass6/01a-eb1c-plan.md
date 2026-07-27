@@ -1,8 +1,24 @@
-# EB-1C Plan (Multinational Manager) — Primary GC Track
+# EB-1C Plan (Multinational Manager) — ⚠️ HISTORICAL / SUPERSEDED
 
 *pass6 addendum, prepared 2026-07-02. Written in response to concern about elevated EB-1A denial rates under the current administration. Informational synthesis, NOT legal advice — an EB-1C petition lives or dies on how the corporate structure and managerial role are documented, so engage business-immigration counsel before acting.*
 
-> **✅ SPONSOR CHOSEN 2026-07-20 — Disney India, Engineering Manager, ~1st week Oct 2026 (approved in principle by leader).** The sponsor-selection analysis below (Disney vs InfoServices) is now **settled in favor of Disney India** — the recommended, lowest-risk choice (§3 anticipated this). ⚠️ **You resign the TWDC US entity — and the H-1B is revoked — only when you accept the formal offer; until then the H-1B stays intact.** (Fine — return is L-1A→EB-1C→O-1A.) What now matters from this file: **(1)** the "unpaid leave doesn't build EB-1C time" tension is **moot** — you're genuinely *employed* by Disney India as a manager. **(2)** ⚠️ Confirm with counsel that resigning the US entity to join the India entity is an **intra-group transfer**, not a relationship-breaking "resign-and-rejoin." **(3)** The **1-continuous-year clock starts ~Oct 2026** → EB-1C/L-1A eligible ~Oct 2027. **(4)** Execute §2(b) and §5 managerial-evidence items from day one — with no H-1B safety net, a clean managerial record is now load-bearing. InfoServices content below is retained only as the (unused) backup.
+> # ⛔ SUPERSEDED 2026-07-27 — THIS IS NO LONGER THE STRATEGY
+>
+> **Disney will not sponsor ANY immigration petition (L-1A or EB-1C) for ≥2 years from now (~mid/late 2028 earliest) — even if you pay all petition costs.** That kills the EB-1C-primary strategy this file describes. **The active green card plan is `01d-eb1a-execution-plan.md` (EB-1A self-petition, file ~Sep 2027).**
+>
+> **Two reasons EB-1C can't be rescued for this window — and the second is structural, not just timing:**
+>
+> 1. **Timing.** The 1-continuous-year managerial clock starts ~Oct 2026, so EB-1C/L-1A eligibility begins ~Oct 2027 — and Disney won't file until ~mid/late 2028 at the earliest. That is **past the CSPA deadline** to freeze your elder son's age (`01 §9`), by which point you're 6-12 months from returning anyway.
+> 2. **⚠️ EB-1C cannot be self-petitioned — at all.** INA 203(b)(1)(C) / 8 CFR 204.5(j) require a **US employer** to be the petitioner. So "I'll just file it myself from India, pay the fees, and drive it with my own attorney" — which *is* available for EB-1A — **is not an option for EB-1C.** No amount of you funding or driving the filing substitutes for Disney's signature. This is the single most important thing to understand about why the plan pivoted: **EB-1A survived precisely because 8 CFR 204.5(h)(1)/(5) lets you be your own petitioner with no employer and no PERM.**
+>
+> **What in this file is still worth reading:**
+> - **§0 (priority-date portability)** — still correct and still load-bearing: your May 2021 PD ports to *any* EB-1 petition including EB-1A, under 8 CFR 204.5(e). This is the mechanism the whole EB-1A plan depends on.
+> - **§2(b)/§5 managerial evidence** — now repurposed. The org chart, appointment letter, and appraisals feed **EB-1A criterion #8 ("leading or critical role for distinguished organizations")**, not an EB-1C petition. Keep collecting them for that reason.
+> - **§1's EB-1A-vs-EB-1C risk comparison** — useful context for why EB-1A's fight is over "acclaim" and where your RFE exposure sits now.
+>
+> **What is void:** the "dual-track / EB-1C primary" recommendation throughout, the Disney-vs-InfoServices sponsor selection (§3), the L-1A return bridge (§4), and the §6 timeline. The 2026-07-20 "✅ sponsor chosen" banner that used to sit here is **void** — Disney agreed to *employ* you in India, which it will still do; it never agreed to *sponsor a petition*, and has now confirmed it won't for ≥2 years.
+>
+> *(Retained unedited below for the reasoning and in the unlikely event Disney sponsors an EB-1C post-2028 as a late backup.)*
 
 ---
 
