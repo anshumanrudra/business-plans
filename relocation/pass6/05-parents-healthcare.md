@@ -192,3 +192,214 @@
 ---
 
 **Sources cited inline:** NIDDK, National Kidney Foundation, Cleveland Clinic, StatPearls/KDOQI, Fresenius Kidney Care, NephroPlus, Eskag Sanjeevani, MoHFW/PIB (PMNDP), WB Health (Swasthya Sathi), Baxter India, eSanjeevani, PubMed (PMID 17259649). **All INR figures are approximate — verify before relying on them.**
+
+---
+
+## 9. Your Own Health — Taking Advantage of 2-3 Years in India
+
+> **Scope shift:** everything above §0-8 is about the father's dialysis. This section is about **your own health, fitness, and preventive care** — treating the India stay as an opportunity, not just a logistics exercise.
+
+The US grind often means health takes a back seat: deferred checkups, inconsistent routines, chronic stress. India offers **time, lower cost, and deep wellness infrastructure** (Ayurveda, yoga, preventive care) that the US doesn't. Use it.
+
+### 9A. Fitness & Daily Routines (leverage being home more)
+
+**The Disney India manager role is your employment — not a 70-hour grind.** Indian work culture (at least outside the worst startup mills) leaves more headspace. With parents in your home and domestic help available, you can establish routines that the US pace breaks.
+
+**Concrete goals for 2-3 years:**
+- [ ] **Morning routine:** 30-60 min before work starts — yoga, walking, or gym. **Anchor it to a place near your E-City home** (see options below).
+- [ ] **Weight/body-comp target:** if you're carrying US-lifestyle weight, set a realistic 2-3 year target (e.g., lose 10-15 kg, or build strength). Track monthly.
+- [ ] **Cardio baseline:** 3-5x/week walks or runs. Bengaluru's weather (15-30°C year-round) is walkable — exploit it.
+- [ ] **Strength/resistance:** 2-3x/week. Gyms are cheaper in India (~₹1,000-3,000/mo vs $50-100/mo US).
+
+**Bengaluru fitness infrastructure (near E-City / Sarjapur):**
+| Option | What | Approx. cost | Notes |
+|---|---|---|---|
+| **Cult.fit / Cure.fit** | App-based gym + home workouts + group classes | ~₹1,000-3,000/mo | Chains across Bengaluru; E-City / HSR locations |
+| **Gold's Gym / Snap Fitness** | Traditional gym chains | ~₹2,000-5,000/mo | HSR, Koramangala, E-City |
+| **Yoga shalas** (see §10) | Hatha / Ashtanga / Iyengar studios | ~₹2,000-6,000/mo | Spirituality overlap; doubles as fitness |
+| **Outdoor:** Cubbon Park, Lalbagh, Nandi Hills | Free walking/running | ₹0 | Nandi Hills = weekend sunrise hike ritual |
+| **Home setup** | Resistance bands, dumbbells, yoga mat | ~₹5,000-10,000 one-time | Cheapest if discipline holds |
+
+**Track it:** Use a simple habit tracker (Streaks app, or a paper calendar). The goal is **consistency over intensity** — 30 min/day × 300 days >> 2 hours twice a month.
+
+### 9B. Preventive Health — Catch What You've Deferred
+
+**The US healthcare cost barrier means things get deferred. India's out-of-pocket cost is 1/10th, and quality at top hospitals (Narayana, Apollo, Manipal, Fortis) is excellent.**
+
+**Baseline preventive panel (get this within Month 1-2 in India):**
+- [ ] **Comprehensive metabolic panel** (fasting glucose, HbA1c, lipid profile, liver/kidney function, thyroid TSH) — ₹1,500-3,000
+- [ ] **Vitamin D, B12** — common deficiencies, easy to correct — ₹800-1,500
+- [ ] **Complete blood count (CBC)** — ₹300-600
+- [ ] **Blood pressure / ECG / BMI baseline** — most included in an executive health checkup
+- [ ] **Cancer screens** if age-appropriate: PSA (men >50), colonoscopy (>45), skin check
+
+**Where to get it:**
+- **Executive health checkup packages** at Narayana / Apollo / Manipal (Bengaluru) — ₹3,000-10,000 for a full panel + reports in 24-48 hrs
+- **Thyrocare / Dr. Lal PathLabs** — home sample collection, cheap (₹1,500-5,000 for comprehensive panels)
+
+**Act on the results.** If HbA1c is creeping (prediabetes), you have 2-3 years to fix it with diet/exercise before it's diabetes. If Vitamin D is low (very common), supplement. If lipids are off, adjust.
+
+**Dental:** India dental care is excellent and **cheap** (~₹500-2,000 for a cleaning vs $150-300 US). Get a cleaning every 6 months, address any deferred work (crowns, fillings). **Narayana / Apollo have dental wings**; standalone: Sabka Dentist, Clove Dental (chains).
+
+**Eye care:** Get a full eye exam (₹500-1,500) if you haven't in 2+ years. India's ophthal care (LV Prasad, Sankara Nethralaya, Narayana) is world-class. If you need glasses, they're **₹2,000-8,000** vs $200-500 US.
+
+### 9C. Mental Health — Being Present, Not Just Productive
+
+**The India move is as much about mental reset as logistics.** You're leaving a high-stress, always-on US role for a manager gig in a timezone that (mostly) respects boundaries. Treat this as a **2-3 year mental health sabbatical embedded in a relocation.**
+
+**Concrete practices:**
+- [ ] **Daily stillness:** 10-20 min of **meditation or pranayama** (breath work). Start with **Headspace / Calm / Insight Timer** (apps), or join a yoga shala (§10) that teaches it.
+- [ ] **Therapy / counseling:** If you've ever thought "I should talk to someone," India's therapist cost (~₹1,000-3,000/session vs $150-250 US) removes the barrier. **Platforms:** Practo (find therapists), BetterHelp India, or in-person at Nimhans (Bengaluru, top psych hospital).
+- [ ] **Journaling:** 5-10 min/day. Externalizes stress, tracks patterns. Use the tracker (`08`) or a separate notebook.
+- [ ] **Sabbath / screen-free time:** One evening/week or half-day/week with **no work, no screens**. Reclaim it.
+
+**The "present father" goal:** being in India with parents and kids is an opportunity to model **being home and available**, not always in a Zoom room. Make it visible to the kids — they'll remember this.
+
+### 9D. Ayurveda & Wellness (India-specific advantage)
+
+**Ayurveda is India's indigenous medicine system** — 3,000 years old, now integrated into India's public health (AYUSH ministry). **Not all of it is evidence-based**, but specific interventions (Panchakarma detox, massage therapies, herbal supps for chronic conditions) have **clinical backing** and are worth exploring.
+
+**Where it shines:**
+- **Stress / burnout / insomnia** — Ashwagandha (adaptogen, well-studied), Brahmi, Shankhapushpi
+- **Gut health / IBS** — Triphala, ginger-based formulations
+- **Joint pain / inflammation** — Turmeric (curcumin), Boswellia
+- **Preventive / seasonal detox** — Panchakarma (7-21 day supervised cleanse + massage therapies)
+
+**Where to access (Bengaluru):**
+- **Ayurvedic hospitals:** Ayurvedic & Yoga Govt. Hospital (Magadi Rd), Nagarjuna Ayurvedic Centre, Kottakkal Arya Vaidya Sala (chains)
+- **Panchakarma retreats:** SwaSwara (Gokarna, 2-hr drive), Soukya (Whitefield), Ayurvedagram (near Bengaluru) — ₹10,000-50,000 for 7-14 days
+- **OTC Ayurvedic supps:** Himalaya, Dabur, Baidyanath brands at any pharmacy — **cheap** (₹100-500/month)
+
+**Skepticism + pragmatism:** Ayurveda is **not a replacement for evidence-based medicine** (don't treat the father's CKD with herbs). Use it **adjunctively** for wellness, stress, minor chronic issues — and cross-check with your GP. Think of it as India's version of integrative medicine.
+
+### 9E. Family Health Insurance (Beyond Dialysis)
+
+**From `04 §8.A`:** buy an **Indian family floater (₹10-25L coverage)** for the rest of the family **NOW, before departure**. Waiting periods (2-4 yrs for pre-existing conditions) start at purchase, and NRIs can buy from abroad.
+
+**Top options (Bengaluru):**
+- **Star Health Comprehensive** — ₹15,000-40,000/yr for family of 4-6, ₹10-25L coverage
+- **HDFC Ergo / ICICI Lombard / Niva Bupa** — similar
+- **Network hospitals:** Narayana, Apollo, Manipal, Fortis all in-network
+
+**What it covers:** hospitalization, surgery, ICU, ambulance. **What it doesn't (initially):** pre-existing conditions (father's CKD/dialysis, mother's knee if pre-existing) — see waiting periods.
+
+**Use it:** The whole family gets **annual health checkups covered** (preventive benefit, ~₹5,000-10,000 value). Don't let it sit unused.
+
+---
+
+## 10. Spirituality — Leveraging Being in India
+
+> **Why this belongs in the plan:** If health is one leg of the India opportunity, spirituality is the other. You're trading proximity to Target/Costco for proximity to **Tirupati, Hampi, Rishikesh** — and a daily spiritual practice infrastructure (yoga shalas, temples, teachers) the US doesn't have. The question isn't "should we do this" but "how do we not waste it."
+
+### 10A. Daily / Weekly Spiritual Routines (Anchor These Early)
+
+**Start with small, sustainable habits — 2-3 years is enough time for them to become transformative if you actually do them.**
+
+- [ ] **Morning practice (15-30 min):** Meditation, pranayama (breath work), or **prayer/mantra**. Do it **before** work/kids start — it gets crowded out otherwise.
+- [ ] **Weekly temple visit:** Pick a nearby temple (see §10B) and go **as a family, every week or every other week**. Make it a ritual, not a tourist thing. The kids absorb the cultural immersion even if they don't "get" it yet.
+- [ ] **Monthly family reading / satsang:** Read **Bhagavad Gita, Upanishads, Ramayana, or Mahabharata** together (English translations: Eknath Easwaran, Penguin Classics). 30 min/month = you finish the Gita in a year. The elder son (13) is the right age to engage with this philosophically.
+- [ ] **Quarterly retreat / pilgrimage:** A 2-3 day trip to a spiritual site (Tirupati, Hampi, Rishikesh) — treat it as **family bonding + spiritual recharge**, not just sightseeing.
+
+**Why the kids matter here:** They'll get zero of this in the US. If you don't make it visible and habitual in India, the cultural/spiritual transmission breaks. You don't need them to be "religious" — but exposure to **where they come from** (temples, stories, practices) is a gift only you can give them now.
+
+### 10B. Temples & Spiritual Sites (Bengaluru Base)
+
+**Bengaluru itself:**
+| Temple | Why | Distance from E-City |
+|---|---|---|
+| **ISKCON Bangalore** | Hare Krishna temple, beautiful campus, **Sunday feast**, family-friendly | ~20-25 km (Rajajinagar) |
+| **Bull Temple** (Dodda Basavana Gudi) | Ancient Shiva temple, iconic Nandi statue | ~15-20 km (Basavanagudi) |
+| **Art of Living Ashram** | Sri Sri Ravi Shankar's ashram, meditation / satsang / courses | ~25-30 km (Kanakpura Rd) |
+| **Tirupati Balaji** | **Most-visited Hindu temple in the world** (Lord Venkateswara) | ~250 km, 4-5 hrs drive — **quarterly pilgrimage** |
+
+**Weekend / quarterly pilgrimage range (2-6 hrs from Bengaluru):**
+- **Hampi** (~350 km, 6 hrs) — UNESCO World Heritage, ancient Vijayanagara temples, spiritually powerful site. **Do a 2-3 day family trip.**
+- **Shravanabelagola** (~150 km, 3 hrs) — 57-ft Jain monolithic statue of Bahubali, serene hilltop
+- **Sringeri** (~250 km, 5-6 hrs) — Adi Shankaracharya's first matha (monastery), beautiful Sharada temple, Tunga river
+- **Mantralayam** (~300 km, 5-6 hrs) — Raghavendra Swamy temple (Madhva tradition)
+- **Rishikesh / Haridwar** (~2,000 km, flight or 36-hr train) — **once in 2-3 years, major pilgrimage**. Yoga capital of the world, Ganga aarti at Har Ki Pauri (Haridwar).
+
+**Make a pilgrimage calendar:** Pick **3-4 sites over 2-3 years** and plan them as **family trips** (not solo spiritual tourism). Tirupati 2x, Hampi once, one long Rishikesh trip, plus monthly local temple visits = you've used the opportunity.
+
+### 10C. Yoga Shalas & Teachers (Spiritual Practice Infrastructure)
+
+**Yoga in India is NOT the gym-yoga Lululemon version. It's a spiritual practice with 8 limbs (asana is one; meditation, breath, ethics are the others).** You're in the country where it was born — take advantage.
+
+**Top yoga shalas (Bengaluru):**
+| Shala | Style | Location | Cost | Notes |
+|---|---|---|---|---|
+| **Yoga Bharata** | Traditional Hatha + Ashtanga | Jayanagar | ~₹3,000-6,000/mo | Serious, classical instruction |
+| **Purple Valley Yoga (Goa)** | Ashtanga Vinyasa intensives | Goa (~1 hr flight) | ~₹30,000-50,000/week retreat | **Once in 2-3 years, immersive retreat** |
+| **The Yoga Institute (Mumbai)** | Classical Hatha, teacher training | Mumbai | — | If visiting Mumbai |
+| **Art of Living (Bengaluru)** | Sudarshan Kriya (breath work) + meditation | Kanakpura Rd ashram | ~₹5,000-15,000/course | Sri Sri's system, beginner-friendly |
+| **Isha Yoga Center (Coimbatore)** | Sadhguru's ashram, Inner Engineering course | ~6 hrs south of BLR | ~₹2,000-15,000/course | **Major retreat option** |
+
+**Start simple:** Find a **local Hatha or Iyengar shala near E-City**, go 3-5x/week for the first 6 months. Once you have a baseline practice, do **one immersive retreat** (Purple Valley Goa, or Isha) — that's where the real shift happens.
+
+**Teachers / books / online:**
+- **Books (start here):** *Autobiography of a Yogi* (Yogananda), *Light on Yoga* (Iyengar), *The Heart of Yoga* (Desikachar)
+- **Teachers to follow:** BKS Iyengar (deceased, legacy lives in Iyengar Yoga), Sadhguru (Isha Foundation, polarizing but effective for beginners), Sri Sri Ravi Shankar (Art of Living)
+- **Apps:** Down Dog (asana sequences), Insight Timer (meditation + talks)
+
+### 10D. Spiritual Reading & Study (Build a Library)
+
+**Use the 2-3 years to actually read the foundational texts.** In the US you'd "mean to" — in India, make it a family discipline.
+
+**Core shelf (start here, read in order):**
+1. **Bhagavad Gita** (Eknath Easwaran translation, or Penguin Classics) — **18 chapters, read 1/month = done in 1.5 years**
+2. **Upanishads** (Easwaran's *The Upanishads* compilation) — core philosophy
+3. **Ramayana** (Ramesh Menon prose retelling, or Valmiki abridged) — **read aloud to the kids**
+4. **Mahabharata** (Ramesh Menon 2-vol prose, or Kamala Subramaniam) — epic, dense, **elder son can read independently**
+5. **Autobiography of a Yogi** (Paramahansa Yogananda) — accessible, inspiring, Western-friendly entry
+
+**Monthly family reading:** 30 min, one chapter, discuss. The elder son (13) engages philosophically; the younger son (7) gets the stories. By the time you leave India, they'll have encountered **their own tradition's wisdom** in a way no US Sunday school could deliver.
+
+**Local resources:**
+- **Ramakrishna Mission (Bengaluru)** — Vedanta library, talks, satsang
+- **Chinmaya Mission** — Gita study groups (Bal Vihar for kids)
+- **Bookstores:** Sapna Book House, Blossoms (Bengaluru) — Indian spirituality sections are deep
+
+---
+
+## 11. Parenting — Being Present, Not Just Providing
+
+> **The honest question:** Will you look back on these 2-3 years as "we survived the logistics" or "we were finally home together"? The choice is in how you structure time.
+
+This section lives in **`02-kids-education.md` after §6**, but the tracker actions (§12 below) wire it into daily/weekly rhythms.
+
+---
+
+## 12. Tracker Actions (Health + Spirituality + Parenting)
+
+*(These wire into `08-TRACKER-JOURNAL.md` Phase 0 and India-stay sections — see Task #8.)*
+
+**Phase 0 (before departure):**
+- [ ] Buy **Indian family health floater** (₹10-25L, before pre-existing waiting periods start)
+- [ ] Schedule **full preventive health panel** for Month 1-2 in India (executive checkup ~₹5,000-10,000)
+- [ ] Research **yoga shalas near E-City** (shortlist 2-3 for trial classes)
+- [ ] Buy/download **spiritual reading starter pack** (Bhagavad Gita Easwaran translation, Autobiography of a Yogi)
+
+**India stay (Month 1-12+):**
+- [ ] **Month 1:** Join a gym or yoga shala (₹2,000-5,000/mo); start 3-5x/week morning routine
+- [ ] **Month 1:** Complete baseline preventive health panel; act on any flags (Vit D, HbA1c, lipids)
+- [ ] **Month 2:** First family temple visit (ISKCON / Bull Temple); set weekly or biweekly cadence
+- [ ] **Month 3:** Start monthly family Gita reading (30 min/month, one chapter)
+- [ ] **Month 6:** Quarterly pilgrimage #1 (Tirupati or Hampi, 2-3 days)
+- [ ] **Month 6:** Dental cleaning for whole family (~₹2,000-8,000 total)
+- [ ] **Month 9:** Quarterly pilgrimage #2
+- [ ] **Month 12:** Eye exams if deferred; glasses if needed (~₹2,000-8,000)
+- [ ] **Ongoing:** Daily 15-30 min meditation/pranayama (track streaks)
+- [ ] **Ongoing:** Weekly family dinners with no screens (Sundays?)
+- [ ] **Ongoing:** Quarterly family check-in (see §11 in `02`) — "what's working, what's not"
+
+**Costs (incremental to the base plan):**
+- Gym/yoga: ~₹2,000-6,000/mo × 30 mo = **₹60,000-1.8L** (~$720-2,160)
+- Health checkups/dental/eye: ~₹15,000-30,000 over 2-3 years
+- Ayurveda (optional Panchakarma retreat): ~₹10,000-50,000 once
+- Pilgrimages (travel + stay): ~₹10,000-30,000 per trip × 3-4 trips = **₹30,000-1.2L**
+- Books/courses: ~₹5,000-20,000
+- **Total incremental: ~₹1.2-3.5L (~$1,450-4,200) over 2-3 years** — less than the cost of 6 months of a US gym membership + one therapist visit. Worth it.
+
+---
+
+*Sources for §9-12: WHO, NIH/NLM (PubMed on Ayurveda RCTs), AYUSH Ministry (India govt), Bengaluru gym/shala websites (Cult.fit, Yoga Bharata, Art of Living), hospital websites (Narayana, Apollo, Manipal), insurance providers (Star Health, HDFC Ergo), temple websites, pilgrimage guides. Costs are approximate 2026 planning figures.*

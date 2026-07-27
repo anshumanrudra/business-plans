@@ -181,7 +181,21 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 - [ ] Buy private floater for rest of family (know it won't cover father's dialysis pre-existing condition). — ref `05`
   > —
 
-### G. Wife / career prep
+### G. Health, spirituality, parenting prep (new 2026-07-27 — see `05 §9-12`, `02 §6A`)
+- [ ] **Buy Indian family health floater** (₹10-25L coverage, for everyone except father's dialysis). **Do this BEFORE departure** — waiting periods (2-4 yrs for pre-existing conditions) start at purchase date, and NRIs can buy from abroad. Providers: Star Health, HDFC Ergo, ICICI Lombard, Niva Bupa. — ref `05 §9E`
+  > —
+- [ ] **Schedule full preventive health panel for Month 1-2** (executive health checkup at Narayana / Apollo / Manipal, ₹5,000-10,000): metabolic panel, HbA1c, lipids, Vit D/B12, CBC, thyroid, BP/ECG. Act on any flags. — ref `05 §9B`
+  > —
+- [ ] Research **yoga shalas / gyms near E-City** — shortlist 2-3 for trial classes (Cult.fit, Yoga Bharata, Gold's Gym, or local Hatha/Iyengar studios). Target: ₹2,000-6,000/mo, 3-5x/week morning routine. — ref `05 §9A`
+  > —
+- [ ] Buy/download **spiritual reading starter pack**: Bhagavad Gita (Eknath Easwaran translation), Autobiography of a Yogi (Yogananda), Ramayana (Ramesh Menon). Plan: 30 min/month family reading = Gita done in 1.5 years. — ref `05 §10D`, `02 §6A`
+  > —
+- [ ] **Pilgrimage calendar** (draft): pick 3-4 sites over 2-3 years — Tirupati 2x, Hampi once, Rishikesh once, plus monthly local temple visits (ISKCON / Bull Temple). Quarterly family trips = bonding + cultural immersion. — ref `05 §10B`
+  > —
+- [ ] **Family rhythm pre-decisions** (discuss & commit): (a) Family dinner no-screens 4-5x/week; (b) weekly family outing (park / temple / hike); (c) one-on-one time with each kid weekly; (d) work hard-stop time (6pm? 7pm?); (e) one screen-free evening/week. Write it down. — ref `02 §6A`
+  > —
+
+### H. Wife / career prep
 - [ ] Ensure OCI/passport + PAN + Aadhaar current. — ref `06`
   > —
 - [ ] Rebuild LinkedIn + Naukri (India keywords: academic ops / student success / instructional design / HR generalist); **full Bengaluru focus for 2-3 years** — start applying to BLR edtech + intl schools. — ref `06`
@@ -232,6 +246,34 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 - [ ] **Start Disney India Engineering Manager role from day one (~Oct 2026)** (≥4–6 reports, hire/fire, budget, <50% IC). ~~Begin monthly EB-1C evidence folder (org chart, appointment letter, appraisals). The 1-continuous-year clock (L-1A + EB-1C) starts here → satisfied ~Oct 2027.~~ **CHANGED 2026-07-27:** Disney will not sponsor L-1A or EB-1C for ≥2 yrs from now — **EB-1C evidence-building is demoted**; keep the managerial JD/org chart if Disney files later, but not load-bearing. — ref `01a/01b`
   > —
 - [ ] ⚠️ **TOP PRIORITY 2026-07-27 — Execute EB-1A 10-12 month accelerated plan (MISSION-CRITICAL).** Elder son's durable US status depends entirely on EB-1A approval; NO employer backup, NO fallback. **Target: file ~Sep 2027** (Month 12) with 4-6 strong criteria + 6-8 expert rec letters. **START IMMEDIATELY** (pre-departure, before Oct 2026): (a) **#4 Judging** — sign up IEEE/ACM/Devpost/MLH reviewers (aim 10-15 by filing); (b) **#9 Salary** — get Disney comp letter THIS WEEK (easiest win); (c) **#2 Membership** — apply IEEE Senior/ACM Distinguished NOW (2-4 mo approval); (d) **#6 Publications** — seed pipeline (IEEE Software, ACM Queue, InfoQ, arXiv; aim 5-7 by Month 9); (e) **#5 Contributions** — document Disney impact NOW while you have access (metrics, diagrams, kudos); recruit 6-8 rec letter-writers Months 1-3. **Months 4-9:** accelerate publications, file 2-3 provisional patents, apply AWS Builder/GDE/MVP, pitch media (TechCrunch/ET/podcasts), draft rec letters. **Months 10-12:** finalize letters, assemble petition with attorney, **you sign the I-140 as your own petitioner** + I-907 Premium Processing ($715 + $2,805, 15 days). Port May 2021 PD (8 CFR 204.5(e)). Include the **204.5(h)(5) prospective-work statement**. ⚠️ **Internal deadline ~late Aug 2027** — wet signatures courier India→US before counsel files (target Sep 15 = USCIS *receipt* date). **See `01d` for month-by-month and `01d §0` for the self-filing mechanics.** — ref `01 §3`, `01d`
+  > —
+
+**Health, spirituality, parenting (ongoing — new 2026-07-27; see `05 §9-12`, `02 §6A`):**
+- [ ] **Month 1:** Join gym or yoga shala (₹2,000-5,000/mo); start 3-5x/week morning routine. Track streaks. — ref `05 §9A`
+  > —
+- [ ] **Month 1:** Complete baseline preventive health panel; act on flags. — ref `05 §9B`
+  > —
+- [ ] **Month 2:** First family temple visit (ISKCON / Bull Temple); set weekly/biweekly cadence. — ref `05 §10B`, `02 §6A`
+  > —
+- [ ] **Month 3:** Start monthly family Gita reading (30 min, one chapter). — ref `05 §10D`, `02 §6A`
+  > —
+- [ ] **Month 3:** First quarterly family check-in (parents): What's working? What's not? Adjust what? Write it down. Repeat every 3 months. — ref `02 §6A`
+  > —
+- [ ] **Month 6:** Quarterly pilgrimage #1 (Tirupati or Hampi, 2-3 days); dental cleaning for family. — ref `05 §10B`, `§9B`
+  > —
+- [ ] **Month 9:** Quarterly pilgrimage #2. — ref `05 §10B`
+  > —
+- [ ] **Month 12:** Eye exams if deferred; glasses if needed. — ref `05 §9B`
+  > —
+- [ ] **Month 12:** Quarterly pilgrimage #3. — ref `05 §10B`
+  > —
+- [ ] **Month 15:** Quarterly family check-in #5. — ref `02 §6A`
+  > —
+- [ ] **Month 18:** Quarterly pilgrimage #4 (Rishikesh if doing the big one). — ref `05 §10B`
+  > —
+- [ ] **Ongoing (track weekly):** (a) Family dinner no-screens 4-5x/week; (b) weekly family outing; (c) one-on-one time with each kid; (d) work hard-stop time; (e) one screen-free evening/week. **Flag if slipping.** — ref `02 §6A`
+  > —
+- [ ] **Ongoing (track daily):** 15-30 min morning meditation / pranayama / prayer (before work). — ref `05 §10A`
   > —
 - [ ] Convert resident accounts to NRO; fund NRE from US savings; set up advance-tax if owing India tax. — ref `04`
   > —

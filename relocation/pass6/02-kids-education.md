@@ -144,6 +144,79 @@ Both are **readily available for ages 7 and 13 in both cities**, and most top in
 
 ---
 
+## 6A. Intentional Parenting — Beyond Logistics
+
+> **The real question:** What do you want the kids to remember about these 2-3 years? "Dad was always on Zoom in India, like in the US" — or "we were actually together, and he was present"?
+
+Education logistics (§1-6) ensure they don't fall behind academically. **This section is about the stuff that matters more** — and that the US grind doesn't leave room for.
+
+### The India Opportunity (What the US Can't Give Them)
+
+**1. Time.** The Disney India manager role is a job, not a 60-70 hour valley grind. You'll be home more, earlier, with bandwidth. **That headspace is the opportunity** — don't let it fill with Slack.
+
+**2. Cultural immersion.** They're growing up American, which is fine — but they're also **Indian-origin kids who will lose that connection unless you make it visible now**. Language, food, extended family, temples, festivals, stories — **they get this at the age where it can still stick** (13 and 7), or they don't get it at all.
+
+**3. Modeling "present."** In the US you're modeling **productivity and providing**. In India, model **being home and available**. They'll remember which one you were.
+
+### Weekly / Monthly Family Rhythms (Anchor These Early)
+
+**Daily:**
+- [ ] **Family dinner, no screens** — at least 4-5 nights/week. In India this is culturally default (unlike the US grab-and-go). Protect it.
+- [ ] **One parent present for bedtime** (younger son, 7) — read-aloud, talk about the day. The elder son (13) is aging out of this, but offer it.
+
+**Weekly:**
+- [ ] **Family outing (non-negotiable):** Park, temple, market, Nandi Hills hike, ISKCON Sunday visit — something **together, off-screen**, every week. Put it on the calendar or it gets Zoom'd over.
+- [ ] **One-on-one time with each kid** — 30-60 min, just you and one son. Coffee shop, walk, errand together. **They compete for your attention less when they each get solo time.**
+
+**Monthly:**
+- [ ] **Family Gita / story reading** (see `05 §10D`) — 30 min, one chapter or one epic story (Ramayana / Mahabharata). The elder son engages philosophically; the younger gets the narrative. By the time you leave, they'll have **encountered their own heritage** in a way no US environment delivers.
+- [ ] **Debrief / family check-in:** "What's going well? What's hard? What do we want to change?" 15-20 min, casual (dinner table). **Especially for the elder son (13 → 16)** — the India disruption is real for him (new school, left US friends). Make space for that.
+
+**Quarterly:**
+- [ ] **Pilgrimage / family trip** (Tirupati, Hampi, Rishikesh — see `05 §10B`). Treat it as **bonding + cultural transmission**, not just sightseeing. The kids won't "get" the spiritual part yet, but they'll remember **doing it together**.
+- [ ] **Quarterly review (just parents):** "Are we actually living the 'present and intentional' goal, or just grinding in India instead of the US?" Honest check. Adjust routines if you're drifting.
+
+### Cultural Immersion (Teach Them Where They Come From)
+
+**The elder son (13) is the critical case** — he's at the age where he'll either internalize "I'm Indian-American and here's what that means" or he'll process India as "that weird place we lived for a while." The younger son (7) absorbs it more naturally.
+
+**Concrete actions:**
+- [ ] **Language exposure:** If you speak Hindi/Bengali/Tamil/Telugu at home, **use it around them** — even if they don't speak back. **Passive comprehension at 7 and 13 becomes active later.** If you don't speak an Indian language fluently, let them hear **grandparents speak it** (your parents living with you is the transmission vector).
+- [ ] **Extended family bonds:** Your parents are **with you the whole 2-3 years**. That's grandparent time the US distance model never allows. Make it **visible and valued** — not just "Grandpa is here and sick," but "these are your roots."
+- [ ] **Festivals (celebrate them):** Diwali, Holi, Durga Puja (if Bengali), Ganesh Chaturthi, Onam, Pongal — **whatever maps to your family's tradition**, do it visibly. Let the kids participate (rangoli, lighting diyas, visiting neighbors). In the US these are optional ethnicity boxes; in India they're ambient.
+- [ ] **Food culture:** Teach them **the food is part of identity** — not just "Indian food" generically, but "this is Bengali food / South Indian food / Punjabi food" and "here's why it's cooked this way." Take them to local markets (Russell Market Bengaluru, New Market Kolkata). **The younger son (7) can help cook one dish/week** — it's memory-making, not meal-prep.
+- [ ] **Stories > sermons:** Don't lecture about "our culture" — **tell the stories**. Ramayana, Mahabharata, Ganesha / Hanuman / Durga stories, the "why" behind festivals. The elder son is old enough for the **Bhagavad Gita's philosophy** (Arjuna's dilemma is a perfect 13-year-old conversation). Read Eknath Easwaran's translation together.
+
+**What this is NOT:**
+- Forcing them to "be Indian" vs American (they're both — that's the gift).
+- Them needing to speak fluent Hindi/Bengali (passive comprehension is enough).
+- Expecting them to be "into it" in real time (immersion is an investment; payoff is 10-20 years out when they have kids and want to transmit something).
+
+### Being Present (The Hardest Part)
+
+**You will have Zoom calls. The EB-1A evidence-building is real work (`01d`). The plan is dense.** The risk is: India becomes "US grind with dialysis logistics" instead of "we were finally together."
+
+**Guardrails:**
+- [ ] **Work hours boundary:** Pick a **hard stop time** (6pm? 7pm?) and **hold it 4-5 days/week**. You're a manager, not an IC on a deadline — delegate and protect the boundary.
+- [ ] **One screen-free evening/week:** No laptop, no Slack. Just: dinner, walk, kids, family. Sundays?
+- [ ] **No phone at dinner / bedtime.** Obvious, hard to keep. Do it anyway.
+- [ ] **Model rest:** If you're grinding on weekends in front of them, they learn "Dad works all the time" even when you're home. **Sabbath the work.** They'll remember.
+
+**For the kids (13 and 7), the India years are formative.** The younger son (7 → 10) is at peak "remember Dad" age. The elder son (13 → 16) is becoming an adult and **deciding what kind of adult to become** — heavily influenced by what he sees you do. You being **home, available, and not-stressed** is the intervention.
+
+### Quarterly Family Check-In (Don't Let It Drift)
+
+Every 3 months, **just the parents** (or parents + elder son if he's mature enough):
+
+**Three questions:**
+1. **"What's working?"** (Celebrate it. Don't skip this.)
+2. **"What's not working?"** (School fit? Kid's stress? Your stress? Routines slipping?)
+3. **"What do we adjust?"** (One concrete thing to change next quarter.)
+
+**Write it down** (tracker, or separate journal). The goal: **don't get to Month 30 and realize you optimized logistics but missed the humans.**
+
+---
+
 ## 7. Value-for-Money Recommendation
 
 | Rank | City | School (both kids) | Curriculum | Approx. fee (2 kids) | US re-entry | Logistics fit | Verdict |
