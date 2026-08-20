@@ -10,6 +10,15 @@
 > - **No US-India Totalization still bites**, but differently: you're now on Indian payroll (EPF), so the double-FICA problem is gone — the cost shifts to mandatory **EPF** (a forced saving, largely recoverable, not a pure loss).
 > - **Remote-work / PE section (§3) is largely resolved:** Disney India is your legal employer, runs Indian TDS/EPF, and there's no PE risk to Disney and no H-1B remote-work problem.
 
+> **⚠️ SECOND MAJOR UPDATE 2026-08-17 — three gaps this chapter did not cover at all.** See the new **`04b-nra-estate-exit-planning.md`** for the full treatment:
+> 1. **US estate tax.** As a non-US-domiciled non-citizen your estate exemption collapses from ~$15M to **$60,000** (IRC §2102(b)(1)), with rates to 40% and **no US-India estate tax treaty**. On a ~$365k US-situs estate (house + 401k) that's **~$97k of tax** — and your **Indian-citizen wife gets NO marital deduction** (§2056(d)) without a **QDOT**. Fixes are cheap but almost all **pre-departure**.
+> 2. **The departure-year capital-gains trap.** ⚠️ **Do NOT sell appreciated US stock Oct–Dec 2026.** With 273+ US days in 2026, **IRC §871(a)(2)** taxes NRA US-source capital gains at a flat **30%**. Your genuinely tax-free window is **Jan 2027 → Mar 2029**. This corrects widely-circulated "move in August, sell in December" advice.
+> 3. **Your 7-year-old is a US citizen → lifelong US taxpayer** (returns, FBAR, Form 8938, PFIC). **Never** open Indian mutual fund / PPF / ULIP accounts in his name. Brief your parents and sibling.
+>
+> `04b` also covers: **W-8BEN** filings, **Robinhood** (does not support non-residents — transfer in-kind before departure), the **cost-basis reset**, **§89A / Form 10EE** 401k timing relief, **Schedule FA / Black Money Act**, **FIRPTA**, **life insurance sizing**, **Social Security's 6-month alien-nonpayment rule**, and corrections to the 2025 "remittance tax" claims (**1%, cash only — bank/Wise transfers exempt**).
+
+> **⚠️ IMMIGRATION FRAMING IS STALE BELOW (corrected 2026-08-17).** Sections 1, 5, 6 and the old Bottom Line were written when **EB-1C via Disney** was the green-card path. Per `00-MASTER-PLAN.md` (2026-07-27), **Disney will not sponsor for ≥2 years, and EB-1A self-petition from India is now the SOLE track** (file by ~Sep 2027 for the 13-year-old's CSPA deadline). The **tax** analysis below is unaffected — but the *justification* for the move is now EB-1A + family, not EB-1C. ⚠️ And note the new conflict flagged in `04b §4.F`: the **US-ties evidence `01d` builds for EB-1A is adverse to any "closer connection to India" tax position** — an approved I-140 independently disqualifies you from the Form 8840 closer-connection exception.
+
 > **Disclaimer:** This is general information for planning, not advice. Cross-border US-India tax is complex and penalties are severe. Before acting, confirm everything with a **cross-border CPA (US side, ~$800-1,500/yr)** and a **Chartered Accountant who handles NRI/RNOR returns (India side, ~₹20-40k/yr)**. Figures use 2025-26 rates; INR/USD at ~₹86/$1.
 
 ---
@@ -20,6 +29,8 @@
 - H-1B by itself does **not** keep you a US tax resident. It's pure day-count under the **Substantial Presence Test (SPT)**: 31+ days this year AND 183+ weighted days = (current-year) + ⅓(prior year) + ⅙(2nd prior year).
 - Once you move and your weighted US days fall below 183, you become a **US nonresident alien** for tax.
 - **Year of departure = dual-status return** (Form 1040 for resident portion + 1040-NR for nonresident portion; Pub 519). US-source income still gets a 1040-NR.
+- ⚠️ **REVISED 2026-08-17 — for 2026, dual-status is probably the WRONG choice. Recommend filing 2026 as a full-year US resident.** Dual-status forfeits both the **standard deduction** and **married-filing-jointly**. And because `04b §4.A` already tells you not to realize gains in 2026 (the §871(a)(2) 30% trap), early residency termination buys you nothing. Full-year-resident gives better filing status, avoids the trap, and keeps your tax record consistent with the EB-1A US-ties narrative in `01d`. ⚠️ Also: the **closer-connection exception (Form 8840) is unavailable to you** — IRS guidance names **Form I-140** as a disqualifying step toward LPR status, and yours is approved. Confirm the whole approach with the CPA in writing. See `04b §4.F`.
+- ⚠️ **Post-departure US presence cap:** in **calendar 2027**, keep total US days under **31** — that alone makes you automatically a nonresident under the SPT (no election, no 8840 needed). See `04b §4.C`.
 
 **India side (FY runs April-March):** You become **Resident** if either:
 - 182+ days in India in the FY, **or**
@@ -35,6 +46,8 @@ Since you've been in the US for years, you'll comfortably qualify as RNOR. **Thi
 - **Time your move date.** Land **after Sept 30** in any year so you stay under 182 India-days that first FY → likely **Non-Resident** year 1, then **RNOR** for ~2 more years.
 - Keep a **day-count log** (boarding passes, passport stamps) for both countries.
 - Map the exact FY your RNOR window ends; plan all big US income events (Roth conversions, gains, 401k moves) **before** you become Ordinarily Resident.
+- ⚠️ **The window is now mapped (2026-08-17).** For an Oct 2026 arrival: NR in FY2026-27, **RNOR through FY2028-29 (ends 31 Mar 2029)**, **ROR from FY2029-30**. Since you plan to return to the US ~early-to-mid 2029, **you may exit before ROR ever bites** — but RNOR is **re-tested every single FY**, not granted for a fixed 2-3 years. Confirm annually. Full year-by-year map in `04b §4.B`.
+- ⚠️ **RNOR shields foreign income only if it is not RECEIVED IN INDIA that year.** Realize US gains into your **US** accounts, and remit later as accumulated prior-year capital, with records tying each remittance to its realization year. See `04b §4.E`.
 
 ---
 
@@ -78,6 +91,12 @@ Because the **DTAA "saving clause"** lets the US tax its own residents/green-car
   - Report rent on **Schedule E**; deduct mortgage interest, property tax, insurance, repairs, management fees, and **depreciation** (building basis ÷ 27.5 yrs). Depreciation often makes rental income near tax-neutral.
   - ⚠️ **Nonresident-alien landlord trap:** default withholding is **30% of GROSS rent**. Avoid by filing **Form W-8ECI** with your property manager + making the **IRC §871(d) net election** → taxed on *net* at graduated rates via **Form 1040-NR**.
   - **Expected result:** rent likely covers the ~$3.2k PITI with a **net surplus ~$700-1,200/mo** after ~10% management + ~25% higher insurance + maintenance.
+- ⚠️ **If you ever SELL while a foreign person — FIRPTA (added 2026-08-17):**
+  - The buyer must withhold **15% of the GROSS amount realized** (not of the gain) and remit it on **Forms 8288 / 8288-A**. On a $300k sale that's **$45,000 held back**, even if your actual gain is far smaller.
+  - **Reduce it up front** with **Form 8288-B** (withholding-certificate application, filed *before* closing) showing the real expected tax. Otherwise you wait for a refund on the 1040-NR — potentially a year of dead capital.
+  - **Exception:** no withholding if the buyer acquires it as a **residence** and the amount realized is **≤$300,000**. A reduced **10%** tier applies from $300k–$1M for a buyer-residence purchase.
+  - ✅ **You can still claim the IRC §121 exclusion** (up to $250k single / $500k MFJ) on **Form 1040-NR** as a nonresident — but §121 needs **2 of the last 5 years** of use as your principal residence. A 2-3 year rental absence keeps you inside the 5-year lookback; a longer one **destroys the exclusion**. ⚠️ This is a real deadline on the "rent it out indefinitely" option — **if the return slips past ~3 years, selling gets materially more expensive.** Depreciation recapture is not excludable either way.
+  - ⚠️ The house is also the **largest US-situs asset in your estate** — see `04b §1`.
 - **State tax nexus:** ⚠️ State residency follows **domicile**, not federal rules. Keeping the house is a strong domicile tie — aggressive states (CA, NY) may keep taxing you. If applicable, break domicile (driver's license, voter reg, mailing address) before leaving.
 
 **Recommendation:** **Rent it out** via a property manager (~8-10% of rent).
@@ -287,6 +306,8 @@ Clarify continuation eligibility with Disney immediately. If contributions stop 
 
 *Added pass6: gaps surfaced by the "6 critical steps for returning NRIs" framework. Steps 1 (RNOR) and 3-opening (NRE/NRO) are already covered above (§1, §7); this section fills the four that were thin — health-insurance **timing**, the **reverse** account redesignation, a **cross-border will**, and **global-asset consolidation + KYC**.*
 
+*⚠️ **Extended 2026-08-17** with six more subsections, all from `04b-nra-estate-exit-planning.md`: **E** life insurance (the fix for the $60k-exemption estate-tax exposure — must be in force **before** departure), **F** India-side liquidity (the IRS transfer-certificate delay), **G** brokerage/custodian migration (**Robinhood won't carry a non-resident**), **H** US financial infrastructure (2FA, cards, mail, POA), **I** India-side additions (**§89A/Form 10EE**, Schedule FA/Black Money Act, RFC funding, post-2024 capital gains, Irish-ETF PFIC), **J** Social Security quarters.*
+
 ### A. Buy Indian health insurance NOW — not after you land
 
 ⚠️ The plan currently buys the family floater in the *first 90 days in India* (§8). **Buy it before you leave the US instead** (or as early as possible). Reasons:
@@ -317,6 +338,11 @@ The `04a` pour-over will only handles the US house via the revocable trust. With
 
 **Action:** Engage an estate attorney familiar with US-India situs rules; execute both wills + update all beneficiary designations before departure.
 
+⚠️ **ADDED 2026-08-17 — two instructions to give the estate attorney explicitly** (see `04b §1` for the full analysis):
+- **QDOT provisions.** Because your wife is an **Indian citizen**, **IRC §2056(d) denies the unlimited marital deduction** — assets passing to her are estate-taxed above the **$60,000** NRA exemption. A **Qualified Domestic Trust (§2056A)** restores it, but must be **drafted in advance**. Template wills won't include it; ask for it by name.
+- **Domicile question.** Ask whether you are US- or India-domiciled for **estate** tax given a pending EB-1A asserting intent to return to the US. This is separate from income-tax residency and genuinely ambiguous on your facts — have estate counsel and immigration counsel discuss it together rather than in isolation.
+- ⚠️ **Also flag the two children are treated differently:** the 7-year-old is a **US citizen** (lifelong US taxpayer; gifts over $100k/yr trigger **his** Form 3520), the 13-year-old is an Indian citizen on H-4. The wills and the tax plan both need to handle this asymmetry. See `04b §7`.
+
 ### D. Consolidate global assets + update KYC / investment records
 
 Do this **gradually over the 2-3 year window**, not in a panic:
@@ -327,6 +353,54 @@ Do this **gradually over the 2-3 year window**, not in a panic:
 - ⚠️ **PFIC trap:** Indian mutual funds are **PFICs** for US tax purposes — punitive US taxation + Form 8621 per fund. During the years you're still a US person (dual-status / MFJ), **avoid buying new Indian MFs**; coordinate the whole demat/MF plan with the cross-border CPA (ties to the Robinhood/PFIC question already in the tracker).
 
 **Action:** Build the asset inventory now; update MF KYC + demat to NRI status in the first 90 days; re-update on return. Loop the CPA in on PFIC exposure before holding/buying any Indian MFs.
+
+### E. Life insurance — buy/confirm BEFORE departure (added 2026-08-17)
+
+This is the cheapest fix for the **~$97k US estate-tax exposure** in `04b §1`: proceeds on the life of an NRA are **not US-situs** (§2105(a)), bypass probate, and pay out fast — **no IRS transfer certificate required**.
+
+- ⚠️ **Time-critical:** US insurers generally **will not underwrite a new policy for someone already living abroad.** Any US-dollar coverage must be **in force before you fly**.
+- ⚠️ **Email your current carrier for written confirmation that coverage survives permanent relocation to India.** Many US term policies contain foreign-residence clauses; "covered while traveling" ≠ "covered after emigrating." Five minutes of work protecting a seven-figure payout.
+- **Structure:** a **US policy in USD** sized to the estate-tax bill (~$100-150k + buffer), plus a **larger Indian term policy in INR** — the Indian one is what your wife can realistically claim on from Bengaluru.
+- **Own the US policy directly, NOT in a trust** — putting it in a US trust can convert non-US-situs proceeds into a US-situs asset.
+- **Never name a minor as direct beneficiary**; set primary **and** contingent beneficiaries; write a **Letter of Instruction** (policy numbers, carrier contacts, claim steps) and leave copies in both countries.
+
+### F. Keep 12+ months of family liquidity in India (added 2026-08-17)
+
+⚠️ **The practical failure mode nobody plans for:** on death, US custodians (401k, Schwab) **will not release assets to a foreign beneficiary** until the executor produces an **IRS transfer certificate** — routinely **many months to over a year**. Your family in Bengaluru could be locked out of the 401k and brokerage precisely when they need cash.
+
+**Action:** hold **12+ months of family living costs India-side** (RFC/FCNR/NRE) plus the Indian life policy, so nobody's rent or school fees depend on an IRS clearance letter.
+
+### G. Brokerage & custodian migration — mostly pre-departure (added 2026-08-17)
+
+Full detail in `04b §5`. The load-bearing items:
+- ⚠️ **Robinhood does not support non-US-resident account holders** — expect restriction or forced closure on address change. **ACATS transfer in-kind to Schwab International or IBKR while still a US resident** (preserves basis, no taxable event). Do **not** liquidate in 2026 — that wastes the 2027 tax-free window and may hit the §871(a)(2) 30% trap. *(This resolves the open "Robinhood post-relocation strategy" item in `08`.)*
+- **Open IBKR now**, while onboarding as a US resident is easy.
+- **File Form W-8BEN** with every bank, broker and the 401k custodian on status change — certifies foreign status, prevents wrong withholding, and claims the treaty dividend rate instead of the 30% statutory rate. **Expires every 3 years — calendar the renewal.** Note W-8BEN does **not** exempt dividends, only gains.
+- **Any 401k→IRA rollover: execute before departure** — some custodians won't process one for a non-resident. ⚠️ This is in tension with §5.J's "do conversions inside the RNOR window": resolve as **administratively roll over pre-departure, tax-wise time any taxable conversion into RNOR**. A Roth conversion is **US-taxable in the conversion year regardless of RNOR** — RNOR protects you from *India* tax, not US tax. Have the CPA model it; §5 currently glosses over this.
+- **Get NRA policy in writing from each custodian's INTERNATIONAL desk, not a retail branch** — branches routinely give wrong answers about foreign addresses.
+
+### H. US financial infrastructure — keep it alive (added 2026-08-17)
+
+You intend to **return to the US in ~2.5-3 years** and will immediately need credit for a mortgage/rental. Protecting this is worth real money, not housekeeping. See `04b §8`.
+- ⚠️ **Keep a physical US SIM** (T-Mobile-network prepaid, ~$10-15/mo, Wi-Fi calling) for bank/brokerage 2FA. **Google Voice is unreliable for OTPs** and **porting your real number to VoIP can instantly break bank OTPs** (reported first-hand at BofA and Chase). Treat this as critical infrastructure.
+- **Downgrade, don't cancel,** high-annual-fee cards — a product change to a no-fee card in the same family preserves account age and credit line. Keep your **oldest** card and one with **no foreign transaction fee**. **Autopay the full statement balance.**
+- **Set up mail forwarding / a virtual mailbox** — and ⚠️ **use the same address as the EB-1A address of record in `01d §0`** so the financial and immigration records agree.
+- **Execute a US financial power of attorney** for a trusted person — insurance against an account freeze you cannot resolve from India (pairs with the `04a` RLT co-trustee).
+- Run **small periodic transactions** so US accounts don't go dormant.
+
+### I. India-side additions (added 2026-08-17)
+
+- ⚠️ **§89A / Rule 21AAA / Form 10EE — the highest-value unanswered question for your CA.** India may tax 401k **growth on accrual** while the US taxes only on **withdrawal**; §89A lets you defer Indian tax to the withdrawal year for a *notified* country. The election is understood to be **irrevocable and due with the first relevant year's return** — so waiting can silently forfeit it. Ask at the **first** India return: is the US notified? deadline? does it cover **Roth**? See `04b §6.B`.
+- ⚠️ **Schedule FA + Black Money Act.** Once **ROR (FY2029-30)** you must disclose **all** foreign assets (house, 401k, brokerage, banks, insurance) in Schedule FA. Non-disclosure exposes you to the Black Money Act — commonly cited at **₹10 lakh per year** plus prosecution risk. RNOR is generally exempt, which is exactly why the ROR flip is a hard compliance trigger. **Add this to the §8.B RNOR-end calendar trigger**, not just the account redesignation.
+- **RFC funding:** to hold USD *as USD* in India you must remit **in USD** — most services (**including Wise**) convert to INR en route. **Use a bank wire (~$45 flat) for RFC funding**, which contradicts §7's blanket "use Wise" (right for INR, wrong for RFC).
+- **Indian capital gains post-23 July 2024:** **indexation is largely gone.** LTCG on foreign/unlisted assets is **12.5% without indexation** (holding period **>24 months**); Indian listed equity is STCG 20% / LTCG 12.5% with ₹1.25L exempt. Ignore any "20% with indexation" guidance for these assets — it's outdated.
+- ⚠️ **Irish-domiciled ETFs are also PFICs for US persons.** Popular NRI advice recommends them for estate-tax reasons (correctly — they're non-US-situs) but omits this. Given EB-1A will make you a US person again, model the compliance drag with the CPA before buying any.
+
+### J. Social Security — count your quarters now (added 2026-08-17)
+
+- You can file from India through the **Federal Benefits Unit** at the US Embassy/Consulate — no US trip needed.
+- ⚠️ **But the Alien Nonpayment Provision (SSA §202(t))** suspends benefits for a **non-citizen outside the US for 6 consecutive calendar months** unless an exception applies. India has **no** totalization or treaty exception — but SSA's country chart lists India as **"Yes"** for the **40-quarters-of-coverage** and **10-years-US-residence** exceptions, so either route lets you be paid while living in India.
+- **Action: pull your SSA earnings statement now and count your quarters of coverage.** If you're close to but under **40 QCs**, that's a concrete, dollar-valued reason to care about your remaining US-payroll quarters — and it can only be acted on before you leave.
 
 ---
 
@@ -347,6 +421,39 @@ Do this **gradually over the 2-3 year window**, not in a panic:
 10b. **Execute cross-border wills** (US will/trust + separate India will) + name guardians for the kids + **update all beneficiary designations** (401k/Robinhood/Schwab/life) (§8.C).
 10c. **Build a global-asset inventory** (US + India accounts, demat, MFs, EPF, policies); flag PFIC exposure on any Indian MFs to the CPA (§8.D).
 
+**Pre-move — ADDED 2026-08-17 (estate/exit gaps; nearly all of this is impossible or much harder once you're in India):**
+10d. ⚠️ **Email your life-insurance carrier for written confirmation** that coverage survives permanent relocation to India (§8.E).
+10e. ⚠️ **Buy/top up US term life** (~$100-150k + buffer, to cover the estate tax) **and** an Indian INR term policy. Own the US policy **directly, not in a trust**. Primary + contingent beneficiaries; never a minor directly (§8.E).
+10f. ⚠️ **Tell the estate attorney: QDOT provisions** — your Indian-citizen wife gets **no marital deduction** (§8.C, `04b §1.D`).
+10g. ⚠️ **Get a US-situs asset schedule with values** and recompute the estate-tax exposure; have estate + immigration counsel reconcile the **domicile vs EB-1A** tension (`04b §1.E`).
+10h. ⚠️ **ACATS-transfer Robinhood in-kind to Schwab International or IBKR** while still a US resident. **Open IBKR now.** Do **not** liquidate in 2026 (§8.G).
+10i. **Get written NRA policy from each custodian's INTERNATIONAL desk** (Schwab, Fidelity, 401k custodian, banks) — not a retail branch (§8.G).
+10j. **Execute any 401k→IRA rollover now**, while a US resident (§8.G).
+10k. **Pull the SSA earnings statement; count quarters of coverage toward 40** (§8.J).
+10l. **Keep a T-Mobile-network prepaid US SIM** for 2FA; do **not** port your real number to VoIP; don't rely on Google Voice (§8.H).
+10m. **Downgrade (don't cancel) high-fee cards**; keep the oldest + a no-FX-fee card; autopay full balance (§8.H).
+10n. **Set up mail forwarding — same address as the `01d §0` EB-1A address of record** (§8.H).
+10o. **Execute a US financial power of attorney** for a trusted person (§8.H).
+10p. ⚠️ **Confirm with the CPA in writing: file 2026 as a FULL-YEAR US RESIDENT**, not dual-status — and confirm consistency with the EB-1A record (§1, `04b §4.F`).
+
+**Departure year (Oct–Dec 2026):**
+14a. 🚫 **Do NOT sell appreciated US stock.** 273+ US days in 2026 → flat **30%** under §871(a)(2). The "beat the January remittance tax" rationale is void — that tax is **1%, cash/money-order only; bank and Wise transfers are exempt** (`04b §9.1`).
+14b. **File Form W-8BEN** with every bank, broker and the 401k custodian on status change; calendar the **3-year** renewal (§8.G).
+
+**The golden window (Jan 2027 → Mar 2029):**
+14c. ✅ **Realize US capital gains here** — untaxed in both countries. Also run the **cost-basis reset** (sell + immediately rebuy appreciated positions at zero tax cost; §1091 disallows wash-sale *losses* only, so harvesting gains is fine).
+14d. ⚠️ **Keep proceeds in US accounts in the year realized**; remit later as accumulated prior-year capital with a documented trail (§1).
+14e. ⚠️ **Keep US presence under 31 days in calendar 2027** (watch 2028) — secures automatic NRA status (§1).
+14f. ⚠️ **India CA: file Form 10EE / §89A at the FIRST India return** — likely irrevocable and deadline-bound (§8.I).
+14g. **Fund RFC by USD bank wire, not Wise** (§8.I).
+14h. **Confirm RNOR status every FY** — it is re-tested annually, not granted for 2-3 years (§1).
+
+**Ongoing / triggers — ADDED 2026-08-17:**
+19a. 🚫 **Never open Indian MF / PPF / ULIP / insurance-investment accounts in the 7-year-old's name** — he's a **US citizen for life** (PFIC + Form 8621 + FBAR). **Brief your parents and sibling in advance.** Add his US tax position to the CPA's scope as a separate matter (§8.I, `04b §7`).
+19b. **RNOR-end trigger (FY2029-30)** → add **Schedule FA / Black Money Act** disclosure to the same calendar entry as the NRE/NRO redesignation (§8.B, §8.I).
+19c. **Maintain 12+ months of family living costs India-side** so nobody waits on an IRS transfer certificate (§8.F).
+19d. **Small periodic transactions** on US accounts to prevent dormancy freezes (§8.H).
+
 **First 90 days in India:**
 9. Convert existing resident bank accounts to **NRO**; fund **NRE** from US savings.
 10. Wife: confirm employment structure, EPF enrollment, India tax withholding.
@@ -365,4 +472,8 @@ Do this **gradually over the 2-3 year window**, not in a panic:
 
 ---
 
-**Bottom line (revised 2026-07-20 for the Disney India payroll move):** **MAXIMIZE 2026 ROTH 401(k) CONTRIBUTIONS IMMEDIATELY** ($24,500+) — **2026 (through ~Sept) is your FINAL contribution window**; you resign TWDC US ~Oct 2026, so US income and the match end. Move **after Sept 30** to lock RNOR status — but note **RNOR now shields only your *foreign* income (US rent, 401k, US gains), NOT your Disney India salary**, which is India-source and fully India-taxed from day one. Keep retirement accounts **untouched during the RNOR window**, then **stop all distributions once Ordinarily Resident**. **Rent the US house** and route savings through **NRE via Wise** with an **FCNR USD buffer**. ⚠️ **The old "$155k-215k+ in 3 years" wealth build is VOID** — it assumed a US salary you'll no longer have. On an Indian manager salary at Indian costs you'll still save meaningfully, but far less in dollars; **rebuild the projection from your actual Disney India offer.** The move is now justified chiefly by the **EB-1C green-card path + kids' durable status + family stability**, not by max wealth accumulation. Protect the narrower RNOR window with clean records and a cross-border CPA + India CA.
+**Bottom line (revised 2026-07-20 for the Disney India payroll move):** **MAXIMIZE 2026 ROTH 401(k) CONTRIBUTIONS IMMEDIATELY** ($24,500+) — **2026 (through ~Sept) is your FINAL contribution window**; you resign TWDC US ~Oct 2026, so US income and the match end. Move **after Sept 30** to lock RNOR status — but note **RNOR now shields only your *foreign* income (US rent, 401k, US gains), NOT your Disney India salary**, which is India-source and fully India-taxed from day one. Keep retirement accounts **untouched during the RNOR window**, then **stop all distributions once Ordinarily Resident**. **Rent the US house** and route savings through **NRE via Wise** with an **FCNR USD buffer**. ⚠️ **The old "$155k-215k+ in 3 years" wealth build is VOID** — it assumed a US salary you'll no longer have. On an Indian manager salary at Indian costs you'll still save meaningfully, but far less in dollars; **rebuild the projection from your actual Disney India offer.** The move is now justified chiefly by the ~~EB-1C~~ **EB-1A self-petition path + kids' durable status + family stability**, not by max wealth accumulation. Protect the narrower RNOR window with clean records and a cross-border CPA + India CA.
+
+---
+
+**Bottom line — 2026-08-17 addendum (estate & exit planning):** This chapter was built around **income** tax and missed **estate** tax entirely. As a non-domiciled non-citizen your exemption is **$60,000, not ~$15M** — roughly **$97k of tax** on a ~$365k US-situs estate (house + 401k), with **no US-India estate treaty** and **no marital deduction for your Indian-citizen wife** absent a **QDOT**. The fixes are cheap and overwhelmingly **pre-departure**: **term life in force before you fly**, **QDOT language in the wills**, and **12+ months of India-side liquidity** so nobody waits a year on an IRS transfer certificate. Second, the tax-free selling window is **Jan 2027 → Mar 2029, not Dec 2026** — selling in your departure year triggers a flat **30%** under §871(a)(2), and the remittance-tax panic driving that advice was misinformed (**1%, cash only, bank transfers exempt**). Use the window for a **cost-basis reset**, keep proceeds in US accounts that year, and stay **under 31 US days in 2027**. Third, **file 2026 as a full-year resident** — better filing status *and* consistent with the EB-1A record `01d` is deliberately building. Fourth, **move the brokerage before you leave** — Robinhood won't carry a non-resident. Fifth, **your 7-year-old is a lifelong US taxpayer**: no Indian mutual funds, PPF or ULIPs in his name, ever — and tell the relatives before someone helpfully opens one. **Full detail, sourcing, and the professional question list: `04b-nra-estate-exit-planning.md`.**

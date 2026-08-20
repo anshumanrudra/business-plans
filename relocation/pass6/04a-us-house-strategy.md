@@ -595,8 +595,15 @@ The risk: a **gap between move-out and first tenant** = you carry ~$3,200/mo wit
 - It also complicates insurance, the loan, and any refi, for a single property.
 - **The liability protection you'd want from an LLC is better achieved by a landlord (DP-3) policy + a $1–2M umbrella policy (~$150–400/yr)** — simpler, cheaper, no due-on-sale exposure. Do that instead.
 
-### Irrevocable trust — NOT recommended
-- Gives up control, and for a $200k house with a 2–3-yr absence, the asset-protection/estate-tax benefits don't apply (you're nowhere near the federal estate-tax exemption). Overkill, and can create its own due-on-sale and tax complications. Skip.
+### Irrevocable trust — still NOT recommended, but the reasoning below was wrong
+
+- ~~Gives up control, and for a $200k house with a 2–3-yr absence, the asset-protection/estate-tax benefits don't apply (you're nowhere near the federal estate-tax exemption).~~
+- ⚠️ **CORRECTED 2026-08-17 — the parenthetical above is false once you're a non-resident alien.** The ~$15M federal exemption applies to **US domiciliaries**. As a **non-US-domiciled non-citizen**, your estate exemption is **$60,000** (IRC §2102(b)(1) gives a $13,000 credit), with rates to 40% and **no US-India estate tax treaty**. **This house alone blows through the exemption several times over** — it is the single largest US-situs asset in your estate. See **`04b-nra-estate-exit-planning.md` §1**.
+- **The recommendation doesn't change, but for different reasons:** an irrevocable trust gives up control, can trigger **due-on-sale** (Garn-St. Germain's §1701j-3(d)(8) safe harbor covers *inter vivos revocable* trusts where you remain a beneficiary — not this), and creates gift-tax exposure since **US real estate gifted by an NRA IS subject to US gift tax** (unlike intangibles). So it costs you gift tax now to save estate tax later, while risking the mortgage. Skip it.
+- ✅ **Handle the estate-tax exposure with life insurance instead** — proceeds on an NRA's life are **not US-situs** (§2105(a)), so a US term policy sized to the estimated tax (~$100-150k) solves the liquidity problem without touching title or the loan. **Must be in force before you leave the US.** See `04b §3` and `04 §8.E`.
+- ⚠️ Also add to the estate attorney's brief: **your Indian-citizen wife gets no marital deduction** (§2056(d)) — the RLT/pour-over will needs **QDOT** provisions. `04b §1.D`.
+
+> ⚠️ **Related, and not covered elsewhere in this file — FIRPTA on a future sale.** Selling as a foreign person means the buyer withholds **15% of the GROSS sale price** (Forms 8288/8288-A) — ~$45k on a $300k sale, regardless of your actual gain. File **Form 8288-B before closing** to reduce it. No withholding if the buyer takes it as a residence at ≤$300k. And the **IRC §121** $250k/$500k exclusion needs **2 of the last 5 years** as your principal residence — a 2-3 year rental absence keeps you inside that window, but **a longer absence destroys it**, which puts a real deadline on the return date. See `04 §4`.
 
 ---
 
