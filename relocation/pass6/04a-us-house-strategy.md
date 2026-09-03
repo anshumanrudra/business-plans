@@ -79,6 +79,12 @@ If your real aim is **rent covering the payment**, the 30-yr refi is the tool �
 
 ## 2. Self-Managing the Rental (Execution Plan)
 
+> ⚠️ **SUPERSEDED IN PART — 2026-09-02. See `04c-diy-rental-ops-ct.md`.**
+> This section was written 2026-07-02 and assumed (a) a **July→Aug→Sept** runway, (b) a **US co-trustee** acting as your local proxy, and (c) generic "check your state law" terms. As of **Sept 2** none of those hold: the property is in **Unionville (Farmington), CT**, the Zillow listing is **built but unpublished**, and there is **no co-trustee or any local proxy** — help will be sourced ad hoc via Thumbtack. **Rent available 10/10/26.**
+> **What is still valid here:** the cost case for self-managing, the vendor-bench concept, the bookkeeping/tooling approach, and the risk table's shape.
+> **What `04c` replaces:** the Phase-1 timeline (→ `04c §3`, a 5.5-week sprint with two go/no-go gates), every task assigned to a "co-trustee" (→ `04c §1`, the no-proxy architecture), and the lease/deposit/collection mechanics, three of which are **non-compliant with CT law as drafted below** (→ `04c §2`). `04c §4` also adds an option this section doesn't consider: a **leasing-only agent** (one-time ~half-to-one month's rent) for placement only, while you keep self-managing the steady state — the recommended play given the compressed timeline and absent proxy.
+> **Specific corrections flagged inline below as** ⚠️ **CT.**
+
 **Your decision: self-manage to save ~8-10% PM fees (~$200-300/mo on $2,500-3,000 rent).** On a 3-year horizon, that's **~$7,200-10,800 saved** — significant. But self-managing from India (12.5-hour time difference) requires infrastructure, automation, and a local support network. Here's how to set it up.
 
 ---
@@ -86,6 +92,8 @@ If your real aim is **rent covering the payment**, the 30-yr refi is the tool �
 ### Phase 1: Pre-Departure Setup (July–September 2026)
 
 #### A. Legal/Financial Infrastructure
+
+> ⚠️ **CT / no-proxy:** items 1, 8, 12, 19 and 22 below all assume a **US co-trustee**. **There isn't one** (2026-09-02). Read them against **`04c §1`**, which reassigns each function to a smart lock, a pre-committed 24/7 vendor bench, a Thumbtack handyman with a written checklist, a **limited POA**, and — the one that cannot be automated — a **named CT in-state agent for notices and service of process (CGS §47a-6)**.
 
 1. **Revocable Living Trust + Local Trustee** (see §4 for full trust details)
    - Designate a **US-based co-trustee** (spouse, sibling, trusted friend) who can:
@@ -101,6 +109,7 @@ If your real aim is **rent covering the payment**, the 30-yr refi is the tool �
      - No foreign transaction fees (in case you need to move rupees → USD)
    - **Routing:** Tenant rent → rental account; mortgage/insurance/utilities autopay from rental account
    - **Schwab account = reserve buffer** (3-6 mo PITI); rental account = active operations
+   - ⚠️ **CT — you need a THIRD account.** CT requires the security deposit to sit in a **separate escrow account for the tenant's benefit**, earning annual interest at a rate set by the Banking Commissioner. It is **not** part of your operating account. See `04c §2.2`.
 
 3. **Property Insurance + Umbrella**
    - **Landlord (DP-3) policy** naming the trust, covering:
@@ -211,12 +220,12 @@ If your real aim is **rent covering the payment**, the 30-yr refi is the tool �
 
 #### D. Rent Collection + Financial Management
 
-15. **Rent Collection Automation**
-    - **Online payment platform:** TurboTenant, Avail, Zelle, Venmo (some have fees; factor in)
+15. **Rent Collection Automation** — ⚠️ **CT: three of the five lines below are wrong. Corrected in `04c §2.3`/`§2.4`.**
+    - **Online payment platform:** TurboTenant, Avail, Zelle, ~~Venmo~~ (some have fees; factor in). ⚠️ **CT requires you to offer a NON-ELECTRONIC payment option** for leases signed on/after 1 Oct 2013 — electronic-only is not permissible. Drop Venmo (no ledger, no lease linkage).
     - **Set rent due date:** 1st of month (standard)
-    - **Grace period:** 5 days (lease specifies this)
-    - **Late fee:** $50-75 or 5% of rent (check state law caps)
-    - **Auto-reminder:** email/SMS on day 6 if rent not received
+    - ~~**Grace period:** 5 days~~ → ⚠️ **CT: 9 days.** Rent unpaid by midnight of the **9th** day after due date is when you may begin proceedings.
+    - ~~**Late fee:** $50-75 or 5% of rent~~ → ⚠️ **CT caps residential late fees and bars them until the 9-day grace has run.** The $75 figure is very likely over the cap — get the current cap from CT counsel and set the lease to it.
+    - ~~**Auto-reminder:** day 6~~ → **auto-reminder day 2–3 (courtesy), enforcement from day 10.**
     - **Ledger:** track rent, late fees, repairs in TurboTenant or Google Sheets
 
 16. **Expense Management**
@@ -272,7 +281,7 @@ If your real aim is **rent covering the payment**, the 30-yr refi is the tool �
     - **Deductions from deposit:**
       - **Allowed:** damage beyond normal wear-and-tear (holes in walls, broken fixtures, pet stains, filth)
       - **NOT allowed:** normal wear (carpet wear, paint fading, minor scuffs)
-      - **Send itemized list within 30 days** (state law varies; check)
+      - **Send itemized list within 30 days** (state law varies; check) → ⚠️ **CT: 30 days is a hard clock and missing it exposes you to DOUBLE the deposit.** Return deposit **+ accrued interest** with a written itemized statement. **Pre-book the move-out inspection for the move-out week**, not after — from India you cannot recover a blown 30-day clock. See `04c §2.2`.
     - **Return deposit:** via check or Zelle (keep proof of delivery)
     - **Turn the unit:**
       - Clean (hire professionals; ~$200-400)
@@ -290,12 +299,13 @@ If your real aim is **rent covering the payment**, the 30-yr refi is the tool �
 
 | Scenario | Impact | Prevention | Response if it happens |
 |---|---|---|---|
-| **Tenant stops paying rent** | Lose $2,500-3,000/mo; eviction takes 60-90 days | Screen rigorously; require 3x income + good credit | File eviction with local attorney; draw from reserve; find new tenant |
+| **Tenant stops paying rent** | Lose $2,500-3,000/mo; ~~eviction takes 60-90 days~~ ⚠️ **CT: materially longer.** After judgment there's a 5-day stay; on nonpayment the tenant can pay into court within 5 days and ask to stay **up to 3 months**; on lapse-of-time/lease-violation, **up to 6 additional months**. Size the reserve to that, not to 90 days. | Screen rigorously; require 3x income + good credit; **9-day grace is statutory** | File eviction with local attorney (notice to quit JD-HM-7 served by a state marshal, + CT Right-to-Counsel notice; Hartford housing session); draw from reserve. See `04c §2.7` |
 | **Major repair (roof, HVAC, water heater)** | $3,000-15,000 | Inspect before renting; maintain preventively | Draw from reserve; get 3 quotes; authorize work; consider insurance claim if applicable |
 | **Tenant causes major damage** | $5,000-20,000 | Screen for eviction history; require deposit; photo move-in inspection | File insurance claim (if >deductible); sue in small claims (up to $5-10k depending on state); write off loss |
 | **Vacancy (can't find tenant)** | $3,200/mo | Pre-lease before departing; price to fill; market in peak season (May-Aug) | Drop rent 5-10%; offer move-in incentive (1 month free); expand to mid-term/furnished rentals |
 | **You can't reach contractor / time-zone chaos** | Tenant unhappy; repair delayed; potential habitability claim | Build contractor rolodex with email + WhatsApp; use co-trustee as emergency proxy | Co-trustee handles; or use on-demand service (Handy, TaskRabbit); or authorize tenant to hire (reimburse with receipt) |
-| **Eviction needed** | 60-90 days + $1,500-5,000 legal fees | Screen hard; enforce lease terms consistently | Hire local eviction attorney immediately; don't DIY from India; accept sunk cost; get possession fast |
+| **Eviction needed** | ⚠️ **CT: up to 6-9+ months with stays** + $1,500-5,000 legal fees | Screen hard; enforce lease terms consistently; **retain the attorney BEFORE you leave** (still unchecked in the tracker) | Hire local eviction attorney immediately; don't DIY from India; accept sunk cost; get possession fast |
+| ⚠️ **Frozen/burst pipe in an unattended CT house (NEW 2026-09-02 — the real tail risk)** | $10k-50k+ damage, mold, displaced tenant, habitability claim — and **nobody is there to notice** | **Automatic water shutoff (Moen Flo/Phyn, ~$500-800 installed) + freeze/leak sensors + smart thermostat with remote alerts**; lease requires tenant to hold heat ≥60°F and report heating failure immediately; confirm the policy's **freeze-during-unoccupancy exclusion** in writing | Shutoff acts autonomously and alerts your phone; dispatch the pre-committed 24/7 plumber; file claim. See `04c §8` |
 | **Insurance claim (fire, flood, tenant injury)** | $10,000-$100,000+ | Landlord + umbrella insurance; maintain property; document everything | File claim immediately; co-trustee coordinates adjuster; consult attorney if liability claim |
 | **IRS/state audit of rental income** | Back taxes + penalties if W-8ECI not filed | File W-8ECI + §871(d) election; track expenses; use CPA | CPA handles audit; provide receipts; pay any deficiency |
 
@@ -556,7 +566,7 @@ The risk: a **gap between move-out and first tenant** = you carry ~$3,200/mo wit
 
 **If you decide to keep lease:**
 
-9. **Notify property manager** (servicer contact, account #, monthly cost, transferability)
+9. ~~**Notify property manager**~~ **You are the manager** — record the servicer contact, account #, monthly cost and transferability in the property folder, and hand the same details to the leasing agent so the listing/lease disclosure is accurate (`04c §5.2`)
 10. **Disclose in rental listing** ("Solar-equipped home, lease payment included in rent; tenant enjoys lower electric bills")
 11. **Add lease cost to PITI** in your rental-income calculations ($3,159 + $120 = $3,279/mo)
 12. **Set up autopay** from funded US account (add to mortgage + Tesla autopay list)
@@ -575,7 +585,7 @@ The risk: a **gap between move-out and first tenant** = you carry ~$3,200/mo wit
 
 **Decision deadline:** Mid-August (before you leave US) — buyout paperwork/payment is far easier to handle while you're stateside.
 
-*Confirm buyout cost with servicer, ITC + depreciation eligibility with your cross-border CPA, and disclosure requirements with your property manager/real-estate attorney.*
+*Confirm buyout cost with servicer, ITC + depreciation eligibility with your cross-border CPA, and disclosure requirements with your ~~property manager/~~ **CT landlord-tenant attorney** (`04c §11` Q6 — the servicer changed in bankruptcy and arbitration is pending, so the disclosure wording matters).*
 
 ---
 
@@ -609,13 +619,20 @@ The risk: a **gap between move-out and first tenant** = you carry ~$3,200/mo wit
 
 ## 5. The Order of Operations (this matters — the steps conflict)
 
+> ⚠️ **REVISED 2026-09-02 — the sequence below is a July artifact. Three of its six steps have changed:**
+> - **Step 2 (refi): DEAD.** It's Sept 2, departure ~5 weeks out, relocation committed, and a close takes 30-45 days. An **owner-occupied** refi would now require an occupancy representation you can't honestly make; an investment-property refi won't close in time and costs 0.5-0.875% more. **Keep the 6.1% loan.** (`04c §6.5`)
+> - **Step 3 (trust before rental): DECOUPLED.** Garn-St. Germain **§1701j-3(d)(8)** exempts a transfer into an inter vivos trust where you remain a beneficiary and which doesn't transfer occupancy rights — by its terms it does **not** require the property to still be your residence. So the RLT stays available **after** the tenant moves in, and belongs with the **QDOT + cross-border wills** estate engagement (`04b §1.D`) rather than a 5-week scramble. **Confirm with counsel** — this departs from §4 below. (`04c §1`)
+> - **Step 5 (W-8ECI to the property manager): THERE IS NO PROPERTY MANAGER.** Under self-management the payor — and therefore the withholding agent — is the **tenant**, or a **US agent you appoint**. Exposure starts **1 Jan 2027** (2026 is filed as a full-year resident). This is a named CPA question, not a form to mail. (`04c §6.3`)
+>
+> **Working sequence as of today: publish the listing → lease up (`04c §3`) → landlord insurance + solar disclosure → basis documentation before 10/10 (`04c §6.2`) → withholding structure before 1 Jan 2027 → trust/estate engagement (can be from India).**
+
 The moves have a required sequence, because a refi is hard once title is in a trust or the house is a rental, and the trust transfer wants to happen while it's still your residence:
 
 1. **Identify the solar lease servicer and decide the rental structure** (you pay vs tenant assumes) — needed for accurate rental-income math and tenant marketing. Read the lease (transferability, buyout, monthly cost); inspect the system.
 2. **Refinance FIRST (if doing it)** — while (a) you're on **US W-2 income**, (b) title is in **your name** (many lenders make you deed a trust-held property back to yourself to refi, then re-transfer — avoid that dance by refinancing before the trust transfer), and (c) it's honestly your residence (or do an investment-property refi). **Most time-critical step.**
 3. **Transfer into the revocable living trust** — after the refi funds, while it's still your residence (Garn-St. Germain safe harbor). Update the deed + insurance. **Note: solar lease likely has a notice requirement** if title changes — notify the servicer (usually just a form; doesn't require servicer approval for a trust transfer where you remain the beneficial owner).
 4. **Make it rent-ready + market 45–60 days out; sign a lease** starting near/after your Oct departure; **disclose the solar lease** in the listing and lease agreement; **switch to landlord (DP-3) insurance naming the trust + add umbrella.**
-5. **File W-8ECI + §871(d) net election** with the property manager (Finance §4) so rent isn't hit with 30% gross withholding.
+5. ~~**File W-8ECI + §871(d) net election** with the property manager~~ ⚠️ **there is no property manager** — the withholding agent defaults to the **tenant**, or a **US agent you appoint**. Exposure starts **1 Jan 2027**, not on the first rent payment (2026 is a full-year-resident filing). See `04c §6.3`.
 6. **Fund the reserve** (3–6 mo PITI + solar lease) in the US account; set **mortgage autopay + solar lease autopay**.
 
 > If you are **not** refinancing, skip step 2 and start at step 1 (solar) then step 3 (trust) — the trust transfer and rental prep are independent of the loan.
@@ -638,11 +655,17 @@ The moves have a required sequence, because a refi is hard once title is in a tr
 - **Trust (§4):** **revocable living trust — yes** (probate avoidance + a US co-trustee who can act while you're abroad; Garn-St. Germain protects it; **essential for self-management**). **LLC — no** (due-on-sale risk; use landlord + umbrella insurance for liability instead). **Irrevocable — no** (overkill). **Notify solar servicer** of trust transfer (form; doesn't require approval).
 - **Sequence (§5):** solar (identify servicer + get buyout quote) → refi (if doing it) → trust (+ notify solar servicer) → rent-ready + market 45-60 days out → sign lease → landlord insurance + disclose solar → W-8ECI → fund reserve (PITI + solar). Do the refi, trust, and tenant placement **before you leave**; all are far harder from India.
 
-**Critical path for self-management (do these before you leave):**
-1. **This week:** Call solar servicer, get buyout quote, run ITC math (§3)
-2. **July:** Set up trust + name co-trustee, open rental bank account, get landlord insurance quotes, build contractor rolodex, find eviction attorney (§2 Phase 1)
-3. **August:** Repairs/paint/photos, list property (45-60 days before Oct 1), refi (if doing it), transfer to trust (§2 Phase 1 + §5)
-4. **September:** Screen tenants, show house, sign lease, rekey locks, move-in inspection, fund reserve, set up autopay (§2 Phase 1)
-5. **October onward:** Collect rent, coordinate maintenance from India, annual inspections, lease renewals (§2 Phase 2)
+**Critical path for self-management** — ⚠️ **SUPERSEDED 2026-09-02. The July/Aug/Sept phasing below has already elapsed. Use `04c §3` (5.5-week sprint, Sept 2 → 10/10 lease start, with a Sept 23 go/no-go gate) and `04c §12` (checklist).** Retained for the record:
+1. ~~**This week:** Call solar servicer, get buyout quote, run ITC math (§3)~~ → still open, but **decoupled from the lease** — both solar tracks work from India (`04c §5.2`)
+2. ~~**July:** Set up trust + name co-trustee...~~ → **no co-trustee exists**; trust moves to the estate engagement (`04c §1`)
+3. ~~**August:** Repairs/paint/photos, list property, refi, transfer to trust~~ → **refi is dead** (`04c §6.5`); listing/photos/repairs compress into `04c §3` weeks 1-2
+4. ~~**September:** Screen, show, sign, rekey, move-in inspection, fund reserve, autopay~~ → all of it is now **this month**, at once
+5. **October onward:** Collect rent, coordinate maintenance from India, annual inspections, lease renewals → **`04c §7`** (IST cadence, escalation ladder, spend authority)
+
+**Four things the plan had not addressed at all, now in `04c`:**
+- ⚠️ **The lease term.** A 12-month lease from 10/10/26 expires **10/10/27 — a Connecticut October**, the worst month to re-let from Bengaluru. Sign **~21 months to 6/30/2028**, then 12 months to **6/30/2029**: removes an entire remote turnover and hands you the house back the summer you return. (`04c §5.1`)
+- ⚠️ **Depreciation basis at conversion** — lesser of adjusted basis or FMV at 10/10/26, land stripped out using the Farmington assessor split. **Unrecoverable if not documented this month**, and it drives 27.5 years of deductions. (`04c §6.2`)
+- ⚠️ **The monthly gap is unquantified.** §6 below and `00` both assume rent covers the ~$3,279 carry (`00` claims a "$700-1,200/mo net surplus"). At §2's own $2,500-3,000 rent assumption **it doesn't** — and the reserve has to cover the shortfall × 33 months, not just 6 months of PITI. (`04c §6.1`)
+- ⚠️ **Connecticut nonresident income tax return** (CT-1040NR/PY) on CT-source rent — the plan discusses federal treatment only. (`04c §6.4`)
 
 *Confirm the refi occupancy representation and due-on-sale specifics with a mortgage broker + real-estate attorney, the trust with an estate attorney, the solar buyout + ITC + rental depreciation with your cross-border CPA, and tenant screening/lease with a local real-estate attorney. Verify live mortgage rates before assuming a 30-yr refi lowers your rate.*

@@ -2,6 +2,12 @@
 
 *Updated 2026-07-06 to address SunPower bankruptcy and solar lease servicing transfer*
 
+> ⚠️ **DATED SNAPSHOT (2026-07-06). Two things in here are stale as of 2026-09-02:**
+> 1. **Every "brief your property manager" / "engage US property manager" line is void** — the decision is to **self-manage** (`04a §2`), refined to *self-manage + a one-time CT leasing-only agent for placement* (`04c §4`). Read those as "you are the manager; record the details and give them to the leasing agent for the listing/lease disclosure."
+> 2. **The "~$700–1,200/mo net surplus" figure is unverified and probably wrong** — at the plan's own $2,500–3,000 rent assumption, rent does not cover the ~$3,279/mo carry. Compute it via `04c §6.1`.
+>
+> **The solar analysis itself still stands**, and the two tracks (arbitration + buyout quote) are both still open and both workable from India — **don't let solar block the lease** (`04c §5.2`).
+
 ---
 
 ## Summary of Changes

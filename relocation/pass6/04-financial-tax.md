@@ -89,7 +89,8 @@ Because the **DTAA "saving clause"** lets the US tax its own residents/green-car
 - **If empty:** you still deduct **mortgage interest** (acquisition-debt cap $750k — well under at $200k) and property tax if you itemize. No income, no depreciation.
 - **If you rent it out (recommended):**
   - Report rent on **Schedule E**; deduct mortgage interest, property tax, insurance, repairs, management fees, and **depreciation** (building basis ÷ 27.5 yrs). Depreciation often makes rental income near tax-neutral.
-  - ⚠️ **Nonresident-alien landlord trap:** default withholding is **30% of GROSS rent**. Avoid by filing **Form W-8ECI** with your property manager + making the **IRC §871(d) net election** → taxed on *net* at graduated rates via **Form 1040-NR**.
+  - ⚠️ **Nonresident-alien landlord trap:** default withholding is **30% of GROSS rent**. Avoid by filing **Form W-8ECI** with ~~your property manager~~ **the withholding agent** + making the **IRC §871(d) net election** → taxed on *net* at graduated rates via **Form 1040-NR**.
+  - ⚠️ **CORRECTED 2026-09-02 — there is no property manager.** You decided to **self-manage** (`04a §2`), so under DIY the payor of the rent — and therefore the withholding agent — is the **tenant**, who would also owe Forms 1042/1042-S they'll never file. **Timing works in your favor:** 2026 is filed as a **full-year US resident** (`04b §4.F`), so nothing is withheld on Oct–Dec 2026 rent; **exposure begins 1 Jan 2027.** Likely best answer: **interpose a US agent as withholding agent** (the CT in-state agent, the leasing brokerage, or a bookkeeping service), which also satisfies the separate CGS §47a-6 disclosure duty. Named CPA question — see **`04c §6.3`** and `04c §11` Q10.
   - **Expected result:** rent likely covers the ~$3.2k PITI with a **net surplus ~$700-1,200/mo** after ~10% management + ~25% higher insurance + maintenance.
 - ⚠️ **If you ever SELL while a foreign person — FIRPTA (added 2026-08-17):**
   - The buyer must withhold **15% of the GROSS amount realized** (not of the gain) and remit it on **Forms 8288 / 8288-A**. On a $300k sale that's **$45,000 held back**, even if your actual gain is far smaller.
@@ -99,7 +100,7 @@ Because the **DTAA "saving clause"** lets the US tax its own residents/green-car
   - ⚠️ The house is also the **largest US-situs asset in your estate** — see `04b §1`.
 - **State tax nexus:** ⚠️ State residency follows **domicile**, not federal rules. Keeping the house is a strong domicile tie — aggressive states (CA, NY) may keep taxing you. If applicable, break domicile (driver's license, voter reg, mailing address) before leaving.
 
-**Recommendation:** **Rent it out** via a property manager (~8-10% of rent).
+**Recommendation:** **Rent it out.** ~~via a property manager (~8-10% of rent)~~ ⚠️ **CHANGED — you decided to SELF-MANAGE** (`04a §2`), saving ~$8-12k over the stay. **Refined 2026-09-02 (`04c §4`):** hire a CT **leasing-only agent** for one-time tenant placement (~half to one month's rent) — you're 6 weeks behind schedule, in the off-season, with **no local proxy** — then self-manage the steady state. Full PM at 8-10% stays declined. Also add: **CT nonresident return (CT-1040NR/PY)** on CT-source rent (`04c §6.4`), and **document the depreciation basis at the 10/10/26 conversion** or it's unrecoverable (`04c §6.2`).
 
 > **See `04a-us-house-strategy.md`** for the deeper dive on **(1) reducing the monthly payment** (30-yr refi lowers P&I ~$2,080→~$1,210 but only helps cash-flow — refi *before* you leave, on W-2 income, and honestly re: occupancy), **(2) mitigating a rental gap** (pre-lease 45–60 days out, price to fill, 3–6 mo reserve, reconcile summer leasing peak with the post-Sept-30 departure), and **(3) a revocable living trust** (recommended — Garn-St. Germain protects it from due-on-sale, gives a US trustee who can act while you're abroad; avoid an LLC = due-on-sale risk). **Order: refi → trust → rent + landlord insurance → W-8ECI → reserve.**
 
@@ -411,7 +412,7 @@ You intend to **return to the US in ~2.5-3 years** and will immediately need cre
 2. **Get Disney's written answers on 401(k) continuation** — (1) Can you contribute after relocating? (2) Will matching continue? (3) Recommended rollover strategy? (4) Custodian accepts foreign address?
 3. **Get Disney's written remote-work + payroll answer** (US W-2 vs EOR vs India entity; how long). This drives everything.
 4. **Engage a cross-border CPA + an India CA** before you move — Must be familiar with Roth 401(k) distributions when living abroad and India-U.S. tax treaty Article 20.
-5. **Decide rent-vs-empty on the house** (rent); line up a property manager; break high-tax-state domicile if applicable.
+5. **Decide rent-vs-empty on the house** (rent); ~~line up a property manager~~ **self-manage + a one-time CT leasing agent for placement** (`04c §4`); break high-tax-state domicile if applicable.
 6. **Plan the move date after Sept 30** to lock NR/RNOR for year one.
 7. **Open NRE / NRO / FCNR** (ICICI/HDFC/Axis); pick **Wise** for transfers; keep a **Schwab** US account.
 8. **Confirm your 401k/Roth custodian accepts a foreign address**; keep a US address if needed (mail-forwarding service). **Do not cash out the 401k** — 10% penalty + income tax.
