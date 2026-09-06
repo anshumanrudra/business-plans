@@ -141,6 +141,25 @@ Your single most powerful move is to **port your May 2021 EB-2 priority date ont
 
 ## 6. EB-1C Option + L-1A Bridge + O-1 Fallback (Demoted to Late-Stage Backup — 2026-07-27 Update)
 
+> ## ⭐ ADDED 2026-09-06 — L-1A AND EB-1C ARE BACK, VIA A DIFFERENT PETITIONER
+>
+> This section demoted L-1A and EB-1C because **Disney won't sponsor.** That reasoning was sound and remains sound — **for petitions where Disney is the petitioner.**
+>
+> **The insight it missed: L-1A and EB-1C are employer-petitioned, and the employer does not have to be Disney. It can be a company your wife owns.**
+>
+> `01e-wife-l1a-eb1c-track.md` builds exactly that: a **Delaware C-corp she majority-owns and runs as CEO** (with a US-citizen technical co-founder in MA), parent of an **India Pvt Ltd delivery subsidiary** in Bengaluru. After her one continuous managerial year abroad (**2 Nov 2026 → 2 Nov 2027**), **her own company petitions her for L-1A**, and later **EB-1C** — with no PERM and **no Disney involvement whatsoever.**
+>
+> **What that changes across this file:**
+> - **She** is the L-1A principal. **You take L-2 with work authorization incident to status** — no sponsor, no lottery, no H-1B, and the **$100k fee question in §1 becomes irrelevant** to this route. Kids take **L-2**.
+> - ⚠️ **§9's "EB-1A or bust" is still true for the *green card*, but no longer true for *status*.** Even if the EB-1A fails, an L-1A return puts the elder son in **lawful L-2 status until ~2034**, then F-1. **Runway, not a cure** — the CSPA freeze still depends entirely on filing the EB-1A by ~Sep 2027.
+> - ✅ It may improve the *ending* of the EB-1A too: if the family is in the US on L-1/L-2 when the PD is current, **I-485 adjustment of status replaces Mumbai consular processing** (L-1 is dual-intent). See `01d` "After I-140 Approval" and `01e §5`.
+> - ⚠️ **EB-1C via her company is NOT fast.** A 2028 priority date faces EB-1 India retrogression and rescues nothing on CSPA. **File it for queue position, not speed.**
+> - ⚠️ **The whole track dies if you get involved in her company** — and if papered over, it is **material misrepresentation under INA 212(a)(6)(C)(i), a permanent bar** that would contaminate your EB-1A too. See **`01e §8`**, non-negotiable.
+>
+> **Posture: insurance, not primary.** `01d` EB-1A remains the load-bearing GC track. The L-1A is built, kept **filable within 60 days from 1 Jan 2028**, and exercised only on the five written triggers in `01e §6`.
+>
+> *Everything below remains the correct analysis of the **Disney-petitioned** version, and stays useful if Disney ever files post-2028. The managerial-capacity criteria below apply equally to her petition — read them as the standard she must meet.*
+
 > **⚠️ UPDATE 2026-07-27 — EB-1C and L-1A are NO LONGER the primary tracks.** Disney will not sponsor ANY immigration petition (L-1A or EB-1C) for ≥2 years from now (~mid/late 2028 earliest). By that time you're 6-12 months from your planned return — **past the §9 deadline to front-load the EB-1 filing** to freeze your elder son's CSPA age. **EB-1A self-petition (§3) is now the sole load-bearing green card track**, and **O-1A** (described below) becomes the primary return work visa if the EB-1A immigrant visa isn't ready. EB-1C and L-1A remain documented here as late-arriving options **if Disney files post-~mid/late 2028**, but they are not counted on for the critical CSPA window. The Disney India Engineering Manager role (approved 2026-07-20, start ~1st week Oct 2026) still happens — it's your employment abroad — but it no longer serves as the EB-1C/L-1A predicate on the timeline the plan requires.
 >
 > **Historical context (2026-07-20, now superseded):** ~~EB-1C is now the primary track; GATE-3 resolved in principle (pending formal offer acceptance).~~ Your leader approved the **Disney India Engineering Manager** transfer, start **~1st week Oct 2026** — you accept (and resign the US entity) only once the formal offer is in hand. This is the qualifying managerial employment abroad EB-1C requires — at Disney India, the *first-choice, obviously-qualifying* petitioner (large, clear US↔India corporate relationship, US "doing business ≥1 yr" trivially met). Key implications:

@@ -89,6 +89,21 @@ The ~2-3 month relocation timing is the core gap risk. India ends in **March**; 
 
 ## 5. Avoiding an Education Lapse on RETURN to US
 
+> ### ⚠️ ADDED 2026-09-06 — Contingency: the return may come EARLY and MID-YEAR
+>
+> This file assumes a **fall 2029** return, timed to the Aug–Jun calendar. The wife's venture track (`01e-wife-l1a-eb1c-track.md`) creates a second, earlier return path — an **L-1A** filed from Q1 2028 if any of its five triggers fires.
+>
+> ⚠️ **Two consequences for schooling, and both cut against this file's planning assumptions:**
+>
+> **1. A shorter stay — possibly ~2 years, not 3.** That breaks the "one school, no mid-stay moves" principle from `00`, though as a clean two-year block rather than a disruption in the middle. IGCSE sequencing matters here: check with the chosen school whether an exit **before completing the IGCSE examination series** leaves the elder son with a partial, hard-to-transfer record. If so, the **UNHS/`02a` online US diploma stops being insurance and becomes the primary transcript** — which is an argument for running it at full strength from day one rather than as a light hedge.
+>
+> **2. It most likely lands mid-year, not in August.** Q1 2028 filing + premium processing + a **3–6 month Mumbai interview queue** (dropbox ended Oct 2025) realistically puts entry in **late 2028 or Jan 2029** — i.e. **mid-year in both calendars.** Mitigations, in order of preference:
+> - **Ride the US online school across the move** (`02a`) so there is literally no gap — the strongest reason to keep UNHS enrolled and current for the whole stay, not just as a bridge.
+> - **Time the actual travel to a US semester boundary** (early January) even if the visa is issued earlier — a visa does not have to be used the week it's stamped.
+> - **Enter the CT district mid-year on the online transcript** and let the accredited record do the credit-mapping work, per §5's Carnegie-unit logic.
+>
+> ➡️ **Action now:** when emailing the Bengaluru schools (§8 checklist), ask explicitly what happens to a student who **withdraws mid-IGCSE**, and what documentation they issue. Cheap to ask in 2026, expensive to discover in 2028.
+
 A **US-regionally-accredited transcript needs no credential evaluation** — it maps straight to Carnegie units and a US GPA. The accreditors that matter: **Cognia** (ex-AdvancED/SACS), **WASC**, **Middle States (MSA)**, **NEASC**.
 
 **American-curriculum / US-accredited schools in India** (none in Kolkata/Bengaluru-south are American-diploma; nearest options):

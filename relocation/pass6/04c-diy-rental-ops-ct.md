@@ -187,6 +187,19 @@ Rent flowing to the right account · autopay live for mortgage + solar + insuran
 
 ### 5.1 ⚠️ Don't sign a 12-month lease. Sign ~21 months.
 
+> **⚠️ ADDED 2026-09-06 — the term is right, but an early return would land mid-renewal.**
+>
+> The 21-month + 12-month structure below is built around a **fall 2029** return, and for that it is correct. But the wife's venture track (`01e-wife-l1a-eb1c-track.md`) creates a second, earlier return path — an **L-1A** filed from Q1 2028, with realistic US entry in **late 2028 or Jan 2029**.
+>
+> ⚠️ **That lands squarely inside the 7/1/2028 → 6/30/2029 renewal term.** You would come home to an occupied house with a tenant holding a valid lease — and per §2, **Connecticut gives eviction stays of 3–6 months past judgment**, so there is no fast way out of it even for non-payment, let alone for "we want our house back."
+>
+> **Don't restructure the lease for a contingency that may never fire.** Instead:
+> - **At the 60-day renewal decision point (~1 May 2028)**, check the `01e §6` trigger status *before* offering the renewal. If a trigger has fired and a petition is filed, offer a **shorter renewal (to 12/31/2028) or a month-to-month conversion** rather than the standard 12 months.
+> - If the renewal is already signed when the visa issues, plan on **a rental or the sibling's place for one or two terms**, and treat the tenant's 6/30/2029 expiry as the real move-in date. Cheaper and faster than any legal route.
+> - ✅ **Note the tax upside of the early branch** — leaving India before **FY2029-30** means never becoming Ordinarily Resident, so Schedule FA / Black Money Act disclosure never applies (`04b §6`).
+>
+> **Net: no change to what you sign in October 2026. One added checkpoint in May 2028.**
+
 A 12-month lease starting **10/10/26 ends 10/10/27** — dumping you into a **Connecticut October** re-let, off-season, from Bengaluru, with no proxy. That's the worst month of the year to fill a New England single-family, and you'd repeat it in 2028.
 
 **Better: a ~21-month initial term, 10/10/2026 → 6/30/2028.** Then one 12-month renewal, **7/1/2028 → 6/30/2029**.
@@ -445,7 +458,7 @@ In priority order — and **decide at Gate 1, don't drift**:
 - [ ] Seasonal calendar (§7.4); winterization check before first freeze
 - [ ] Annual interior inspection with notice; post deposit interest (§2.2)
 - [ ] **Solar from India:** Track 1 arbitration + Track 2 buyout quote — neither needs you in the US
-- [ ] **60 days before 6/30/2028:** renewal offer with documented comps (§2.5)
+- [ ] **~1 May 2028 (60 days before 6/30/2028):** ⚠️ **CHECK `01e §6` TRIGGER STATUS FIRST**, then make the renewal offer with documented comps (§2.5). If an L-1A has been filed, offer a **short renewal (to 12/31/2028) or month-to-month** instead of 12 months — a standard renewal would put a tenant in the house through 6/30/2029, past a possible late-2028/Jan-2029 return, with CT eviction stays of 3–6 months and no fast way out (§5.1).
 - [ ] W-8ECI / withholding structure in place **before 1 Jan 2027** (§6.3)
 
 ---

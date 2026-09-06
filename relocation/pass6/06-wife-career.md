@@ -2,7 +2,24 @@
 
 *pass6 best-of synthesis — pass5's sourcing plus pass3's execution detail (named companies, food-industry track, business models, job-search mechanics) and pass2's income milestones. **Reconciled to Bengaluru-only + GC-path section added 2026-07-11.***
 
-> **⚠️ DECISION UPDATE:** The plan is now **Bengaluru for the full 2-3 years — no Kolkata phase.** Wherever this file says "launch in Bengaluru, then portable/remote + baking in Kolkata," read it as **full Bengaluru focus for the whole stay** — the best market in India for her profile, so she builds a real career trajectory rather than planning a Kolkata fallback. The Kolkata-specific columns/rows below are retained only as reasoning history. A new **§9 (green-card path from her credentials)** answers the reloaded prompt's GC-from-wife question.
+> ## ⚠️⚠️ SUPERSEDING DECISION — 2026-09-06: SHE IS NOT JOB-HUNTING
+>
+> **She founds and runs a company full-time as her single occupation** for the whole India stay — a **South-Asian preventive-health venture** (`06a-preventive-health-venture.md`), structured to carry an **independent, non-Disney return path** for the whole family (`01e-wife-l1a-eb1c-track.md`).
+>
+> **Why full-time is a legal requirement, not a preference:** L-1A needs **one continuous year of *full-time* managerial employment abroad**. Part-time doesn't count, and an outside job at an edtech firm or international school would directly contradict the claim that she was employed full-time by her own company. So the hybrid model below is not merely deprioritized — **it is disqualifying.**
+>
+> **What that does to this file:**
+> - **§§1–2 (edtech/admin/HR roles, food-industry employment)** — ⚠️ **historical.** Useful only if the venture is killed under `06a §12`.
+> - **§3 (baking business)** — ⚠️ **deferred**, not dead. Good business, poor visa engine (INR-only revenue, no credible reason for a US subsidiary, hardest to build a managed professional org chart around). Revisit as a **US venture after status is secured.**
+> - **§4 (remote/freelance)** — 🚫 **disqualifying while the L-1A track is live.** Freelancing for others breaks the continuous-year requirement.
+> - **§5 (job-search mechanics)** — ⚠️ **void.**
+> - **§6 (hybrid income model, ₹6–11L Yr1)** — ⚠️ **VOID.** See `06a §5–§6` for the replacement economics.
+> - **§7 (practical enablers)** — ✅ **still valid**, and more so: PAN/Aadhaar/passport are now needed for incorporation, payroll, EPF and banking, not just employment; domestic help matters more for a full-time founder.
+> - **§9 (GC path from her credentials)** — its **conclusion is superseded** (she now has a real independent track). Its **EB-2 NIW analysis, the distance-MBA/3-year-degree problem, and the cross-chargeability check remain valid and worth keeping.**
+>
+> ---
+>
+> **⚠️ EARLIER DECISION UPDATE (retained):** The plan is **Bengaluru for the full 2-3 years — no Kolkata phase.** Wherever this file says "launch in Bengaluru, then portable/remote + baking in Kolkata," read it as **full Bengaluru focus for the whole stay** — the best market in India for her profile, so she builds a real career trajectory rather than planning a Kolkata fallback. The Kolkata-specific columns/rows below are retained only as reasoning history. A new **§9 (green-card path from her credentials)** answers the reloaded prompt's GC-from-wife question.
 
 She is well-positioned: an MBA plus US elementary-school experience maps cleanly onto India's large edtech, school-administration, and education-operations market. As a returning Indian citizen (or OCI holder) she works freely — no work visa needed. Affordable domestic help makes a working household realistic. **Bottom line: Bengaluru is her best market for both employment and a baking business — full focus there for the whole stay.** ~~(Kolkata was the old Phase-2 fallback; cancelled.)~~
 
@@ -110,7 +127,9 @@ Beyond her own business, her cooking/baking skill opens a salaried culinary trac
 
 ---
 
-## 6. Realistic Income Expectations & Timeline (3-phase hybrid)
+## 6. ~~Realistic Income Expectations & Timeline (3-phase hybrid)~~ ⚠️ VOID 2026-09-06
+
+> **This entire section is void.** It models baking + freelance + a salaried job running in parallel. She is doing none of those — she is a full-time founder, and running any of them alongside would break the L-1A continuous-year requirement (`01e §3`). Replacement economics: **`06a §5` (pricing and the ~50% gross-margin cap)** and **`06a §6` (year-one budget and the ₹1.6–1.7Cr month-15 revenue gate)**. Retained below only as reasoning history.
 
 Running **baking + freelance in parallel while job-hunting** yields the highest total:
 
@@ -149,6 +168,17 @@ Running **baking + freelance in parallel while job-hunting** yields the highest 
 ---
 
 ## 9. Green-Card Path From Her Credentials (researched 2026-07-11)
+
+> ### ⚠️ CONCLUSION SUPERSEDED 2026-09-06 — but read the rest, it's still right
+>
+> This section concluded that an independent track for her was a low-value hedge. **That was correct for a track built on her *credentials*. It is wrong for a track built on a *company she owns*.**
+>
+> The move that changes the answer: **an L-1A or EB-1C petition is filed by an employer, and that employer can be her own Delaware C-corp.** She never has to qualify on degrees, acclaim, or a labor certification — she has to have run a real company abroad for a year in a managerial capacity. That sidesteps every barrier catalogued below: the distance-MBA equivalency problem, the EB-2 India "Unavailable" bulletin, the EB-3 PERM requirement, and the Jan-2014 EB-3 final-action date. **See `01e-wife-l1a-eb1c-track.md`.**
+>
+> **What remains valid below, and worth keeping:**
+> - The **EB-2 NIW break-glass analysis** — still the right characterisation. And note `06a` genuinely strengthens it: a health-tech "national importance" endeavour plus BIRAC/Elevate grant validation is exactly the "well-positioned to advance it" evidence she was short of.
+> - The **distance-MBA / 3-year-degree equivalency problem** — unchanged, and precisely why a credentials-based track never worked.
+> - ⚠️ The **cross-chargeability check** — still cheap, still potentially decisive. **Confirm both your countries of birth.**
 
 *You asked for a GC pathway built on the wife's credentials, as a parallel to your EB-1A/EB-1C. Researched against USCIS category pages, the DOS Visa Bulletin (July 2026), 9 FAM, and credential-evaluator (WES) guidance. **Honest bottom line: an independent track for her is a low-value hedge, not a real second engine.***
 

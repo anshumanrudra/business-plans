@@ -8,6 +8,26 @@
 
 ---
 
+> ## ⚠️ ADDED 2026-09-06 — Four items this file does not cover, created by the wife's venture (`01e` / `06a`)
+>
+> **1. The CFC / GILTI ambush — avoided, but only because of a structuring choice. Record why.**
+> The moment your EB-1A succeeds and you become US persons, an **India-parent** structure would have made her Indian company a **controlled foreign corporation**: **Form 5471** every year, **Subpart F**, and **GILTI** — which for a services company with almost no qualifying tangible assets catches essentially *all* the income. Nothing in this file contemplated that.
+> ➡️ **Mitigation already designed in: the Delaware C-corp is the parent and the India Pvt Ltd is its subsidiary**, from day one. That makes the expensive "flip" we would otherwise have had to execute before the green cards land simply the *starting* state — no **§367** outbound-transfer exposure, no Indian capital gains on a share swap, no FEMA-priced share transfer.
+> ➡️ **Action: get the CPA to confirm this in writing**, and add the venture to this file's scope. Also confirm the belt-and-braces habit: **do not accumulate retained earnings in the India entity** — pay profits out as salary and cost-plus service fees so there is little E&P to catch if anything about the structure changes.
+>
+> **2. Delaware C-corp stock is probably US-situs property — which touches §1's $60,000 cliff.**
+> §1.B enumerates what is US-situs in your estate. **Stock in a US corporation is the canonical example**, and she will hold majority equity in one. ⚠️ **This adds to the ~$365k US-situs estate in §1.C**, against the **$60,000** NRA exemption — and §1.D's point bites twice, because **there is no marital deduction for an Indian-citizen spouse without a QDOT.**
+> ➡️ **Action:** ask the CPA and estate attorney to price the venture equity into the §1.C number and the §3 life-insurance sizing, and to confirm whether the **QDOT provisions in item 17b** need to reach the company stock specifically. Early-stage equity may be worth little on paper — but say that with a valuation, not an assumption.
+>
+> **3. An early return compresses the golden window in §4.**
+> §4 establishes the tax-free capital-gains window as **Jan 2027 → Mar 2029**. If the venture's L-1A track fires (`01e §6`), the family may re-enter the US in **late 2028 or early 2029** — becoming US tax residents again *inside* that window and closing it early.
+> ➡️ **Action: realize the gains and run the §4.D cost-basis reset BEFORE re-establishing US residency, not on the original 2029 schedule.** ✅ One unexpected win in the same trade: leaving India before **FY2029-30** means you never become **Ordinarily Resident**, so **§6's Schedule FA / Black Money Act disclosure never bites.**
+>
+> **4. New foreign-asset and reporting surface.**
+> Her shareholding, the Indian subsidiary, and the US business bank account all add reporting: **FBAR** on the Indian company accounts once you have signature authority or a financial interest, **Form 8938**, and **transfer-pricing filings (Form 3CEB)** on the India side. ⚠️ And keep item **17h** in view — the **7-year-old is a lifelong US taxpayer**, so he must never hold shares in either entity.
+>
+> ---
+
 ## 0. The Five Things That Matter Most
 
 | # | Gap | Why it's urgent |

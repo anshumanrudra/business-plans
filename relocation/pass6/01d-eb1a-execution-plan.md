@@ -484,6 +484,18 @@ This is the **most important work of Months 7-9**:
 
 ## After I-140 Approval
 
+> ### ✅ ADDED 2026-09-06 — There may be a better ending than consular processing
+>
+> Everything below assumes **consular processing at Mumbai**, because as of July 2027 you'd be in India with no US status. **That assumption may not hold by the time NVC is ready.**
+>
+> The wife's venture track (`01e-wife-l1a-eb1c-track.md`) builds an **L-1A** petitioned by her own Delaware C-corp, filable from Q1 2028. If it fires and the family enters the US on **L-1A / L-2**, then when this I-140 is approved with your ported **May-2021 PD** current, you can file **I-485 adjustment of status from inside the US** instead of DS-260 consular processing.
+>
+> **Why that's better:** **L-1 is dual-intent**, so there is no immigrant-intent conflict; AOS gives the whole family **EADs and advance parole** while it pends; it removes the Mumbai immigrant-visa interview entirely; and you wait in the US rather than abroad. It also makes the **§0.2 "coming to the United States to continue work"** showing — your weakest prong — trivially satisfied, because you would already be there working.
+>
+> ⚠️ **Two things for counsel:** switching a case from consular processing to AOS mid-stream requires handling **NVC** properly (and possibly withdrawing the CP election), and if this I-140 is under **RFE** when you leave Disney India, that transition needs managing rather than discovering. Add both to the GATE-2 agenda.
+>
+> ⚠️ **This does not change any deadline in this file.** The ~Sep 2027 filing and the ~late-Aug 2027 internal signature deadline stand — the elder son's CSPA freeze depends entirely on them, and the L-1A rescues nothing on CSPA. Treat AOS as a better *exit*, never as a reason to relax the *filing*.
+
 **Timeline:**
 - File ~Sep 15, 2027
 - Premium Processing → decision by ~Oct 15, 2027 (assuming no RFE)
