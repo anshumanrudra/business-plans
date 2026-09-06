@@ -16,7 +16,7 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 
 **Weekly ritual (10 min):** scan for `[!]` blocked items, move `[~]` forward, and add a one-line **Weekly log** entry at the very bottom.
 
-**The 5 gating tasks** (nothing downstream moves until these are answered) are marked **🔑 GATE**. Do them first. ⚠️ **ADDED 2026-09-06: four more gates — 🔑 GATE-W1 to W4 in §H1** — govern the wife's venture / second-gate track (`01e`). They run in parallel and are *not* substitutes for GATE-1 to GATE-5. **GATE-W2 (30 Nov 2026) is the tightest deadline anywhere in this plan** — miss it and the whole L-1A option slips out of reach. *(Taekwondo 3rd dan was initially considered GATE-6; 2026-07-09 decision was to pause at current rank — but REVERSED 2026-07-20: he certifies 3rd dan at the end-of-Aug 2026 test, before departure. Not a blocker.)*
+**The 5 gating tasks** (nothing downstream moves until these are answered) are marked **🔑 GATE**. Do them first. ⚠️ **ADDED 2026-09-06: five more gates — 🔑 GATE-W1 to W5 in §H1** — govern the wife's venture / second-gate track (`01e`). They run in parallel and are *not* substitutes for GATE-1 to GATE-5. **GATE-W2 (30 Nov 2026) is the tightest deadline anywhere in this plan** — miss it and the whole L-1A option slips out of reach. *(Taekwondo 3rd dan was initially considered GATE-6; 2026-07-09 decision was to pause at current rank — but REVERSED 2026-07-20: he certifies 3rd dan at the end-of-Aug 2026 test, before departure. Not a blocker.)*
 
 ---
 
@@ -264,6 +264,9 @@ Keep entries one line, dated, and end with **Next:** so you always know the next
 - [ ] 🔑 **GATE-W3 (30 Jun 2027) — the revenue signal.** ≥60 paying India members, **CAC under ~₹8,000**. If missed, the month-15 revenue gate is unreachable and the org chart won't form → the L-1A becomes a **function-manager + INA 101(a)(44)(C) reasonable-needs** petition. Decide then: cut scope, add capital, or accept the weaker record. — ref `01e §2`, `06a §12`
   > —
 - [ ] 🔑 **GATE-W4 (31 Dec 2027) — readiness, and it is AUDITABLE.** ⚠️ **From 1 Jan 2028 the L-1A must be filable within 60 days.** Requires: org chart in place (≥4 professional reports, or the function-manager record built), **Matter-of-*Ho* business plan drafted**, 12 months of her India payroll documented (slips, EPF challans, Form 16, ITR), Delaware **doing-business** evidence assembled, **L-1A attorney retained and briefed.** — ref `01e §6`
+  > —
+
+- [ ] 🔑 **GATE-W5 (31 Mar 2028) — can the record actually carry the petition?** **₹1.6Cr+ annualized revenue and ≥5 India employees.** If a trigger has already fired, **file on the weaker record anyway** — a filed petition beats a perfect one that missed its window. If no trigger has fired, keep building and re-test quarterly. — ref `01e §7`
   > —
 
 #### H2. ⚠️ The trigger — file the L-1A immediately on ANY ONE of these (`01e §6`)
