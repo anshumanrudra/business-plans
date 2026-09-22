@@ -163,8 +163,11 @@ reason, redact ownership before producing it.
 > owed, and the current account balance. Please also confirm the Lease Term Start Date and Initial Communication
 > Date reflected in your records.
 
-**What it proves:** the exact quantum of every Monthly Payment made — currently estimated at 41 payments,
-≈$3,740.98, to be confirmed against this ledger and adjusted for actual sales/use tax charged.
+**What it proves:** the exact quantum of every Monthly Payment made — currently estimated as a **range of 41 to 42
+payments, ≈$3,740.98 to ≈$3,836.88**, depending on whether the payment years run from the April 2023
+interconnection (Lease § 2, giving 42) or the May 2023 energization (giving 41). This ledger is what resolves it,
+and the count must be adjusted for actual sales/use tax charged. See `06-DAMAGES-SCHEDULE.md` D1 Scenarios A and B;
+`07-FILING-LOGISTICS.md` § 9 item 2 treats this reconciliation as a blocker on filing.
 
 **Serves:** Count 2 (§ 42-138(a) full restitution of all payments made) and Count 6 (CUTPA damages figure, for
 acts on or after 2023-09-21).
