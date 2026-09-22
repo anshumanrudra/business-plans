@@ -194,6 +194,84 @@ CITATIONS = [
         "source": "lease.txt",
         "quote": "PRIOR TO MIDNIGHT OF THE SEVENTH (7TH) CALENDAR DAY AFTER THE DATE YOU SIGN THIS LEASE",
     },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "5(c)(xiv) - not put a lien on your Home or Property",
+        "source": "lease.txt",
+        "quote": "not put a lien on your Home or Property",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "Exhibit E - no lien on the Real Property",
+        "source": "lease.txt",
+        "quote": "We do not have a lien on the Real Property",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "Exhibit E - will not impede any sale",
+        "source": "lease.txt",
+        "quote": "We will not impede any sale of the Real Property",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "Exhibit E - subordination to Security Instrument",
+        "source": "lease.txt",
+        "quote": "subject and subordinate in all respects to the Security Instrument",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "4(b)(i) - refinance cooperation",
+        "source": "lease.txt",
+        "quote": "We are asked or required to provide any cooperation",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "5(c)(xiii) - ensure repair under Limited Warranty",
+        "source": "lease.txt",
+        "quote": "ensure that the System will be repaired pursuant to the Limited Warranty",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "Exhibit A 2(a)(iii) - at no cost or expense",
+        "source": "lease.txt",
+        "quote": "at no cost or expense to you",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "16(b) - ninety days to initiate a remedy",
+        "source": "lease.txt",
+        "quote": "do not initiate a remedy of such failure within a period of ninety (90) days",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "11(c) - lease terminated, bill of sale",
+        "source": "lease.txt",
+        "quote": "the Lease will be terminated and neither You nor SunPower will have any remaining obligations",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-141(b) - HSSA violation is unfair or deceptive",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "Violation of any of the provisions of sections 42-135a",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-110g(a) - punitive damages and equitable relief",
+        "source": "ct735a-cutpa.txt",
+        "quote": "The court may, in its discretion, award punitive damages and may provide such equitable relief",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-110g(d) - injunctive or other equitable relief",
+        "source": "ct735a-cutpa.txt",
+        "quote": "injunctive or other equitable relief",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-110g(f) - three years after occurrence",
+        "source": "ct735a-cutpa.txt",
+        "quote": "may not be brought more than three years after the occurrence of a violation",
+    },
 ]
 
 
