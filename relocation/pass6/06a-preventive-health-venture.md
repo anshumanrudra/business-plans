@@ -156,6 +156,19 @@ Engineering, data analysis, care coordination and coaching sit at **Indian cost*
 
 **Year 1 = Nov 2026 → Oct 2027.** The co-founder as CTO of record removes a ₹32–38L Bengaluru CTO — the single largest line — and that capital goes into India engineering headcount instead, because the org chart in `01e §2` needs professional subordinates at the entity that employs her.
 
+> ### ⚠️ ADDED 2026-09-21 — the whole budget below rests on one person, and he may be reassigned
+>
+> `01f-robotics-nonprofit-l1a-track.md` proposes moving **the MA co-founder to the robotics venture only** (`01f §7.2`). If that happens, this budget breaks in two places at once:
+>
+> | What breaks | Effect on this file |
+> |---|---|
+> | ⚠️ **The ₹32–38L Bengaluru CTO line returns** | India payroll goes from **~₹75–80L to ~₹107–118L**. At the ~48–50% margin in §5, **the month-15–18 revenue gate moves from ₹1.6–1.7Cr to roughly ₹2.2–2.4Cr** — which almost certainly makes **G3 and G5 unreachable** and converts her petition to the weaker function-manager record. |
+> | ⚠️ **No US employee on payroll from Oct 2026** | The Delaware corp reads as a shell → `01e §3`'s **regular** L-1A petition (3-yr validity, normal scrutiny) degrades to **new office** (1 yr, heightened scrutiny). |
+>
+> ✅ **The fix is cheaper than either problem: `01e §3` needs US *substance*, not a co-founder.** A **part-time US W-2 employee at ~$2–3k/month (~$30k/yr)** buys filed 941s, a W-2, and a real US person on payroll — and preserves the regular-petition argument at a fraction of a Bengaluru CTO. Budget it as a **replacement line, not an addition**, and decide by **G-R2 (31 Oct 2026)** in `01f §9`.
+>
+> ⚠️ **Do not let this drift into the new-office outcome by default.** That is the worst branch and it is the one that happens if nobody decides.
+
 | Line | Timing | Cost |
 |---|---|---|
 | Clinical Data Scientist (₹16L) — owns the calibration engine | month 1 | ~$19k |
@@ -216,7 +229,7 @@ Each of these does triple duty — cash, **independent government validation for
 | Role | Location | When | Why |
 |---|---|---|---|
 | **CEO** (her) | Bengaluru, India-subsidiary payroll | Nov 2026 | `01e §2` — must **manage, not perform** |
-| **CTO** (co-founder) | Massachusetts, Delaware payroll | Oct 2026 | Owns architecture and build. Gives the US entity real substance. |
+| **CTO** (co-founder) | Massachusetts, Delaware payroll | Oct 2026 | Owns architecture and build. Gives the US entity real substance. ⚠️ **2026-09-21: at risk of reassignment to the robotics venture — see the §6 box and `01f §7.2`. If reassigned, replace with a part-time US W-2 employee (~$2–3k/mo) to preserve US substance, plus a ₹32–38L Bengaluru CTO to preserve the build.** |
 | **Clinical Data Scientist** | Bengaluru | Nov 2026 | **Owns the calibration bands and drift models — this person is the IP** |
 | Engineer #1 | Bengaluru | Nov 2026 | |
 | Engineer #2 | Bengaluru | month 7 | |

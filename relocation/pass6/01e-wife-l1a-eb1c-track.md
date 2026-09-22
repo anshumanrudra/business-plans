@@ -20,6 +20,17 @@
 
 **Decision (2026-09-06):** build to the aggressive specification, exercise on trigger. Approach "B built to A's spec" — full structure in place and genuinely operating, L-1A held as a ~90-day-exercisable option, default return unchanged.
 
+> ### ⚠️ ADDED 2026-09-21 — two things in `01f` attack this track directly
+>
+> `01f-robotics-nonprofit-l1a-track.md` (the third gate — a kids' robotics venture carrying **your own** L-1A) introduces two collisions. Neither is hypothetical; both are consequences of decisions already taken on 2026-09-21.
+>
+> | Collision | Effect here | Fix | Deadline |
+> |---|---|---|---|
+> | ⚠️ **She becomes an operating co-founder of the robotics venture** | An outside occupation during **2 Nov 2026 → 2 Nov 2027** breaks the *full-time* showing this entire track rests on (§3) — and asserting full-time anyway is **INA 212(a)(6)(C)(i)** territory, the same bar §8 is built to avoid | **Unpaid, non-operating director of the robotics *nonprofit* only until 1 Apr 2028**; operating role unrestricted after. She may hold **shares** meanwhile — ownership is not employment | **now** |
+> | ⚠️ **The MA co-founder is reassigned to robotics only** | §2 loses its CTO of record (a ₹32–38L Bengaluru CTO returns to `06a §6`) **and** §3 loses the US employee that makes this a **regular** rather than **new-office** petition | A **part-time US W-2 employee at ~$2–3k/month** — §3 needs US *substance*, not a co-founder | **`01f` G-R2, 31 Oct 2026** |
+>
+> ✅ **And one thing in `01f` that argues for this file, not against it:** `01f §6` concludes that **this track already work-authorizes him** (L-2S), so his own L-1A is redundancy rather than necessity. **This file stays the second gate and the faster one** — `01f`'s earliest realistic entry is **mid-to-late 2029**, ~12–18 months behind a Q1 2028 filing here.
+
 ---
 
 ## §1 — Corporate architecture
@@ -34,6 +45,13 @@
 4. It is the only structure US investors will fund, if that ever matters.
 
 **Ownership:** she holds **majority equity** and is unambiguously **CEO**. The Massachusetts co-founder (US citizen, technical) holds a minority stake with vesting, serves as **CTO of record**, and reports to her.
+
+⚠️ **2026-09-21 — the CTO-of-record seat is now contested.** `01f §7.2` reassigns this person to the robotics venture. Three ways to close the hole, ranked:
+
+1. ✅ **O1 — a part-time US W-2 employee instead of a co-founder.** What §3's regular-petition argument actually needs is a real US person on payroll with filed 941s and a W-2, not a co-founder title. **~$2–3k/month (~$30k/yr)** buys it. **Recommended.**
+2. **O2 — he serves both ventures.** ⚠️ One US citizen as CTO-of-record of two family-founded entities that are both visa petitioners is a fact you hand the adjudicator. Survivable if he is genuinely paid, vested and working in both.
+3. **O3 — a different technical co-founder here.** Clean, and the hardest to execute before departure.
+4. ❌ **O4 — accept a new-office petition.** Worst branch, and the default if nobody decides. See `01f §9` **G-R2 (31 Oct 2026)**.
 
 ⚠️ **Papered by a startup lawyer BEFORE any code exists:** founders' agreement, vesting schedule, and **IP assignment from both founders to the company.** Retrofitting IP assignment after the fact is how startups discover in diligence that they don't own their product.
 
@@ -89,6 +107,8 @@ Two tiers, so she supervises people who themselves supervise:
 | **US Commercial Lead** (Delaware corp) | $40–80k | clinician network |
 
 The co-founder as CTO of record removes the largest line in the budget (a ₹32–38L Bengaluru CTO) **and** gives the Delaware entity genuine US substance from October 2026 — which is what makes §3's regular-petition argument work.
+
+⚠️ **2026-09-21 — this row is the single most load-bearing line in the table and it is now at risk.** If the co-founder moves to robotics (`01f §7.2`), the two functions he performs here must be replaced **separately**: **O1 (part-time US W-2 employee)** for the US-substance half, and either a Bengaluru CTO hire or `01f`'s O2/O3 for the build half. Replacing only one leaves either a shell US entity or an unbuilt product. See §1 and `01f §9` **G-R2**.
 
 ### Minimum defensible chart — the realistic one
 
@@ -157,6 +177,10 @@ With the co-founder operating the Delaware corp from October 2026, a **Q1 2028 f
 
 - **One continuous year of full-time employment abroad** with the qualifying entity within the preceding three years, **in a managerial or executive capacity.** Her clock: **2 Nov 2026 → 2 Nov 2027.** ⚠️ Her Sept–Oct 2026 work for the Delaware corp while physically in the US **does not count.**
 - Because she keeps working for the India subsidiary continuously, the year **stays perpetually fresh** — which is what makes this a standing option rather than a one-shot.
+- ⚠️ **2026-09-21 — "full-time" is now a live constraint, not a formality.** 8 CFR 214.2(l)(3)(iii) requires the year be **full-time**, and `00-MASTER-PLAN` already records that *any outside job breaks it*. An operating role in the robotics venture (`01f §7.1`) during this window is exactly that. **She is a non-operating, unpaid nonprofit director only until 1 Apr 2028.**
+- ✅ **The offsetting fact that makes the deferral finite:** the year need only fall **within the three years preceding filing** — it does **not** have to be the immediately preceding year. So her banked **Nov 2026 → Nov 2027** year keeps this petition filable until roughly **late 2030** even after she takes an operating role elsewhere. ⚠️ Residual caveat: a consular officer asks what she does *now*, and "I run two companies" is weaker than "I run this one." If the petition is still unfiled in 2029, revisit. *(Counsel item §11.5b — the single answer this deferral turns on.)*
+
+⚠️ **The regular-petition argument above depends on a US employee existing from Oct 2026.** If the CTO-of-record seat empties (§1, §2), this bullet list still holds but the **regular/new-office row in the table above flips to new office** — 1-year validity, heightened scrutiny.
 - No blanket L is available at this size (blanket needs 3+ US branches plus $25M sales or 1,000 US employees). Individual petition only.
 
 ### Costs at filing *(⚠️ USCIS fees moved in 2024 and may move again — verify at filing, do not budget off these)*
@@ -325,6 +349,13 @@ The asymmetry: upside of your unpaid help ≈ ₹35L saved. Downside ≈ the who
 4. Advise on **consular-to-AOS switching** and NVC handling (§5).
 5. Review the §6 trigger conditions.
 
+**Immigration counsel — ⚠️ ADDED 2026-09-21 (the `01f` collisions; ask in the same sitting):**
+
+- **5a.** Does **unpaid, non-operating board service at a US 501(c)(3)** break the *full-time* employment showing under 8 CFR 214.2(l)(3)(iii)? *(Our read: no. Confirm.)*
+- **5b.** 🔑 Confirm the **banked-year** reading: the qualifying year need only fall *within the three years preceding filing*, so a completed **Nov 2026 → Nov 2027** year keeps this petition filable to ~**late 2030** even if she later takes an operating role in a second company. If correct, **1 Apr 2028** is a safe date for her to join the robotics venture operationally. **This one answer decides §7.1 of `01f`.**
+- **5c.** Does a **part-time US W-2 employee** (~$2–3k/month) satisfy §3's "doing business" and US-substance showing well enough to keep this a **regular** rather than **new-office** petition?
+- **5d.** Does one US citizen serving as **CTO of record of two family-founded petitioners** create an adverse inference in either petition? *(Same question as `01f §14.5` — ask once.)*
+
 **India CA / FEMA specialist:**
 6. ⚠️ **Written FEMA round-tripping opinion** (G1) — resident individual holding foreign equity in a company with an Indian subsidiary; OI Rules 2022, two-layer cap.
 7. **§149(3) resident-director test** applied proportionately to a newly incorporated company.
@@ -344,7 +375,8 @@ The asymmetry: upside of your unpaid help ≈ ₹35L saved. Downside ≈ the who
 
 ## Cross-references
 
-- `06a-preventive-health-venture.md` — the business itself: gap, product, regulatory boundary, unit economics, GTM, kill criteria
+- `06a-preventive-health-venture.md` — the business itself: gap, product, regulatory boundary, unit economics, GTM, kill criteria. ⚠️ **Its §6 budget box now carries the CTO-of-record risk.**
+- `01f-robotics-nonprofit-l1a-track.md` — ⚠️ **ADDED 2026-09-21 — the third gate, and the source of both collisions in §0.** `01f §7.1` (her operating role) and `01f §7.2` (the co-founder) are the items that change this file; `01f §6` explains why this track staying primary-insurance is the right call.
 - `01d-eb1a-execution-plan.md` — the primary track this insures; §6 trigger condition #2 is its Sept 2027 filing deadline
 - `01-immigration-greencard.md` — category overview
 - `06-wife-career.md` — ⚠️ §6 hybrid income model **void**; §9 "independent track is a low-value hedge" **superseded** by this file
