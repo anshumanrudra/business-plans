@@ -296,6 +296,48 @@ CITATIONS = [
         "source": "lease.txt",
         "quote": "such failure continues for a period of fifteen (15) days after",
     },
+    {
+        "doc": "07-FILING-LOGISTICS.md",
+        "note": "19 - fallback to another accredited provider if no JAMS office in county",
+        "source": "lease.txt",
+        "quote": "If a JAMS office does not exist in the county where you live, then we will use another accredited arbitration provider with offices close to your Home",
+    },
+    {
+        "doc": "07-FILING-LOGISTICS.md",
+        "note": "19 - claimant pays first $125",
+        "source": "lease.txt",
+        "quote": "you will be required to pay the first $125 of any filing fee",
+    },
+    {
+        "doc": "07-FILING-LOGISTICS.md",
+        "note": "JAMS Consumer Minimum Standard 7 - $250 consumer fee cap",
+        "source": "jams-consumer-minimum-standards.txt",
+        "quote": "the only fee required to be paid by the consumer is $250",
+    },
+    {
+        "doc": "07-FILING-LOGISTICS.md",
+        "note": "JAMS Streamlined Rule 17(g) - remote hearing authority",
+        "source": "jams-streamlined-rules.txt",
+        "quote": "conducted in person or virtually by conference call, videoconference or using other communications technology",
+    },
+    {
+        "doc": "07-FILING-LOGISTICS.md",
+        "note": "JAMS Streamlined Rule 13 - fourteen calendar day exchange",
+        "source": "jams-streamlined-rules.txt",
+        "quote": "conclude the document and information exchange process within fourteen (14) calendar days after all pleadings or notices of claims have been received",
+    },
+    {
+        "doc": "00-CASE-STRATEGY.md",
+        "note": "IRS Section 25D - credit unavailable for property placed in service after 2025-12-31",
+        "source": "irs-25d-residential-clean-energy.txt",
+        "quote": "The credit is not available for any property placed in service after December 31, 2025",
+    },
+    {
+        "doc": "00-CASE-STRATEGY.md",
+        "note": "IRS Section 25D - used property ineligible",
+        "source": "irs-25d-residential-clean-energy.txt",
+        "quote": "Used (previously owned) clean energy property is not eligible",
+    },
 ]
 
 

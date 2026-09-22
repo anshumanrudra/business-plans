@@ -1,0 +1,337 @@
+Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration, ADR Services
+Skip to main content
+Skip to main content Submit a Case
+JAMS Access Login
+JAMS Pathways
+MENU
+Neutrals
+Rules & Clauses
+Arbitration Rules & Procedures
+Comprehensive Rules
+Streamlined Rules
+Discovery Protocols
+Appeal Procedures
+Class Action Procedures
+Consumer Minimum Standards
+Mass Arbitration Procedures
+Artificial Intelligence
+AI Disputes Clause and Rules
+AI Disputes Protective Order
+Smart Contracts
+Smart Contract Clause & Rules
+International Rules
+International Mediation Rules
+International Arbitration Rules
+International Arbitration Guidelines
+Construction Arbitration
+Construction Arbitration Rules
+Expedited Construction Arbitration Rules
+Surety Adjudication Rules
+Labor and Employment Arbitration Rules
+Employment Arbitration Rules
+Labor Arbitration Rules
+Employment Minimum Standards
+Download Rules / Forms
+Download Rules / Forms
+Rules Archive
+ADR Sample Clauses
+Clause Workbook (U.S. Domestic)
+Clause Workbook (International)
+Artificial Intelligence Disputes Clause
+Construction Clauses
+Employment Clauses
+Locations
+ADR Services
+Alternative Dispute Resolution
+What do we do?
+Educational Programs & CLEs
+In-House Counsel ADR Strategies
+Forms & Resources
+FAQs
+Mediation
+Mediation Services
+What is Commercial Mediation?
+What Happens in Mediation?
+Mediators Ethics Guidelines
+Arbitration
+Arbitration (North America)
+Arbitration (International)
+Labor Arbitration
+Additional Services
+Appellate Services
+California Court Reference Services
+Class Action & Mass Tort
+Neutral Analysis
+JAMS Endispute
+JAMS Pathways
+JAMS Next
+Practice Areas & Industries
+All Practice Areas & Industries
+Appellate
+Bankruptcy
+Class Action
+Construction
+Cybersecurity & Privacy
+Disaster Relief
+Employment
+Energy
+Engineering & Construction
+Entertainment
+Estate/Probate/Trust
+Family Law
+Federal
+Financial Markets
+Health Care
+Higher Education & Title IX
+Insurance
+Intellectual Property
+International & Cross-Border
+Labor
+Life Sciences
+Mass Tort
+Personal Injury & Tort
+Real Estate & Real Property
+Smart Contracts & Blockchain
+Sports
+Technology
+News & Insights
+Articles & Insights
+JAMS ADR Insights
+JAMS International Insights
+Podcasts
+News & Press Releases
+JAMS News & Press Releases
+Events & Webinars
+JAMS Events & Webinars
+About
+Who we are
+Our Values
+Senior Management
+Impact
+JAMS Foundation
+Social Responsibility
+Life at JAMS
+Employee Benefits
+Apply Online
+Search site
+Streamlined Arbitration Rules & Procedures
+JAMS Arbitrators & Arbitration Services
+JAMS Streamlined Arbitration Rules & Procedures
+Effective June 1, 2021
+We understand that there is a lot on the line in arbitration. We know attorneys count on JAMS to provide highly skilled arbitrators who use JAMS Managed Arbitration Process to save time and money. JAMS offers efficiency, speed, and results.
+If another arbitration provider was written into your contract, call an experienced JAMS Case Manager to discuss having your case administered by JAMS.
+A summary of the June 1, 2021 revisions may be found here .
+Related Links
+Arbitration Services at JAMS
+Submit a Case
+Table of Contents
+Rule 1. Scope of Rules
+Rule 2. Party Self-Determination
+Rule 3. Amendment of Rules
+Rule 4. Conflict with Law
+Rule 5. Commencing an Arbitration and Service
+Rule 6. Preliminary and Administrative Matters
+Rule 7. Notice of Claims
+Rule 8. Interpretation of Rules and Jurisdiction Challenges
+Rule 9. Representation
+Rule 10. Withdrawal from Arbitration
+Rule 11. Ex Parte Communications
+Rule 12. Arbitrator Selection, Disclosures and Replacement
+Rule 13. Exchange of Information
+Rule 14. Scheduling and Location of Hearing
+Rule 15. Pre-Hearing Submissions
+Rule 16. Securing Witnesses and Documents for the Arbitration Hearing
+Rule 17. The Arbitration Hearing
+Rule 18. Waiver of Hearing
+Rule 19. Awards
+Rule 20. Enforcement of the Award
+Rule 21. Confidentiality and Privacy
+Rule 22. Waiver
+Rule 23. Settlement and Consent Award
+Rule 24. Sanctions
+Rule 25. Disqualification of the Arbitrator as a Witness or Party and Exclusion of Liability
+Rule 26. Fees
+Rule 27. Bracketed (or High-Low) Arbitration Option
+Rule 28. Final Offer (or Baseball) Arbitration Option
+Rule 1. Scope of Rules
+(a) The JAMS Streamlined Arbitration Rules and Procedures ("Rules") govern binding Arbitrations of disputes or claims that are administered by JAMS and in which the Parties agree to use these Rules or, in the absence of such agreement, no disputed claim or counterclaim exceeds $250,000, not including interest or attorneys' fees, unless other Rules are prescribed.
+(b) The Parties shall be deemed to have made these Rules a part of their Arbitration Agreement ("Agreement") whenever they have provided for Arbitration by JAMS under its Streamlined Rules or for Arbitration by JAMS without specifying any particular JAMS Rules and the disputes or claims meet the criteria of the first paragraph of this Rule.
+(c) The authority and duties of JAMS as prescribed in the Agreement of the Parties and in these Rules shall be carried out by the JAMS National Arbitration Committee ("NAC") or the office of the General Counsel or their designees.
+(d) JAMS may, in its discretion, assign the administration of an Arbitration to any of its Resolution Centers.
+(e) The term "Party" as used in these Rules includes Parties to the Arbitration and their counsel or representatives.
+(f) "Electronic filing" (e-filing) means the electronic transmission of documents to JAMS for the purpose of filing via the Internet. "Electronic service" (e-service) means the electronic transmission of documents to a Party, attorney or representative under these Rules.
+Rule 2. Party Self-Determination
+(a) The Parties may agree on any procedures not specified herein or in lieu of these Rules that are consistent with the applicable law and JAMS policies (including, without limitation, Rules 12(j), 25 and 26). The Parties shall promptly notify JAMS of any such Party-agreed procedures and shall confirm such procedures in writing. The Party-agreed procedures shall be enforceable as if contained in these Rules.
+(b) When an Arbitration Agreement provides that the arbitration will be non-administered or administered by an entity other than JAMS and/or conducted in accordance with rules other than JAMS rules, the Parties may agree to modify that Agreement to provide that the arbitration will be administered by JAMS and/or conducted in accordance with JAMS rules
+Rule 3. Amendment of Rules
+JAMS may amend these Rules without notice. The Rules in effect on the date of the commencement of an Arbitration (as defined in Rule 5) shall apply to that Arbitration, unless the Parties have agreed upon another version of the Rules.
+Rule 4. Conflict with Law
+If any of these Rules, or modification of these Rules agreed to by the Parties, is determined to be in conflict with a provision of applicable law, the provision of law will govern over the Rule in conflict, and no other Rule will be affected
+Rule 5. Commencing an Arbitration and Service
+(a) The Arbitration is deemed commenced when JAMS issues a Commencement Letter based upon the existence of one of the following:
+(i) A post-dispute Arbitration Agreement fully executed by all Parties specifying JAMS administration or use of any JAMS Rules; or
+(ii) A pre-dispute written contractual provision requiring the Parties to arbitrate the dispute or claim and specifying JAMS administration or use of any JAMS Rules or that the Parties agree shall be administered by JAMS; or
+(iii) A written confirmation of an oral agreement of all Parties to participate in an Arbitration administered by JAMS or conducted pursuant to any JAMS Rules, confirmed in writing by the Parties; or
+(iv) The Respondent's failure to timely object to JAMS administration, where the Parties’ Arbitration Agreement does not specify JAMS administration or JAMS Rules; or
+(v) A copy of a court order compelling Arbitration at JAMS.
+(b) The issuance of the Commencement Letter confirms that the requirements for commencement have been met, that JAMS has received all payments required under the applicable fee schedule and that the Claimant has provided JAMS with contact information for all Parties together with evidence that the Demand for Arbitration has been served on all Parties.
+(c) If a Party that is obligated to arbitrate in accordance with subparagraph (a) of this Rule fails to agree to participate in the Arbitration process, JAMS shall confirm in writing that Party's failure to respond or participate, and, pursuant to Rule 14, the Arbitrator shall schedule, and provide appropriate notice of, a Hearing or other opportunity for the Party demanding the Arbitration to demonstrate its entitlement to relief.
+(d) The date of commencement of the Arbitration is the date of the Commencement Letter but is not intended to be applicable to any legal requirement, such as the statute of limitations; any contractual limitations period; or any claims notice requirements. The term "commencement," as used in this Rule, is intended only to pertain to the operation of this and other Rules (such as Rules 3, 10(a) and 26(a)).
+(e) For documents that are not filed electronically, service by a Party under these Rules is effected by providing one signed copy of the document to each Party and two copies to JAMS. Service may be made by hand-delivery, overnight delivery service or U.S. mail. Service by any of these means is considered effective upon the date of deposit of the document. In computing any period of time prescribed or allowed by these Rules for a Party to do some act within a prescribed period after the service of a notice or other paper on the Party and the notice or paper is served on the Party only by U.S. mail, three (3) calendar days shall be added to the prescribed period. If the last day for the performance of any act that is required by these Rules to be performed within a specific time falls on a Saturday, Sunday or other legal holiday, the period is extended to and includes the next day that is not a holiday.
+(f) Electronic Filing. JAMS or the Arbitrator may at any time require electronic filing and service of documents in an Arbitration, including through the JAMS Electronic Filing System. If JAMS or the Arbitrator requires electronic filing and service, the Parties shall maintain and regularly monitor a valid, usable and live email address for the receipt of documents and notifications. Any document filed via the JAMS Electronic Filing System shall be considered as filed when the transmission to the JAMS Electronic Filing System is complete. Any document e-filed by 11:59 p.m. (of the sender's time zone) shall be deemed filed on that date.
+Every document filed with the JAMS Electronic Filing System shall be deemed to have been signed by the Arbitrator, Case Manager, attorney or declarant who submits the document to the JAMS Electronic Filing System, and shall bear the typed name, address and telephone number of a signing attorney.
+Delivery of e-service documents through the JAMS Electronic Filing System shall be considered as valid and effective service and shall have the same legal effect as an original paper document. Recipients of e-service documents shall access their documents through the JAMS Electronic Filing System. E-service shall be deemed complete when the Party initiating e-service or JAMS completes the transmission of the electronic document(s) to the JAMS Electronic Filing System for e-filing and/or e-service.
+If an electronic filing and/or service via the JAMS Electronic Filing System does not occur due to technical error in the transmission of the document, the Arbitrator or JAMS may, for good cause shown, permit the document to be filed and/or served nunc pro tunc to the date it was first attempted to be transmitted electronically. In such cases a Party shall, absent extraordinary circumstances, be entitled to an order extending the date for any response or the period within which any right, duty or other act must be performed
+Rule 6. Preliminary and Administrative Matters
+(a) JAMS may convene, or the Parties may request, administrative conferences to discuss any procedural matter relating to the administration of the Arbitration.
+(b) If no Arbitrator has yet been appointed, at the request of a Party and in the absence of Party agreement, JAMS may determine the location of the Hearing, subject to Arbitrator review. In determining the location of the Hearing, such factors as the subject matter of the dispute, the convenience of the Parties and witnesses, and the relative resources of the Parties shall be considered.
+(c) If, at any time, any Party has failed to pay fees or expenses in full, JAMS may order the suspension or termination of the proceedings. JAMS may so inform the Parties in order that one of them may advance the required payment. If one Party advances the payment owed by a non-paying Party, the Arbitration shall proceed, and the Arbitrator may allocate the non-paying Party's share of such costs, in accordance with Rules 19(e) and 26(c). An administrative suspension shall toll any other time limits contained in these Rules or the Parties' Agreement.
+(d) JAMS does not maintain an official record of documents filed in the Arbitration. If the Parties wish to have any documents returned to them, they must advise JAMS in writing within thirty (30) calendar days of the conclusion of the Arbitration. If special arrangements are required regarding file maintenance or document retention, they must be agreed to in writing, and JAMS reserves the right to impose an additional fee for such special arrangements. Documents that are submitted for e-filing are retained for thirty (30) calendar days following the conclusion of the Arbitration.
+(e) Unless the Parties' Agreement or applicable law provides otherwise, JAMS may consolidate Arbitrations in the following instances:
+(i) If a Party files more than one Arbitration with JAMS, JAMS may consolidate two or more of the Arbitrations into a single Arbitration.
+(ii) Where a Demand or Demands for Arbitration is or are submitted naming Parties already involved in another Arbitration or Arbitrations pending under these Rules, JAMS may decide that the new case or cases shall be consolidated into one or more of the pending proceedings and referred to one of the Arbitrators already appointed.
+(iii) Where a Demand or Demands for Arbitration is or are submitted naming parties that are not identical to the Parties in the existing Arbitration or Arbitrations, JAMS may decide that the new case or cases shall be consolidated into one or more of the pending proceedings and referred to one of the Arbitrators already appointed.
+When rendering its decision, JAMS will take into account all circumstances, including the links between the cases and the progress already made in the existing Arbitrations.
+Unless applicable law provides otherwise, where JAMS decides to consolidate a proceeding into a pending Arbitration, the Parties to the consolidated case or cases will be deemed to have waived their right to designate an Arbitrator as well as any contractual provision with respect to the site of the Arbitration.
+(f) Where a third party seeks to participate in an Arbitration already pending under these Rules or where a Party to an Arbitration under these Rules seeks to compel a third party to participate in a pending Arbitration, the Arbitrator shall determine such request, taking into account all circumstances he or she deems relevant and applicable.
+Rule 7. Notice of Claims
+(a) Each Party shall afford all other Parties reasonable and timely notice of its claims, affirmative defenses or counterclaims. Any such notice shall include a short statement of its factual basis. No claim, remedy, counterclaim or affirmative defense will be considered by the Arbitrator in the absence of such prior notice to the other Parties, unless the Arbitrator determines that no Party has been unfairly prejudiced by such lack of formal notice or all Parties agree that such consideration is appropriate notwithstanding the lack of prior notice.
+(b) Claimant's notice of claims is the Demand for Arbitration referenced in Rule 5. It shall include a statement of the remedies sought. The Demand for Arbitration may attach and incorporate a copy of a Complaint previously filed with a court. In the latter case, Claimant may accompany the Complaint with a copy of any Answer to that Complaint filed by any Respondent.
+(c) Within seven (7) calendar days of service of the notice of claim, a Respondent may submit to JAMS and serve on other Parties a response and a statement of any affirmative defenses, including jurisdictional challenges, or counterclaims it may have. JAMS may grant reasonable extensions of time to file a response or counterclaim prior to the appointment of the Arbitrator.
+(d) Within seven (7) calendar days of service of a counterclaim, a Claimant may submit to JAMS and serve on other Parties a response to such counterclaim and any affirmative defenses, including jurisdictional challenges, it may have.
+(e) Any claim or counterclaim to which no response has been served will be deemed denied.
+(f) Jurisdictional challenges under Rule 8 shall be deemed waived, unless asserted in a response to a Demand or counterclaim or promptly thereafter, when circumstances first suggest an issue of arbitrability.
+Rule 8. Interpretation of Rules and Jurisdiction Challenges
+(a) Once appointed, the Arbitrator shall resolve disputes about the interpretation and applicability of these Rules and conduct of the Arbitration Hearing. The resolution of the issue by the Arbitrator shall be final.
+(b) Jurisdictional and arbitrability disputes, including disputes over the formation, existence, validity, interpretation or scope of the agreement under which Arbitration is sought, and who are proper Parties to the Arbitration, shall be submitted to and ruled on by the Arbitrator. The Arbitrator has the authority to determine jurisdiction and arbitrability issues as a preliminary matter.
+(c) Disputes concerning the appointment of the Arbitrator shall be resolved by JAMS.
+(d) The Arbitrator may, upon a showing of good cause or sua sponte, when necessary to facilitate the Arbitration, extend any deadlines established in these Rules, provided that the time for rendering the Award may only be altered in accordance with Rule 19.
+Rule 9. Representation
+(a) The Parties, whether natural persons or legal entities such as corporations, LLCs or partnerships, may be represented by counsel or any other person of the Party's choice. Each Party shall give prompt written notice to JAMS and the other Parties of the name, address, telephone number and email address of its representative. The representative of a Party may act on the Party's behalf in complying with these Rules.
+(b) Changes in Representation. A Party shall give prompt written notice to the Case Manager and the other Parties of any change in its representation, including the name, address, telephone number and email address of the new representative. Such notice shall state that the written consent of the former representative, if any, and of the new representative, has been obtained and shall state the effective date of the new representation.
+(c) The Arbitrator may withhold approval of any intended change or addition to a Party’s legal representative(s) where such change or addition could compromise the ability of the Arbitrator to continue to serve or the finality of any Award (on the grounds of possible conflict or other like impediment). In deciding whether to grant or withhold such approval, the Arbitrator shall have regard to the circumstances, including the general principle that a Party may be represented by a legal representative chosen by that Party, the stage that the Arbitration has reached, the potential prejudice resulting from the possible disqualification of the Arbitrator, the views of the other Party or Parties to the Arbitration and any likely wasted costs or loss of time resulting from such change or addition.
+Rule 10. Withdrawal from Arbitration
+(a) No Party may terminate or withdraw from an Arbitration after the issuance of the Commencement Letter (see Rule 5), except by written agreement of all Parties to the Arbitration.
+(b) A Party that asserts a claim or counterclaim may unilaterally withdraw that claim or counterclaim without prejudice by serving written notice on the other Parties and the Arbitrator. However, the opposing Parties may, within seven (7) calendar days of service of such notice, request that the Arbitrator condition the withdrawal upon such terms as he or she may direct.
+Rule 11. Ex Parte Communications
+No Party will have any ex parte communication with the Arbitrator regarding any issue related to the Arbitration. The Arbitrator may authorize any Party to communicate directly with the Arbitrator by email or other written means as long as copies are simultaneously forwarded to the JAMS Case Manager and the other Parties.
+Rule 12. Arbitrator Selection, Disclosures and Replacement
+(a) JAMS Streamlined Arbitrations will be conducted by one neutral Arbitrator.
+(b) Unless the Arbitrator has been previously selected by agreement of the Parties, the Case Manager may attempt to facilitate agreement among the Parties regarding selection of the Arbitrator.
+(c) If the Parties do not agree on an Arbitrator, JAMS shall send the Parties a list of at least three (3) Arbitrator candidates. JAMS shall also provide each Party with a brief description of the background and experience of each Arbitrator candidate. JAMS may add names to or replace any or all names on the list of Arbitrator candidates for reasonable cause at any time before the Parties have submitted their choice pursuant to subparagraph (d) below.
+(d) Within seven (7) calendar days of service by the Parties of the list of names, each Party may strike one (1) name and shall rank the remaining Arbitrator candidates in order of preference. The remaining Arbitrator candidate with the highest composite ranking shall be appointed the Arbitrator. JAMS may grant a reasonable extension of the time to strike and rank the Arbitrator candidates to any Party without the consent of the other Parties.
+(e) If this process does not yield an Arbitrator, JAMS shall designate the Arbitrator.
+(f) If a Party fails to respond to a list of Arbitrator candidates within seven (7) calendar days after its service, or fails to respond according to the instructions provided by JAMS, JAMS shall deem that Party to have accepted all of the Arbitrator candidates.
+(g) Entities or individuals whose interests are not adverse with respect to the issues in dispute shall be treated as a single Party for purposes of the Arbitrator selection process. JAMS shall determine whether the interests between entities or individuals are adverse for purposes of Arbitrator selection, considering such factors as whether they are represented by the same attorney and whether they are presenting joint or separate positions at the Arbitration.
+(h) If, for any reason, the Arbitrator who is selected is unable to fulfill the Arbitrator's duties, a successor Arbitrator shall be chosen in accordance with this Rule. JAMS will make the final determination as to whether an Arbitrator is unable to fulfill his or her duties, and that decision shall be final.
+(i) Any disclosures regarding the selected Arbitrator shall be made as required by law or within ten (10) calendar days from the date of appointment. Such disclosures may be provided in electronic format, provided that JAMS will produce a hard copy to any Party that requests it. The Parties and their representatives shall disclose to JAMS any circumstances likely to give rise to justifiable doubt as to the Arbitrator's impartiality or independence, including any bias or any financial or personal interest in the result of the Arbitration or any past or present relationship with the Parties or their representatives. The obligation of the Arbitrator, the Parties and their representatives to make all required disclosures continues throughout the Arbitration process.
+(j) At any time during the Arbitration process, a Party may challenge the continued service of an Arbitrator for cause. The challenge must be based upon information that was not available to the Parties at the time the Arbitrator was selected. A challenge for cause must be in writing and exchanged with opposing Parties, who may respond within seven (7) calendar days of service of the challenge. JAMS shall make the final determination as to such challenge. Such determination shall take into account the materiality of the facts and any prejudice to the Parties. That decision will be final.
+Rule 13. Exchange of Information
+(a) The Parties shall cooperate in good faith in the voluntary and informal exchange of all non-privileged documents and information (including electronically stored information ("ESI")) relevant to the dispute or claim, including copies of all documents in their possession or control on which they rely in support of their positions or that they intend to introduce as exhibits at the Arbitration Hearing, the names of all individuals with knowledge about the dispute or claim and the names of all experts who may be called upon to testify or whose reports may be introduced at the Arbitration Hearing. The Parties and the Arbitrator will make every effort to conclude the document and information exchange process within fourteen (14) calendar days after all pleadings or notices of claims have been received. The necessity of additional information exchange shall be determined by the Arbitrator based upon the reasonable need for the requested information, the availability of other discovery options and the burdensomeness of the request on the opposing Parties and the witness.
+(b) As they become aware of new documents or information, including experts who may be called upon to testify, all Parties continue to be obligated to provide relevant, non-privileged documents, to supplement their identification of witnesses and experts and to honor any informal agreements or understandings between the Parties regarding documents or information to be exchanged. Documents that were not previously exchanged, or witnesses and experts that were not previously identified, may not be considered by the Arbitrator at the Hearing, unless agreed by the Parties or upon a showing of good cause.
+(c) The Parties shall promptly notify JAMS when a dispute exists regarding discovery issues. A conference shall be arranged with the Arbitrator, either by telephone or in person, and the Arbitrator shall decide the dispute.
+(d) In a consumer or employment case, the Parties may take discovery of third parties with the approval of the Arbitrator.
+Rule 14. Scheduling and Location of Hearing
+(a) The Arbitrator, after consulting with the Parties that have appeared, shall determine the date, time and location of the Hearing. The Arbitrator and the Parties shall attempt to schedule consecutive Hearing days if more than one day is necessary.
+(b) If a Party has failed to participate in the Arbitration process, and the Arbitrator reasonably believes that the Party will not participate in the Hearing, the Arbitrator may set the Hearing without consulting with that Party. The non-participating Party shall be served with a Notice of Hearing at least thirty (30) calendar days prior to the scheduled date, unless the law of the relevant jurisdiction allows for, or the Parties have agreed to, shorter notice.
+(c) The Arbitrator, in order to hear a third-party witness, or for the convenience of the Parties or the witnesses, may conduct the Hearing at any location. Any JAMS Resolution Center may be designated a Hearing location for purposes of the issuance of a subpoena or subpoena duces tecum to a third-party witness.
+Rule 15. Pre-Hearing Submissions
+(a) Except as set forth in any scheduling order that may be adopted, at least seven (7) calendar days before the Arbitration Hearing, the Parties shall file with JAMS and serve and exchange (1) a list of the witnesses they intend to call, including any experts; (2) a short description of the anticipated testimony of each such witness and an estimate of the length of the witness' direct testimony; and (3) a list of all exhibits intended to be used at the Hearing. The Parties should exchange with each other copies of any such exhibits to the extent that they have not been previously exchanged. The Parties should pre-mark exhibits and shall attempt to resolve any disputes regarding the admissibility of exhibits prior to the Hearing.
+(b) The Arbitrator may require that each Party submit a concise written statement of position, including summaries of the facts and evidence a Party intends to present, discussion of the applicable law and the basis for the requested Award or denial of relief sought. The statements, which may be in the form of a letter, shall be filed with JAMS and served upon the other Parties at least seven (7) calendar days before the Hearing date. Rebuttal statements or other pre-Hearing written submissions may be permitted or required at the discretion of the Arbitrator.
+Rule 16. Securing Witnesses and Documents for the Arbitration Hearing
+At the written request of a Party, all other Parties shall produce for the Arbitration Hearing all specified witnesses in their employ or under their control without need of subpoena. The Arbitrator may issue subpoenas for the attendance of witnesses or the production of documents either prior to or at the Hearing pursuant to this Rule or Rule 14(c). The subpoena or subpoena duces tecum shall be issued in accordance with the applicable law. Pre-issued subpoenas may be used in jurisdictions that permit them. In the event a Party or a subpoenaed person objects to the production of a witness or other evidence, the Party or subpoenaed person may file an objection with the Arbitrator, who shall promptly rule on the objection, weighing both the burden on the producing Party and witness and the need of the proponent for the witness or other evidence.
+Rule 17. The Arbitration Hearing
+(a) The Arbitrator will ordinarily conduct the Arbitration Hearing in the manner set forth in these Rules. The Arbitrator may vary these procedures if it is determined to be reasonable and appropriate to do so.
+(b) The Arbitrator shall determine the order of proof, which will generally be similar to that of a court trial.
+(c) The Arbitrator shall require witnesses to testify under oath if requested by any Party, or otherwise at the discretion of the Arbitrator.
+(d) Strict conformity to the rules of evidence is not required, except that the Arbitrator shall apply applicable law relating to privileges and work product. The Arbitrator shall consider evidence that he or she finds relevant and material to the dispute, giving the evidence such weight as is appropriate. The Arbitrator may be guided in that determination by principles contained in the Federal Rules of Evidence or any other applicable rules of evidence. The Arbitrator may limit testimony to exclude evidence that would be immaterial or unduly repetitive, provided that all Parties are afforded the opportunity to present material and relevant evidence.
+(e) The Arbitrator shall receive and consider relevant deposition testimony recorded by transcript or videotape, provided that the other Parties have had the opportunity to attend and cross-examine. The Arbitrator may in his or her discretion consider witness affidavits or other recorded testimony even if the other Parties have not had the opportunity to cross-examine, but will give that evidence only such weight as he or she deems appropriate.
+(f) The Parties will not offer as evidence, and the Arbitrator shall neither admit into the record nor consider, prior settlement offers by the Parties or statements or recommendations made by a mediator or other person in connection with efforts to resolve the dispute being arbitrated, except to the extent that applicable law permits the admission of such evidence.
+(g) The Arbitrator has full authority to determine that the Hearing, or any portion thereof, be conducted in person or virtually by conference call, videoconference or using other communications technology with participants in one or more geographical places, or in a combined form. If some or all of the witnesses or other participants are located remotely, the Arbitrator may make such orders and set such procedures as the Arbitrator deems necessary or advisable.
+(h) When the Arbitrator determines that all relevant and material evidence and arguments have been presented, and any interim or partial Awards have been issued, the Arbitrator shall declare the Hearing closed. The Arbitrator may defer the closing of the Hearing until a date determined by the Arbitrator, to permit the Parties to submit post-Hearing briefs, which may be in the form of a letter. If post-Hearing briefs are to be submitted, the Hearing shall be deemed closed upon receipt by the Arbitrator of such briefs.
+(i) At any time before the Award is rendered, the Arbitrator may, sua sponte or upon the application of a Party for good cause shown, reopen the Hearing. If the Hearing is reopened, the time to render the Award shall be calculated from the date the reopened Hearing is declared closed by the Arbitrator.
+(j) The Arbitrator may proceed with the Hearing in the absence of a Party that, after receiving notice of the Hearing pursuant to Rule 14, fails to attend. The Arbitrator may not render an Award solely on the basis of the default or absence of the Party, but shall require any Party seeking relief to submit such evidence as the Arbitrator may require for the rendering of an Award. If the Arbitrator reasonably believes that a Party will not attend the Hearing, the Arbitrator may schedule the Hearing as a telephonic Hearing and may receive the evidence necessary to render an Award by affidavit. The notice of Hearing shall specify if it will be in person or telephonic.
+(k) Any Party may arrange for a stenographic record to be made of the Hearing and shall inform the other Parties in advance of the Hearing. No other means of recording the proceedings shall be permitted absent agreement of the Parties or by direction of the Arbitrator.
+(i) The requesting Party shall bear the cost of such stenographic record. If all other Parties agree to share the cost of the stenographic record, it shall be made available to the Arbitrator and may be used in the proceeding.
+(ii) If there is no agreement to share the cost of the stenographic record, it may not be provided to the Arbitrator and may not be used in the proceeding, unless the Party arranging for the stenographic record agrees to provide access to the stenographic record either at no charge or on terms that are acceptable to the Parties and the reporting service.
+(iii) The Parties may agree that the cost of the stenographic record shall or shall not be allocated by the Arbitrator in the Award.
+Rule 18. Waiver of Hearing
+The Parties may agree to waive oral Hearing and submit the dispute to the Arbitrator for an Award based on written submissions and other evidence as the Parties may agree.
+Rule 19. Awards
+(a) The Arbitrator shall render a Final Award or Partial Final Award within thirty (30) calendar days after the date of the close of the Hearing as defined in Rule 17(h) or (i), or, if a Hearing has been waived, within thirty (30) calendar days after the receipt by the Arbitrator of all materials specified by the Parties, except (1) by the agreement of the Parties; (2) upon good cause for an extension of time to render the Award; or (3) as provided in Rule 17(i). The Arbitrator shall provide the Final Award or Partial Final Award to JAMS for issuance in accordance with this Rule.
+(b) In determining the merits of the dispute, the Arbitrator shall be guided by the rules of law agreed upon by the Parties. In the absence of such agreement, the Arbitrator will be guided by the law or the rules of law that he or she deems to be most appropriate. The Arbitrator may grant any remedy or relief that is just and equitable and within the scope of the Parties' Agreement, including, but not limited to, specific performance of a contract or any other equitable or legal remedy.
+(c) In addition to a Final Award or Partial Final Award, the Arbitrator may make other decisions, including interim or partial rulings, orders and Awards.
+(d) Interim Measures. The Arbitrator may grant whatever interim measures are deemed necessary, including injunctive relief and measures for the protection or conservation of property and disposition of disposable goods. Such interim measures may take the form of an interim or Partial Final Award, and the Arbitrator may require security for the costs of such measures. Any recourse by a Party to a court for interim or provisional relief shall not be deemed incompatible with the agreement to arbitrate or a waiver of the right to arbitrate.
+(e) The Award of the Arbitrator may allocate Arbitration fees and Arbitrator compensation and expenses, unless such an allocation is expressly prohibited by the Parties' Agreement. (Such a prohibition may not limit the power of the Arbitrator to allocate Arbitration fees and Arbitrator compensation and expenses pursuant to Rule 26(c).)
+(f) The Award of the Arbitrator may allocate attorneys' fees and expenses and interest (at such rate and from such date as the Arbitrator may deem appropriate) if provided by the Parties' Agreement or allowed by applicable law. When the Arbitrator is authorized to award attorneys' fees and must determine the reasonable amount of such fees, he or she may consider whether the failure of a Party to cooperate reasonably in the discovery process and/or comply with the Arbitrator's discovery orders caused delay to the proceeding or additional costs to the other Parties.
+(g) The Award shall consist of a written statement signed by the Arbitrator regarding the disposition of each claim and the relief, if any, as to each claim. Unless all Parties agree otherwise, the Award shall also contain a concise written statement of the reasons for the Award.
+(h) After the Award has been rendered, and provided the Parties have complied with Rule 26, the Award shall be issued by serving copies on the Parties. Service may be made by U.S. mail. It need not be sent certified or registered.
+(i) Within seven (7) calendar days after service of a Partial Final Award or Final Award by JAMS, any Party may serve upon the other Parties and file with JAMS a request that the Arbitrator correct any computational, typographical or other similar error in an Award (including the reallocation of fees pursuant to Rule 26(c) or on account of the effect of an offer to allow judgment), or the Arbitrator may sua sponte propose to correct such errors in an Award. A Party opposing such correction shall have seven (7) calendar days thereafter in which to file and serve any objection. The Arbitrator may make any necessary and appropriate corrections to the Award within fourteen (14) calendar days of receiving a request or seven (7) calendar days after his or her proposal to do so. The Arbitrator may extend the time within which to make corrections upon good cause. The corrected Award shall be served upon the Parties in the same manner as the Award.
+(j) The Award is considered final, for purposes of judicial proceeding to enforce, modify or vacate the Award pursuant to Rule 20, fourteen (14) calendar days after service if no request for a correction is made, or as of the effective date of service of a corrected Award.
+Rule 20. Enforcement of the Award
+Proceedings to enforce, confirm, modify or vacate an Award will be controlled by and conducted in conformity with the Federal Arbitration Act, 9 U.S.C. Sec 1, et seq., or applicable state law. The Parties to an Arbitration under these Rules shall be deemed to have consented that judgment upon the Award may be entered in any court having jurisdiction thereof.
+Rule 21. Confidentiality and Privacy
+(a) JAMS and the Arbitrator shall maintain the confidential nature of the Arbitration proceeding and the Award, including the Hearing, except as necessary in connection with a judicial challenge to or enforcement of an Award, or unless otherwise required by law or judicial decision.
+(b) The Arbitrator may issue orders to protect the confidentiality of proprietary information, trade secrets or other sensitive information.
+(c) Subject to the discretion of the Arbitrator or agreement of the Parties, any person having a direct interest in the Arbitration may attend the Arbitration Hearing. The Arbitrator may exclude any non-Party from any part of a Hearing.
+Rule 22. Waiver
+(a) If a Party becomes aware of a violation of or failure to comply with these Rules and fails promptly to object in writing, the objection will be deemed waived, unless the Arbitrator determines that waiver will cause substantial injustice or hardship.
+(b) If any Party becomes aware of information that could be the basis of a challenge for cause to the continued service of the Arbitrator, such challenge must be made promptly, in writing, to the Arbitrator or JAMS. Failure to do so shall constitute a waiver of any objection to continued service by the Arbitrator.
+Rule 23. Settlement and Consent Award
+(a) The Parties may agree, at any stage of the Arbitration process, to submit the case to JAMS for mediation. The JAMS mediator assigned to the case may not be the Arbitrator, unless the Parties so agree, pursuant to Rule 23(b).
+(b) The Parties may agree to seek the assistance of the Arbitrator in reaching settlement. By their written agreement to submit the matter to the Arbitrator for settlement assistance, the Parties will be deemed to have agreed that the assistance of the Arbitrator in such settlement efforts will not disqualify the Arbitrator from continuing to serve as Arbitrator if settlement is not reached; nor shall such assistance be argued to a reviewing court as the basis for vacating or modifying an Award.
+(c) If, at any stage of the Arbitration process, all Parties agree upon a settlement of the issues in dispute and request the Arbitrator to embody the agreement in a Consent Award, the Arbitrator shall comply with such request, unless the Arbitrator believes the terms of the agreement are illegal or undermine the integrity of the Arbitration process. If the Arbitrator is concerned about the possible consequences of the proposed Consent Award, he or she shall inform the Parties of that concern and may request additional specific information from the Parties regarding the proposed Consent Award. The Arbitrator may refuse to enter the proposed Consent Award and may withdraw from the case.
+Rule 24. Sanctions
+The Arbitrator may order appropriate sanctions for failure of a Party to comply with its obligations under any of these Rules or with an order of the Arbitrator. These sanctions may include, but are not limited to, assessment of Arbitration fees and Arbitrator compensation and expenses; any other costs occasioned by the actionable conduct, including reasonable attorneys' fees; exclusion of certain evidence; drawing adverse inferences; or, in extreme cases, determining an issue or issues submitted to Arbitration adversely to the Party that has failed to comply.
+Rule 25. Disqualification of the Arbitrator as a Witness or Party and Exclusion of Liability
+(a) The Parties may not call the Arbitrator, the Case Manager or any other JAMS employee or agent as a witness or as an expert in any pending or subsequent litigation or other proceeding involving the Parties and relating to the dispute that is the subject of the Arbitration. The Arbitrator, Case Manager and other JAMS employees and agents are also incompetent to testify as witnesses or experts in any such proceeding.
+(b) The Parties shall defend and/or pay the cost (including any attorneys' fees) of defending the Arbitrator, Case Manager and/or JAMS from any subpoenas from outside parties arising from the Arbitration.
+(c) The Parties agree that neither the Arbitrator, nor the Case Manager, nor JAMS is a necessary Party in any litigation or other proceeding relating to the Arbitration or the subject matter of the Arbitration, and neither the Arbitrator, nor the Case Manager, nor JAMS, including its employees or agents, shall be liable to any Party for any act or omission in connection with any Arbitration conducted under these Rules, including, but not limited to, any disqualification of or recusal by the Arbitrator.
+Rule 26. Fees
+(a) Each Party shall pay its pro rata share of JAMS fees and expenses as set forth in the JAMS fee schedule in effect at the time of the commencement of the Arbitration, unless the Parties agree on a different allocation of fees and expenses. JAMS' agreement to render services is jointly with the Party and the attorney or other representative of the Party in the Arbitration. The non-payment of fees may result in an administrative suspension of the case in accordance with Rule 6(c).
+(b) JAMS requires that the Parties deposit the fees and expenses for the Arbitration from time to time during the course of the proceedings and prior to the Hearing. The Arbitrator may preclude a Party that has failed to deposit its pro rata or agreed-upon share of the fees and expenses from offering evidence of any affirmative claim at the Hearing.
+(c) The Parties are jointly and severally liable for the payment of JAMS Arbitration fees and Arbitrator compensation and expenses. In the event that one Party has paid more than its share of such fees, compensation and expenses, the Arbitrator may Award against any Party any such fees, compensation and expenses that such Party owes with respect to the Arbitration.
+(d) Entities or individuals whose interests are not adverse with respect to the issues in dispute shall be treated as a single Party for purposes of JAMS' assessment of fees. JAMS shall determine whether the interests between entities or individuals are adverse for purpose of fees, considering such factors as whether the entities or individuals are represented by the same attorney and whether the entities or individuals are presenting joint or separate positions at the Arbitration.
+Rule 27. Bracketed (or High-Low) Arbitration Option
+(a) At any time before the issuance of the Arbitration Award, the Parties may agree, in writing, on minimum and maximum amounts of damages that may be awarded on each claim or on all claims in the aggregate. The Parties shall promptly notify JAMS and provide to JAMS a copy of their written agreement setting forth the agreed-upon minimum and maximum amounts.
+(b) JAMS shall not inform the Arbitrator of the agreement to proceed with this option or of the agreed-upon minimum and maximum levels without the consent of the Parties.
+(c) The Arbitrator shall render the Award in accordance with Rule 19.
+(d) In the event that the Award of the Arbitrator is between the agreed-upon minimum and maximum amounts, the Award shall become final as is. In the event that the Award is below the agreed-upon minimum amount, the final Award issued shall be corrected to reflect the agreed-upon minimum amount. In the event that the Award is above the agreed-upon maximum amount, the final Award issued shall be corrected to reflect the agreed-upon maximum amount.
+Rule 28. Final Offer (or Baseball) Arbitration Option
+(a) Upon agreement of the Parties to use the option set forth in this Rule, at least seven (7) calendar days before the Arbitration Hearing, the Parties shall exchange and provide to JAMS written proposals for the amount of money damages they would offer or demand, as applicable, and that they believe to be appropriate based on the standard set forth in Rule 19(b). JAMS shall promptly provide copies of the Parties' proposals to the Arbitrator, unless the Parties agree that they should not be provided to the Arbitrator. At any time prior to the close of the Arbitration Hearing, the Parties may exchange revised written proposals or demands, which shall supersede all prior proposals. The revised written proposals shall be provided to JAMS, which shall promptly provide them to the Arbitrator, unless the Parties agree otherwise.
+(b) If the Arbitrator has been informed of the written proposals, in rendering the Award, the Arbitrator shall choose between the Parties' last proposals, selecting the proposal that the Arbitrator finds most reasonable and appropriate in light of the standard set forth in Rule 19(b). This provision modifies Rule 19(g) in that no written statement of reasons shall accompany the Award.
+(c) If the Arbitrator has not been informed of the written proposals, the Arbitrator shall render the Award as if pursuant to Rule 19, except that the Award shall thereafter be corrected to conform to the closest of the last proposals and the closest of the last proposals will become the Award.
+(d) Other than as provided herein, the provisions of Rule 19 shall be applicable.
+NOTICE : These Rules are the copyrighted property of JAMS. They cannot be copied, reprinted or used in any way without permission of JAMS, unless they are being used by the parties to an arbitration as the rules for that arbitration. If they are being used as the rules for an arbitration, proper attribution must be given to JAMS. If you wish to obtain permission to use our copyrighted materials, please contact JAMS at 949-224-1810.
+Fees & Costs
+Arbitration Schedule of Fees and Costs
+Need to submit a case with JAMS?
+Case Submission Portal
+Looking for a mediator or arbitrator?
+Search Neutrals
+Stay updated on the latest in mediation, arbitration and dispute resolution.
+Email address
+Subscribe
+Neutrals
+Insights
+Rules & Clauses
+Locations
+Capabilities
+Careers
+About
+Disclaimer
+Contact Us
+Consumer Case Information
+Neutrality
+Cookie Consent
+Privacy Center
+Terms of Service
+Accessibility and Accommodation Requests
+Disclaimer
+This website is not a solicitation for business. All content on the JAMS website is intended to provide general information about JAMS and an opportunity for interested persons to contact JAMS. The content of this website is not offered as legal advice or legal opinion and it should not be relied upon for any specific situation.  JAMS neutrals are not engaged in the practice of law and no attorney client relationship is intended.  This website is for informational purposes only and does not constitute a complete description of JAMS services. While JAMS endeavors to keep the information updated and correct, JAMS makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, or reliability of the information contained in this website.
+SEE MORE
+© 2026 JAMS. All rights reserved.
+Need Assistance?
+Get help selecting a neutral or submitting a case.
+Contact Us
+Scroll to top
