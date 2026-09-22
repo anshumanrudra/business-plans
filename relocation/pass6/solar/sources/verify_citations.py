@@ -272,6 +272,30 @@ CITATIONS = [
         "source": "ct735a-cutpa.txt",
         "quote": "may not be brought more than three years after the occurrence of a violation",
     },
+    {
+        "doc": "10-SECTION-1c-DEFENCE.md",
+        "note": "1(c) - other owners have acknowledged by execution",
+        "source": "lease.txt",
+        "quote": "any other owners of the Property have acknowledged this Lease by execution hereof",
+    },
+    {
+        "doc": "10-SECTION-1c-DEFENCE.md",
+        "note": "5(a)(xii) - have owners sign",
+        "source": "lease.txt",
+        "quote": "have anyone who has an ownership interest in your Home sign this Lease",
+    },
+    {
+        "doc": "10-SECTION-1c-DEFENCE.md",
+        "note": "8(a)(i) - real estate due diligence condition precedent",
+        "source": "lease.txt",
+        "quote": "real estate due diligence to confirm the suitability of the Property",
+    },
+    {
+        "doc": "10-SECTION-1c-DEFENCE.md",
+        "note": "16(a)(ii) - fifteen days after written notice",
+        "source": "lease.txt",
+        "quote": "such failure continues for a period of fifteen (15) days after",
+    },
 ]
 
 
