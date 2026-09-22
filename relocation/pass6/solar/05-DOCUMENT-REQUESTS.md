@@ -38,17 +38,21 @@ message accompanying each transmission.
 
 ### R4 — Sales training materials and scripts
 
-Produce all sales training materials, call scripts, presentation decks, and talk tracks used by the
-representative(s) who presented this lease to Claimant, concerning cancellation-rights disclosure and any
-discount-expiry representation made during the sales process.
+Produce every version and form of the cancellation-rights disclosure — the Section 28 notice text and the Exhibit
+C NOTICE OF CANCELLATION form — in use in January 2023, together with all sales training materials, call scripts,
+presentation decks, and talk tracks concerning cancellation-rights disclosure used by the representative(s) who
+presented this lease to Claimant, and any specification or style guide governing the type size and typeface in
+which that disclosure was printed.
 
 **Serves:** Count 1.
 
 ### R5 — SAVKAT dealer agreement
 
 Produce the dealer agreement between SunPower Capital, LLC (or its affiliate) and SAVKAT, Inc. in effect on or
-around January 2023, including all provisions concerning cancellation-rights disclosure obligations and
-discount-expiry representations SAVKAT was authorized or required to make to prospective customers.
+around January 2023, including all provisions allocating between SunPower Capital, LLC and SAVKAT, Inc.
+responsibility for compliance with the notice and cancellation requirements of the Connecticut Home Solicitation
+Sales Act, Conn. Gen. Stat. §§ 42-134a to 42-141, and all provisions concerning which cancellation-rights
+disclosure forms SAVKAT was required to furnish to prospective customers.
 
 **Serves:** Count 1.
 
@@ -70,9 +74,9 @@ recording of any instrument identified in R6, including the identity of who requ
 ### R8 — Title work performed under §8(a)(i)
 
 Produce all title work, title reports, title searches, and related correspondence performed or obtained in
-connection with the "thorough physical inspection of the Property" and title review contemplated by Lease
-§8(a)(i), including any report delivered to or relied upon by SunPower Capital, LLC or its affiliates before or
-after execution of the lease.
+connection with the "real estate due diligence to confirm the suitability of the Property" that Lease §8(a)(i)
+makes a condition precedent, including any report delivered to or relied upon by SunPower Capital, LLC or its
+affiliates before or after execution of the lease.
 
 **Serves:** Count 3, Count 6.
 
@@ -163,9 +167,16 @@ for insurance, financing, sale, tax, or any other purpose.
 ### R20 — Federal tax credits claimed and recapture exposure
 
 Produce any document concerning federal tax credits claimed with respect to the System (including any
-investment tax credit claimed by SunPower Capital, LLC or an affiliate as owner/lessor), and any document
-concerning recapture exposure tied to the Lease §11(b) tax-credit-recapture adder, including how that adder is
-calculated and how it changes over the lease term.
+investment tax credit claimed by SunPower Capital, LLC or an affiliate as owner/lessor), the amount of each such
+credit, and any document concerning recapture exposure tied to Lease §11(b), which provides that "If the System is
+purchased prior to the fifth (5th) anniversary of the In-Service Date, the Fair Market Value will include the
+recapture of any federal tax credits." Produce in particular: the dollar amount of any federal tax credit that
+SunPower contends would be recaptured on a purchase of the System; the calculation by which that amount is
+determined; and the In-Service Date SunPower uses for the purpose of the §11(b) fifth-anniversary condition.
+
+Claimant makes no assumption that any schedule, step-down, or proration applies: §11(b) states a single
+condition — purchase before the fifth anniversary of the In-Service Date — and this request asks for the amount and
+its calculation, not for a schedule the Lease does not contain.
 
 **Serves:** Count 7.
 

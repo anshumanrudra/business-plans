@@ -574,6 +574,36 @@ CITATIONS = [
         "quote": "conclude the document and information exchange process within fourteen (14) calendar days after all pleadings or notices of claims have been received",
     },
     {
+        "doc": "05-DOCUMENT-REQUESTS.md",
+        "note": "8(a)(i) - real estate due diligence condition precedent (R8)",
+        "source": "lease.txt",
+        "quote": "real estate due diligence to confirm the suitability of the Property",
+    },
+    {
+        "doc": "05-DOCUMENT-REQUESTS.md",
+        "note": "11(b) - recapture included if purchased before fifth anniversary (R20)",
+        "source": "lease.txt",
+        "quote": (
+            "If the System is purchased prior to the fifth (5th) anniversary of the In-Service Date, "
+            "the Fair Market Value will include the recapture of any federal tax credits"
+        ),
+    },
+    {
+        "doc": "08-TIMELINE-AND-GATES.md",
+        "note": "11(b) - binary recapture rule, no step-down",
+        "source": "lease.txt",
+        "quote": (
+            "If the System is purchased prior to the fifth (5th) anniversary of the In-Service Date, "
+            "the Fair Market Value will include the recapture of any federal tax credits"
+        ),
+    },
+    {
+        "doc": "08-TIMELINE-AND-GATES.md",
+        "note": "42-138(a) - ten business days after cancellation",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "within ten business days after a home solicitation sale has been cancelled",
+    },
+    {
         "doc": "00-CASE-STRATEGY.md",
         "note": "IRS Section 25D - credit unavailable for property placed in service after 2025-12-31",
         "source": "irs-25d-residential-clean-energy.txt",
