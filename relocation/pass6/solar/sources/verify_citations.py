@@ -98,6 +98,48 @@ CITATIONS = [
         "source": "lease.txt",
         "quote": "EXCEPT AS REQUIRED BY APPLICABLE LAW",
     },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "19 - JAMS, Streamlined Rules, governing law",
+        "source": "lease.txt",
+        "quote": "administered by JAMS, under its Streamlined Arbitration Rules",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "19 - claimant pays first $125",
+        "source": "lease.txt",
+        "quote": "you will be required to pay the first $125 of any filing fee",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "19 - arbitrator may award any legal or equitable remedy",
+        "source": "lease.txt",
+        "quote": "authority to award any legal or equitable remedy or relief that a court could order or grant",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "2 - Lease Term Start Date is interconnection approval",
+        "source": "lease.txt",
+        "quote": "is the date upon which your utility approves interconnection of the System",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "5(a)(ix) - personal family household purposes",
+        "source": "lease.txt",
+        "quote": "use the System primarily for personal, family or household purposes",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "8(a)(i) - engineering site audit condition precedent",
+        "source": "lease.txt",
+        "quote": "a thorough physical inspection of the Property",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "10 - personal property, right to file UCC-1 or fixture filing",
+        "source": "lease.txt",
+        "quote": "right to file any UCC-1 financing statement or fixture filing",
+    },
 ]
 
 
