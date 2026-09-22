@@ -1,0 +1,299 @@
+                                            Covar Law Group, P.A.
+                             Attorney Case Acceptance and Analysis Report
+
+                                  YOUR CASE HAS BEEN ACCEPTED
+
+Executive Attorney Decision
+Covar Law’s attorneys have reviewed the available documents and reported facts and accepted this case for
+representation. Your accepted matter concerns reported pressure during electronic signing, an alleged promise of
+eventual system ownership, undisclosed practical property-transfer consequences, and disputed savings and
+maintenance expectations under the SunPower residential solar lease. The written ownership, cancellation, payment
+and service provisions supply the comparison points; they do not independently prove every reported representation
+or loss.
+Client               Anshuman Rudra                                Property            498 Plainville Ave, Unionville, CT 06085
+Solar Company        SAVKAT / SunPower Corporation,                Lease Provider      SunPower Capital, LLC
+                     Systems
+Contract Date        January 16, 2023 summary; utility start       Transaction         Residential Solar Lease
+                     date unverified
+System Size          5.46 kW; 14 panels                            Case Analyst        Heather Beckner
+Case Accepted        Accepted for Representation
+
+Your Case at a Glance
+Financial Fact                          Amount / Term                             Evidence
+Year-One Monthly Payment                $88.02 with ACH benefit                   DOCUMENT CONFIRMED — lease summary and payment
+                                                                                  disclosure
+
+Annual Escalator                        2.9%                                      DOCUMENT CONFIRMED — annual schedule
+
+Initial Term                            20 years / 240 months                     DOCUMENT CONFIRMED — term begins at utility interconnection
+
+Estimated Initial-Term Lease            $28,094.36                                DOCUMENT CONFIRMED — estimated disclosed total, not cash
+                                                                                  equipment value or current balance
+Payments
+Final-Year Monthly Payment              $151.52                                   DOCUMENT CONFIRMED — year 20 schedule
+
+Current Payment                         Approximately $95 reported                CLIENT INTERVIEW CONFIRMED — current statement not
+                                                                                  supplied
+
+Estimated Year-One Production           5,821 kWh; 95% electricity offset         DOCUMENT CONFIRMED — estimates, not guaranteed utility
+                                                                                  savings
+
+Ownership / Incentives                  Provider-owned system; provider           DOCUMENT CONFIRMED — no personal tax-credit promise
+                                                                                  reported
+                                        incentive rights
+
+Why Our Attorneys Accepted Your Case
+ 1. Ownership promise versus end-of-term rights
+ You reported: You recall being told the system would become yours after twenty years of payments.
+ Documents show: The lease retains system ownership with SunPower and provides a purchase option at independently
+ appraised fair market value, plus renewal and removal alternatives.
+ Why it mattered: An alleged free-ownership representation materially differs from a paid purchase option. Presentation
+ evidence can establish what was said without treating the written contract as proof of the oral promise.
+ Evidence class: DOCUMENT CONFIRMED + CLIENT INTERVIEW CONFIRMED
+
+
+ 2. Property filing and refinance consequences
+ You reported: You report discovering a property filing when a refinance was unsuccessful and pursuing a mortgage
+ recast instead.
+ Documents show: The lease authorizes UCC or fixture notice of system ownership and addresses sale, transfer and
+ refinancing cooperation. The actual filing and refinance decision are not supplied.
+ Why it mattered: The accepted issue concerns explanation, scope and practical effect of the claimed property burden.
+ Written authorization is present; whether any particular filing is improper requires examination of the filing and lender
+ correspondence.
+ Evidence class: DOCUMENT CONFIRMED + CLIENT INTERVIEW CONFIRMED
+
+
+
+
+                                                                                                                                           Page 1
+ 3. Signing pressure and cancellation disclosures
+ You reported: You acknowledge your own electronic signature but describe an under-one-hour presentation, an
+ hour-limited $1,000 discount and inadequate reading time. You recall being told of three days to cancel.
+ Documents show: The agreement includes a seven-calendar-day cancellation provision and a separate cancellation
+ form.
+ Why it mattered: The comparison is between the presentation and the written opportunity to cancel, not a claim that no
+ notice exists or that your signature was forged.
+ Evidence class: DOCUMENT CONFIRMED + CLIENT INTERVIEW CONFIRMED
+
+
+ 4. Savings, maintenance and escalating costs
+ You reported: You describe promised elimination of utility bills, continuing winter bills, questions about energy credits and
+ perceived degradation without maintenance. You acknowledge annual payment increases were disclosed.
+ Documents show: The documents estimate savings and expressly do not guarantee them, show $88.02 increasing 2.9%
+ annually, and describe maintenance and a production guarantee subject to terms.
+ Why it mattered: Utility and monitoring records can test the alleged savings and service differences. The system
+ operates; no complete outage, roof leak or measured production shortfall is established.
+ Evidence class: DOCUMENT CONFIRMED + CLIENT INTERVIEW CONFIRMED
+
+
+These are the principal facts, potential legal issues, and evidentiary considerations initially identified, contemplated, and weighed
+by our attorneys in deciding to accept your matter for representation.
+Our investigation and legal strategy may expand, narrow, or otherwise evolve as additional evidence, responsible parties, legal
+issues, or developments are identified and explored during the course of representation.
+
+Attorney Analysis of Documentary Evidence and Interview
+The submitted agreement identifies Anshuman Rudra at the Unionville property and expressly states it is a lease, not
+a sale. Its January 16, 2023 summary differs from the October 2022 form-version date; the service term begins at
+utility interconnection, which is not independently dated here. The 5.46 kW system specification controls over a verbal
+size slip. The disclosed $28,094.36 estimated lifetime payment total controls over the different intake total and is not a
+cash-system price. Your account that annual increases were explained is preserved. The accepted issues focus on
+ownership, signing pressure, property consequences and actual savings/service performance rather than an invented
+undisclosed escalator or personal tax-credit promise.
+
+Attorney Findings
+Attorney Review Area                      Finding
+Sales and contract formation              Reported hour-limited incentive and insufficient reading time are compared with
+                                          acknowledged electronic signing and the written seven-day cancellation notice.
+Lease ownership                           Reported free ownership after twenty years conflicts with written retained ownership and
+                                          fair-market-value purchase provisions.
+Payment structure                         $88.02 first-year monthly payment with ACH benefit, 2.9% annual escalation and
+                                          $28,094.36 estimated disclosed total. Current account balance is not established.
+Property consequences                     Refinance difficulty is reported; written filing authorization is confirmed, but the actual filing,
+                                          denial and recast records remain to be obtained.
+Performance and maintenance               Operating system, reported winter bills and questioned maintenance/net-metering. No
+                                          measured underproduction or installation roof damage established.
+Tax / incentives                          You expressly denied a personal tax-credit promise. Lease owner incentives and
+                                          Connecticut renewable-energy-credit assignment remain distinct from utility billing credits.
+
+Documents, Statements, and Materials Reviewed
+• SunPower residential solar lease package for Anshuman Rudra, including January 16, 2023 summary, ownership/service
+terms, payment schedule, Federal Consumer Leasing Act disclosures and cancellation forms.
+• Available intake information and client correspondence concerning the Unionville property, lease payments, refinance
+concerns and maintenance expectations.
+• Client interview and follow-up with Heather Beckner concerning electronic signing, ownership representations, utility bills,
+property consequences and service experience.
+
+
+
+
+                                                                                                                                         Page 2
+Client Interview Summary and Assessment
+You sought solar after other sales approaches and completed a virtual presentation. You acknowledge signing
+electronically but report pressure to secure an hour-limited discount and insufficient time to read. You understood a
+twenty-year lease and annual increases, while recalling that the system would eventually become yours. You denied a
+promised personal tax credit. You report a failed refinance linked to a property filing, followed by a recast, and concern
+about future flexibility to sell; you are not currently planning a sale. The system is operating, but you question winter
+utility charges, energy-credit accounting and maintenance. You report being referred to outside service providers at
+your expense. You did not report roof leaks or inverter failure; roof replacement before installation was separately
+paid.
+
+Case Structure
+This is one accepted residential solar lease matter at the Unionville property. SunPower Capital, LLC is the named
+lessor; SunPower Corporation, Systems is named as installer and maintenance designee, while SAVKAT appears on
+the cover and in your account. Current SunStrong servicing and transfers are reported but are not independently
+established assignments or bankruptcy determinations. Your spouse is reportedly on the deed, not the mortgage; only
+you are named on this lease. No spouse signing authority or additional representation is assumed.
+
+Lease Payment and Contract Analysis
+Lease Metric                         Documented or Reported Treatment
+Year-one payment and benefit         $88.02 monthly with $7.50 ACH benefit; stopping automatic withdrawal ends that benefit
+                                     under the disclosure.
+Annual schedule                      2.9% annual increases; $151.52 monthly in year twenty. The disclosure includes an initial
+                                     payment plus eleven further first-year payments, then twelve per yearly tier.
+Total scheduled payments             $28,094.36 disclosed estimate inclusive of sales and use tax as stated in the disclosure. It
+                                     is neither cash equipment value nor a current termination quote.
+Ownership / end term                 SunPower retains ownership. Purchase at fair market value, removal and renewal
+                                     alternatives are governed by the lease; automatic year-to-year renewal is described.
+System and service                   14 × 390 W panels, 5.46 kW; 5,821 kWh estimated first-year output. Repair, maintenance,
+                                     monitoring and production protection are subject to written conditions.
+Property and transfer                Written UCC/fixture notice authority, transfer and refinancing-cooperation provisions.
+                                     Actual property filing and refinance consequences remain client-reported.
+Incentives                           Owner/provider tax benefits; Connecticut renewable-energy credits assigned to
+                                     Eversource/United Illuminating. No homeowner tax-credit promise alleged.
+
+
+The Legal Posture of Your Case
+Our attorneys accepted this residential solar lease matter for development of supported consumer-protection,
+contract-presentation, ownership, property-control and service-performance issues. Federal Consumer Leasing Act
+disclosures and applicable Connecticut consumer-protection rules provide relevant analytical context; the existence of
+written disclosures does not decide whether the presentation was accurate. The legal analysis must respect
+contractual dispute-resolution terms, actual party roles and any established successor or bankruptcy limitations.
+Additional fact development will refine claims and remedies without reopening the completed acceptance decision.
+
+What Covar Law Will Pursue
+• Pursue supported lease termination, negotiated resolution, payment or transfer relief and appropriate ownership/removal
+arrangements.
+• Seek correction or release of improper property-filing consequences if established, and appropriate account or credit relief
+where supported.
+• Develop monetary or service-related remedies based on proven representations, obligations and losses through the
+applicable dispute-resolution process.
+• These are legal objectives, not promises of free equipment, cancellation, a refund, credit results or a refinance outcome.
+
+
+
+
+                                                                                                                              Page 3
+Preliminary Attorney Case Assessment
+Assessment Area                      Current Assessment
+Documentary Support                  Substantial written support for lease ownership, scheduled payments, cancellation, service
+                                     and property-notice terms; reported presentation and resulting losses require
+                                     corroboration.
+Client Evidence                      Client account compared with submitted agreements and supporting records; disputed
+                                     allegations remain distinguished from confirmed terms.
+Limitations                          No actual property filing, refinance denial, current account statement, production
+                                     comparison or independently established servicing assignment is supplied. These are
+                                     evidence-development items, not new acceptance conditions.
+Attorney Decision                    APPROVED
+
+Evidence That Can Further Strengthen Your Case
+Your case has already been accepted. The following records are not conditions of acceptance. They may materially
+strengthen the evidentiary record and assist our attorneys as representation and case development proceed.
+• Sales presentation, proposal, messages and electronic-signing delivery history addressing the discount, ownership and
+cancellation representations.
+• Actual UCC/fixture filing, title search, refinance decision and mortgage-recast correspondence.
+• Current lease statements, full payment history and servicing/assignment notices.
+• Before-and-after utility bills, production exports, net-metering accounting and maintenance requests/responses.
+• Property ownership and any co-owner acknowledgments relevant to the lease, without assuming additional signing authority.
+
+Your Approved Representation
+After completing the attorney review described above, Covar Law approved the matter under the Firm’s one-time Flat
+Fee Retainer program. The flat fee is for the approved scope of legal representation. It is not a contingency fee and
+does not depend upon a particular outcome.
+
+Approved One-Time Flat-Fee Retainer: $9,995
+Pay As You Go Options
+Option                   Down Payment                                Approximate Monthly Payment
+Option 1                 $3,000 down                                 approximately $255/month
+Option 2                 $2,000 down                                 approximately $295/month
+Option 3                 $1,000 down                                 approximately $335/month
+All three options are client choices under the same $9,995 Flat Fee Retainer, the same attorney-client relationship, the
+same legal strategy, and the same approved scope of representation. Only the payment method differs.
+
+Additional Costs / Scope Explanation
+Each of the above payment plans fully covers:
+• ALL legal fees, including court costs and expenses
+• ALL settlement negotiations and mediation
+• ALL Civil Litigation in Federal District Court
+• ALL Investigation and Deposition costs
+• ALL Expert witness testimony
+The signed representation agreement controls the final terms and scope of the attorney-client relationship.
+
+
+
+
+                                                                                                                            Page 4
+Attorney Review Status
+Review Item                            Status
+Document Review                        Complete
+Interview / Intake Review              Complete
+Lease Contract Review                  Complete
+Escalator Analysis                     Complete
+Attorney Acceptance                    APPROVED
+Current Stage                          Accepted for Representation
+Next Step                              Execution of Flat Fee Retainer Payment & Agreement
+
+Important No-Guarantee and Payment Guidance
+Acceptance means Covar Law’s attorneys determined that the presently available documents, reported facts, and legal issues
+justify undertaking representation. Acceptance does not guarantee cancellation, debt forgiveness, monetary recovery, system
+removal, credit correction, settlement, a particular court ruling, or any other specific outcome.
+This report does not direct you to stop making payments. Payment decisions may affect credit reporting, collection activity, default
+status, legal strategy, transfer rights, lease remedies, and contract consequences. Covar Law does not instruct clients to stop
+making solar lease payments through a general acceptance report.
+
+Acceptance Conclusion
+Covar Law’s attorneys have reviewed the available documents and reported facts and accepted this case for
+representation. The accepted matter connects your reported ownership, signing, property and service concerns with
+the written SunPower lease and payment structure. Representation is designed to pursue relief supported by that
+record while distinguishing documented terms from disputed representations and unverified losses. Your choice to
+engage and execution of the retainer payment and agreement remain separate from the firm’s completed acceptance.
+No specific legal, financial, property or equipment outcome is guaranteed.
+
+
+
+
+                                                                                                                                Page 5
+Why Clients Trust Covar Law Group
+Covar Law is not a solar cancellation company, document-preparation service, arbitration company, or letter-writing
+business. Covar Law is a consumer-protection law firm.
+
+Experience
+Covar Law Group has 15 years serving consumers, maintains an A+ Better Business Bureau Rating, has no BBB
+complaints, represents consumers nationwide, and has reviewed and assisted thousands of consumer victims in complex
+consumer-protection matters.
+
+Leadership
+Covar Law Group was founded by Darren P. Covar, a retired Special Agent with the Florida Division of Alcoholic
+Beverages and Tobacco (ATF), who also served on a Joint Task Force with the Federal Bureau of Investigation (FBI).
+Throughout each capacity in his career, Attorney Covar was relied upon to investigate and resolve complex matters
+involving consumer protection and accountability. Today, his investigative background continues to shape the Firm’s
+aggressive litigation strategy, evidence-driven approach, and commitment to holding responsible parties accountable.
+
+Federal Practice
+The Firm includes federally admitted attorneys and handles consumer-protection litigation involving nationwide
+participants, lenders, servicers, sellers, and related entities when the evidence supports federal or multi-state practice
+considerations.
+
+Why This Matters
+The investigative approach reflected throughout this report is the same methodology applied to every accepted Covar Law
+Group matter: the Firm reviews documents, compares them against the client’s account, identifies legal issues, and builds
+representation strategy from evidence rather than assumptions.
+                                         TRANSPARENCY BUILDS TRUST!
+
+                             CLICK HERE TO READ COVAR LAW’S NO-NONSENSE
+                                “ONE TIME FLAT FEE RETAINER AGREEMENT”
+
+
+
+
+                                                                                                                      Page 6
+
