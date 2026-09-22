@@ -1,3 +1,23 @@
+> # ⚠️ SUPERSEDED IN PART — READ THIS FIRST (2026-09-21)
+>
+> **The 30% federal ITC premise in this document is wrong, on two independent grounds.** Per the IRS
+> Residential Clean Energy Credit guidance: "The credit is not available for any property placed in service
+> after December 31, 2025," and separately "Used (previously owned) clean energy property is not eligible."
+>
+> A 2026-or-later buyout of this previously leased system therefore receives **no § 25D credit at all**.
+>
+> Consequences:
+> - Every "net cost after ITC" figure below is understated by the assumed credit.
+> - The decision thresholds (≤$10k buy / ≥$15k keep) are invalid as written.
+> - "Bottom Line: The 30% ITC Changes Everything" is withdrawn.
+>
+> Also superseded: this document guessed ~$115/mo with a 3% escalator. The actual lease is **$88.02 year 1,
+> 2.9% annual, $95.90 currently**, with a disclosed total of **$28,094.36**. Lease Term Start Date is
+> **April 2023**; the §11(a)(i) purchase option opens **April 2028**, when the §11(b) recapture adder also
+> reaches 0%.
+>
+> Current strategy: `solar/2026-09-21-solar-arbitration-design.md`.
+
 # Solar Lease Buyout Research Summary
 
 *Deep research completed 2026-07-06. Multi-agent web research on SunPower solar lease buyout options.*
@@ -154,8 +174,8 @@ The research couldn't answer your most important questions:
 
 **Costs:**
 - Gross buyout cost: $10,000
-- 30% federal ITC: −$3,000 (claim on 2026 tax return)
-- **Net buyout cost: $7,000**
+- ~~30% federal ITC: −$3,000 (claim on 2026 tax return)~~ **(NOT AVAILABLE — see banner)**
+- **Net buyout cost: $10,000**
 
 **vs. Lease (3 years):**
 - $115/mo × 36 months × 1.03 escalator = $4,266
@@ -176,8 +196,8 @@ The research couldn't answer your most important questions:
 
 **Costs:**
 - Gross buyout cost: $15,000
-- 30% federal ITC: −$4,500
-- **Net buyout cost: $10,500**
+- ~~30% federal ITC: −$4,500~~ **(NOT AVAILABLE — see banner)**
+- **Net buyout cost: $15,000**
 
 **vs. Lease (3 years):**
 - $115/mo × 36 months × 1.03 escalator = $4,266
@@ -196,8 +216,8 @@ If you're planning to return to this house and stay long-term, buyout probably m
 
 **Costs:**
 - Gross buyout cost: $20,000
-- 30% federal ITC: −$6,000
-- **Net buyout cost: $14,000**
+- ~~30% federal ITC: −$6,000~~ **(NOT AVAILABLE — see banner)**
+- **Net buyout cost: $20,000**
 
 **vs. Lease (3 years):**
 - $115/mo × 36 months × 1.03 escalator = $4,266
