@@ -99,6 +99,86 @@ CITATIONS = [
         "quote": "EXCEPT AS REQUIRED BY APPLICABLE LAW",
     },
     {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "42-135a(1) - ten point boldface, substantially the following form",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "in boldface type of a minimum size of ten points, a statement in substantially the following form",
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "42-135a(1) - the prescribed statement itself",
+        "source": "ct740-home-solicitation.txt",
+        "quote": (
+            "YOU, THE BUYER, MAY CANCEL THIS TRANSACTION AT ANY TIME PRIOR TO MIDNIGHT OF THE THIRD "
+            "BUSINESS DAY AFTER THE DATE OF THIS TRANSACTION. SEE THE ATTACHED NOTICE OF CANCELLATION "
+            "FORM FOR AN EXPLANATION OF THIS RIGHT."
+        ),
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "42-135a(2) - duplicate form",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "a completed form in duplicate",
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "42-135a(2) - easily detachable",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "easily detachable",
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "42-135a(2) - ten-point boldface type",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "in ten-point boldface type",
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "42-135a(3) - cancellation date not earlier than third business day",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "not earlier than the third business day following the date of the transaction",
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "52-576 - six years on a contract in writing",
+        "source": "ct926-limitations.txt",
+        "quote": (
+            "No action for an account, or on any simple or implied contract, or on any contract in "
+            "writing, shall be brought but within six years after the right of action accrues"
+        ),
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "Exhibit C - buyer must make goods available at residence",
+        "source": "lease.txt",
+        "quote": (
+            "you must make available to the seller at your residence, in substantially as good "
+            "condition as when received, any goods delivered to you under this contract or sale"
+        ),
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "42-137(b) - cancellation occurs on giving notice or deposit in a mail box",
+        "source": "ct740-home-solicitation.txt",
+        "quote": (
+            "Cancellation shall occur when the buyer gives written notice of cancellation to the "
+            "seller at the address specified for notice of cancellation provided by the seller or "
+            "when such written notice bearing such address is deposited in a mail box"
+        ),
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "42-139(a) - twenty days after cancellation",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "within twenty days after a home solicitation sale has been cancelled",
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "42-139(a) - seller fails to take possession within twenty days",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "If the seller fails to take possession of such goods within twenty days after cancellation",
+    },
+    {
         "doc": "04-JAMS-DEMAND.md",
         "note": "19 - JAMS, Streamlined Rules, governing law",
         "source": "lease.txt",
@@ -271,6 +351,173 @@ CITATIONS = [
         "note": "42-110g(f) - three years after occurrence",
         "source": "ct735a-cutpa.txt",
         "quote": "may not be brought more than three years after the occurrence of a violation",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "52-576 - six years on a contract in writing (Count 1 limitation answer)",
+        "source": "ct926-limitations.txt",
+        "quote": (
+            "No action for an account, or on any simple or implied contract, or on any contract in "
+            "writing, shall be brought but within six years after the right of action accrues"
+        ),
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-135a(2) - refund within ten business days (prescribed form text)",
+        "source": "ct740-home-solicitation.txt",
+        "quote": (
+            "WILL BE RETURNED WITHIN TEN BUSINESS DAYS FOLLOWING RECEIPT BY THE SELLER OF YOUR "
+            "CANCELLATION NOTICE"
+        ),
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-135a(2) - duplicate form (Defect C)",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "a completed form in duplicate",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-135a(1) - ten point boldface, substantially the following form (Defect D)",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "in boldface type of a minimum size of ten points, a statement in substantially the following form",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-135a(1) - the prescribed statement itself (Defect D)",
+        "source": "ct740-home-solicitation.txt",
+        "quote": (
+            "YOU, THE BUYER, MAY CANCEL THIS TRANSACTION AT ANY TIME PRIOR TO MIDNIGHT OF THE THIRD "
+            "BUSINESS DAY AFTER THE DATE OF THIS TRANSACTION. SEE THE ATTACHED NOTICE OF CANCELLATION "
+            "FORM FOR AN EXPLANATION OF THIS RIGHT."
+        ),
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-135a(2) - ten-point boldface type (Defect D)",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "in ten-point boldface type",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-135a(3) - cancellation date not earlier than third business day (Defect E)",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "not earlier than the third business day following the date of the transaction",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-134a(a)(5) - real property exclusion",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "pertaining to the sale or rental of real property",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-134a(a)(5) annotation 340 C. 711 - exception not strictly limited",
+        "source": "ct740-home-solicitation.txt",
+        "quote": (
+            "The real property exception to definition of “home solicitation sale” is not "
+            "strictly limited to the sale or rental or real property"
+        ),
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "10 - System is personal property and not a fixture",
+        "source": "lease.txt",
+        "quote": (
+            "is Our personal property under the Uniform Commercial Code and not a fixture (or real "
+            "property) regardless of whether it is attached to real property"
+        ),
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-137(b) - cancellation occurs on giving notice or deposit in a mail box",
+        "source": "ct740-home-solicitation.txt",
+        "quote": (
+            "Cancellation shall occur when the buyer gives written notice of cancellation to the "
+            "seller at the address specified for notice of cancellation provided by the seller or "
+            "when such written notice bearing such address is deposited in a mail box"
+        ),
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-139(a) - seller fails to take possession within twenty days",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "If the seller fails to take possession of such goods within twenty days after cancellation",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-141(b) - failure to honor the notice of cancellation",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "failure to honor any provisions of the notice of cancellation required by this chapter",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-135a(7) - fail or refuse to honor a valid notice of cancellation",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "Fail or refuse to honor any valid notice of cancellation by a buyer",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-135a(7)(C) - terminate promptly any security interest",
+        "source": "ct740-home-solicitation.txt",
+        "quote": (
+            "take any action necessary or appropriate to terminate promptly any security interest "
+            "created in the transaction"
+        ),
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-135a(9) - notify whether seller will repossess or abandon",
+        "source": "ct740-home-solicitation.txt",
+        "quote": (
+            "to notify such buyer whether the seller intends to repossess or to abandon any shipped "
+            "or delivered goods"
+        ),
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "11(b) - prices only (i), (ii) and (iii)",
+        "source": "lease.txt",
+        "quote": "In each of (i), (ii) and (iii) above, the price you pay for the System will be the fair market value",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "11(b) - recapture included if purchased before fifth anniversary of In-Service Date",
+        "source": "lease.txt",
+        "quote": (
+            "If the System is purchased prior to the fifth (5th) anniversary of the In-Service Date, "
+            "the Fair Market Value will include the recapture of any federal tax credits"
+        ),
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "11(a)(iv) - purchase option on Our default under Section 16(b)",
+        "source": "lease.txt",
+        "quote": "In the event of Our default pursuant to Section 16(b)",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "19 - only disputes involving you and Us",
+        "source": "lease.txt",
+        "quote": "Only Disputes involving you and Us may be addressed in the arbitration",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "19 - no relief for or against a non-party",
+        "source": "lease.txt",
+        "quote": "award relief for or against anyone who is not a party",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-136(a) - assignee subject to all claims and defenses of the buyer",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "subject to all claims and defenses of the buyer against the seller",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "19 - fee shifting if award exceeds last written settlement offer",
+        "source": "lease.txt",
+        "quote": "the award you receive from the arbitrator is higher than Our last written settlement offer",
     },
     {
         "doc": "10-SECTION-1c-DEFENCE.md",

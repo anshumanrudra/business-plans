@@ -67,8 +67,9 @@ under $250,000, the JAMS Streamlined Arbitration Rules apply.
 
 Lease § 19 further provides the fee allocation: "you will be required to pay the first $125 of any filing fee,"
 with SunPower Capital, LLC responsible for the balance of the filing fee and all arbitration fees and costs.
-JAMS Consumer Minimum Standard 7 independently caps the consumer's filing-fee exposure at $250, which is
-consistent with, and does not exceed, the $125 allocation stated in the Lease itself.
+JAMS Consumer Minimum Standard 7 independently caps the consumer's arbitration fee at $250. Lease § 19's $125
+allocation is lower than that ceiling and therefore controls; the Standard 7 cap operates only as a fallback
+ceiling, should JAMS's own fee schedule or any case-management fee ever exceed the Lease figure.
 
 Lease § 19 grants the arbitrator broad remedial authority: the arbitrator has "authority to award any legal or
 equitable remedy or relief that a court could order or grant." Claimant foregrounds this grant here, rather than
@@ -161,9 +162,11 @@ and the System was energized in or about May 2023 (E7).
 
 ¶24. Claimant's current, fourth-year (Yr4) Monthly Payment is $95.90 (E5).
 
-¶25. As of this Demand, Claimant has made approximately 41 Monthly Payments, totaling approximately $3,740.98,
-against a disclosed total Lease price of $28,094.36 (an estimate pending the full payment ledger, E5; superseded
-by any later damages schedule).
+¶25. As of this Demand, Claimant has made approximately 41 to 42 Monthly Payments, totaling approximately
+$3,740.98 to $3,836.88, against a disclosed total Lease price of $28,094.36 — the range depending on whether the
+first payment year runs from the April 2023 interconnection approval, which is the date Lease § 2 uses to define
+the Lease Term Start Date (42 payments, ≈$3,836.88), or from the May 2023 energization (41 payments, ≈$3,740.98);
+in either case an estimate pending the full payment ledger, E5, and superseded by it.
 
 ¶26. A UCC-1 financing statement or fixture filing has been recorded against the Property in connection with the
 Lease (E2).
@@ -222,11 +225,28 @@ presentation (¶7), away from SunPower's place of business, and signed by Claima
 supplies the consumer-goods element.
 
 Conn. Gen. Stat. § 42-135a provides that "No agreement in a home solicitation sale shall be effective against
-the buyer" unless the seller has complied with the statute's disclosure and cancellation-form requirements. The
-Lease is not effective against Claimant for at least five independent reasons, addressed below in order of
-strength.
+the buyer" if the seller commits any of the nine failures the section then enumerates. **That is a standing
+condition on the enforceability of the agreement, not a cancellation right, and this Count does not depend on any
+cancellation.** Where the seller has failed, the agreement has never been effective against the buyer: there is
+nothing for the buyer to cancel, and nothing for the buyer to pay. Claimant asks for a declaration to that effect
+and for the restitutionary consequence that follows from it. The Lease is not effective against Claimant for at
+least five independent reasons, addressed below in order of strength.
 
-**2. Defect A — the copy furnished was not "fully completed."** Section 42-135a(1) makes it unlawful to "Fail to
+**2. The January 2023 dates are no answer to this Count.** SunPower may be expected to argue that
+§ 42-137(a) gave Claimant three business days from signature and that three years have since elapsed. That
+argument has no application to this Count. Section 42-137(a) fixes the window within which a buyer may *cancel*.
+Section 42-135a does something different and independent: it withholds effectiveness from the agreement
+altogether, as a consequence of the seller's own conduct at execution, and it contains no time limit on the
+buyer's assertion of it. Claimant does not assert this Count under § 42-137(a) and does not need the § 42-137(a)
+window to be open in order to obtain the declaration requested. The limitation period that does apply is the
+six-year period for an action on a contract in writing, Conn. Gen. Stat. § 52-576: "No action for an account, or
+on any simple or implied contract, or on any contract in writing, shall be brought but within six years after the
+right of action accrues." Measured from the January 2023 execution, that period runs to approximately January
+2029, and this Demand is well within it. The separate contention that the § 42-137(a) cancellation window itself
+never opened is pleaded in Count 2, expressly as a contention and not as settled law; **nothing in this Count
+depends on it.**
+
+**3. Defect A — the copy furnished was not "fully completed."** Section 42-135a(1) makes it unlawful to "Fail to
 furnish the buyer with a fully completed receipt or copy of all contracts." The Federal Consumer Leasing Act
 Disclosures page furnished to Claimant bears three blank dollar fields in the "Other Charges" column, including
 the field for the Total (¶¶13–14). The copy furnished was therefore not "fully completed" as § 42-135a(1)
@@ -234,69 +254,132 @@ requires. The same blank fields are, independently, evidence of a Regulation M d
 1013.4 — pleaded here solely as evidence supporting the § 42-135a(1) violation, and not as a standalone count,
 because any standalone Regulation M claim would be time-barred.
 
-**3. Defect B — a deviation that shortens Claimant's rights.** The statutory cancellation form must give the
-buyer until "until midnight of the third business day after the day on which the buyer signs" to cancel, and
-Conn. Gen. Stat. § 42-138(a) prescribes that refunds be tendered within ten business days. Exhibit C to the
-Lease instead states that any refund will be made within ten calendar days (¶16). Because calendar days run
-without regard to weekends and holidays, this deviation shortens — rather than expands — Claimant's statutory
-entitlement, unlike the seven-versus-three-day period addressed in Defect D below.
+**4. Defect B — a deviation that shortens Claimant's rights.** Section 42-135a(2) prescribes that the NOTICE OF
+CANCELLATION state that payments made by the buyer "WILL BE RETURNED WITHIN TEN BUSINESS DAYS FOLLOWING RECEIPT BY
+THE SELLER OF YOUR CANCELLATION NOTICE," and Conn. Gen. Stat. § 42-138(a) imposes that same ten-business-day
+obligation on the seller. Exhibit C to the Lease instead states that any refund will be made within ten calendar
+days (¶16). Because calendar days run without regard to weekends and holidays, this deviation shortens — rather
+than expands — Claimant's statutory entitlement, which is why no substantial-compliance answer is available to it.
 
-**4. Defect C — placement.** Section 42-135a(1) requires the cancellation notice to appear "in immediate
-proximity to the space reserved in the contract for the signature of the buyer," and § 42-135a(2) requires the
-notice to be "easily detachable." The cancellation statement furnished with the Lease was not printed in
-immediate proximity to Claimant's signature and was not presented as an easily detachable form (¶15).
+**5. Defect C — placement, detachability, and the duplicate form.** Section 42-135a(1) requires the cancellation
+statement to appear "in immediate proximity to the space reserved in the contract for the signature of the buyer."
+Section 42-135a(2) separately requires that the buyer be furnished, at the time of signing, "a completed form in
+duplicate" captioned NOTICE OF CANCELLATION, attached to the contract and "easily detachable." The cancellation
+statement furnished with the Lease was not printed in immediate proximity to Claimant's signature, the
+cancellation form was not presented as an easily detachable document, and it was not furnished in duplicate
+(¶15).
 
-**5. Defect D — period and prescribed text.** Lease § 28 states: "YOU, THE LESSEE, MAY CANCEL THIS LEASE AT ANY
-TIME PRIOR TO MIDNIGHT OF THE SEVENTH (7TH) CALENDAR DAY AFTER THE DATE YOU SIGN THIS LEASE." That is more
-generous than the statutory third-business-day form, not less — Claimant pleads this defect for completeness
-only, and does not contend that the extra time prejudiced him.
+**6. Defect D — the prescribed statement was not used, and not in the prescribed type.** Section 42-135a(1)
+requires that the statement appearing in immediate proximity to the buyer's signature space be set "in boldface
+type of a minimum size of ten points, a statement in substantially the following form": "YOU, THE BUYER, MAY
+CANCEL THIS TRANSACTION AT ANY TIME PRIOR TO MIDNIGHT OF THE THIRD BUSINESS DAY AFTER THE DATE OF THIS
+TRANSACTION. SEE THE ATTACHED NOTICE OF CANCELLATION FORM FOR AN EXPLANATION OF THIS RIGHT." Section 42-135a(2)
+likewise requires the NOTICE OF CANCELLATION form to carry its prescribed content "in ten-point boldface type."
+What Lease § 28 states instead is: "YOU, THE LESSEE, MAY CANCEL THIS LEASE AT ANY TIME PRIOR TO MIDNIGHT OF THE
+SEVENTH (7TH) CALENDAR DAY AFTER THE DATE YOU SIGN THIS LEASE." That is a different sentence from the one the
+statute prescribes, and neither it nor the Exhibit C form was set in boldface type of a minimum size of ten
+points `[TYPE-SIZE MEASUREMENT TO BE TAKEN FROM THE EXECUTED PDF — see 01-EVIDENCE-CHECKLIST.md E1]`. The defect
+pleaded is the substitution of non-prescribed text and the failure to meet the prescribed type size — a straight
+failure of § 42-135a(1) and (2) to which no generosity argument is available. **For the avoidance of doubt,
+Claimant does not plead, in this Count or anywhere in this Demand, that the length of the period stated in Lease
+§ 28 was itself a defect or that the period stated prejudiced him; any such contention is withdrawn.**
 
-**6. Defect E — wrong trigger date.** Section 42-137(a) runs the cancellation period from the day the buyer
-signs. Exhibit C instead runs the cancellation period from January 19, 2023 — the date SunPower's representative
-countersigned — rather than from January 16, 2023, the day Claimant signed (¶¶10–11, 16).
+**7. Defect E — the form was completed with the wrong transaction date.** Section 42-135a(3) required SunPower,
+before furnishing copies of the NOTICE OF CANCELLATION, to complete both copies with the date of the transaction
+and a cancellation date "not earlier than the third business day following the date of the transaction." Section
+42-137(a) runs the cancellation period from the day the buyer signs. Exhibit C instead states the transaction date
+as January 19, 2023 — the date SunPower's representative countersigned — and computes the cancellation deadline
+from that date, rather than from January 16, 2023, the day Claimant signed (¶¶10–11, 16). Both the date entered
+and the deadline computed from it are therefore wrong on the face of the form SunPower completed.
 
-**7. Meeting the mail-or-telephone exclusion.** Section 42-134a(a)(3) excludes from the statute's coverage
+**8. Meeting the mail-or-telephone exclusion.** Section 42-134a(a)(3) excludes from the statute's coverage
 transactions "conducted and consummated entirely by mail or telephone and without any other contact" between
 buyer and seller before delivery of the goods. That exclusion does not apply here for two independent reasons.
 First, the transaction was conducted by live videoconference and DocuSign electronic signature — neither of
 which is "mail" nor "telephone." Second, there was substantial other contact between the parties before delivery
 of the System: Lease § 8(a)(i)'s condition precedent required "a thorough physical inspection of the Property"
-(¶19), and an installation crew was present at the Property, both before the April 2023 interconnection (¶¶17–20)
+(¶19), and an installation crew was present at the Property, both before the April 2023 interconnection (¶¶18–20)
 — all well before delivery of the goods within the meaning of the statute.
 
-**8. Meeting Lease § 4(e).** Lease § 4(e) purports to make Claimant's payment obligations "absolute and
+**9. Meeting the real-property exclusion.** Section 42-134a(a)(5) excludes a transaction "pertaining to the sale
+or rental of real property," and Claimant addresses it directly rather than leaving it to be raised. Claimant
+accepts that the exclusion has been construed broadly: the annotation to § 42-134a records that "The real property
+exception to definition of “home solicitation sale” is not strictly limited to the sale or rental or real
+property," and that a transaction falls within it if it is inextricably related to, or an integral adjunct or
+accessory to, a sale or rental of real property. That construction does not reach this transaction, for three
+reasons. First, the exclusion presupposes an actual sale or rental *of* real property to which the transaction is
+an adjunct — a closing, a lease of premises, a staging of a house for sale. There was none here: the Property was
+not being sold, bought or let, and the Lease conveyed no interest in land to anyone. Second, the Lease itself
+forecloses the characterisation. Lease § 10 provides that the System "is Our personal property under the Uniform
+Commercial Code and not a fixture (or real property) regardless of whether it is attached to real property"
+(¶27), and Lease § 5(a)(ix) obliges Claimant to "use the System primarily for personal, family or household
+purposes" — so on SunPower's own drafting this is a lease of consumer goods, which is precisely what
+§ 42-134a(a) covers. Third, SunPower may not characterise the System as personal property for the purposes of its
+own filing rights under § 10 and as real property for the purposes of escaping Chapter 740; the two positions
+cannot be held together.
+
+**10. Meeting Lease § 4(e).** Lease § 4(e) purports to make Claimant's payment obligations "absolute and
 unconditional" and to waive rights to reject or cancel the Lease, but that clause carves itself out for matters
 required by applicable law and for the cancellation right set forth in Lease §§ 8 and 28. This Count rests
 entirely on rights "required by applicable law" — Conn. Gen. Stat. §§ 42-134a through 42-141 — and on Lease § 28
 itself, both of which § 4(e) expressly excepts from its waiver.
 
-**9. Relief requested.** Claimant requests a declaration that the Lease is not effective against Claimant under
-Conn. Gen. Stat. § 42-135a.
+**11. Relief requested.** Claimant requests a declaration that the Lease has never been effective against
+Claimant under Conn. Gen. Stat. § 42-135a; that no further Monthly Payment or other sum is owed under it; and
+that Claimant is entitled to restitution of the sums paid under an instrument that was never effective against
+him. No cancellation is required for any part of that relief.
 
 ## COUNT 2 — TIMELY CANCELLATION AND ITS STATUTORY CONSEQUENCES (CONN. GEN. STAT. §§ 42-137, 42-138(a), 42-139(a), (c))
 
-Count 2 is pleaded in the alternative to, and as a consequence of, Count 1. Because no compliant notice of the
-right to cancel was ever furnished (Count 1, Defects A, C, D, and E), the statutory cancellation period never
-began to run, and Claimant's cancellation — effected by `02-NOTICE-OF-CANCELLATION.md` on [DATE] — is timely
-regardless of the number of calendar days that have elapsed since January 2023.
+**1. This Count is secondary and alternative.** Count 1 stands on its own and requires no cancellation. Count 2 is
+pleaded in the alternative, for the additional consequences that follow if the cancellation effected by
+`02-NOTICE-OF-CANCELLATION.md` on [DATE] was timely — in particular the vesting of title to the System in Claimant
+under § 42-139(a), which is the only route in this Demand, other than Count 7, by which Claimant both escapes the
+Lease and keeps the System in place. If this Count fails on the clock, Count 1 is unaffected and the relief
+requested there stands.
 
-Upon a timely cancellation, three statutory consequences follow, each of which Exhibit C to the Lease echoes in
-SunPower's own words:
+**2. The timeliness contention, stated as a contention.** Conn. Gen. Stat. § 42-137(a) provides that the buyer may
+cancel a home solicitation sale "until midnight of the third business day after the day on which the buyer signs"
+an agreement subject to the chapter. It contains no express provision tolling that period where the seller has
+failed to furnish a compliant notice, and Claimant does not suggest otherwise. Claimant does not assert as settled
+law that the cancellation window remained open. **Claimant contends that where no compliant notice was ever
+furnished the § 42-137(a) period cannot have commenced** — because § 42-137(a) presupposes the notice regime that
+§ 42-135a(1)–(3) prescribes, and a buyer cannot be held to a deadline disclosed to him only in a form the statute
+forbids. The five defects Claimant relies on for that contention are **Defects A, B, C, D and E as pleaded in
+Count 1, all five and no others** — the same five grounds, in the same order, on which the served notice
+`02-NOTICE-OF-CANCELLATION.md` is given. Claimant is not aware of any Connecticut authority holding either way on
+whether a non-compliant notice prevents the § 42-137(a) period from commencing, and does not represent to the
+arbitrator that any exists. Claimant asks the arbitrator to decide the question, and pleads Count 1 precisely so
+that it need not be decided in Claimant's favour for Claimant to succeed.
+
+**3. When cancellation occurred.** Conn. Gen. Stat. § 42-137(b) supplies the date: "Cancellation shall occur when
+the buyer gives written notice of cancellation to the seller at the address specified for notice of cancellation
+provided by the seller or when such written notice bearing such address is deposited in a mail box." Cancellation
+therefore occurred on the date `02-NOTICE-OF-CANCELLATION.md` was given to SunPower at that address or deposited in
+the mail, whichever was earlier — not on the date of SunPower's receipt. Every period pleaded below runs from that
+date.
+
+**4. The consequences, if cancellation was timely.** Three statutory consequences follow, each of which Exhibit C
+to the Lease echoes in SunPower's own words:
 
 - Conn. Gen. Stat. § 42-138(a) requires that "the seller shall tender to the buyer any payments made by the
-  buyer" under the Lease — restitution of D1, approximately $3,740.98 for 41 payments made to date (¶25),
-  subject to the full ledger at E5.
+  buyer" under the Lease — restitution of D1, approximately $3,740.98 to $3,836.88 for the 41 to 42 payments made
+  to date (¶25), subject to the full ledger at E5.
 - Conn. Gen. Stat. § 42-139(c) provides that, following a timely cancellation, "the seller is entitled to no
   compensation" for services rendered before cancellation — including installation, monitoring, and any other
   service performed under the Lease.
-- Conn. Gen. Stat. § 42-139(a) provides that if the seller fails to take possession of the goods within twenty
-  days of cancellation, "the goods shall become the property of the buyer without obligation to pay for them" —
-  vesting title to the System in Claimant if SunPower does not timely retake it.
+- Conn. Gen. Stat. § 42-139(a) provides, as the alternative route to title, that "If the seller fails to take
+  possession of such goods within twenty days after cancellation" then "the goods shall become the property of
+  the buyer without obligation to pay for them." Claimant has made the System available at the Property, and has
+  said so in the served notice; the condition on which title vests is SunPower's own failure to collect, not any
+  act of Claimant's.
 
-Because the twenty-day clock in § 42-139(a) runs from cancellation and its expiration invites removal of the
-System, Claimant requests interim relief preserving the System in place at the Property pending the arbitrator's
-award, so that the twenty-day period runs with an arbitrator available to restrain removal. This request is
-cross-referenced to, and coordinated with, the service-timing gate described in `02-NOTICE-OF-CANCELLATION.md`.
+**5. Interim relief.** Because the § 42-139(a) period runs from cancellation and its expiry invites removal of the
+System, Claimant requests interim relief preserving the System in place at the Property pending the award, so that
+the twenty-day period runs with an arbitrator already seised of the matter. This Demand is filed with JAMS before
+or on the same day `02-NOTICE-OF-CANCELLATION.md` is served, for that reason; the sequence is recorded in
+`02-NOTICE-OF-CANCELLATION.md`'s opening banner, `07-FILING-LOGISTICS.md` § 1, and `08-TIMELINE-AND-GATES.md`
+Phase 0.
 
 ---
 
@@ -316,6 +399,13 @@ Security Instrument" held by Claimant's lender. On information and belief, the f
 Property (¶¶26–28, E2) is not confined to the System as SunPower's personal property, as § 10 authorizes, but
 purports to reach the Real Property itself — the very thing § 5(c)(xiv) and Exhibit E forbid. The breach is the
 scope of what was filed, not the act of filing.
+
+**This Count is consistent with Count 1, and deliberately so.** The System is personal property and not a fixture,
+exactly as Lease § 10 says and exactly as Count 1 pleads. Claimant does not contend that the transaction encumbered
+land or pertained to a sale or rental of real property. Claimant's complaint in this Count is that SunPower's
+*filing* exceeded the personal-property characterisation that SunPower itself drafted — SunPower's own error in the
+execution of a right § 10 gave it, not a feature of the transaction. Count 1 and Count 3 therefore say the same
+thing about the System's character and differ only as to what SunPower recorded.
 
 **The cooperation obligation.** Lease § 4(b)(i) contemplates that Lessor will cooperate with a sale or
 refinancing of Claimant's Home: it provides that if Claimant refinances and "We are asked or required to
@@ -348,6 +438,24 @@ Energy Price of $0.187 per kWh, running to on or about May 2025 (¶36). No bienn
 Payment Amount reflecting any shortfall between the Production Guarantee and the Actual Biennial kWh, has been
 provided or remitted to Claimant (¶37, E6).
 
+**The breach Claimant leads with is the failure to reconcile and to provide the data.** Exhibit A § 2(c) obliges
+Lessor and Operator to perform the biennial reconciliation at the close of each Guarantee Period, to measure Actual
+Biennial kWh, and to provide Claimant the resulting figures. None of that was done for Guarantee Period 1 (¶37).
+That is a breach whether or not the System under-produced: Claimant is entitled to the reconciliation and to the
+production data on which it rests, and has been left to guess at both. The relief Claimant seeks first under this
+Count is an order that the Guarantee Period 1 reconciliation be performed and the underlying Actual Biennial kWh
+data produced.
+
+**The money claim is expressly contingent, and may come to nothing.** Claimant states plainly what his own
+evidence currently indicates: estimated two-year production for this System is approximately 11,642 kWh, against a
+Guarantee Period 1 threshold of 10,465 kWh. If the actual metered figure is at or above 10,465 kWh there is no
+shortfall, no Payment Amount is owed, and the monetary limb of this Count falls away entirely. Claimant does not
+allege that a shortfall occurred; he alleges that he has never been given the data needed to know. The Payment
+Amount claimed under D4 is therefore pleaded **conditionally upon the actual metered production shown by the PVS6
+monitoring export (E6)**, and is $0 unless that export shows Actual Biennial kWh below 10,465 kWh. Exhibit A
+separately provides a **$5.00** Minimum Payment Amount threshold, below which no computed Payment Amount is
+separately payable.
+
 Claimant anticipates that Lessor may invoke Exhibit A's Communication Requirements — the obligation to maintain
 an internet-connected Monitoring System — as a defense to any shortfall in Actual Biennial kWh. Exhibit A § 2(c)
 itself answers that defense: its Contingency for Lost Data provision requires Operator to reconstruct any lost
@@ -360,30 +468,56 @@ This Count is pleaded for Guarantee Period 1 only. **Guarantee Period 2 is not**
 long after the filing of this Demand, and is not pleaded as a breach in this Count or anywhere else in this
 Demand.
 
-Claimant seeks damages under D4: (10,465 − actual Biennial kWh generated) × $0.187 per kWh, an amount to be
-finalized once the biennial reconciliation and monitoring export (E6) are obtained.
+Claimant seeks, first, an order that the Guarantee Period 1 biennial reconciliation be performed and the
+underlying production data produced; and, contingently on that data, damages under D4: (10,465 − Actual Biennial
+kWh generated) × $0.187 per kWh, if and only if Actual Biennial kWh is below 10,465 kWh and the computed Payment
+Amount reaches the $5.00 Minimum Payment Amount. If it is not, Claimant claims nothing under D4 and says so now
+rather than after the export is produced.
 
 ## COUNT 6 — VIOLATION OF THE CONNECTICUT UNFAIR TRADE PRACTICES ACT (CUTPA), CONN. GEN. STAT. §§ 42-110b, 42-110g
 
 Claimant pleads CUTPA on two independent routes.
 
-**Route one — per se.** Conn. Gen. Stat. § 42-141(b) provides that "Violation of any of the provisions of
-sections 42-135a" — the Chapter 740 home solicitation sale provisions pleaded in Count 1 — constitutes an unfair
-or deceptive act or practice under CUTPA. Each of the Defects A through E pleaded in Count 1 is, on this route,
-independently a CUTPA violation.
+**Route one — per se, on the post-cancellation conduct only.** Conn. Gen. Stat. § 42-141(b) provides that
+"Violation of any of the provisions of sections 42-135a" and of §§ 42-137 to 42-139, and any "failure to honor any
+provisions of the notice of cancellation required by this chapter," constitutes an unfair or deceptive act or
+practice under CUTPA. The per se route Claimant pleads rests **solely on SunPower's conduct after cancellation was
+demanded**, which is conduct occurring in 2026 and squarely within the CUTPA window:
+
+- § 42-135a(7) makes it a violation to "Fail or refuse to honor any valid notice of cancellation by a buyer" and,
+  within ten business days of receipt, to refund all payments made and to "take any action necessary or appropriate
+  to terminate promptly any security interest created in the transaction";
+- § 42-135a(9) makes it a violation to fail, within ten business days of receipt of the buyer's notice of
+  cancellation, "to notify such buyer whether the seller intends to repossess or to abandon any shipped or
+  delivered goods";
+- § 42-138(a) requires tender of the payments made, and § 42-139(c) forbids any compensation for services rendered
+  before cancellation.
+
+On information and belief, SunPower has done none of these things since `02-NOTICE-OF-CANCELLATION.md` was served
+on [DATE]. Each continuing failure is, by § 42-141(b), independently an unfair or deceptive act.
+
+**Claimant does not plead the January 2023 documentary defects as CUTPA violations.** Defects A through E pleaded
+in Count 1 are failures in the documents furnished at execution in January 2023. Whatever their effect under
+§ 42-135a — and Count 1 depends on them entirely — they occurred more than three years before this Demand and are
+therefore outside § 42-110g(f). They are not pleaded under this Count, on Route one or otherwise, and any earlier
+formulation of Route one that relied on them is withdrawn.
 
 **Route two — independent unfair acts.** Independent of Count 1, Claimant alleges the following unfair or
 deceptive acts or practices, each occurring on or after 2023-09-21: (a) refusal to furnish the subordination or
 estoppel documentation described in Count 3; (b) charging Claimant for repairs that should have been covered
-under the Limited Warranty, as described in Count 4; (c) failure to remit the Guarantee Period 1 Payment Amount
-described in Count 5; and (d) failure to give Claimant the notice that Lease § 21 requires when Lessor engages a
-Lease Administrator or transfers servicing of the Lease, as described in ¶40.
+under the Limited Warranty, as described in Count 4; (c) failure to perform the Guarantee Period 1 biennial
+reconciliation and to provide the production data at all, as described in Count 5 — an act that does not depend on
+any shortfall having occurred; (d) failure to give Claimant the notice that Lease § 21 requires when Lessor engages
+a Lease Administrator or transfers servicing of the Lease, as described in ¶40; and (e) the continuing failure,
+since service of `02-NOTICE-OF-CANCELLATION.md`, to honour the consequences that Chapter 740 and SunPower's own
+Exhibit C attach to a notice of cancellation, as set out in Route one above.
 
 **Limitations.** Conn. Gen. Stat. § 42-110g(f) provides that a CUTPA action "may not be brought more than three
 years after the occurrence of a violation." Claimant pleads under this Count **only** acts occurring on or after
 2023-09-21, the outer edge of that three-year window measured from the filing of this Demand. Claimant does
 **not** plead the January 2023 sales conduct described in ¶¶7–12 as a CUTPA violation, and nothing in this Count
-should be read to assert one. The four acts enumerated above are the entire universe of conduct pleaded under
+should be read to assert one. Claimant likewise does not plead the January 2023 documentary defects pleaded in
+Count 1 as CUTPA violations. The five acts enumerated above are the entire universe of conduct pleaded under
 this Count.
 
 **Remedies.** Conn. Gen. Stat. § 42-110g(a) provides that "The court may, in its discretion, award punitive
@@ -404,21 +538,35 @@ receiving notice. Claimant gave that notice by `03-SECTION-16b-NOTICE.md`, serve
 initiated a remedy of each within ninety days of receipt, Lessor is in default under § 16(b), which under Lease
 § 11(a)(iv) opens a purchase option "[i]n the event of Our default pursuant to Section 16(b)."
 
-Claimant requests a declaration of Lessor's default and an order directing purchase of the System at fair market
-value determined by a mutually agreed independent appraiser, by analogy to the independent-appraiser-agreed-by-
-both mechanism in Lease § 18, rather than by an appraiser selected unilaterally by SunPower as Lease § 11(b)
-otherwise provides. Claimant further requests that the purchase price exclude the § 11(b) federal tax-credit
-recapture adder that would otherwise apply to a purchase before the fifth anniversary of the In-Service Date,
-because any early purchase under this Count is compelled by Lessor's own default, not by Claimant's election.
+**Price: § 11(b) does not reach a § 11(a)(iv) purchase, on the lease's own text.** Section 11(b) opens: "In each of
+(i), (ii) and (iii) above, the price you pay for the System will be the fair market value" — determined by an
+appraiser hired by SunPower — and then adds: "If the System is purchased prior to the fifth (5th) anniversary of
+the In-Service Date, the Fair Market Value will include the recapture of any federal tax credits." Subsection
+11(a)(iv) — "In the event of Our default pursuant to Section 16(b)" — is conspicuously absent from that list.
+Claimant's primary contention on price is therefore textual, not equitable: § 11(b) by its terms prices only
+purchases under (i), (ii) and (iii), so neither the lessor-selected appraiser nor the tax-credit recapture
+inclusion governs a purchase compelled under (iv). The Lease having supplied no price mechanism for a (iv)
+purchase, fair market value must be fixed by a reasonable mechanism, and the Lease's own closest analogue is the
+mutually agreed independent appraiser contemplated by Lease § 18. **In the alternative**, and only if the
+arbitrator concludes that § 11(b) does reach a purchase under (iv), Claimant asks the arbitrator to relieve him of
+the lessor-selected appraiser and the recapture adder in equity, because any early purchase under this Count is
+compelled by Lessor's own default and not by Claimant's election.
+
 Upon purchase, Lease § 11(c) provides that SunPower "will provide you a bill of sale," and that "the Lease will
 be terminated and neither You nor SunPower will have any remaining obligations."
 
+**Relief requested, and ripeness.** Claimant requests (a) a declaration that Lessor is in default under Lease
+§ 16(b); and (b) an order directing purchase of the System at fair market value determined by a mutually agreed
+independent appraiser, without any tax-credit recapture addition, together with a bill of sale and termination of
+the Lease. **To the extent the ninety-day period under § 16(b) has not expired as of the date of this Demand,
+Claimant pleads this Count prospectively and will seek leave to supplement upon its expiry**; Claimant does not ask
+the arbitrator to declare a default before the cure period has run.
+
 Claimant acknowledges that Lease § 11(a)(i) already opens the purchase option unconditionally on the fifth
 anniversary of the Lease Term Start Date, in or about April 2028. This Count does not claim that the purchase
-option is otherwise unavailable to Claimant; its function is narrower — to accelerate that option by
-approximately nineteen months, from April 2028 to the date ninety days after service of the § 16(b) notice, and
-to do so on terms (no recapture adder, a mutually agreed appraiser) that reflect Lessor's default rather than
-Claimant's ordinary exercise of the option.
+option is otherwise unavailable to Claimant; its function is narrower — to accelerate that option from April 2028
+to the date ninety days after service of the § 16(b) notice, and to do so on terms (no recapture addition, a
+mutually agreed appraiser) that reflect Lessor's default rather than Claimant's ordinary exercise of the option.
 
 ---
 
@@ -431,7 +579,7 @@ each in turn.
 absolute and unconditional and purports to waive all rights to reject or cancel the Lease, but by its own terms
 it excepts matters required by applicable law and the cancellation rights set forth in Lease §§ 8 and 28. Counts
 1 and 2 rest entirely on rights required by applicable law and on § 28 itself, both of which § 4(e) expressly
-carves out. See Count 1, ¶8 above.
+carves out. See Count 1, item 10 above.
 
 **Section 15(a)-(b) (no consequential damages; damages cap).** Section 15 purports to limit SunPower's liability
 to direct, actual damages and to cap total liability. JAMS Consumer Minimum Standard 3 requires that remedies
@@ -448,6 +596,30 @@ own covenants as written (Counts 3–5, 7), and to award CUTPA relief authorized
 also grants the arbitrator "authority to award any legal or equitable remedy or relief that a court could order
 or grant," which independently supports each form of relief requested.
 
+**Section 19 ("Only Disputes involving you and Us"; no relief for or against non-parties).** Section 19 provides
+that "Only Disputes involving you and Us may be addressed in the arbitration" and that the arbitrator will not
+"award relief for or against anyone who is not a party." SunPower may invoke that sentence to strike the servicer
+and SAVKAT, Inc. and to resist Count 3's recording relief. Claimant answers it in three parts.
+
+*As to the SunStrong servicer.* Conn. Gen. Stat. § 42-136(a) provides that any transfer of the buyer's obligation
+is an assignment only and that the transferee's rights are "subject to all claims and defenses of the buyer against
+the seller" arising under Chapter 740. A dispute with the assignee about the enforceability of the assigned Lease is
+therefore, in substance, the same dispute "involving you and Us": the assignee asserts Lessor's rights and takes
+them cum onere. In the alternative, an assignee that takes the benefit of the Lease stands in Lessor's shoes for
+this purpose and is bound by Lessor's own § 19 agreement, including its arbitration promise. Claimant does not seek
+any relief against the servicer that is not simply the consequence of the declarations sought against Lessor.
+
+*As to SAVKAT, Inc.* Claimant does not contend that SAVKAT, Inc. is a party to § 19. SAVKAT, Inc. is named for one
+reason only — to foreclose any argument that Claimant split a single claim across proceedings — and **Claimant will
+withdraw SAVKAT, Inc. from this arbitration upon SunPower's written stipulation that no claim-splitting or
+failure-to-join defence will be raised against Claimant in any forum.** No damages are sought against SAVKAT, Inc.,
+and no relief requested in this Demand depends on its participation.
+
+*As to Count 3's relief.* The relief sought in Count 3 runs against SunPower alone and requires only SunPower's own
+act: the filing of a UCC-3 amendment, termination, or release of an instrument SunPower itself caused to be
+recorded and which SunPower alone controls as secured party. It asks the arbitrator to award nothing for or against
+any non-party, and it determines no non-party's interest in the Property.
+
 **Section 23 (entire agreement; no oral modification).** Section 23 does not reach the statutory claims pleaded
 in Counts 1, 2, and 6, which arise by operation of law rather than by modification of the Lease. Count 1 rests
 on the four corners of SunPower's own cancellation notice as furnished, not on any oral statement or extrinsic
@@ -463,14 +635,17 @@ Exhibit A — not around them — so the disclaimer in Section 6 does not reach 
 
 Claimant respectfully requests that the arbitrator:
 
-1. Declare that the Lease is not effective against Claimant under Conn. Gen. Stat. § 42-135a (Count 1).
+1. Declare that the Lease has never been effective against Claimant under Conn. Gen. Stat. § 42-135a, that no
+   further Monthly Payment or other sum is owed under it, and that no cancellation is required for that relief
+   (Count 1).
 2. In the alternative, declare Claimant's cancellation of the Lease timely and effective (Count 2).
-3. Order restitution to Claimant of all payments made under the Lease, D1 (approximately $3,740.98 for 41
-   payments to date, subject to the full ledger at E5) (Count 2).
+3. Order restitution to Claimant of all payments made under the Lease, D1 (approximately $3,740.98 to $3,836.88
+   for the 41 to 42 payments to date, subject to the full ledger at E5) (Counts 1 and 2).
 4. Declare that Claimant owes no compensation for services rendered under the Lease before cancellation (Count
    2).
-5. Declare that, if SunPower fails to retake the System within twenty days of cancellation, title to the System
-   vests in Claimant without further obligation (Count 2).
+5. Declare that, if SunPower fails to take possession of the System within twenty days after cancellation — the
+   System having been made available to SunPower at the Property — title to the System vests in Claimant without
+   obligation to pay for it (Count 2).
 6. Order interim relief preserving the System in place at the Property pending the arbitrator's award (Count 2).
 7. Declare that the UCC-1 financing statement or fixture filing of record against the Property is limited to
    SunPower's interest in the System as personal property and does not encumber the Real Property, and order
@@ -480,14 +655,24 @@ Claimant respectfully requests that the arbitrator:
    refinance rate differential and recast costs Claimant incurred as a result of SunPower's failure to cooperate
    (Count 3).
 9. Award D3, Claimant's out-of-pocket repair and service costs (Count 4).
-10. Order the Guarantee Period 1 biennial reconciliation and award D4, the resulting Payment Amount (Count 5).
-11. In the alternative to items 1–6, declare SunPower in default under Lease § 16(b) and order purchase of the
-    System at fair market value determined by a mutually agreed independent appraiser, without the Section
-    11(b) tax-credit recapture adder, together with a bill of sale and termination of the Lease (Count 7).
+10. Order the Guarantee Period 1 biennial reconciliation to be performed and the underlying Actual Biennial kWh
+    data produced; and, **if and only if** that data shows Actual Biennial kWh below the 10,465 kWh Guarantee
+    Period 1 threshold and the computed figure reaches the $5.00 Minimum Payment Amount, award D4, the resulting
+    Payment Amount. If it does not, Claimant seeks no monetary award under this item (Count 5).
+11. In the alternative to items 1–6, declare SunPower in default under Lease § 16(b) — to the extent the
+    ninety-day § 16(b) period has expired as of the award, Claimant having pleaded the Count prospectively — and
+    order purchase of the System at fair market value determined by a mutually agreed independent appraiser and
+    without any federal tax-credit recapture addition, on the ground that Lease § 11(b) by its terms prices only
+    purchases under § 11(a)(i), (ii) and (iii) and not a purchase under § 11(a)(iv), together with a bill of sale
+    and termination of the Lease (Count 7).
 12. Award such other legal or equitable relief, including the CUTPA relief requested in Count 6 (punitive
     damages and injunctive or other equitable relief under Conn. Gen. Stat. § 42-110g(a), (d)), costs, and any
     further relief the arbitrator deems just and proper.[^feefootnote]
 
 [^feefootnote]: Claimant requests fees under Conn. Gen. Stat. § 42-110g(d) to the extent available, but
-    acknowledges that a pro se litigant generally cannot recover attorney's fees because none have been incurred,
-    and accordingly seeks only costs actually incurred in this arbitration.
+    acknowledges that a pro se litigant generally cannot recover attorney's fees because none have been incurred.
+    Claimant separately invokes Lease § 19's own fee-and-cost provision, which entitles Claimant to his fees and
+    costs if he prevails "and the award you receive from the arbitrator is higher than Our last written settlement
+    offer" — a provision more favourable to Claimant than § 42-110g(d) and one Claimant expressly reserves.
+    Section 19 otherwise leaves each side to bear its own costs; accordingly, absent the § 19 condition being met
+    or a CUTPA award, Claimant seeks only costs actually incurred in this arbitration.
