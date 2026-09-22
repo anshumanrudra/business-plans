@@ -26,7 +26,7 @@
 
 ## Executive Summary
 
-**Key finding:** Buying out your SunPower solar lease makes you eligible for the **30% federal solar Investment Tax Credit (through 2032)**, which can significantly offset the buyout cost. A $10,000 buyout becomes a $7,000 net cost after the tax credit — potentially cheaper than continuing 3 years of lease payments (~$4,266 with escalators).
+**Key finding — WITHDRAWN, see banner:** ~~Buying out your SunPower solar lease makes you eligible for the **30% federal solar Investment Tax Credit (through 2032)**, which can significantly offset the buyout cost. A $10,000 buyout becomes a $7,000 net cost after the tax credit — potentially cheaper than continuing 3 years of lease payments (~$4,266 with escalators).~~ **(NOT AVAILABLE — see banner.** A 2026-or-later buyout of this previously leased system receives **no § 25D credit at all**, on two independent grounds. A $10,000 buyout is a $10,000 net cost. Every decision threshold below that nets out a credit is invalid.**)**
 
 **Critical unknown:** Actual buyout cost. Research found general solar lease info but zero bankruptcy-specific details. **You must contact your servicer directly for a buyout quote.**
 
@@ -41,12 +41,14 @@
 
 ## What the Research Found (4 Verified Claims)
 
-### 1. 30% Federal Solar ITC Eligibility (HIGH CONFIDENCE)
+### 1. ~~30% Federal Solar ITC Eligibility (HIGH CONFIDENCE)~~ — WITHDRAWN: NO CREDIT IS AVAILABLE (see banner)
 
-**The finding:**
-- **Leased system:** Homeowner gets ZERO tax benefits (leasing company owns system, claims ITC)
-- **Owned system (after buyout):** Homeowner becomes eligible for **30% Investment Tax Credit through 2032**
-- **ITC claimed via IRS Form 5695** on your tax return
+**The finding — withdrawn in its entirety.** The "HIGH CONFIDENCE" label was wrong: the research never tested the
+placed-in-service cut-off or the used-property bar, both of which defeat the credit here.
+
+- **Leased system:** Homeowner gets ZERO tax benefits (leasing company owns system, claims ITC) — this part stands
+- **Owned system (after buyout):** ~~Homeowner becomes eligible for **30% Investment Tax Credit through 2032**~~ **(NOT AVAILABLE — see banner: the credit "is not available for any property placed in service after December 31, 2025," and "Used (previously owned) clean energy property is not eligible")**
+- ~~**ITC claimed via IRS Form 5695** on your tax return~~ **(NOT AVAILABLE — see banner)**
 
 **The math:**
 | Buyout Cost | 30% ITC | Net Cost |
@@ -56,13 +58,15 @@
 | $20,000 | ~~$6,000~~ **(NOT AVAILABLE — see banner)** | **$20,000** |
 
 **Why this matters for you:**
-- This is the biggest financial argument for buyout — it directly offsets the purchase price
+- ~~This is the biggest financial argument for buyout — it directly offsets the purchase price~~ **(WITHDRAWN — there is no credit, so there is no offset, and this is no longer an argument for buyout at all)**
 - Leased system: you pay $4,266 over 3 years, get nothing back
-- Owned system: you pay buyout cost, get 30% back from IRS
+- ~~Owned system: you pay buyout cost, get 30% back from IRS~~ **(NOT AVAILABLE — see banner. You pay the buyout cost and get nothing back.)**
 
-**Sources:** IRS Form 5695, EcoWatch
+**Sources:** IRS Form 5695, EcoWatch — **superseded by the IRS Residential Clean Energy Credit page quoted in the
+banner, which is the pinned source (`solar/sources/irs-25d-residential-clean-energy.txt`).**
 
-**Verification:** 3-0 vote (high confidence)
+**Verification:** ~~3-0 vote (high confidence)~~ **— the vote was on the wrong question and did not check either
+statutory bar. Treat as unverified and withdrawn.**
 
 ---
 
@@ -235,11 +239,14 @@ If you're planning to return to this house and stay long-term, buyout probably m
 
 ### If You Buy Out:
 
-**Confirmed tax benefits:**
-1. **30% federal solar ITC** (claim via Form 5695 on 2026 tax return)
-   - This is a CREDIT (reduces tax owed dollar-for-dollar), not a deduction
-   - Available through 2032 under current law
-   - Must have enough tax liability to use the credit (or carry forward)
+**Confirmed tax benefits:** **none. There are no confirmed tax benefits to a 2026-or-later buyout of this system.**
+See the withdrawn item immediately below and the banner at the top of this document.
+
+**WITHDRAWN — do not rely on this:**
+1. ~~**30% federal solar ITC** (claim via Form 5695 on 2026 tax return)~~ **(NOT AVAILABLE — see banner)**
+   - ~~This is a CREDIT (reduces tax owed dollar-for-dollar), not a deduction~~
+   - ~~Available through 2032 under current law~~ — wrong: the credit "is not available for any property placed in service after December 31, 2025"
+   - ~~Must have enough tax liability to use the credit (or carry forward)~~ — moot; and separately, "Used (previously owned) clean energy property is not eligible"
 
 **Unknown tax benefits (ASK YOUR CPA):**
 2. **Rental property depreciation?**
