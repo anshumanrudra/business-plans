@@ -33,6 +33,12 @@ CITATIONS = [
         "quote": "at no cost or expense to you",
     },
     {
+        "doc": "03-SECTION-16b-NOTICE.md",
+        "note": "4(b)(i) - refinance cooperation (Failure 3)",
+        "source": "lease.txt",
+        "quote": "We are asked or required to provide any cooperation",
+    },
+    {
         "doc": "02-NOTICE-OF-CANCELLATION.md",
         "note": "42-135a - agreement not effective, fully completed",
         "source": "ct740-home-solicitation.txt",

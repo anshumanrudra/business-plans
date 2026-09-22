@@ -17,8 +17,8 @@ Austin, TX 78729
 Email: SunPowerFinancing@sunpower.com
 
 **Copy to (current servicer):**
-SunStrong
-[SunStrong servicer name and mailing/email address — see 01-EVIDENCE-CHECKLIST.md E9]
+[SunStrong-affiliated servicer — exact entity name, mailing address and email to be confirmed; see
+01-EVIDENCE-CHECKLIST.md E9]
 
 **From:**
 Anshuman Rudra
@@ -81,14 +81,19 @@ B2-3-04 Compliance) represents that Lessor does not have a lien on the Real Prop
 impede any sale of the Real Property, and that Lessor's interest is subject and subordinate in all respects to
 the Security Instrument held by my lender.
 
+Lease Section 4(b)(i) separately obliges Lessor to cooperate with a sale or refinancing of my Home: it provides
+that where "We are asked or required to provide any cooperation" in connection with a refinancing, Lessor may
+charge only its reasonable expenses of providing that cooperation. That clause presupposes a duty to cooperate, at
+cost — not a right to withhold cooperation altogether.
+
 A filing appears of record against the Property that I believe implicates these obligations. [FACTS — see
 01-EVIDENCE-CHECKLIST.md E2 land records / UCC search]. I demand (a) written confirmation that any such filing
 does not encumber the Real Property, consistent with Exhibit E, and (b) a subordination agreement or estoppel
 letter, in recordable form, confirming that Lessor's interest is subject and subordinate to my lender's Security
 Instrument and does not impede any sale or refinancing of the Property.
 
-This is a failure to perform the material real-property and refinance-cooperation obligations of Section
-5(c)(xiv) and Exhibit E.
+This is a failure to perform the material real-property and refinance-cooperation obligations of Sections
+5(c)(xiv) and 4(b)(i) and of Exhibit E.
 
 ## Demand
 

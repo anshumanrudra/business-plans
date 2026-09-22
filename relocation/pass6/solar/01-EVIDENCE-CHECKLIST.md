@@ -48,8 +48,14 @@ sales presentation and signing actually took, and what was on screen before Clai
 the 1/16 (Claimant's signature) vs. 1/19 (Lessor's countersignature, and the date Exhibit C's cancellation form
 uses) discrepancy.
 
-**Serves:** Count 1 (home solicitation sale elements; the notice-defect timeline) and Count 2 (fixes the correct
-date the cancellation period runs from under § 42-137(a)).
+**Also obtain from the executed PDF in this envelope: the type size, in points, and the typeface weight of the
+Section 28 cancellation statement and of the Exhibit C NOTICE OF CANCELLATION form.** Count 1's Defect D pleads a
+failure of § 42-135a(1)'s "boldface type of a minimum size of ten points" requirement and § 42-135a(2)'s
+"ten-point boldface type" requirement, and the Demand carries a placeholder for the measurement until it is taken.
+
+**Serves:** Count 1 (home solicitation sale elements; the notice-defect timeline; the ten-point-boldface
+measurement for Defect D) and Count 2 (fixes the correct date the cancellation period runs from under
+§ 42-137(a)).
 
 `Requested: ___  Received: ___  Location: ___`
 
@@ -132,9 +138,12 @@ own §8(a)(i) real-estate due diligence would have shown had it been performed. 
 fact for the file, that title is held by more than one owner and what the failed-refinance title examiner
 actually flagged.
 
-**Serves:** Count 3 (causation evidence for the lien breach — the title commitment shows what the examiner
-flagged; no argument is built on top of it). Also underpins the reserved §6.2 defence, held ready but not filed
-unless a trigger condition in §6.2 occurs.
+**Serves: no pleaded count. Obtained for the file and for the reserved §6.2 defence only — not listed, not
+exchanged under JAMS Rule 13, and not offered at the hearing.** This item is deliberately *not* tied to Count 3.
+Evidence labelled as serving a pleaded count gets listed, exchanged and offered, and the deed and abstract disclose
+on their face facts that §6.2 reserves. Count 3's causation is carried by E2 (the filing as made) and E3 (the title
+exception in the lender's file), neither of which requires the deed. If a title commitment must be produced for any
+reason, redact ownership before producing it.
 
 `Requested: ___  Received: ___  Location: ___`
 
@@ -179,10 +188,17 @@ in service.
 > connectivity or communication logs maintained for this system, and any Production Guarantee true-up
 > calculation SunPower or SunStrong has performed to date.
 
-**What it proves:** actual kWh production against Table A's 10,465 kWh Guarantee Period 1 figure, needed to
-prove or disprove the estimated ~11,642 kWh two-year production and any resulting shortfall payment owed.
+**What it proves:** the actual metered kWh production for Guarantee Period 1, and therefore **whether a shortfall
+against Table A's 10,465 kWh threshold exists at all.** Do not assume one. The estimated two-year production for
+this System is approximately **11,642 kWh** against a **10,465 kWh** guarantee — the guarantee is 90% of the
+estimate — so on the estimates the System over-produced and **no Payment Amount is owed**. This export is what
+establishes which way it went. If it shows Actual Biennial kWh at or above 10,465 kWh, D4 is $0 and Count 5's money
+limb falls away; Count 5's primary limb — the failure to perform the biennial reconciliation and to provide the
+production data at all — is unaffected either way.
 
-**Serves:** Count 5 (breach of the Production Guarantee).
+**Serves:** Count 5 (breach of the Production Guarantee — the reconciliation limb regardless of the figure, and the
+Payment Amount limb only if the export shows a shortfall) and Count 6 Route two act (c), which is pleaded as the
+failure to *reconcile*, not the failure to remit.
 
 `Requested: ___  Received: ___  Location: ___`
 
@@ -205,9 +221,12 @@ repeat as a Rule 13 document request.
 **What it proves:** the Lease Term Start Date under Lease §2. See the header block above — every other date in
 the case is computed from this one. Obtain it in writing before pleading any date as fact.
 
-**Serves:** Count 5 (Production Guarantee Period start), Count 6 (fixes which acts fall on or after the
-2023-09-21 CUTPA window boundary relative to the lease timeline), and Count 7 (the §11(a)(i) purchase-option
-date and the tax-credit-recapture schedule).
+**Serves:** Count 2 and D1 (which date starts the payment years, and therefore whether 41 or 42 payments have been
+made — see `06-DAMAGES-SCHEDULE.md` D1 Scenarios A and B), Count 5 (Production Guarantee Period start), and Count 7
+(the §11(a)(i) purchase-option date, keyed to the Lease Term Start Date, and the separate In-Service Date that
+§11(b)'s fifth-anniversary condition is keyed to — §11(b) is binary, so the only thing that matters is which side of
+that one date a purchase falls on). It does **not** fix the CUTPA boundary: that boundary is a calendar date
+computed as three years before the actual filing of `04`, and is not derived from interconnection.
 
 `Requested: ___  Received: ___  Location: ___`
 
@@ -272,16 +291,22 @@ obtain their copy of the proposal, and repeat as a Rule 13 document request.
 
 **Wording to send:**
 
-> Please provide a complete copy of the sales proposal presented to me on or about January 16, 2023, including
-> any pricing worksheet and the $1,000 or other time-limited discount offered, and all text messages and emails
-> exchanged between me and your representative concerning the sale, including any statements made about my
-> right to cancel.
+> Please provide a complete copy of the sales proposal presented to me on or about January 16, 2023, together with
+> any pricing worksheet accompanying it, and all text messages and emails exchanged between me and your
+> representative concerning the sale.
 
-**What it proves:** the context of the one-hour video presentation, the expiring discount, and any
-representation about a cancellation period, going to whether the transaction was "personally solicited" and how
-it was presented.
+**Deliberately neutral wording — do not add to it.** This request goes out, pre-Demand, to the party best placed to
+warn SunPower and to curate its own file. It therefore asks for the proposal, the pricing worksheet and the message
+thread and nothing else. It must not ask about "any statements made about my right to cancel," and must not
+reference a discount or a time-limited offer: the first telegraphs Count 1's notice-defect theory before the Demand
+is filed, and the second frames a sales-presentation theory that is time-barred and expressly not pleaded. The same
+phrasing is kept out of `05-DOCUMENT-REQUESTS.md` R4 and R5 for the same reasons.
 
-**Serves:** Count 1 (home solicitation sale elements; context for the notice-defect analysis).
+**What it proves:** that the sale was personally solicited away from SunPower's place of business, and the manner
+and place in which the documents were presented — going to the § 42-134a(a) elements only.
+
+**Serves:** Count 1 (home solicitation sale elements). Not offered on any theory about the content of the sales
+presentation.
 
 `Requested: ___  Received: ___  Location: ___`
 
