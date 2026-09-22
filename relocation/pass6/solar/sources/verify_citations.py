@@ -140,6 +140,60 @@ CITATIONS = [
         "source": "lease.txt",
         "quote": "right to file any UCC-1 financing statement or fixture filing",
     },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-135a - not effective against buyer",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "No agreement in a home solicitation sale shall be effective against the buyer",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-135a(1) - fully completed copy",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "Fail to furnish the buyer with a fully completed receipt or copy of all contracts",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-135a(1) - immediate proximity to signature",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "in immediate proximity to the space reserved in the contract for the signature of the buyer",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-135a(2) - easily detachable notice",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "easily detachable",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-137(a) - three business days from buyer signing",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "until midnight of the third business day after the day on which the buyer signs",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-139(a) - goods become buyer's property",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "the goods shall become the property of the buyer without obligation to pay for them",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-138(a) - tender payments",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "the seller shall tender to the buyer any payments made by the buyer",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "42-139(c) - no compensation for services",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "the seller is entitled to no compensation",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "Lease 28 - seven calendar day cancellation",
+        "source": "lease.txt",
+        "quote": "PRIOR TO MIDNIGHT OF THE SEVENTH (7TH) CALENDAR DAY AFTER THE DATE YOU SIGN THIS LEASE",
+    },
 ]
 
 

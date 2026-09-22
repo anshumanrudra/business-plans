@@ -213,4 +213,91 @@ entity identified in Section II above, on or about [DATE — see 01-EVIDENCE-CHE
 
 ---
 
-*[Counts, defences, and prayer for relief follow in subsequent revisions of this Demand.]*
+## COUNT 1 — DECLARATORY JUDGMENT THAT THE LEASE IS NOT EFFECTIVE AGAINST CLAIMANT (CONN. GEN. STAT. § 42-135a)
+
+**1. Elements.** The Lease is a "home solicitation sale" of "consumer goods" within Conn. Gen. Stat. §
+42-134a(a): it was personally solicited by SAVKAT, Inc.'s representative through a live one-to-one video
+presentation (¶7), away from SunPower's place of business, and signed by Claimant at the Property (¶¶7–11). Lease
+§ 5(a)(ix)'s own obligation that Claimant "use the System primarily for personal, family or household purposes"
+supplies the consumer-goods element.
+
+Conn. Gen. Stat. § 42-135a provides that "No agreement in a home solicitation sale shall be effective against
+the buyer" unless the seller has complied with the statute's disclosure and cancellation-form requirements. The
+Lease is not effective against Claimant for at least five independent reasons, addressed below in order of
+strength.
+
+**2. Defect A — the copy furnished was not "fully completed."** Section 42-135a(1) makes it unlawful to "Fail to
+furnish the buyer with a fully completed receipt or copy of all contracts." The Federal Consumer Leasing Act
+Disclosures page furnished to Claimant bears three blank dollar fields in the "Other Charges" column, including
+the field for the Total (¶¶13–14). The copy furnished was therefore not "fully completed" as § 42-135a(1)
+requires. The same blank fields are, independently, evidence of a Regulation M disclosure violation, 12 CFR
+1013.4 — pleaded here solely as evidence supporting the § 42-135a(1) violation, and not as a standalone count,
+because any standalone Regulation M claim would be time-barred.
+
+**3. Defect B — a deviation that shortens Claimant's rights.** The statutory cancellation form must give the
+buyer until "until midnight of the third business day after the day on which the buyer signs" to cancel, and
+Conn. Gen. Stat. § 42-138(a) prescribes that refunds be tendered within ten business days. Exhibit C to the
+Lease instead states that any refund will be made within ten calendar days (¶16). Because calendar days run
+without regard to weekends and holidays, this deviation shortens — rather than expands — Claimant's statutory
+entitlement, unlike the seven-versus-three-day period addressed in Defect D below.
+
+**4. Defect C — placement.** Section 42-135a(1) requires the cancellation notice to appear "in immediate
+proximity to the space reserved in the contract for the signature of the buyer," and § 42-135a(2) requires the
+notice to be "easily detachable." The cancellation statement furnished with the Lease was not printed in
+immediate proximity to Claimant's signature and was not presented as an easily detachable form (¶15).
+
+**5. Defect D — period and prescribed text.** Lease § 28 states: "YOU, THE LESSEE, MAY CANCEL THIS LEASE AT ANY
+TIME PRIOR TO MIDNIGHT OF THE SEVENTH (7TH) CALENDAR DAY AFTER THE DATE YOU SIGN THIS LEASE." That is more
+generous than the statutory third-business-day form, not less — Claimant pleads this defect for completeness
+only, and does not contend that the extra time prejudiced him.
+
+**6. Defect E — wrong trigger date.** Section 42-137(a) runs the cancellation period from the day the buyer
+signs. Exhibit C instead runs the cancellation period from January 19, 2023 — the date SunPower's representative
+countersigned — rather than from January 16, 2023, the day Claimant signed (¶¶10–11, 16).
+
+**7. Meeting the mail-or-telephone exclusion.** Section 42-134a(a)(3) excludes from the statute's coverage
+transactions "conducted and consummated entirely by mail or telephone and without any other contact" between
+buyer and seller before delivery of the goods. That exclusion does not apply here for two independent reasons.
+First, the transaction was conducted by live videoconference and DocuSign electronic signature — neither of
+which is "mail" nor "telephone." Second, there was substantial other contact between the parties before delivery
+of the System: Lease § 8(a)(i)'s condition precedent required "a thorough physical inspection of the Property"
+(¶19), and an installation crew was present at the Property, both before the April 2023 interconnection (¶¶17–20)
+— all well before delivery of the goods within the meaning of the statute.
+
+**8. Meeting Lease § 4(e).** Lease § 4(e) purports to make Claimant's payment obligations "absolute and
+unconditional" and to waive rights to reject or cancel the Lease, but that clause carves itself out for matters
+required by applicable law and for the cancellation right set forth in Lease §§ 8 and 28. This Count rests
+entirely on rights "required by applicable law" — Conn. Gen. Stat. §§ 42-134a through 42-141 — and on Lease § 28
+itself, both of which § 4(e) expressly excepts from its waiver.
+
+**9. Relief requested.** Claimant requests a declaration that the Lease is not effective against Claimant under
+Conn. Gen. Stat. § 42-135a.
+
+## COUNT 2 — TIMELY CANCELLATION AND ITS STATUTORY CONSEQUENCES (CONN. GEN. STAT. §§ 42-137, 42-138(a), 42-139(a), (c))
+
+Count 2 is pleaded in the alternative to, and as a consequence of, Count 1. Because no compliant notice of the
+right to cancel was ever furnished (Count 1, Defects A, C, D, and E), the statutory cancellation period never
+began to run, and Claimant's cancellation — effected by `02-NOTICE-OF-CANCELLATION.md` on [DATE] — is timely
+regardless of the number of calendar days that have elapsed since January 2023.
+
+Upon a timely cancellation, three statutory consequences follow, each of which Exhibit C to the Lease echoes in
+SunPower's own words:
+
+- Conn. Gen. Stat. § 42-138(a) requires that "the seller shall tender to the buyer any payments made by the
+  buyer" under the Lease — restitution of D1, approximately $3,740.98 for 41 payments made to date (¶25),
+  subject to the full ledger at E5.
+- Conn. Gen. Stat. § 42-139(c) provides that, following a timely cancellation, "the seller is entitled to no
+  compensation" for services rendered before cancellation — including installation, monitoring, and any other
+  service performed under the Lease.
+- Conn. Gen. Stat. § 42-139(a) provides that if the seller fails to take possession of the goods within twenty
+  days of cancellation, "the goods shall become the property of the buyer without obligation to pay for them" —
+  vesting title to the System in Claimant if SunPower does not timely retake it.
+
+Because the twenty-day clock in § 42-139(a) runs from cancellation and its expiration invites removal of the
+System, Claimant requests interim relief preserving the System in place at the Property pending the arbitrator's
+award, so that the twenty-day period runs with an arbitrator available to restrain removal. This request is
+cross-referenced to, and coordinated with, the service-timing gate described in `02-NOTICE-OF-CANCELLATION.md`.
+
+---
+
+*[Counts 3-7, defences, and prayer for relief follow in subsequent revisions of this Demand.]*
