@@ -51,9 +51,9 @@
 **The math:**
 | Buyout Cost | 30% ITC | Net Cost |
 |---|---|---|
-| $10,000 | $3,000 | **$7,000** |
-| $15,000 | $4,500 | **$10,500** |
-| $20,000 | $6,000 | **$14,000** |
+| $10,000 | ~~$3,000~~ **(NOT AVAILABLE — see banner)** | **$10,000** |
+| $15,000 | ~~$4,500~~ **(NOT AVAILABLE — see banner)** | **$15,000** |
+| $20,000 | ~~$6,000~~ **(NOT AVAILABLE — see banner)** | **$20,000** |
 
 **Why this matters for you:**
 - This is the biggest financial argument for buyout — it directly offsets the purchase price
