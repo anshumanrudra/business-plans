@@ -81,13 +81,12 @@ form requirements, for at least three independent reasons:
   payments made — a deviation that shortens, rather than expands, my rights under the statute.
 
 Because no compliant notice of the right to cancel was ever furnished, the cancellation period never began to
-run. I note for completeness, without conceding their sufficiency, two further and independent irregularities
-in the cancellation form furnished with the Lease: Exhibit C states the "(Date of Lease)" as 1/19/2023 and
-gives a cancellation deadline of 1/26/2023 — that is, it runs the cancellation period from January 19, 2023,
-the date SunPower's representative (Sherilyn M. Cano) countersigned, rather than from January 16, 2023, the day
-I signed, as Conn. Gen. Stat. § 42-137(a) requires; and it states a seven-calendar-day period rather than the
-statute's third-business-day form. Neither of those two irregularities is the basis for this notice — the three
-defects identified above are — but both confirm that the cancellation form furnished did not conform to the
+run. I note for completeness, without conceding its sufficiency, one further and independent irregularity in
+the cancellation form furnished with the Lease: Exhibit C states the "(Date of Lease)" as 1/19/2023 and gives a
+cancellation deadline of 1/26/2023 — that is, it runs the cancellation period from January 19, 2023, the date
+SunPower's representative (Sherilyn M. Cano) countersigned, rather than from January 16, 2023, the day I signed,
+as Conn. Gen. Stat. § 42-137(a) requires. That irregularity is not the basis for this notice — the three
+defects identified above are — but it confirms that the cancellation form furnished did not conform to the
 statute. Because the statutory period never began to run, this cancellation is timely regardless of how many
 calendar days have elapsed since January 2023.
 
