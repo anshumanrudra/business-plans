@@ -9,14 +9,28 @@ must clear before any of this is filed.
 
 ---
 
-## 1. What to file
+## 1. What to file, and in what order
+
+**Sequence — this is fixed, and `02`'s opening banner, `00-CASE-STRATEGY.md` and `08-TIMELINE-AND-GATES.md`
+Phase 0 all state it identically.** On a single day: (i) **file `04-JAMS-DEMAND.md` with JAMS and pay the $125
+first**; then (ii) serve `02-NOTICE-OF-CANCELLATION.md`; then (iii) serve `03-SECTION-16b-NOTICE.md`. Never serve
+`02` before the Demand is filed. The § 42-139(a) twenty-day window opens on service of `02`, and it must not open
+and close before an arbitrator exists to hear the interim-relief request in `04` Count 2 — that is the whole
+mitigation for objective 3.
+
+**The filing package therefore does not wait on proofs of service.** File this at (i):
 
 - The JAMS Arbitration Demand (`04-JAMS-DEMAND.md`), converted to JAMS's Demand for Arbitration cover form plus
   the narrative and prayer for relief.
 - The Lease (SunPower Financing Agreement, Lease #4593311, including Exhibits A–E) as an exhibit.
-- `02-NOTICE-OF-CANCELLATION.md`, with proof of service (see its own service record table).
-- `03-SECTION-16b-NOTICE.md`, with proof of service (see its own service record table).
+- `02-NOTICE-OF-CANCELLATION.md` and `03-SECTION-16b-NOTICE.md` **as served copies** — the documents themselves,
+  which exist before service and are referenced throughout the Demand.
 - The JAMS filing fee: **$125** (see §3 below).
+
+**Then supplement.** Once the certified-mail receipts and email confirmations come back, file the proof of service
+for each of `02` and `03` (from their own service record tables) as a supplemental filing. JAMS accepts
+supplemental filings; the proofs are evidence of when the clocks started, not a precondition to opening the case.
+Do not delay filing `04` to assemble them.
 
 ## 2. Where to file
 
@@ -135,13 +149,28 @@ consciously accepted as a filing-time risk:
 
 - [ ] **Item 1 / 1a / 1b** — confirm the interconnection date (E7) in writing; the Lease Term Start Date and
       every downstream clock (§11(a)(i) option, §11(b) recapture, payment-year boundaries in `06`) depend on it.
-- [ ] **Item 2** — confirm the full payment ledger (E5) and reconcile it against the 41-payment estimate used in
-      `06-DAMAGES-SCHEDULE.md`.
+- [ ] **Item 2 — BLOCKER, not a checkbox.** Confirm the full payment ledger (E5) and reconcile it against the
+      41-vs-42 payment range in `06-DAMAGES-SCHEDULE.md` D1. Lease § 2 keys the payment years to the April 2023
+      interconnection, which gives **42** payments and ≈$3,836.88; the May 2023 energization gives **41** and
+      ≈$3,740.98. `04` ¶ 25, `04`'s prayer item 3 and `02` § 3 all state the range. Do not replace the range with a
+      single figure anywhere until the ledger says which it is.
+- [ ] **Item 12 — compute the CUTPA boundary on the filing day.** § 42-110g(f) is occurrence-based and measured
+      from the actual filing date. `04` Count 6 pleads acts on or after **2023-09-21**, which is three years before
+      2026-09-22. On the day of filing, recompute "filing date minus three years" and confirm that every act pleaded
+      under Count 6 falls on or after it. If filing has slipped, either the boundary date in `04` Count 6 or the
+      pleaded acts must move; see `08-TIMELINE-AND-GATES.md`'s CUTPA clock row.
+- [ ] **Item 13 — measure the cancellation-notice type size.** Count 1 Defect D alleges a failure of
+      § 42-135a(1)'s ten-point boldface requirement. Take the point size and typeface weight of the Lease § 28
+      statement and the Exhibit C form from the executed PDF (E1) and fill the placeholder in `04` Count 1 item 6.
+- [ ] **Item 14 — SOURCES.md provenance caveat.** The Connecticut General Assembly texts in `sources/` were
+      fetched over a channel flagged in `sources/SOURCES.md`. The harness matches every quotation verbatim against
+      the pinned text, so content is not in doubt; if SunPower ever challenges a quotation, re-fetch the affected
+      chapter over a clean channel and re-run `sources/verify_citations.py` before responding.
 - [ ] **Item 9** — confirm the current servicer/Lease Administrator's name and notice address (E9), for the
       copy-to-servicer line in every service record.
 - [ ] **Item 10** — confirm the land-records/UCC filing status (E2), before representing its scope in the Demand
       or in any statutory-copy correspondence.
 - [ ] **Item 11** — confirm the refinance file status (E3), before asserting D2 with real figures.
 
-Until all five are cleared, treat every bracketed `[DATE]` / `[AMOUNT]` / `[ADDRESS]` placeholder in this
+Until all of these are cleared, treat every bracketed `[DATE]` / `[AMOUNT]` / `[ADDRESS]` placeholder in this
 document set as unresolved and do not represent any of them as final to JAMS, to SunPower, or to the arbitrator.
