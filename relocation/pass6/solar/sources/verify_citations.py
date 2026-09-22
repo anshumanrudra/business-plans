@@ -32,6 +32,72 @@ CITATIONS = [
         "source": "lease.txt",
         "quote": "at no cost or expense to you",
     },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "42-135a - agreement not effective, fully completed",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "No agreement in a home solicitation sale shall be effective against the buyer",
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "42-135a(1) - fully completed receipt",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "Fail to furnish the buyer with a fully completed receipt or copy of all contracts",
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "42-134a(a) - lease of consumer goods, personally solicits",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "means a sale, lease, or rental of consumer goods or services",
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "42-137(c) - effective if indicates intention not to be bound",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "it indicates the intention on the part of the buyer not to be bound",
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "42-138(a) - tender payments within ten business days",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "the seller shall tender to the buyer any payments made by the buyer",
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "42-139(a) - goods become property of buyer after twenty days",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "the goods shall become the property of the buyer without obligation to pay for them",
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "42-139(a) - tender at own address only",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "he is not obligated to tender at any place other than his own address",
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "42-139(c) - seller entitled to no compensation for services",
+        "source": "ct740-home-solicitation.txt",
+        "quote": "the seller is entitled to no compensation",
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "Exhibit C - security interest will be canceled",
+        "source": "lease.txt",
+        "quote": "any security interest arising out of the transaction will be canceled",
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "Exhibit C - retain goods if not picked up in twenty days",
+        "source": "lease.txt",
+        "quote": "you may retain or dispose of the goods without any further obligation",
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "4(e) carve-out for applicable law and Section 28",
+        "source": "lease.txt",
+        "quote": "EXCEPT AS REQUIRED BY APPLICABLE LAW",
+    },
 ]
 
 
