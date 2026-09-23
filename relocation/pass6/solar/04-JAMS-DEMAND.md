@@ -143,18 +143,35 @@ would be tendered within ten calendar days of cancellation.
 ¶17. The Lease itself (Exhibit B) states an "Approximate Start Date" of 7/18/2023 and an "Approximate Completion
 Date" of 7/23/2023 for the installation of the System.
 
-¶18. On information and belief, actual installation of the System occurred on or about February–March 2023,
-months before the dates stated in the Lease (E12).
+¶18. Actual installation of the System occurred on or about February–March 2023, months before the dates stated in
+the Lease. On 23 February 2023 — five weeks after the Lease was signed and nearly five months before the Lease's
+stated installation start date — SAVKAT submitted to Eversource an Interconnection Application for the System
+carrying its final equipment schedule (fourteen Enphase IQ7HS-66-ACM-US microinverters; 5.46 kW DC / 5.4 kW AC) and
+a total installed cost of $28,094.36, itemised as $15,094.36 of hardware, $12,000.00 of labour and $1,000.00 of soft
+costs (E13). The System was producing power by 15 May 2023 (¶ 20, E14), two months before the "Approximate Start
+Date" the Lease states for its installation.
 
 ¶19. As a condition precedent to SunPower's obligation to lease the System, Lease § 8(a)(i) required completion
 of an engineering site audit, described in the Lease as "a thorough physical inspection of the Property," which
-was performed at the Property before interconnection (E12).
+was performed at the Property before interconnection (E12). On the Eversource Third Party Ownership Customer
+Disclosure executed 23 February 2023, SAVKAT certified that a shading analysis had been completed for the Property
+and that 13% of production was expected to be lost to shading, and the disclosure's Key Responsibilities Checklist
+assigns to the "Primary Installer/Owner," and to Claimant not at all, each of System Operations and Maintenance,
+Submission of the Interconnection Application, Securing Required Permits, Obtaining Engineering Approvals,
+Scheduling Inspections and Participation in Inspections (E13).
 
-¶20. The utility approved interconnection of the System in or about April 2023. Lease § 2 defines the "Lease
-Term Start Date" as the date that "is the date upon which your utility approves interconnection of the System,"
-and the System was energized in or about May 2023 (E7).
+¶20. The utility granted permission to operate the System on or before 12 May 2023, and the System was energized
+between 12 and 15 May 2023 (E14). On 12 May 2023 SAVKAT wrote to Claimant that "the utility has given you
+permission to operate your system," and on 15 May 2023 SunPower wrote to Claimant, copying its own Salesforce
+archive, that "YOUR SYSTEM IS ON!" Lease § 2 defines the "Lease Term Start Date" as the date that "is the date upon
+which your utility approves interconnection of the System." The Lease Term Start Date is therefore on or before 12
+May 2023, and the In-Service Date to which Lease § 11(b) is keyed — a term the Lease uses but nowhere defines —
+falls between 12 and 15 May 2023 (E7, E14).
 
-¶21. Under the Lease's Monthly Payment schedule, Claimant's first-year (Yr1) Monthly Payment was $88.02 (E5).
+¶21. Under the Lease's Monthly Payment schedule, Claimant's first-year (Yr1) Monthly Payment was $88.02 (E5). In
+the same communication of 15 May 2023, SunPower stated that "your payments will be due on the first day of the
+month beginning the month after your system is interconnected" (E14). Claimant's first Monthly Payment accordingly
+fell due on 1 June 2023.
 
 ¶22. Claimant's second-year (Yr2) Monthly Payment increased to $90.57 (E5).
 
@@ -162,11 +179,17 @@ and the System was energized in or about May 2023 (E7).
 
 ¶24. Claimant's current, fourth-year (Yr4) Monthly Payment is $95.90 (E5).
 
-¶25. As of this Demand, Claimant has made approximately 41 to 42 Monthly Payments, totaling approximately
-$3,740.98 to $3,836.88, against a disclosed total Lease price of $28,094.36 — the range depending on whether the
-first payment year runs from the April 2023 interconnection approval, which is the date Lease § 2 uses to define
-the Lease Term Start Date (42 payments, ≈$3,836.88), or from the May 2023 energization (41 payments, ≈$3,740.98);
-in either case an estimate pending the full payment ledger, E5, and superseded by it.
+¶25. As of this Demand, Claimant has made approximately `[COUNT]` Monthly Payments, totaling approximately
+$`[TOTAL]`, against a disclosed total Lease price of $28,094.36 — which is also the total installed cost SAVKAT
+certified to Eversource for the System (¶ 18, E13). The payment years run from the 1 June 2023 first payment due date
+(¶ 21, E14). The figure is an estimate pending the full payment ledger, E5, and is superseded by it.
+
+> **Drafting note — delete before filing.** Fill `[COUNT]` and `[TOTAL]` from `06-DAMAGES-SCHEDULE.md` D1 on the
+> filing day: **40 / $3,645.08** through the 1 Sep 2026 payment, **41 / $3,740.98** on or after 1 Oct 2026, **42 /
+> $3,836.88** on or after 1 Nov 2026, each less $95.90 if E5 shows the first debit ran in July rather than June 2023.
+> This paragraph previously pleaded a "41 to 42 payments" range turning on an April-vs-May interconnection date;
+> **that range is withdrawn as contradicted by E14** and must not be reinstated. The same figure appears in the
+> prayer for relief, item 3, and in `02` § 3 — update all three together.
 
 ¶26. A UCC-1 financing statement or fixture filing has been recorded against the Property in connection with the
 Lease (E2).
@@ -175,7 +198,14 @@ Lease (E2).
 file any UCC-1 financing statement or fixture filing" confirming its interest in the System.
 
 ¶28. On information and belief, the filing described in ¶26 is not limited to the System as SunPower's personal
-property, but purports to encumber the Property itself (E2).
+property, but purports to encumber the Property itself (E2). That the filing was intended to reach the land records
+rather than a personal-property index is established by the seller's own contemporaneous certification: on the
+Eversource Third Party Ownership Customer Disclosure executed 23 February 2023, SAVKAT answered "Yes" to the
+question "Will a filing be recorded in the land records of the customer's municipality pursuant to the contract for
+this system?" (E13). That certification was made to the Connecticut Public Utilities Regulatory Authority on a form
+stating that factual misrepresentations on it "may be grounds for enforcement action by the Connecticut Public
+Utilities Regulatory Authority up to and including permanent removal from participation in Residential Renewable
+Energy Solutions."
 
 ¶29. Claimant sought to refinance the mortgage on the Property, and the refinance required subordination or
 estoppel documentation from Lessor confirming that Lessor's interest is subordinate to Claimant's lender's
@@ -298,8 +328,10 @@ buyer and seller before delivery of the goods. That exclusion does not apply her
 First, the transaction was conducted by live videoconference and DocuSign electronic signature — neither of
 which is "mail" nor "telephone." Second, there was substantial other contact between the parties before delivery
 of the System: Lease § 8(a)(i)'s condition precedent required "a thorough physical inspection of the Property"
-(¶19), and an installation crew was present at the Property, both before the April 2023 interconnection (¶¶18–20)
-— all well before delivery of the goods within the meaning of the statute.
+(¶19), and an installation crew was present at the Property, both before the May 2023 interconnection (¶¶18–20).
+SAVKAT also filed an interconnection application for the System with Eversource on 23 February 2023, carrying the
+System's final equipment schedule and a costed labour figure (¶18, E13), which cannot have been prepared without
+prior physical contact with the Property — all well before delivery of the goods within the meaning of the statute.
 
 **9. Meeting the real-property exclusion.** Section 42-134a(a)(5) excludes a transaction "pertaining to the sale
 or rental of real property," and Claimant addresses it directly rather than leaving it to be raised. Claimant
@@ -363,8 +395,8 @@ date.
 to the Lease echoes in SunPower's own words:
 
 - Conn. Gen. Stat. § 42-138(a) requires that "the seller shall tender to the buyer any payments made by the
-  buyer" under the Lease — restitution of D1, approximately $3,740.98 to $3,836.88 for the 41 to 42 payments made
-  to date (¶25), subject to the full ledger at E5.
+  buyer" under the Lease — restitution of D1, approximately $`[TOTAL]` for the `[COUNT]` payments made to date
+  (¶25), subject to the full ledger at E5.
 - Conn. Gen. Stat. § 42-139(c) provides that, following a timely cancellation, "the seller is entitled to no
   compensation" for services rendered before cancellation — including installation, monitoring, and any other
   service performed under the Lease.
@@ -400,6 +432,18 @@ Property (¶¶26–28, E2) is not confined to the System as SunPower's personal 
 purports to reach the Real Property itself — the very thing § 5(c)(xiv) and Exhibit E forbid. The breach is the
 scope of what was filed, not the act of filing.
 
+**The scope was not accidental.** Five weeks after the Lease was executed, on the Eversource Third Party Ownership
+Customer Disclosure of 23 February 2023, the seller's agent certified to a state regulator that a filing **would be
+recorded in the land records of Claimant's municipality** pursuant to this very contract (¶ 28, E13). SunPower
+therefore cannot characterise a land-records filing as an administrative misdirection of a filing meant for the
+personal-property index: the land records were the stated destination before anything was recorded. What SunPower
+represented to Claimant in § 5(c)(xiv) and Exhibit E — that it has no lien on the Real Property and will not impede
+its sale — is the opposite of what its agent represented to the regulator about where the filing would go.
+
+**This does not concede anything to Count 1.** The certification speaks to where SunPower chose to record, not to
+the character of the System or of the transaction. Claimant's position throughout remains that the System is
+personal property and not a fixture, exactly as Lease § 10 provides.
+
 **This Count is consistent with Count 1, and deliberately so.** The System is personal property and not a fixture,
 exactly as Lease § 10 says and exactly as Count 1 pleads. Claimant does not contend that the transaction encumbered
 land or pertained to a sale or rental of real property. Claimant's complaint in this Count is that SunPower's
@@ -429,6 +473,16 @@ Limited Warranty at no cost. Because the warrantor, SunPower Corporation, System
 (Section II above), this breach is asserted against Lessor directly, through Lessor's own obligation under §
 5(c)(xiii) to ensure that the repair promise is honored.
 
+**The allocation of this responsibility is documented on the seller's side.** On the Eversource Third Party
+Ownership Customer Disclosure of 23 February 2023, SAVKAT assigned "System Operations and Maintenance" to the
+"Primary Installer/Owner" and to Claimant not at all (¶ 19, E13), and certified "No" in answer to the question
+"Must the customer continue to make payments in the event of an extended system shutdown?" Those representations
+confirm that operations, maintenance and repair were understood by the seller to be entirely its own burden, and
+that the risk of an extended outage was not Claimant's to bear. Claimant has nonetheless continued to make every
+Monthly Payment throughout, under protest and without prejudice to any claim or defence in this proceeding, and
+**asserts no right of set-off or abatement in this Count** — the representations are pleaded as evidence of the scope
+of Lessor's obligation, not as a justification for withholding payment.
+
 Claimant seeks damages under D3, the amounts paid out of pocket to those outside providers (E8).
 
 ## COUNT 5 — BREACH OF THE PRODUCTION GUARANTEE (EXHIBIT A § 2(c), TABLE A) — GUARANTEE PERIOD 1 ONLY
@@ -447,14 +501,27 @@ Count is an order that the Guarantee Period 1 reconciliation be performed and th
 data produced.
 
 **The money claim is expressly contingent, and may come to nothing.** Claimant states plainly what his own
-evidence currently indicates: estimated two-year production for this System is approximately 11,642 kWh, against a
-Guarantee Period 1 threshold of 10,465 kWh. If the actual metered figure is at or above 10,465 kWh there is no
-shortfall, no Payment Amount is owed, and the monetary limb of this Count falls away entirely. Claimant does not
-allege that a shortfall occurred; he alleges that he has never been given the data needed to know. The Payment
-Amount claimed under D4 is therefore pleaded **conditionally upon the actual metered production shown by the PVS6
-monitoring export (E6)**, and is $0 unless that export shows Actual Biennial kWh below 10,465 kWh. Exhibit A
-separately provides a **$5.00** Minimum Payment Amount threshold, below which no computed Payment Amount is
+evidence currently indicates. There are two estimates of this System's output, both from the seller's side, and
+neither has been tested against metered data. The Lease's cover page, dated 16 January 2023, estimates year-one
+production of 5,821 kWh, implying approximately 11,642 kWh over two years. The Eversource Third Party Ownership
+Customer Disclosure, executed 23 February 2023, certifies "Estimated Year One Production (kWh): 5516" — implying
+approximately 11,032 kWh over two years (E13). Against a Guarantee Period 1 threshold of 10,465 kWh, **both
+estimates exceed the guarantee**, the second by only about 567 kWh, or roughly five per cent of two-year output, on a
+System the same disclosure certifies will lose 13% of its production to shading. If the actual metered figure is at
+or above 10,465 kWh there is no shortfall, no Payment Amount is owed, and the monetary limb of this Count falls away
+entirely. Claimant does not allege that a shortfall occurred; he alleges that he has never been given the data needed
+to know. The Payment Amount claimed under D4 is therefore pleaded **conditionally upon the actual metered production
+shown by the monitoring export (E6)**, and is $0 unless that export shows Actual Biennial kWh below 10,465 kWh.
+Exhibit A separately provides a **$5.00** Minimum Payment Amount threshold, below which no computed Payment Amount is
 separately payable.
+
+**The divergence between the two estimates is itself within the scope of this Count.** The lower of them was
+certified to the Connecticut Public Utilities Regulatory Authority five weeks after the higher one was presented to
+Claimant, over the installer's signature, on a form warning that factual misrepresentations "may be grounds for
+enforcement action" up to "permanent removal from participation." Claimant is entitled under Exhibit A § 2(c) to the
+production data and the reconciliation, and pleads the divergence as a further reason the reconciliation cannot be
+dispensed with: the guarantee threshold in Table A was derived from the higher estimate, which the seller's own agent
+revised downward before the System was ever energized.
 
 Claimant anticipates that Lessor may invoke Exhibit A's Communication Requirements — the obligation to maintain
 an internet-connected Monitoring System — as a defense to any shortfall in Actual Biennial kWh. Exhibit A § 2(c)
@@ -563,9 +630,9 @@ Claimant pleads this Count prospectively and will seek leave to supplement upon 
 the arbitrator to declare a default before the cure period has run.
 
 Claimant acknowledges that Lease § 11(a)(i) already opens the purchase option unconditionally on the fifth
-anniversary of the Lease Term Start Date, in or about April 2028. This Count does not claim that the purchase
-option is otherwise unavailable to Claimant; its function is narrower — to accelerate that option from April 2028
-to the date ninety days after service of the § 16(b) notice, and to do so on terms (no recapture addition, a
+anniversary of the Lease Term Start Date, in or about May 2028 (¶20, E14). This Count does not claim that the
+purchase option is otherwise unavailable to Claimant; its function is narrower — to accelerate that option from May
+2028 to the date ninety days after service of the § 16(b) notice, and to do so on terms (no recapture addition, a
 mutually agreed appraiser) that reflect Lessor's default rather than Claimant's ordinary exercise of the option.
 
 ---
@@ -639,8 +706,10 @@ Claimant respectfully requests that the arbitrator:
    further Monthly Payment or other sum is owed under it, and that no cancellation is required for that relief
    (Count 1).
 2. In the alternative, declare Claimant's cancellation of the Lease timely and effective (Count 2).
-3. Order restitution to Claimant of all payments made under the Lease, D1 (approximately $3,740.98 to $3,836.88
-   for the 41 to 42 payments to date, subject to the full ledger at E5) (Counts 1 and 2).
+3. Order restitution to Claimant of all payments made under the Lease, D1 (approximately $`[TOTAL]` for the
+   `[COUNT]` payments to date, subject to the full ledger at E5) (Counts 1 and 2). **Fill from
+   `06-DAMAGES-SCHEDULE.md` D1 on the filing day — see the drafting note at ¶ 25; the same pair of figures appears
+   at ¶ 25, in Count 2 item 4, and in `02` § 3.**
 4. Declare that Claimant owes no compensation for services rendered under the Lease before cancellation (Count
    2).
 5. Declare that, if SunPower fails to take possession of the System within twenty days after cancellation — the

@@ -1,0 +1,423 @@
+                               Interconnection Application
+Customer Information:
+Name: ANSHUMAN RUDRA
+Company:
+Address: 498 PLAINVILLE AVE
+City/State/Zip Code: FARMINGTON, CT 06032
+E-mail Address: anshuman.rudra@gmail.com
+Phone: (860) 515-4058
+
+Customer Billing Account Number: 51029100187
+Meter Number 867382482
+
+Applicant information:
+Company: SAVKAT INC
+Name: James Ferrughelli
+Address: 71 Dolphin rd
+City/State/Zip Code: Bristol, CT 06010
+E-mail Address: ri@savkat.com
+Phone: 8008606932
+
+Contractor/Installer:
+Company: SAVKAT INC
+Name: James Ferrughelli
+Address: 71 Dolphin rd
+City/State/Zip Code: Bristol, CT 06010
+E-mail Address: ri@savkat.com
+Phone: 8008606932
+
+System Owner/Operator:
+Company: Sunpower
+Name: Sunpower Sunpower
+Address: 8900 Amberglen Boulevard
+City/State/Zip Code: Austin, TX 78729
+E-Mail Address: ID.Incentives@sunpowercorp.com
+Phone: 8007867693
+
+Are you in the process of performing a service upgrade?: No
+
+Estimated In Service Date:
+
+
+
+
+Generator Info:
+PV System Nameplate AC Rating: 5.4
+PV System Equipment: Inverter: 14 x Enphase Energy 0.4 kW (Model IQ7HS-66-ACM-US (240V) [SI1])
+
+Battery Backup: No
+Battery KW Rating:
+
+System Nameplate AC Rating (non PV):
+Inverter Manufacturer (non PV):
+
+Generator Type: Inverter
+Technology Type: PV
+Fuel Type: Solar
+Phases: Single Phase
+
+
+Interconnection Customer Signature
+I have read the Guidelines for Generator Interconnection – Fast Track and Study Processes or Guidelines
+for Interconnection of Residential Single Phase Certified Inverter Based Generating Facilities of 25 kW
+(ac) or Less and agree to abide by all terms and conditions as provided for in these Guidelines. I
+understand that my Interconnection Request may be rejected by the Interconnecting EDC or there may
+be a delay in processing my Interconnection Request if the Interconnecting EDC determines that I have
+not complied with these Guidelines.
+
+I hereby certify that, to the best of my knowledge, all the information provided in this Interconnection
+Request is true and correct.
+
+ACKNOWLEDGED AND AGREED TO BY: CUSTOMER-GENERATOR
+
+
+ANSHUMAN RUDRA
+Print Name
+
+{FMHT8UZMYXP4}
+Signature
+
+2/23/2023
+Date
+
+
+
+
+Eversource Energy
+Attention: Eversource CT DG
+107 Selden Street
+Berlin, CT-06037
+                      Residential Renewable Energy Solutions Application
+                               Customer of Record Information:
+Name                          ANSHUMAN RUDRA
+Address                       498 PLAINVILLE AVE, FARMINGTON CT 06032
+City/State/Zip Code           FARMINGTON/
+                              CT/
+                              06032
+E-mail Address                anshuman.rudra@gmail.com
+Phone                         (860) 515-4058
+Billing Account Number        51029100187
+
+                                Contractor/Installer Information:
+Company                       SAVKAT INC
+Name                          James Ferrughelli
+Address                       71 Dolphin rd, Bristol CT 06010
+City/State/Zip Code           Bristol/
+                              CT/
+                              06010
+E-mail Address                ri@savkat.com
+Phone                         8008606932
+
+                                         System Owner:
+Company                       Sunpower
+Name                          Sunpower Sunpower
+Address                       8900 Amberglen Boulevard, Austin TX 78729
+City/State/Zip Code           Austin/
+                              TX/
+                              78729
+E-mail Address                ID.Incentives@sunpowercorp.com
+Phone                         8007867693
+
+                                       Tariff Information:
+Tariff Type                                        Netting
+Applying for Income Eligible Tariff Adder ?:       None
+Date Energy Assessment
+Completed or Scheduled:                            4/20/2023
+Energy Assessment Alternative:
+System Ownership:                                  Third-party owned
+
+                                 Qualified System Information
+System Nameplate AC Rating:                      5.4
+System Equipment:                                Inverter: 14 x Enphase Energy 0.4 kW (Model
+                                                 IQ7HS-66-ACM-US (240V) [SI1])
+
+Battery Backup:                                  No
+Battery kW Rating:
+Expected Annual System Production:               5516
+
+                                         System Costs
+Non-battery Hardware Costs:                     $15094.36
+Battery Hardware Costs:                         $0.00
+Labor Costs:                                    $12000.00
+Soft Costs:                                     $1000.00
+Total Installed Costs:                          $28,094.36
+ Is the System Sized to Accommodate future           No
+ Heat Pumps or Electric Vehicles? :
+ Heat Pump Type
+ EV Count
+ Has the system been qualified for any other         No
+ incentive program?
+  If so, which one(s)?
+ Are there existing PV systems on the parcel?        No
+ Is the proposed system replacing an inactive        No
+ or decommissioned system?
+ Are all system components new?                      Yes
+
+System Owner and Customer of Record Customer Signature
+          I have read the Residential Renewable Energy Solutions Program Manual and the Program Terms and Conditions and
+agree to abide by all requirements and obligations as provided for therein. I hereby attest that I have reviewed the statements
+and certifications provided within this Application and certify that such statements and certifications as applicable are true and
+accurate to the best of my knowledge.
+
+ACKNOWLEDGED AND AGREED TO BY: CUSTOMER OF RECORD ACKNOWLEDGED
+
+Print Name: ANSHUMAN RUDRA
+
+Signature___________________
+        2/23/2023
+Date __________
+
+ACKNOWLEDGED AND AGREED TO BY: SYSTEM OWNER
+
+Print Name: Sunpower Sunpower
+
+Signature___________________
+
+      2/23/2023
+Date _______________________
+                       RESIDENTIAL RENEWABLE ENERGY SOLUTIONS
+  RENEWABLE ENERGY CERTIFICATE ASSIGNMENT AND AGGREGATION FORM
+                    AGREEMENT (“AGREEMENT”)
+
+         I hereby certify, by signing this Agreement, that I am the owner (“Owner”) of the Qualified
+System to be installed and located at 498 PLAINVILLE AVE, FARMINGTON CT
+06032, which intends to participate in the Connecticut Residential Renewable Energy Solutions
+Program (“Program”) pursuant to the Residential Solar Tariff approved by the Connecticut Public
+Utilities Regulatory Authority (“PURA”), as may be amended from time to time; and all applicable
+laws.
+
+        I understand and agree that, by signing this Agreement and in consideration of my participation
+in the Program that Eversource/United Illuminating, shall have all right, title and interest in, and to, my
+Qualified System’s generation and environmental attributes, including, without limitation, all
+renewable energy credits and certificates (collectively, “Certificates”) for so long as I participate in the
+Program with the Qualified System (the “Term”).
+
+         Eversource/UI, its affiliates, and any agents, employees, and representatives thereof
+(collectively “Authorized Representatives”), are authorized to include and represent my Qualified
+System in the New England Power Pool Generation Information System (“NEPOOL GIS”) and/or
+any U.S. state or domestic or foreign registry for environmental attributes (collectively, “Other
+Registries”), and to receive and use all Certificates created with respect to energy generated by the
+Qualified System during the Term. I approve Eversource/UI’s inclusion of the Qualified System as
+part of an aggregation in any state and agree that Eversource/UI will be the Authorized Agent for the
+Aggregation. In addition, Eversource/UI or its Authorized Representatives, as applicable, may need
+my assistance to: (a) monitor and record the electrical energy output of the Qualified System, and
+verify and provide meter data directly to the NEPOOL GIS and/or Other Registries, in accordance
+with applicable NEPOOL GIS operating rules; (b) perform any and all acts necessary to ensure
+Eversource/UI’s ability to participate in NEPOOL GIS and/or Other Registries and/or otherwise
+receive and use the Certificates; and (c) obtain, execute, and/or deliver any documentation as
+appropriate to such registries in order to qualify the Qualified Project for the purpose of including
+and representing the Qualified Project in NEPOOL GIS and/or Other Registries.
+
+         Nothing herein shall be construed to limit the rights of, or impose additional obligations upon,
+Eversource/UI with respect to the generation and environmental attributes of the Qualified Project as
+set forth in the Tariff, its governing Orders, and applicable laws.
+
+         I will take all commercially reasonable means necessary, and pay any costs or fees associated
+with such actions, to cooperate in a timely manner with Eversource or its Authorized Representatives
+to register the Qualified Project in NEPOOL GIS and/or Other Registries for environmental attributes
+in order to qualify for any program(s) and/or otherwise receive and use the Certificates.
+
+        I will comply with all rules related to the creation, tracking, recording, and transfer of all
+generation and environmental attributes transferred to Eversource or its Authorized Representatives
+pursuant to the Program Tariff, its governing regulations, and applicable laws. This includes but is
+not limited to my responsibility to: (a) notify Eversource/UI or its Authorized Representatives in
+writing in the event of a change in the Qualified Project’s eligibility status under the Program Tariff,
+as may be amended from time to time, as well as its governing regulations, the RPS Program, or any
+other U.S. states’ program(s), NEPOOL GIS, and/or Other Registries for which the Qualified Project
+is qualified, within 30 days of when such changes were implemented and describe the changes in
+sufficient detail to enable Eversource to determine if a change in eligibility is warranted; and (b)
+comply with the notification requirements of NEPOOL GIS and/or Other Registries for which the
+Qualified System is registered or qualified.
+
+         This Agreement is binding upon the Owner, its successors and assigns, for the Term. I hereby
+certify that I am duly authorized to execute this agreement as the Owner.
+
+_____________________________________
+Signature of Qualified Project Owner
+
+       Sunpower
+By: __________________________________
+(Print Name)
+
+         System owner
+Title: ________________________________
+
+Date: 2/23/23
+     ________________________________
+                             Payment Beneficiary Form
+                       Residential Renewable Energy Solutions
+
+      Eversource/United Illuminating will make Residential Renewable Energy Solutions
+payments to the Payment Beneficiary indicated below. This form must be completed as part of
+the initial Residential Renewable Energy Solutions application process. For the Buy-All Tariff, a
+Payment Beneficiary, other than a Customer of Record, can be designated to receive a
+percentage of the total tariff compensation. Any compensation not assigned to a third party will
+result in Monetary On-Bill Credits to the Customer of Record. The Netting Tariff Payment
+Beneficiary, which may be the Customer of Record, can be designated to receive the Renewable
+Energy Certificate (REC) Incentive Payment paid out once every quarter.
+
+Tariff Type                                                 Netting
+Is the Tariff Beneficiary an Individual or a Corporate      Organization
+Entity?
+Payment Beneficiary First Name (or Corporate Entity         Sunpower
+Name)
+Payment Beneficiary Last Name
+Payment Address                                             8900 Amberglen Boulevard
+
+ Payment City/State/Zip                                     Austin,TX,78729
+ Beneficiary Phone                                          8007867693
+ Beneficiary Email                                          ID.Incentives@sunpowercorp.com
+ Has a W-9 Form for this Payment Beneficiary been
+ provided previously
+ Percent of Buy-All Tariff to be provided as Payment to
+ Payment Beneficiary (for Buy-All Tariff projects only)
+
+
+
+             System Owner                                   Customer of Record
+ Name                                           Name
+                    Sunpower                                  ANSHUMAN RUDRA
+
+
+ Signature                                      Signature
+ Date                2/23/23                    Date            2/23/23
+                 Residential Renewable Energy Solutions
+                Third Party Ownership Customer Disclosure
+
+             CUSTOMER CONTACT                                           INSTALLER CONTACT
+  Customer        ANSHUMAN RUDRA                                   Company     SAVKAT INC
+    Name          ANSHUMAN RUDRA                                     Name      James Ferrughelli
+Site Address:     498 PLAINVILLE AVE, FARMINGTON CT 06032           Address    71 Dolphin rd, Bristol CT 06010
+   Phone:         (860) 515-4058                                     Phone     8008606932
+    Email:        anshuman.rudra@gmail.com                           E-mail    ri@savkat.com
+
+
+    SYSTEM OWNER CONTACT                                     PRIMARY SERVICE CONTACT
+  Company         Sunpower                                   Company           SAVKAT INC
+    Name          Sunpower Sunpower                            Name            James Ferrughelli
+   Address        8900 Amberglen Boulevard, Austin TX         Address          71 Dolphin rd, Bristol CT 06010
+                  78729
+   E-mail         ID.Incentives@sunpowercorp.com          E-mail Address       ri@savkat.com
+   Phone          8007867693                                 Phone             8008606932
+
+CONTRACT, COST, AND ESTIMATED PERFORMANCE INFORMATION
+
+Incentive Rates: Buy-All: $0.2943/kWh           Netting: Retail rate plus $0.0318/kWh (Eversource)
+
+Which Structure Applying For?         Netting
+
+ System Size (kW DC):      5.46                           System Size (kW AC):       5.4
+
+Contract Effective Date:                                     Contract End Date:       January 16, 2043
+                             January 16, 2023
+       Option to Renew     ☐Yes
+                           X    or ☐No                            Option to Buyout   ☐Yes or ☐No
+                                                                                     X
+
+         Starting Rate PPA/Lease Rate (Select one)       $/kWh                       $ 88.02/month
+
+   Lease down payment and/or pre-payment amount          $ 0.00
+
+                    Contract Rate Increase Frequency     ☐ Monthly or ☐
+                                                                      X Annually or ☐ N/A
+
+                            Amount of Rate Increase
+                                                                2.9%
+      Has a shading analysis been completed for the
+                                         property?       ☐Yes or ☐No
+                                                         X
+
+  How much production is expected to be lost due to
+                                    shading? (%):                 13%
+
+                Estimated Year One Production (kWh):     5516
+
+                   Estimated Year One Payments ($):      $
+                                                                  88.02 x 12
+     Estimated Year One Customer Net Savings ($):        $         160 x 12
+          222
+          220
+         174
+          251
+          243
+         199
+          169
+         405
+         463
+         115
+           148
+         232
+           222
+           160
+         29598
+           332
+         304
+             .243
+               .241
+              .247
+            .304.291
+              .314
+                .241
+             .240
+               .315
+             .290.237
+                .240
+                 .243
+               .300
+                .238
+
+
+
+
+1/3/23
+     Copy of Customer-Contractor Contract/Agreement***
+
+                                                                         PRIMARY
+     OWNERSHIP OF INCENTIVES                                                                                  CUSTOMER
+                                                                     INSTALLER/OWNER
+
+     Owner of Incentive Payments                                                 X
+
+     Owner of Federal Investment Tax Credit                                      X
+
+
+*Homeowners have certain rights and protections under the Connecticut Home Improvement Contractor Law. To learn more about
+the law visit and home improvement contractor licensing visit https://portal.ct.gov/dcp/Trade-Practices-Division/Home-Improvement-
+for-Consumers.
+
+**Complete remaining empty fields to assign responsibility.
+
+***The Utility will request the customer-contractor contract/agreement with the first project application received from
+each installer annually.
+
+NOTE: A Renewable Energy Certificate (REC) represents the Environmental Attributes associated with one megawatt-hour of
+renewable energy as defined by Connecticut law. RECs generated by the facilities participating in Residential Renewable Energy
+Solutions are transferred to the utility company in exchange for the incentive payments made to the facility owner under the program.
+Therefore, while you cannot claim that you are using the renewable power generated by the facility, your lease of a renewable energy
+system does support renewable development in Connecticut and increase the amount of solar energy consumed by all electric
+ratepayers in the State.
+
+Program Fee Notice: All applicants to Residential Renewable Energy Solutions are required to pay a $329 application fees to support
+the administrative costs of the program. Additionally, customers will be charged fees if and when they make changes to the payment
+beneficiary information. You may or may not be responsible for these fees depending on your contract with your Installer.
+
+I,       ANSHUMAN RUDRA                 , hereby confirm that I have received and understand the above information.
+
+I further confirm that I have had a chance to ask questions of my provider and have received sufficient answers, if
+applicable.
+
+Customer Signature:
+          2/23/23
+Date:
+
+
+          James Ferrughelli
+I,                                   , hereby confirm that the information provided on this form is true and accurate and
+that any factual misrepresentations on this Customer Disclosure Form may be grounds for enforcement action by the
+Connecticut Public Utilities Regulatory Authority up to and including permanent removal from participation in Residential
+Renewable Energy Solutions.
+
+Installer Representative Signature:
+
+Date: 2/23/23
+

@@ -1,0 +1,89 @@
+                      Residential Renewable Energy Solutions Application
+                               Customer of Record Information:
+Name                          ANSHUMAN RUDRA
+Address                       498 PLAINVILLE AVE, FARMINGTON CT 06032
+City/State/Zip Code           FARMINGTON/
+                              CT/
+                              06032
+E-mail Address                anshuman.rudra@gmail.com
+Phone                         (860) 515-4058
+Billing Account Number        51029100187
+
+                                Contractor/Installer Information:
+Company                       SAVKAT INC
+Name                          James Ferrughelli
+Address                       71 Dolphin rd, Bristol CT 06010
+City/State/Zip Code           Bristol/
+                              CT/
+                              06010
+E-mail Address                ri@savkat.com
+Phone                         8008606932
+
+                                         System Owner:
+Company                       Sunpower
+Name                          Sunpower Sunpower
+Address                       8900 Amberglen Boulevard, Austin TX 78729
+City/State/Zip Code           Austin/
+                              TX/
+                              78729
+E-mail Address                ID.Incentives@sunpowercorp.com
+Phone                         8007867693
+
+                                       Tariff Information:
+Tariff Type                                        Netting
+Applying for Income Eligible Tariff Adder ?:       None
+Date Energy Assessment
+Completed or Scheduled:                            4/20/2023
+Energy Assessment Alternative:
+System Ownership:                                  Third-party owned
+
+                                 Qualified System Information
+System Nameplate AC Rating:                      5.4
+System Equipment:                                Inverter: 14 x Enphase Energy 0.4 kW (Model
+                                                 IQ7HS-66-ACM-US (240V) [SI1])
+
+Battery Backup:                                  No
+Battery kW Rating:
+Expected Annual System Production:               5516
+
+                                         System Costs
+Non-battery Hardware Costs:                     $15094.36
+Battery Hardware Costs:                         $0.00
+Labor Costs:                                    $12000.00
+Soft Costs:                                     $1000.00
+Total Installed Costs:                          $28,094.36
+ Is the System Sized to Accommodate future           Yes
+ Heat Pumps or Electric Vehicles? :
+ Heat Pump Type
+ EV Count                                            1
+ Has the system been qualified for any other         No
+ incentive program?
+  If so, which one(s)?
+ Are there existing PV systems on the parcel?        No
+ Is the proposed system replacing an inactive        No
+ or decommissioned system?
+ Are all system components new?                      Yes
+
+System Owner and Customer of Record Customer Signature
+          I have read the Residential Renewable Energy Solutions Program Manual and the Program Terms and Conditions and
+agree to abide by all requirements and obligations as provided for therein. I hereby attest that I have reviewed the statements
+and certifications provided within this Application and certify that such statements and certifications as applicable are true and
+accurate to the best of my knowledge.
+
+ACKNOWLEDGED AND AGREED TO BY: CUSTOMER OF RECORD ACKNOWLEDGED
+
+Print Name: ANSHUMAN RUDRA
+
+Signature___________________
+      3/7/23
+Date __________
+
+ACKNOWLEDGED AND AGREED TO BY: SYSTEM OWNER
+
+Print Name: Sunpower Sunpower
+
+Signature___________________
+
+Date 3/7/23
+    _______________________
+

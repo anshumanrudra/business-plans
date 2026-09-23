@@ -35,8 +35,8 @@ deadline in this table.
 | § 42-138(a) refund period | § 42-138(a), § 42-137(b) | **The same § 42-137(b) cancellation date** — § 42-138(a) runs "within ten business days after a home solicitation sale has been cancelled," not from receipt | 10 business days | `[DATE — 10 business days from the § 42-137(b) cancellation date]` | `[not yet started / running / expired]` |
 | JAMS Rule 13 exchange | JAMS Rule 13 | Receipt of claims (i.e., SunPower's receipt of `04`) | 14 calendar days | `[DATE — 14 calendar days from receipt of 04]` | `[not yet started / running / expired]` |
 | CUTPA window | § 42-110g(f) | Rolling, 3 years from each act | 3 years | **Three years before the actual filing date of `04`** — compute it on the filing day; it is not a constant | `[boundary date once 04 is filed]` — acts before it barred, acts on or after it live |
-| §11(a)(i) purchase option | Lease §11(a)(i) | Lease Term Start Date (interconnection, ~April 2023 — E7) | 5 years | **~April 2028** (fifth anniversary of the Lease Term Start Date) | pending |
-| §11(b) recapture inclusion | Lease §11(b) | In-Service Date (~May 2023 — E7) | 5 years | **~May 2028** (fifth anniversary of the In-Service Date) | **binary — included before that date, excluded after. No step-down.** |
+| §11(a)(i) purchase option | Lease §11(a)(i) | Lease Term Start Date (interconnection approval, **on or before 2023-05-12** — E14) | 5 years | **on or before 2028-05-12** (fifth anniversary of the Lease Term Start Date) | documented as to the month; exact day pending the residual E7 request |
+| §11(b) recapture inclusion | Lease §11(b) | In-Service Date (**2023-05-12 to 2023-05-15** — E14) | 5 years | **2028-05-12 to 2028-05-15** (fifth anniversary of the In-Service Date) | **binary — included before that date, excluded after. No step-down.** |
 
 Notes:
 - The §16(b) and § 42-139(a)/§ 42-138(a) clocks do not start until `02` and `03` are actually served — see Phase
@@ -54,14 +54,18 @@ Notes:
 - **§11(b) is binary, not graduated.** Its entire text on the point is: "If the System is purchased prior to the
   fifth (5th) anniversary of the In-Service Date, the Fair Market Value will include the recapture of any federal
   tax credits." There is no schedule, no percentage and no proration in the Lease. The whole recapture amount is
-  included in FMV for any purchase before that anniversary and **disappears entirely on it** — on the recollected
-  In-Service Date, in or about May 2028. Waiting is therefore not incrementally cheaper; there is one date on which
-  the cost goes from all to nothing.
-- The §11(a)(i) option and the §11(b) recapture condition are keyed to **different dates** — the Lease Term Start
-  Date (interconnection, ~April 2023) and the In-Service Date (~May 2023) respectively — and so resolve about a
-  month apart, not on the same day. Both dates rest on recollection until E7 is in writing, and the gap between
-  them is a window in which the option is open and the recapture is still included. Confirm both from E7 before
-  relying on either.
+  included in FMV for any purchase before that anniversary and **disappears entirely on it** — on the documented
+  In-Service Date, between 12 and 15 May 2028. Waiting is therefore not incrementally cheaper; there is one date on
+  which the cost goes from all to nothing. Note that "In-Service Date" is **used but nowhere defined in the Lease**,
+  which is why E14's energization evidence carries it.
+- **Revised 2026-09-23 — the two §11 clocks now converge.** This note previously recorded that the §11(a)(i) option
+  (keyed to the Lease Term Start Date, then modelled as ~April 2023) and the §11(b) recapture condition (keyed to the
+  In-Service Date, ~May 2023) would "resolve about a month apart," leaving a window in which the option was open and
+  the recapture still included. **E14 closes that window to days.** Permission to operate came on or before
+  2023-05-12 and the System was energized 2023-05-12 to 2023-05-15, so both anniversaries fall in the same week of
+  May 2028. Plan on a single decision point, not a month-long window. The residual E7 request (the exact Eversource
+  approval date) is what would reopen a gap, and only if approval turns out to have issued materially earlier than
+  the 12 May relay.
 - Count 7 does not accept that §11(b) reaches a purchase under §11(a)(iv) at all — §11(b) by its terms prices only
   (i), (ii) and (iii). The row above records the clock as the Lease states it for the options it does cover.
 
@@ -98,4 +102,30 @@ unpleaded everywhere except this checklist, `10-SECTION-1c-DEFENCE.md`, and the 
    considered and decided, not to reopen it without a reason to.
 2. **Whether SAVKAT stays named.** SAVKAT, Inc. (the soliciting dealer) is currently named defensively only; it
    is not a party to the §19 arbitration agreement and any damages claim against it is time-barred (see
-   CONTEXT.md Parties). Revisit only if new facts change either conclusion.
+   CONTEXT.md Parties). Revisit only if new facts change either conclusion. **Note, 2026-09-23:** E13 makes SAVKAT's
+   conduct considerably better documented than it was — every certification in the PURA packet is over James
+   Ferrughelli's signature under an express misrepresentation penalty. That does **not** change either conclusion
+   above (no arbitration agreement, damages time-barred), so the gate stays as decided; but if SAVKAT's conduct ever
+   becomes independently actionable, this is the evidence set that would carry it.
+
+3. **Whether the Connecticut Home Improvement Contractor Law opens anything — OPEN, NOT RESEARCHED.** Added
+   2026-09-23. On the Eversource Third Party Ownership Customer Disclosure of 2023-02-23, SAVKAT certified **"Yes"**
+   to "Does the system installation contract conform to the requirements of the Connecticut Home Improvement
+   Contractor Law?", and the form itself footnotes that homeowners have certain "rights and protections under the
+   Connecticut Home Improvement Contractor Law" (E13).
+
+   **What is settled:** the certification is usable now as an admission that the seller's agent treated this as a home
+   improvement contract on a residence. That helps Count 1's § 42-134a(a) elements and cuts against any attempt to
+   place the transaction outside consumer-protection statutes. Use it that way freely.
+
+   **What is not settled, and must be researched before it is pleaded:** whether the Home Improvement Act (Conn. Gen.
+   Stat. § 20-418 et seq.) independently applies to a third-party-owned solar lease; if so, whether § 20-429's
+   writing and cancellation-notice requirements were met; and whether § 20-427(c)'s per se CUTPA treatment is
+   available. **Two cautions before spending time on it.** First, a CUTPA route runs into the same limitations
+   boundary as everything else from early 2023 — the certification is dated 2023-02-23, before the 2023-09-21
+   boundary `04` Count 6 pleads to. Second, an HIA theory characterises the transaction as work on real property,
+   which is in tension with the § 42-134a(a)(5) real-property exclusion argument Count 1 must already survive; the
+   two theories may not be able to coexist in the same pleading.
+
+   **Until this gate is resolved: do not plead an HIA theory in `04` or anywhere else.** Resolution requires a
+   Connecticut-law research pass on the three questions above, added to the `07-FILING-LOGISTICS.md` § 9 list.

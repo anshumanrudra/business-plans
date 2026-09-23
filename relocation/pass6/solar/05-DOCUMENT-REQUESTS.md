@@ -2,12 +2,12 @@
 
 NOT LEGAL ADVICE — SELF-PREPARED DRAFT. Verify all research items in the spec §14 before filing.
 
-**Purpose.** Twenty numbered document requests, R1–R20, addressed to Respondent SunPower Capital, LLC (and, as
+**Purpose.** Twenty-one numbered document requests, R1–R21, addressed to Respondent SunPower Capital, LLC (and, as
 noted, to SunStrong as current servicer and SAVKAT, Inc. as soliciting dealer where relevant).
 
 **Baseline.** JAMS Streamlined Rules Rule 13 already requires the parties to cooperate in sharing all
 non-privileged documents and information — including electronically stored information — within **fourteen
-calendar days** after the claims are received. R1–R20 below are not a discovery motion; they are a statement of
+calendar days** after the claims are received. R1–R21 below are not a discovery motion; they are a statement of
 what that existing Rule 13 cooperation obligation already requires Respondent to produce, itemized so nothing is
 overlooked and so the fourteen-day clock has a fixed, unambiguous list to run against. Each request below names
 the count(s) it serves.
@@ -68,6 +68,11 @@ all filings under Lease #4593311 and any predecessor or successor filing.
 
 Produce all instructions, requests, or authorizations given to any filer, agent, or title company directing the
 recording of any instrument identified in R6, including the identity of who requested each filing and when.
+Produce in particular every document bearing on the decision to record in the **land records** of the Town of
+Farmington rather than, or in addition to, a personal-property index, including any communication with SAVKAT, Inc.
+about the answer given to the question "Will a filing be recorded in the land records of the customer's
+municipality pursuant to the contract for this system?" on the Eversource Residential Renewable Energy Solutions
+Third Party Ownership Customer Disclosure executed 23 February 2023.
 
 **Serves:** Count 3, Count 6.
 
@@ -118,11 +123,15 @@ records identifying each entity that has held or serviced the lease.
 
 **Serves:** Count 2, Count 6.
 
-### R14 — All PVS6 production data
+### R14 — All monitoring production data
 
-Produce all PVS6 monitoring system production data for the System from the Lease Term Start Date to the
-present, in its native exportable format, including any raw interval data underlying any summary or aggregate
-figure previously provided to Claimant.
+Produce all PVS6 monitoring system production data (monitoring device ID ending **3398**) for the System from the
+Lease Term Start Date to the present, in its native exportable format, including any raw interval data underlying
+any summary or aggregate figure previously provided to Claimant. The System's inverters are **fourteen Enphase
+IQ7HS-66-ACM-US microinverters** (identified in the Lease as "Type H / SPWR-A4 (IQ 7HS)(14)"), so produce in
+addition the **per-microinverter production data** reported through the gateway and the complete production history
+held in the mysunpower.com account for this System, together with all communication and connectivity logs for the
+monitoring hardware.
 
 **Serves:** Count 5.
 
@@ -180,12 +189,44 @@ its calculation, not for a schedule the Lease does not contain.
 
 **Serves:** Count 7.
 
+### R21 — The Eversource / PURA program file and the production and savings estimates behind it
+
+Added 2026-09-23 in consequence of E13.
+
+Produce SunPower's and its affiliates' complete file for the Connecticut Residential Renewable Energy Solutions
+("RES") program application and the Eversource interconnection application for the System, including: the
+Interconnection Application dated 23 February 2023; the RES Application and the revised RES Application dated 7
+March 2023; the Renewable Energy Certificate Assignment and Aggregation Agreement; the Payment Beneficiary Form; and
+the Third Party Ownership Customer Disclosure. Produce all communications between SunPower Capital, LLC (or any
+affiliate) and SAVKAT, Inc., Eversource, or the Connecticut Public Utilities Regulatory Authority concerning any of
+them.
+
+Produce in addition:
+
+1. The calculation, model, or worksheet supporting the "Estimated Year One Production" figure of **5,516 kWh**
+   certified on that disclosure, and the calculation supporting the **5,821 kWh** year-one estimate on the Lease's
+   cover page, together with every document explaining the difference between them.
+2. The calculation supporting the "Estimated Year One Customer Net Savings" figure of **$160 × 12**, including the
+   twelve months of Claimant's usage and rate data relied on, the derivation of the **$0.314/kWh** starting utility
+   rate and the **4%** escalator recorded on the disclosure, and any document showing whether the Monthly Payment was
+   deducted in arriving at the figure entered as *net* savings.
+3. The shading analysis referred to on that disclosure and the derivation of the **13%** expected shading loss.
+4. All records of Renewable Energy Certificate incentive payments received from Eversource in respect of the System,
+   by quarter, from the Lease Term Start Date to the present.
+5. Any document concerning the **$329** RES program application fee, including who paid it and whether it was
+   charged to Claimant directly or indirectly.
+
+**Serves:** Count 5 (the production estimates and the reconciliation limb); Count 7 (the REC revenue stream, for
+valuation); Count 1 (the § 42-134a(a) elements). Item 2 is sought for the § 42-134a(a) elements and for Count 5 —
+**not** in support of any misrepresentation or CUTPA damages theory, which `00-CASE-STRATEGY.md` forbids on
+limitations grounds for anything dated before 2023-09-21.
+
 ---
 
 ## Preservation demand
 
 Claimant demands that SunPower Capital, LLC, SunStrong, and SAVKAT, Inc. preserve, and not delete, overwrite,
-or allow to be purged in the ordinary course, all electronically stored information responsive to R1–R20,
+or allow to be purged in the ordinary course, all electronically stored information responsive to R1–R21,
 including without limitation:
 
 - The complete DocuSign envelope identified in R1, in native format, together with all underlying system logs

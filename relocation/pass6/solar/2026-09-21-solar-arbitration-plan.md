@@ -4,6 +4,13 @@
 > superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for
 > tracking.
 
+> **SUPERSEDED IN PART — 2026-09-23.** This plan's Global Constraints state the Lease Term Start Date as **April
+> 2023** and payments to date as **41, ≈$3,740.98**. Both are withdrawn: interconnection is **May 2023** and the
+> first payment fell due **1 June 2023** (evidence items E13/E14). See the full supersession banner in
+> `2026-09-21-solar-arbitration-design.md` and the corrected figures in `06-DAMAGES-SCHEDULE.md` D1. The
+> deliverables `00`–`10` govern over this plan wherever they disagree. The task structure and architecture below are
+> unaffected.
+
 **Goal:** Produce the nine documents Anshuman Rudra needs to self-file and prosecute a JAMS arbitration against
 SunPower Capital, LLC seeking cancellation of Lease #4593311, discharge of the UCC/fixture filing, and title to
 the solar System — with every legal quotation verified verbatim against a pinned primary source.

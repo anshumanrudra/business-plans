@@ -621,6 +621,86 @@ CITATIONS = [
         "source": "irs-25d-residential-clean-energy.txt",
         "quote": "Used (previously owned) clean energy property is not eligible",
     },
+    # --- E13 / E14: Claimant's own documents, added 2026-09-23 -------------------
+    # Sub-spans are chosen to start mid-sentence where the source capitalises a
+    # sentence-initial word that the deliverables quote in lower case. The matcher is
+    # case-sensitive, so "utility has given you..." matches both "The utility has given
+    # you..." (source) and "the utility has given you..." (pleading).
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "E14 - SAVKAT relays permission to operate, 2023-05-12",
+        "source": "savkat-pto-2023-05-12.txt",
+        "quote": "utility has given you permission to operate your system",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "E14 - SunPower confirms energization, 2023-05-15",
+        "source": "sunpower-system-on-2023-05-15.txt",
+        "quote": "YOUR SYSTEM IS ON!",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "E14 - SunPower billing rule, anchors first payment to 2023-06-01 (D1)",
+        "source": "sunpower-system-on-2023-05-15.txt",
+        "quote": "payments will be due on the first day of the month beginning the month after your system is interconnected",
+    },
+    {
+        "doc": "02-NOTICE-OF-CANCELLATION.md",
+        "note": "E14 - same billing rule, quoted in the cancellation notice",
+        "source": "sunpower-system-on-2023-05-15.txt",
+        "quote": "payments will be due on the first day of the month beginning the month after your system is interconnected",
+    },
+    # NOT VERIFIABLE BY THIS HARNESS — page 9 of the IC packet is a scanned raster page.
+    #
+    # Page 9 of "ANSHUMAN RUDRA IC PACKET LEASE.pdf" yields 119 characters of text against
+    # ~1,355 on page 8 and ~2,044 on page 10: it is an image, not text. No OCR tool is
+    # available in this environment. Three certifications live only on that page and are
+    # therefore quoted in the deliverables from a RENDERED IMAGE, not from a pinned text
+    # source, and cannot be added here:
+    #
+    #   - "Will a filing be recorded in the land records of the customer's municipality
+    #      pursuant to the contract for this system?" -> Yes        (04 P28, Count 3; 05 R7)
+    #   - "Must the customer continue to make payments in the event of an extended system
+    #      shutdown?" -> No                                          (04 Count 4)
+    #   - "Does the system installation contract conform to the requirements of the
+    #      Connecticut Home Improvement Contractor Law?" -> Yes      (08 decision gate 3)
+    #
+    # Also image-only on that page: the $.314/kWh starting utility rate, the 4% savings
+    # escalator, contract/warranty transferability, and the Key Responsibilities Checklist.
+    #
+    # See the "Harness-unverifiable evidence" register in sources/SOURCES.md and the
+    # pre-filing item in 07-FILING-LOGISTICS.md section 9. Do not add these as citations
+    # unless an OCR pass or a certified copy from Eversource makes the text layer real.
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "E13 - PURA misrepresentation penalty (page 10, text layer present)",
+        "source": "pura-ic-packet.txt",
+        "quote": "may be grounds for enforcement action by the",
+    },
+    {
+        "doc": "04-JAMS-DEMAND.md",
+        "note": "E13 - installer's year-one production estimate, 5516 kWh (Count 5, D4)",
+        "source": "pura-ic-packet.txt",
+        "quote": "Estimated Year One Production (kWh): 5516",
+    },
+    {
+        "doc": "08-TIMELINE-AND-GATES.md",
+        "note": "E13 - Home Improvement Contractor Law, footnote on p.10 (the question itself is image-only on p.9)",
+        "source": "pura-ic-packet.txt",
+        "quote": "rights and protections under the Connecticut Home Improvement Contractor Law",
+    },
+    {
+        "doc": "05-DOCUMENT-REQUESTS.md",
+        "note": "E13 - net savings line item sought in R21",
+        "source": "pura-ic-packet.txt",
+        "quote": "Estimated Year One Customer Net Savings",
+    },
+    {
+        "doc": "01-EVIDENCE-CHECKLIST.md",
+        "note": "Lease cover page - year 1 production estimate, 5,821 kWh (E6 comparison)",
+        "source": "lease.txt",
+        "quote": "Estimated year 1 production",
+    },
 ]
 
 

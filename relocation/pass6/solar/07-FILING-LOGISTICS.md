@@ -147,13 +147,30 @@ own obligations under the Lease. See the identical instruction and its citations
 Do not file the Demand until each of the following spec §14 research items is resolved or the placeholder is
 consciously accepted as a filing-time risk:
 
-- [ ] **Item 1 / 1a / 1b** — confirm the interconnection date (E7) in writing; the Lease Term Start Date and
-      every downstream clock (§11(a)(i) option, §11(b) recapture, payment-year boundaries in `06`) depend on it.
-- [ ] **Item 2 — BLOCKER, not a checkbox.** Confirm the full payment ledger (E5) and reconcile it against the
-      41-vs-42 payment range in `06-DAMAGES-SCHEDULE.md` D1. Lease § 2 keys the payment years to the April 2023
-      interconnection, which gives **42** payments and ≈$3,836.88; the May 2023 energization gives **41** and
-      ≈$3,740.98. `04` ¶ 25, `04`'s prayer item 3 and `02` § 3 all state the range. Do not replace the range with a
-      single figure anywhere until the ledger says which it is.
+- [x] **Item 1 / 1a / 1b — SUBSTANTIALLY CLEARED 2026-09-23.** The interconnection date is now documented: permission
+      to operate on or before **2023-05-12** and energization **2023-05-12 to 2023-05-15** (E14). **The April 2023
+      date is withdrawn**; every downstream clock has been moved to May in `06` and `08`. **Residual item, not a
+      blocker:** the exact Eversource approval date is still outstanding — send the E7 request, but do not hold the
+      filing for it, because `06` D1 no longer depends on it.
+- [ ] **Item 2 — BLOCKER, not a checkbox.** Confirm the full payment ledger (E5) and reconcile it against
+      `06-DAMAGES-SCHEDULE.md` D1. **The 41-vs-42 date dispute is resolved** — SunPower's own written billing rule
+      (E14: "your payments will be due on the first day of the month beginning the month after your system is
+      interconnected") puts the first payment at **1 June 2023**. Two things still have to happen before filing:
+      1. **Fill the count and total on the filing day.** From a 1 June 2023 anchor: **40 / $3,645.08** through the
+         1 Sep 2026 payment, **41 / $3,740.98** on or after 1 Oct 2026, **42 / $3,836.88** on or after 1 Nov 2026.
+         The figures appear as `[COUNT]` / `[TOTAL]` placeholders in **four** places — `04` ¶ 25, `04` Count 2 item 4,
+         `04` prayer item 3, and `02` § 3 — and all four must be filled with the same pair and their drafting notes
+         deleted.
+      2. **Confirm the date of the first debit.** E14 says the first statement was "being processed" with delivery in
+         30–60 days, which would post-date a 1 June 2023 due date. If the first ACH actually ran 1 July 2023, every
+         count drops by one and every total by $95.90. The ledger must state it.
+- [ ] **Item 2a — reconcile the property address before serving anything.** Added 2026-09-23. E13 shows the utility's
+      and state program's record address is **498 Plainville Ave, Farmington, CT 06032** (billing account 51029100187,
+      meter 867382482), while the Lease, `02` and `04` use **498 Plainville Ave, Unionville, CT 06085**. Same property;
+      Unionville is a village in the Town of Farmington. **Keep the Lease's form in `02` and `04`** — `02` § 4 makes
+      the System available at a stated address and `04` pleads the Property by its Lease description — and use the
+      Farmington/06032 form plus the account and meter numbers for anything sent to **Eversource**. See the address
+      note at the end of `01-EVIDENCE-CHECKLIST.md`.
 - [ ] **Item 12 — compute the CUTPA boundary on the filing day.** § 42-110g(f) is occurrence-based and measured
       from the actual filing date. `04` Count 6 pleads acts on or after **2023-09-21**, which is three years before
       2026-09-22. On the day of filing, recompute "filing date minus three years" and confirm that every act pleaded
@@ -171,6 +188,24 @@ consciously accepted as a filing-time risk:
 - [ ] **Item 10** — confirm the land-records/UCC filing status (E2), before representing its scope in the Demand
       or in any statutory-copy correspondence.
 - [ ] **Item 11** — confirm the refinance file status (E3), before asserting D2 with real figures.
+- [ ] **Item 16 — close the page-9 verification gap in E13. BLOCKER for Count 3's strongest fact.** Added
+      2026-09-23. Page 9 of the interconnection packet is a **scanned image with no text layer**, and it is the only
+      place the three most consequential certifications appear — the land-records answer that `04` ¶ 28 and Count 3
+      now rely on, the extended-shutdown answer, and the Home Improvement Contractor Law answer. Every other
+      quotation in this document set is machine-matched against a pinned source by `sources/verify_citations.py`;
+      these three are not, and cannot be until the page has a text layer. Two fixes, either of which suffices, both
+      of which are better done: **(a)** obtain Eversource's or PURA's certified copy of the Third Party Ownership
+      Customer Disclosure (already folded into the E7 request and `05` R21), and **(b)** run an OCR pass over page 9,
+      add it as a pinned source, and enable the three pre-written citation entries commented in
+      `verify_citations.py`. Do not plead ¶ 28's certification as a quotation at a hearing on the strength of an
+      uncertified scan alone. Full detail in `sources/SOURCES.md`.
+- [ ] **Item 15 — resolve the Home Improvement Act gate, or consciously leave it unpleaded.** Added 2026-09-23. E13
+      carries SAVKAT's certification that the installation contract "conform[s] to the requirements of the
+      Connecticut Home Improvement Contractor Law." Using that certification as an *admission* supporting Count 1's
+      § 42-134a(a) elements needs no research and is already done. Pleading an HIA theory does — see decision gate 3
+      in `08-TIMELINE-AND-GATES.md` for the three research questions and the two reasons it may be a dead end
+      (the 2023-02-23 limitations problem, and the tension with the § 42-134a(a)(5) real-property exclusion argument).
+      **The default is to file without an HIA theory.** This item exists so that is a decision and not an oversight.
 
 Until all of these are cleared, treat every bracketed `[DATE]` / `[AMOUNT]` / `[ADDRESS]` placeholder in this
 document set as unresolved and do not represent any of them as final to JAMS, to SunPower, or to the arbitrator.

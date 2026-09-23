@@ -135,13 +135,21 @@ Nothing in Section 1 depends on that contention. If cancellation is available, t
 ## 3. What SunPower must now do
 
 Upon this cancellation, Conn. Gen. Stat. § 42-138(a) requires that "the seller shall tender to the buyer any
-payments made by the buyer" under the Lease. I have made approximately **41 to 42 monthly payments** to date,
-totaling approximately **$3,740.98 to $3,836.88**, subject to the payment ledger (evidence item E5). The range
-reflects which date starts the first payment year: 41 payments (≈$3,740.98) if payment years run from the May
-2023 energization, and 42 payments (≈$3,836.88) if they run from the April 2023 interconnection approval, which
-is the date Lease § 2 uses to define the Lease Term Start Date. The exact figure will be stated in
-`06-DAMAGES-SCHEDULE.md` once that ledger is obtained, and this notice's estimate is superseded by that
-schedule. I demand tender of the full amount actually paid.
+payments made by the buyer" under the Lease. I have made approximately **`[COUNT]` monthly payments** to date,
+totaling approximately **$`[TOTAL]`**, subject to the payment ledger (evidence item E5). My first Monthly Payment
+fell due on 1 June 2023, consistent with SunPower's own written statement to me of 15 May 2023 that "your payments
+will be due on the first day of the month beginning the month after your system is interconnected," the System
+having been interconnected in May 2023. The exact figure will be stated in `06-DAMAGES-SCHEDULE.md` once that ledger
+is obtained, and this notice's estimate is superseded by that schedule. I demand tender of the full amount actually
+paid.
+
+> **Drafting note — not part of the served notice. Fill `[COUNT]` and `[TOTAL]` on the day this notice is served,
+> and delete this block.** The count runs from a 1 June 2023 first payment and therefore changes every month: **40
+> payments / $3,645.08** through the 1 Sep 2026 payment, **41 / $3,740.98** on or after 1 Oct 2026, **42 /
+> $3,836.88** on or after 1 Nov 2026. Take the figure from `06-DAMAGES-SCHEDULE.md` D1, which carries the table and
+> the one-payment downside if E5 shows the first debit ran in July rather than June 2023. This notice previously
+> stated a "41 to 42 payments / $3,740.98 to $3,836.88" range reflecting an April-vs-May interconnection dispute;
+> **that dispute is resolved and the range is withdrawn** — do not reinstate it.
 
 Conn. Gen. Stat. § 42-139(c) provides that, following a timely cancellation, "the seller is entitled to no
 compensation" for any services rendered prior to cancellation. I have no obligation to pay for the System's

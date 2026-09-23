@@ -5,6 +5,34 @@
 > **Not legal advice.** This is document analysis plus primary statutory text. Every case-law question below is
 > marked as needing research. The central theory (Count 1–2) is an argument of first impression in Connecticut.
 
+> ## SUPERSEDED IN PART — 2026-09-23. Read this banner before relying on any date or payment figure below.
+>
+> This spec was written on 2026-09-21, when the interconnection date rested on Claimant's recollection. **It no
+> longer does.** Evidence items E13 and E14 (see `01-EVIDENCE-CHECKLIST.md`) document it. Where this spec and the
+> deliverables `00`–`10` disagree, **the deliverables govern** — they have been corrected and this spec has not.
+>
+> **Withdrawn: the April 2023 interconnection date, and everything computed from it.**
+>
+> | This spec says | Corrected position |
+> |---|---|
+> | § 2 date table: "**April 2023** — Eversource approves interconnection = LEASE TERM START DATE" (line ~48) | Permission to operate **on or before 2023-05-12**; energized **2023-05-12 to 2023-05-15** (E14). The Lease Term Start Date is bounded at on or before 12 May 2023; the exact Eversource approval date is still outstanding |
+> | § 2 payment table: payment years from **May 2023**, **41** payments, **≈$3,740.98** (lines ~58–62) | First payment fell due **1 June 2023** on SunPower's own written billing rule (E14). **40 payments / $3,645.08** as at September 2026; the count is a function of the filing date — see `06-DAMAGES-SCHEDULE.md` D1 |
+> | Installation "ran ~2023-07-18 to 2023-07-23 — all before interconnection" (line ~240) | **Wrong, and wrong in a way that matters.** 7/18–7/23/2023 are the *Lease's stated* approximate dates, not actual ones. The System was interconnected and producing by 15 May 2023, two months *before* that window. Actual installation was on or about February–March 2023 — see `04` ¶ 18, which already pleads it correctly |
+> | "Guarantee Period 1: ~May 2023 – May 2025" (line ~337) | Unchanged — the May 2023 start is now documented rather than recollected |
+> | § 11(a)(i) purchase option opens "**April 2028**" (lines ~396, ~409) | **~May 2028.** The § 11(a)(i) and § 11(b) clocks now fall in the same week rather than a month apart — see `08-TIMELINE-AND-GATES.md` |
+> | Evidence item 7: "Claimant reports **April 2023**... **get it in writing**" (line ~559) | Substantially satisfied. See E7 (partially satisfied), E13 and E14 |
+> | "Estimated two-year production is ~11,642 kWh (2 × 5,821)" (line ~338) | Still true of the Lease's cover page, but the installer certified **5,516 kWh/yr** to PURA on 2023-02-23 — implying **11,032 kWh** and a cushion of only **567 kWh** over the 10,465 kWh guarantee, not 1,177 kWh |
+> | "They accepted **41 payments** over three years" (line ~493) | Every payment since 1 June 2023 — forty as at September 2026 |
+>
+> **Not in this spec at all**, and material: SAVKAT's 2023-02-23 certification to PURA that **a filing would be
+> recorded in the land records of Claimant's municipality** (strengthens Count 3 — the durable count), that the
+> customer need not keep paying during an extended shutdown (Count 4), and that the installation contract conforms
+> to the Connecticut Home Improvement Contractor Law (an open decision gate, not a pleaded theory). See E13 and
+> `00-CASE-STRATEGY.md`.
+>
+> The theory of the case, the count structure, the statute-of-limitations analysis and the risk register in this
+> spec are **unaffected** and remain the reference for all of them.
+
 ---
 
 ## 1. Objective

@@ -65,11 +65,12 @@ between SunPower and the co-owner's signature, and SunPower controlled that dili
 
 ### Answer 2 — waiver and estoppel
 
-Claimant has made 41 Monthly Payments over roughly three years with the System installed and in place. Lease
+Claimant has made every Monthly Payment since 1 June 2023 — forty as at September 2026, and one more each month
+thereafter (see `06-DAMAGES-SCHEDULE.md` D1) — over roughly three years with the System installed and in place. Lease
 §20 (Waiver) provides that mere delay in enforcing a provision is not, by itself, a waiver. But this is not mere
 delay. If SunPower had actual or constructive knowledge of the co-owner's non-signature — through its own
 §8(a)(i) diligence, through the fixture filing process, or otherwise — and nonetheless accepted full performance
-(41 payments, energization, ongoing servicing) without ever invoking §1(c)/§5(a)(xii), that combination of
+(every payment when due, energization, ongoing servicing) without ever invoking §1(c)/§5(a)(xii), that combination of
 knowledge plus full performance is a materially stronger estoppel case than the bare delay §20 addresses. §20
 answers "we were slow to enforce"; it does not answer "we knew and took the benefit of the bargain anyway."
 
